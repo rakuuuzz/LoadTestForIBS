@@ -1,0 +1,11 @@
+[t32]
+FileName1=t32.json
+URL1=https://www.advantageonlineshopping.com/order/api/v1/carts/838507395
+Total=1
+RequestHeaderFile=t32_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t32_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_32.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

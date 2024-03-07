@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>AdvantageOnlineShoppingLoadTest</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="AdvantageOnlineShoppingLoadTest.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="AdvantageOnlineShoppingLoadTest.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="lib.h" Filter="2" />
+    <FileEntry Name="combined_AdvantageOnlineShoppingLoadTest.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="91653721440.idx" Filter="1" />
+    <FileEntry Name="9165372144_0G4.307.idx" Filter="1" />
+    <FileEntry Name="9165372144_19y.681.idx" Filter="1" />
+    <FileEntry Name="9165372144_7lN.881.idx" Filter="1" />
+    <FileEntry Name="9165372144_7ty.191.idx" Filter="1" />
+    <FileEntry Name="9165372144_9bp.75.idx" Filter="1" />
+    <FileEntry Name="9165372144_9Jl.961.idx" Filter="1" />
+    <FileEntry Name="9165372144_a08.61.idx" Filter="1" />
+    <FileEntry Name="9165372144_A3w.813.idx" Filter="1" />
+    <FileEntry Name="9165372144_b6u.469.idx" Filter="1" />
+    <FileEntry Name="9165372144_D5g.373.idx" Filter="1" />
+    <FileEntry Name="9165372144_dcV.77.idx" Filter="1" />
+    <FileEntry Name="9165372144_Eaj.209.idx" Filter="1" />
+    <FileEntry Name="9165372144_FAC.445.idx" Filter="1" />
+    <FileEntry Name="9165372144_gs8.795.idx" Filter="1" />
+    <FileEntry Name="9165372144_hSx.725.idx" Filter="1" />
+    <FileEntry Name="9165372144_hYA.343.idx" Filter="1" />
+    <FileEntry Name="9165372144_I0M.843.idx" Filter="1" />
+    <FileEntry Name="9165372144_i16.579.idx" Filter="1" />
+    <FileEntry Name="9165372144_JDQ.71.idx" Filter="1" />
+    <FileEntry Name="9165372144_JDy.241.idx" Filter="1" />
+    <FileEntry Name="9165372144_lQS.799.idx" Filter="1" />
+    <FileEntry Name="9165372144_P3g.239.idx" Filter="1" />
+    <FileEntry Name="9165372144_PQJ.379.idx" Filter="1" />
+    <FileEntry Name="9165372144_Prv.279.idx" Filter="1" />
+    <FileEntry Name="9165372144_Rat.73.idx" Filter="1" />
+    <FileEntry Name="9165372144_Uci.667.idx" Filter="1" />
+    <FileEntry Name="9165372144_uP8.685.idx" Filter="1" />
+    <FileEntry Name="9165372144_V6J.879.idx" Filter="1" />
+    <FileEntry Name="9165372144_VRC.247.idx" Filter="1" />
+    <FileEntry Name="9165372144_vyC.201.idx" Filter="1" />
+    <FileEntry Name="9165372144_wUw.355.idx" Filter="1" />
+    <FileEntry Name="9165372144_xi2.183.idx" Filter="1" />
+    <FileEntry Name="AdvantageOnlineShoppingLoadTest.c.pickle" Filter="1" />
+    <FileEntry Name="AdvantageOnlineShoppingLoadTest.ci" Filter="1" />
+    <FileEntry Name="AdvantageOnlineShoppingLoadTest.prm.bak" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam(1).dat" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="NewParam_1.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

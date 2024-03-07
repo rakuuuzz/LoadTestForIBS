@@ -1,0 +1,18 @@
+POST /accountservice/ws/AddSafePayMethodRequest HTTP/1.1
+Host: www.advantageonlineshopping.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: application/xml, text/xml, */*; q=0.01
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/xml; charset=UTF-8
+SOAPAction: com.advantage.online.store.accountserviceAddSafePayMethodRequest
+X-Requested-With: XMLHttpRequest
+Content-Length: 516
+Origin: https://www.advantageonlineshopping.com
+DNT: 1
+Connection: keep-alive
+Referer: https://www.advantageonlineshopping.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
