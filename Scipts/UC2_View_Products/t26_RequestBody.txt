@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"123 Main St","addressLine2":"","city":"Los Angeles","country":"u"
+"s","postalCode":90001,"state":"California"},"secustomerName":"John Smith","secustomerPhone":12"
+"3456789,"senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"9002565DBAD80C"
+"E261001D190BF106C9"}"

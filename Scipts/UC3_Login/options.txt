@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Andrey.Home-PC\LoadTestForIBS\Scipts\UC3_Login
+-ID:\Program Files\LoadRunner\include
+-ec:\users\andrey.home-pc\loadtestforibs\scipts\uc3_login\\logfile.log
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc3_login\\combined_UC3_Login.c
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc3_login\\pre_cci.c

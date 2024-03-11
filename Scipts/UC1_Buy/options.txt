@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Andrey.Home-PC\LoadTestForIBS\Scipts\AdvantageOnlineShoppingLoadTest
+-ID:\Program Files\LoadRunner\include
+-ec:\users\andrey.home-pc\loadtestforibs\scipts\advantageonlineshoppingloadtest\\logfile.log
+c:\users\andrey.home-pc\loadtestforibs\scipts\advantageonlineshoppingloadtest\\combined_AdvantageOnlineShoppingLoadTest.c
+c:\users\andrey.home-pc\loadtestforibs\scipts\advantageonlineshoppingloadtest\\pre_cci.c

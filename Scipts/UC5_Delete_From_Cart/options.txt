@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Andrey.Home-PC\LoadTestForIBS\Scipts\UC5_Delete_From_Cart
+-ID:\Program Files\LoadRunner\include
+-ec:\users\andrey.home-pc\loadtestforibs\scipts\uc5_delete_from_cart\\logfile.log
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc5_delete_from_cart\\combined_UC5_Delete_From_Cart.c
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc5_delete_from_cart\\pre_cci.c

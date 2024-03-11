@@ -1,0 +1,17 @@
+[t19]
+FileName1=t19.htm
+URL1=https://www.advantageonlineshopping.com/app/views/product-page.html
+Total=4
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t19_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_19.xml
+FileName2=t19_review_right.png
+URL2=https://www.advantageonlineshopping.com/css/images/review_right.png
+FileName3=t19_reviewUser.png
+URL3=https://www.advantageonlineshopping.com/css/images/reviewUser.png
+FileName4=t19_review_Left_disabled.png
+URL4=https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png
+[ProtocolInfo]
+ProtocolId=QTWeb

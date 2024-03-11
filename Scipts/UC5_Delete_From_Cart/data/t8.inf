@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8.htm
+URL1=https://www.advantageonlineshopping.com/app/user/views/register-page.html
+Total=1
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_8.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

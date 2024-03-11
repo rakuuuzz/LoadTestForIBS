@@ -1,0 +1,17 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2024/03/04 22:19:32
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2024/03/05 10:54:54
+StartRecordingIsDst_2=0
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+[Security]
+UsingPersistForAuthentication=1
+UserName_1_1=usrnm
+Password_1_1=Pswd123
+Realm_1_1=www.advantageonlineshopping.com:443
+EventId_1_1=1517
+UserName_2_1=aosusr
+Password_2_1=Apswd1
+Realm_2_1=www.advantageonlineshopping.com:443
+EventId_2_1=2437

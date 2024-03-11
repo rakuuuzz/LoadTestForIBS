@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Andrey.Home-PC\LoadTestForIBS\Scipts\UC4_Registration
+-ID:\Program Files\LoadRunner\include
+-ec:\users\andrey.home-pc\loadtestforibs\scipts\uc4_registration\\logfile.log
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc4_registration\\combined_UC4_Registration.c
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc4_registration\\pre_cci.c

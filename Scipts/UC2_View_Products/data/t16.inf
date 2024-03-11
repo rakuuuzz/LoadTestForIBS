@@ -1,0 +1,15 @@
+[t16]
+SnapshotXmlFile=snapshot_16.xml
+FileName1=t16.mp4.html
+URL1=https://www.advantageonlineshopping.com/css/videos/13543361_299823923688824_1410005144_n.mp4
+Total=3
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t16_ResponseHeader.txt
+ContentType=video/mp4
+FileName2=t16_fetchImage.jpg
+URL2=https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3101
+FileName3=t16_fetchImage.jpg
+URL3=https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3103
+[ProtocolInfo]
+ProtocolId=QTWeb
