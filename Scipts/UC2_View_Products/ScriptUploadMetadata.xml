@@ -97,12 +97,14 @@
     <FileEntry Name="t9.xml" Filter="2" />
     <FileEntry Name="actions.c" Filter="2" />
     <FileEntry Name="combined_AdvantageOnlineShoppingLoadTest.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="1.ico" Filter="1" />
     <FileEntry Name="10.ico" Filter="1" />
     <FileEntry Name="11.ico" Filter="1" />
     <FileEntry Name="12.ico" Filter="1" />
     <FileEntry Name="13.ico" Filter="1" />
     <FileEntry Name="2.ico" Filter="1" />
+    <FileEntry Name="264447641440.idx" Filter="1" />
     <FileEntry Name="3.ico" Filter="1" />
     <FileEntry Name="4.ico" Filter="1" />
     <FileEntry Name="5.ico" Filter="1" />
@@ -111,6 +113,8 @@
     <FileEntry Name="8.ico" Filter="1" />
     <FileEntry Name="9.ico" Filter="1" />
     <FileEntry Name="actions.json" Filter="1" />
+    <FileEntry Name="AdvantageOnlineShoppingLoadTest.c.pickle" Filter="1" />
+    <FileEntry Name="AdvantageOnlineShoppingLoadTest.ci" Filter="1" />
     <FileEntry Name="AdvantageOnlineShoppingLoadTest.prm" Filter="1" />
     <FileEntry Name="AdvantageOnlineShoppingLoadTest.prm.bak" Filter="1" />
     <FileEntry Name="AdvantageOnlineShoppingLoadTest.usr" Filter="1" />

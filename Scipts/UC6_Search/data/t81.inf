@@ -1,0 +1,13 @@
+[t81]
+SnapshotXmlFile=snapshot_81.xml
+FileName1=t81.mp4.html
+URL1=https://www.advantageonlineshopping.com/css/videos/13543361_299823923688824_1410005144_n.mp4
+Total=2
+RequestHeaderFile=t81_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t81_ResponseHeader.txt
+ContentType=video/mp4
+FileName2=t81_fetchImage.jpg
+URL2=https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=2201
+[ProtocolInfo]
+ProtocolId=QTWeb

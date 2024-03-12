@@ -1,0 +1,13 @@
+[t80]
+FileName1=t80_all_data.json
+URL1=https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_80.xml
+RequestHeaderFile=t80_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t80_ResponseHeader.txt
+FileName2=t80_fetchImage.jpg
+URL2=https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1245
+[ProtocolInfo]
+ProtocolId=QTWeb

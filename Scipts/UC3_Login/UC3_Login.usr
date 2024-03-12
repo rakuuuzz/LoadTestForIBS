@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order=
+Order="UC3_Login"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -60,3 +60,5 @@ LastReplayedRunName=result1
 ActiveRunName=result1
 [ManuallyExtraFiles]
 lib.h=
+[Transactions]
+UC3_Login=

@@ -37,6 +37,7 @@
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC4_Registration.c.pickle" Filter="1" />
     <FileEntry Name="UC4_Registration.ci" Filter="1" />
+    <FileEntry Name="UC4_Registration.prm.bak" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>

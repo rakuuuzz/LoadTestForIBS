@@ -2887,7 +2887,6 @@ ChooseProduct()
 {
 	lr_save_string(lr_paramarr_random("ProductId"),"ProductIdrnd");
 	
-	
 	lr_start_transaction("ChooseProduct");
 
 	web_reg_save_param_ex(
@@ -3274,17 +3273,31 @@ vuser_init()
 # 1 "Action.c" 1
 Action()
 {
+	
+	lr_start_transaction("UC5_Delete_From_Cart");
+
 	HomePage();
+	
 	
 	LogIn();
 	
- 
- 
- 
- 
- 
- 
- 
+	lr_think_time(5);
+	
+	ChooseCategory();
+	
+	lr_think_time(5);
+	
+	ChooseProduct();
+	
+	lr_think_time(5);
+	
+	AddToCart();
+	
+	lr_think_time(5);
+	
+	ChechCart();
+	
+	lr_think_time(5);
 	
 	lr_start_transaction("CheckCart");
 
@@ -3299,8 +3312,6 @@ Action()
 					"SEARCH_FILTERS",
 					"LAST");
 	
-
-
 	
 	web_url("{UserID}_2", 
 		"URL=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}", 
@@ -3322,8 +3333,8 @@ Action()
 					"LAST");
 		
 	web_url("{UserID}_2", 
-		"URL=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}", 
-		"Resource=0", 
+		"URL=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}",  
+		"Resource=0", 															    
 		"RecContentType=application/json", 
 		"Referer=https://www.advantageonlineshopping.com/", 
 		"Snapshot=t53.inf", 
@@ -3341,6 +3352,8 @@ Action()
 	
 	lr_end_transaction("CheckCart", 2);
 	
+	
+	lr_think_time(5);
 	
 	
 	lr_start_transaction("DeleteFromCart");
@@ -3360,7 +3373,9 @@ Action()
 		"LAST");
 	
 	lr_end_transaction("DeleteFromCart", 2);
-
+	
+	
+	lr_end_transaction("UC5_Delete_From_Cart", 2);
 
 	return 0;
 }

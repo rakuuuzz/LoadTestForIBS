@@ -16,10 +16,16 @@ Action()
 	HomePage();
 	
 	LogIn();
+	
+	lr_think_time(5);
 
 	ChooseCategory();
+	
+	lr_think_time(5);
 
 	ChooseProduct();
+	
+	lr_think_time(5);
 	
 	lr_start_transaction("LogOut");
 

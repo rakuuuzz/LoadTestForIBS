@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="8">
-  <HTTPTask id="15" hostname="www.advantageonlineshopping.com" path="/app/user/views/register-page.html" url="https://www.advantageonlineshopping.com/app/user/views/register-page.html" ip="54.227.55.203" port="443" client_ip="192.168.1.36" client_port="7970" connectionId="2476" origin="Primary" encodingType="ANSI" startDateTime="2024-03-10T01:55:19.587+03:00" startTime="3226" endTime="3521" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="4294967295" waitTime="4294967295" receiveTime="0" sslNegotiateTime="-1" responseBodySize="1731">
+  <HTTPTask id="15" hostname="www.advantageonlineshopping.com" path="/app/user/views/register-page.html" url="https://www.advantageonlineshopping.com/app/user/views/register-page.html" ip="54.227.55.203" port="443" client_ip="192.168.1.36" client_port="38749" connectionId="2472" origin="Primary" encodingType="ANSI" startDateTime="2024-03-12T15:22:34.689+03:00" startTime="8320" endTime="8458" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="4294967295" waitTime="4294967295" receiveTime="1" sslNegotiateTime="-1" responseBodySize="1731">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name=":method" index="0">
@@ -153,7 +153,7 @@
         <HTTPHeaderEntity name="date" index="2">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>U2F0LCAwOSBNYXIgMjAyNCAyMjo1NToyMCBHTVQ=</ActualData>
+              <ActualData>VHVlLCAxMiBNYXIgMjAyNCAxMjoyMjozNSBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -201,7 +201,7 @@
         <HTTPHeaderEntity name="expires" index="8">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>U2F0LCAwOSBNYXIgMjAyNCAyMjo1NToyMCBHTVQ=</ActualData>
+              <ActualData>VHVlLCAxMiBNYXIgMjAyNCAxMjoyMjozNSBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -233,7 +233,7 @@
         <HTTPAllHeaders>
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>SFRUUC8yLjAgMjAwDQpTdGF0dXM6IDIwMA0Kc2VydmVyOiBuZ2lueC8xLjE4LjAgKFVidW50dSkNCmRhdGU6IFNhdCwgMDkgTWFyIDIwMjQgMjI6NTU6MjAgR01UDQpjb250ZW50LXR5cGU6IHRleHQvaHRtbA0KYWNjZXB0LXJhbmdlczogYnl0ZXMNCmV0YWc6IFcvIjk3NTEtMTcwNzkwMjc1MjAwMCINCmxhc3QtbW9kaWZpZWQ6IFdlZCwgMTQgRmViIDIwMjQgMDk6MjU6NTIgR01UDQpjYWNoZS1jb250cm9sOiBtYXgtYWdlPTANCmV4cGlyZXM6IFNhdCwgMDkgTWFyIDIwMjQgMjI6NTU6MjAgR01UDQp2YXJ5OiBhY2NlcHQtZW5jb2RpbmcNCmNvbnRlbnQtZW5jb2Rpbmc6IGd6aXANCnN0cmljdC10cmFuc3BvcnQtc2VjdXJpdHk6IG1heC1hZ2U9MzE1MzYwMDA7IGluY2x1ZGVTdWJEb21haW5zOyBwcmVsb2FkDQoNCg==</ActualData>
+              <ActualData>SFRUUC8yLjAgMjAwDQpTdGF0dXM6IDIwMA0Kc2VydmVyOiBuZ2lueC8xLjE4LjAgKFVidW50dSkNCmRhdGU6IFR1ZSwgMTIgTWFyIDIwMjQgMTI6MjI6MzUgR01UDQpjb250ZW50LXR5cGU6IHRleHQvaHRtbA0KYWNjZXB0LXJhbmdlczogYnl0ZXMNCmV0YWc6IFcvIjk3NTEtMTcwNzkwMjc1MjAwMCINCmxhc3QtbW9kaWZpZWQ6IFdlZCwgMTQgRmViIDIwMjQgMDk6MjU6NTIgR01UDQpjYWNoZS1jb250cm9sOiBtYXgtYWdlPTANCmV4cGlyZXM6IFR1ZSwgMTIgTWFyIDIwMjQgMTI6MjI6MzUgR01UDQp2YXJ5OiBhY2NlcHQtZW5jb2RpbmcNCmNvbnRlbnQtZW5jb2Rpbmc6IGd6aXANCnN0cmljdC10cmFuc3BvcnQtc2VjdXJpdHk6IG1heC1hZ2U9MzE1MzYwMDA7IGluY2x1ZGVTdWJEb21haW5zOyBwcmVsb2FkDQoNCg==</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>

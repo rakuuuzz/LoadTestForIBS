@@ -1,0 +1,11 @@
+[t67]
+FileName1=t67_categories.json
+URL1=https://www.advantageonlineshopping.com/catalog/api/v1/categories
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_67.xml
+RequestHeaderFile=t67_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t67_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

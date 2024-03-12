@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="DeleteFromCart__*delimiter*__CheckCart"
+Order="UC5_Delete_From_Cart__*delimiter*__CheckCart__*delimiter*__DeleteFromCart"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -61,5 +61,6 @@ ActiveRunName=result1
 [ManuallyExtraFiles]
 lib.h=
 [Transactions]
-DeleteFromCart=
+UC5_Delete_From_Cart=
 CheckCart=
+DeleteFromCart=

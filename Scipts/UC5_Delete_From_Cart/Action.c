@@ -1,16 +1,30 @@
 Action()
 {
+	
+	lr_start_transaction("UC5_Delete_From_Cart");
+
 	HomePage();
+	
 	
 	LogIn();
 	
-//	ChooseCategory();
-//	
-//	ChooseProduct();
-//	
-//	AddToCart();
-//	
-//	ChechCart();
+	lr_think_time(5);
+	
+	ChooseCategory();
+	
+	lr_think_time(5);
+	
+	ChooseProduct();
+	
+	lr_think_time(5);
+	
+	AddToCart();
+	
+	lr_think_time(5);
+	
+	ChechCart();
+	
+	lr_think_time(5);
 	
 	lr_start_transaction("CheckCart");
 
@@ -66,6 +80,8 @@ Action()
 	lr_end_transaction("CheckCart", LR_AUTO);
 	
 	
+	lr_think_time(5);
+	
 	
 	lr_start_transaction("DeleteFromCart");
 
@@ -84,7 +100,9 @@ Action()
 		LAST);
 	
 	lr_end_transaction("DeleteFromCart", LR_AUTO);
-
+	
+	
+	lr_end_transaction("UC5_Delete_From_Cart", LR_AUTO);
 
 	return 0;
 }

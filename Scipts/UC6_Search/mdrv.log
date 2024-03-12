@@ -1,0 +1,1559 @@
+Action.c(148):           {"attributeName" : "CUSTOMIZATION", "attributeValue" : "Gaming"},\n
+Action.c(148):           {"attributeName" : "PROCESSOR", "attributeValue" : "intel(R) Core(TM) i5-6300HQ"},\n
+Action.c(148):           {"attributeName" : "DISPLAY", "attributeValue" : "15.6-inch diagonal HD BrightView W
+Action.c(148):     LED-backlit Display (1366x768)"},\n
+Action.c(148):           {"attributeName" : "MEMORY", "attributeValue" : "16GB DDR3 - 2 DIMM"}\n
+Action.c(148):         ]}]
+Action.c(148): t=12241ms: Request done "https://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json"  	[MsgId: MMSG-26000]
+Action.c(148): web_url("popularProducts.json") was successful, 500 body bytes, 413 header bytes  	[MsgId: MMSG-26386]
+Action.c(157): web_url("home-page.html") started  	[MsgId: MMSG-26355]
+Action.c(157): The request to server https://www.advantageonlineshopping.com/app/views/home-page.html" is done with headers:
+Action.c(157):     :method = GET
+Action.c(157):     :scheme = https
+Action.c(157):     :path = /app/views/home-page.html
+Action.c(157):     :authority = www.advantageonlineshopping.com
+Action.c(157):     Referer = https://www.advantageonlineshopping.com/
+Action.c(157):     Sec-Fetch-Dest = empty
+Action.c(157):     Sec-Fetch-Mode = cors
+Action.c(157):     Sec-Fetch-Site = same-origin
+Action.c(157):     DNT = 1
+Action.c(157):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+Action.c(157):     0
+Action.c(157):     Accept-Encoding = gzip, deflate
+Action.c(157):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Action.c(157):     Accept = */*
+Action.c(157):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+Action.c(157): t=12399ms: 407-byte response headers for "https://www.advantageonlineshopping.com/app/views/home-page.html" (RelFrameId=1, Internal ID=48)
+Action.c(157):     HTTP/2.0 200\r\n
+Action.c(157):     Status: 200\r\n
+Action.c(157):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(157):     date: Tue, 12 Mar 2024 12:25:49 GMT\r\n
+Action.c(157):     content-type: text/html\r\n
+Action.c(157):     accept-ranges: bytes\r\n
+Action.c(157):     etag: W/"12499-1707902752000"\r\n
+Action.c(157):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+Action.c(157):     cache-control: max-age=0\r\n
+Action.c(157):     expires: Tue, 12 Mar 2024 12:25:49 GMT\r\n
+Action.c(157):     vary: accept-encoding\r\n
+Action.c(157):     content-encoding: gzip\r\n
+Action.c(157):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(157):     \r\n
+Action.c(157): t=12400ms: 2243-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/home-page.html" (RelFrameId=1, Internal ID=48)
+Action.c(157): t=12400ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/home-page.html" (RelFrameId=1, Internal ID=48)
+Action.c(157):     <scroll-to-top></scroll-to-top>\n
+Action.c(157):     <section>\n
+Action.c(157):     \n
+Action.c(157):         <!--  five pictures  -->\n
+Action.c(157):         <article id="our_products">\n
+Action.c(157):     \n
+Action.c(157):             <search mobile-search></search>\n
+Action.c(157):     \n
+Action.c(157):             <div class="container ">\n
+Action.c(157):     \n
+Action.c(157):                 <div class="rowSection">\n
+Action.c(157):                     <div id="speakersImg" aria-label="SpeakersCategory" ng-click="redirect('/c
+Action.c(157):     ategory/' + categories[3].categoryName + '/' + categories[3].categoryId)"\n
+Action.c(157):                          role="link" href="javascript:void(0)"\n
+Action.c(157):                          class="SpeakersImg categoryCell"\n
+Action.c(157):                          a-sec-back-img="{{categories[3].managedImageId}}" a-slow-page="{{ mai
+Action.c(157):     nCtrl.config.slowPage }}" >\n
+Action.c(157):                         <div class="shop_now_slider">\n
+Action.c(157):                             <span id="speakersTxt" aria-label="SpeakersCategoryTxt" class="sho
+Action.c(157):     p_now roboto-bold" role="link" href="javascript:void(0)">{{::categories[3].categoryName | 
+Action.c(157):     uppercase}}</span>\n
+Action.c(157):                             <label id="speakersLink" class="shop_nowSub roboto-regular" transl
+Action.c(157):     ate="Shop_Now"></label>\n
+Action.c(157):                         </div>\n
+Action.c(157):                     </div>\n
+Action.c(157):                     <div id="tabletsImg" aria-label="TabletsCategory" ng-click="redirect('/cat
+Action.c(157):     egory/' + categories[2].categoryName + '/' + categories[2].categoryId)"\n
+Action.c(157):                          role="link" href="javascript:void(0)"\n
+Action.c(157):                          a-sec-back-img="{{categories[2].managedImageId}}" class="categoryCell
+Action.c(157):     ">\n
+Action.c(157):                         <div class="shop_now_slider" aria-label="TabletsCategoryTxt">\n
+Action.c(157):                             <span id="tabletsTxt" aria-label="TabletsCategoryTxt" class="shop_
+Action.c(157):     now roboto-bold" role="link" href="javascript:void(0)">{{::categories[2].categoryName | up
+Action.c(157):     percase}}</span>\n
+Action.c(157):                             <label id="tabletsLink" class="shop_nowSub roboto-regular" transla
+Action.c(157):     te="Shop_Now"></label>\n
+Action.c(157):                         </div>\n
+Action.c(157):                     </div>\n
+Action.c(157):                     <div class="emptyCell">\n
+Action.c(157):                     </div>\n
+Action.c(157):                 </div>\n
+Action.c(157):     \n
+Action.c(157):     \n
+Action.c(157):                 <div class="rowSection">\n
+Action.c(157):                     <div id="laptopsImg" aria-label="LaptopsCategory" ng-click="redirect('/cat
+Action.c(157):     egory/' + categories[0].categoryName + '/' + categories[0].categoryId)" class="laptopImg c
+Action.c(157):     ategoryCell"\n
+Action.c(157):                          role="link" href="javascript:void(0)"\n
+Action.c(157):                          a-sec-back-img="{{categories[0].managedImageId}}">\n
+Action.c(157):                         <div class="shop_now_slider">\n
+Action.c(157):                             <span id="laptopsTxt" aria-label="LaptopsCategoryTxt" class="shop_
+Action.c(157):     now roboto-bold" role="link" href="javascript:void(0)">{{::categories[0].categoryName | up
+Action.c(157):     percase}}</span>\n
+Action.c(157):                             <label id="laptopsLink" class="shop_nowSub roboto-regular" transla
+Action.c(157):     te="Shop_Now"></label>\n
+Action.c(157):                         </div>\n
+Action.c(157):                     </div>\n
+Action.c(157):                     <div id="miceImg" aria-label="MiceCategory" ng-click="redirect('/category/
+Action.c(157):     ' + categories[4].categoryName + '/' + categories[4].categoryId)" class="miceImg categoryC
+Action.c(157):     ell"\n
+Action.c(157):                          role="link" href="javascript:void(0)"\n
+Action.c(157):                          a-sec-back-img="{{categories[4].managedImageId}}">\n
+Action.c(157):                         <div class="shop_now_slider">\n
+Action.c(157):                             <span id="miceTxt" aria-label="MiceCategoryTxt" class="shop_now ro
+Action.c(157):     boto-bold" role="link" href="javascript:void(0)">{{::categories[4].categoryName | uppercas
+Action.c(157):     e}}</span>\n
+Action.c(157):                             <label id="miceLink" class="shop_nowSub roboto-regular" translate=
+Action.c(157):     "Shop_Now"></label>\n
+Action.c(157):                         </div>\n
+Action.c(157):                     </div>\n
+Action.c(157):                     <div id="headphonesImg" aria-label="HeadphonesCategory" ng-click="redirect
+Action.c(157):     ('/category/' + categories[1].categoryName + '/' + categories[1].categoryId)" class="twoRo
+Action.c(157):     ws categoryCell"\n
+Action.c(157):                          role="link" href="javascript:void(0)"\n
+Action.c(157):                          a-sec-back-img="{{categories[1].managedImageId}}">\n
+Action.c(157):                         <div class="shop_now_slider">\n
+Action.c(157):                             <span id="headphonesTxt" aria-label="HeadphonesCategoryTxt" class=
+Action.c(157):     "shop_now roboto-bold" role="link" href="javascript:void(0)">{{::categories[1].categoryNam
+Action.c(157):     e | uppercase}}</span>\n
+Action.c(157):                             <label id="headphonesLink" class="shop_nowSub roboto-regular" tran
+Action.c(157):     slate="Shop_Now"></label>\n
+Action.c(157):                         </div>\n
+Action.c(157):                     </div>\n
+Action.c(157):                 </div>\n
+Action.c(157):             </div>\n
+Action.c(157):         </article>\n
+Action.c(157):         <!-- end five pictures -->\n
+Action.c(157):     \n
+Action.c(157):     \n
+Action.c(157):         <!-- SPACIAL OFFER -->\n
+Action.c(157):         <article id="special_offer_items">\n
+Action.c(157):             <h3 class="roboto-regular center" translate="SPACIAL_OFFER"></h3>\n
+Action.c(157):             <div>\n
+Action.c(157):                 <div id="img-special-offer">\n
+Action.c(157):                     <figure>\n
+Action.c(157):                         <img src="css/images/Special-offer.jpg" alt="Special-offer">\n
+Action.c(157):                     </figure>\n
+Action.c(157):                 </div>\n
+Action.c(157):                 <div id="div-special-offer">\n
+Action.c(157):                     <div>\n
+Action.c(157):                         <span class="roboto-light"> {{specialOffer[0].promotionHeader}} </span
+Action.c(157):     >\n
+Action.c(157):     \n
+Action.c(157):                         <h1 class="roboto-thin"> {{specialOffer[0].product.productName}} </h1>
+Action.c(157):     \n
+Action.c(157):     \n
+Action.c(157):                         <p> {{specialOffer[0].promotionSubHeader}} </p>\n
+Action.c(157):                         <a href="#/product/{{specialOffer[0].product.id}}">\n
+Action.c(157):                             <button id="see_offer_btn" translate="SEE_OFFER" role="button"></b
+Action.c(157):     utton>\n
+Action.c(157):                         </a>\n
+Action.c(157):                     </div>\n
+Action.c(157):                 </div>\n
+Action.c(157):             </div>\n
+Action.c(157):         </article>\n
+Action.c(157):         <!-- end SPACIAL OFFER -->\n
+Action.c(157):     \n
+Action.c(157):     \n
+Action.c(157):         <!-- check directive -->\n
+Action.c(157):     \n
+Action.c(157):     \n
+Action.c(157):         <!-- slider -->\n
+Action.c(157):         <article id="slider_explore_now">\n
+Action.c(157):             <div class="slider">\n
+Action.c(157):                 <div class="slider-length transition">\n
+Action.c(157):                     <div ng-repeat="img in images" class="imgSection">\n
+Action.c(157):                         <div class="imgContainer">\n
+Action.c(157):                             <img data-ng-src="../../css/images/{{img.imageName}}"\n
+Action.c(157):                                  ng-click="redirect('/category/' + categories[img.categoryId].
+Action.c(157):     categoryId)"/>\n
+Action.c(157):                         </div>\n
+Action.c(157):                         <div class="container">\n
+Action.c(157):                             <h2 ng-bind-html='img.message | trustHtml' class="roboto-light"></
+Action.c(157):     h2>\n
+Action.c(157):                             <button name="explore_now_btn" ng-click="redirect('/category/' + c
+Action.c(157):     ategories[img.categoryId].categoryName + '/' + categories[img.categoryId].categoryId)"\n
+Action.c(157):                                     translate="EXPLORE_NOW" role="button"></button>\n
+Action.c(157):                         </div>\n
+Action.c(157):                     </div>\n
+Action.c(157):                     <div class="imgSection">\n
+Action.c(157):                         <div class="imgContainer">\n
+Action.c(157):                             <img data-ng-src="../../css/images/{{images[0].imageName}}"\n
+Action.c(157):                                  ng-click="redirect('/category/' + categories[img.categoryId].
+Action.c(157):     categoryName + '/' + categories[0].categoryId)"/>\n
+Action.c(157):                         </div>\n
+Action.c(157):                         <div class="container">\n
+Action.c(157):                             <h2 class="roboto-light">{{images[0].message}}</h2>\n
+Action.c(157):                             <button name="explore_now_btn" ng-click="redirect('/category/' + c
+Action.c(157):     ategories[img.categoryId].categoryName + '/' + categories[0].categoryId)"\n
+Action.c(157):                                     class="white" translate="EXPLORE_NOW" role="button"></butt
+Action.c(157):     on>\n
+Action.c(157):                         </div>\n
+Action.c(157):                     </div>\n
+Action.c(157):                 </div>\n
+Action.c(157):                 <div class="slider-steps">\n
+Action.c(157):                     <span href="javascript:void(0)" role="link"\n
+Action.c(157):                             ng-repeat="img in images" ng-class="{selected : ({{img.imageId ===
+Action.c(157):      0}})}"></span>\n
+Action.c(157):                 </div>\n
+Action.c(157):             </div>\n
+Action.c(157):         </article>\n
+Action.c(157):         <!-- end slider -->\n
+Action.c(157):     \n
+Action.c(157):     \n
+Action.c(157):         <!-- POPULAR ITEMS\n
+Action.c(157):         <popular-items-drtv popular-products="popularProducts"></popular-items-drtv>\n
+Action.c(157):         -->\n
+Action.c(157):     \n
+Action.c(157):         <article id="popular_items">\n
+Action.c(157):             <h3 class="roboto-regular center" translate="POPULAR_ITEMS"></h3>\n
+Action.c(157):     \n
+Action.c(157):             <div class="grid-table center">\n
+Action.c(157):                 <div name="popular_item_{{product.id}}" ng-repeat="product in popularProducts"
+Action.c(157):      ng-if="popularProducts.length > 0">\n
+Action.c(157):                     <figure>\n
+Action.c(157):                         <img name="popular_item_{{product.id}}_img" data-ng-src="{{product.ima
+Action.c(157):     geUrl}}" alt="Special-offer"\n
+Action.c(157):                             href="javascript:void(0)" role="link">\n
+Action.c(157):                     </figure>\n
+Action.c(157):                     <p name="popular_item_{{product.id}}_name" class="center productName robot
+Action.c(157):     o-medium">{{product.productName | uppercase}}</p>\n
+Action.c(157):                     <a href="#/product/{{product.id}}" role="link">\n
+Action.c(157):                         <label id="details_{{product.id}}" class="shop_nowSub viewDetail" tran
+Action.c(157):     slate="View_details"></label>\n
+Action.c(157):                     </a>\n
+Action.c(157):                 </div>\n
+Action.c(157):             </div>\n
+Action.c(157):         </article>\n
+Action.c(157):         <!-- end POPULAR ITEMS -->\n
+Action.c(157):     \n
+Action.c(157):     \n
+Action.c(157):         <article id="contact_us">\n
+Action.c(157):     \n
+Action.c(157):             <div data-ng-hide="supportSuccess">\n
+Action.c(157):     \n
+Action.c(157):                 <div id="supportCover">\n
+Action.c(157):     \n
+Action.c(157):                     <div>\n
+Action.c(157):     \n
+Action.c(157):                         <div name="chat_with_us" class="chat" data-ng-click="openChat()">\n
+Action.c(157):     \n
+Action.c(157):                             <div>\n
+Action.c(157):                                 <img id="chatLogo" src="../../css/images/chat_logo.png" alt="c
+Action.c(157):     hat logo" />\n
+Action.c(157):                                 <label class="roboto-bold" translate="CHAT_WITH_US"></label>\n
+Action.c(157):                             </div>\n
+Action.c(157):     \n
+Action.c(157):                         </div>\n
+Action.c(157):     \n
+Action.c(157):                     </div>\n
+Action.c(157):                     <div>\n
+Action.c(157):     \n
+Action.c(157):                         <h1 class="roboto-bold contact_us" translate="CONTACT_US"></h1>\n
+Action.c(157):     \n
+Action.c(157):                         <sec-form>\n
+Action.c(157):     \n
+Action.c(157):                             <div class="splitter">\n
+Action.c(157):                                 <div class="inputMargin">\n
+Action.c(157):                                     <sec-view a-hint="Category"\n
+Action.c(157):                                               a-hint-description="ContactUs"\n
+Action.c(157):                                               a-type="select"\n
+Action.c(157):                                               a-show="categoryName"\n
+Action.c(157):                                               sec-select-options="categoriesForContact"\n
+Action.c(157):                                               sec-model="categoriesForContact.category"\n
+Action.c(157):                                               sec-select-change="categoryChange(value)">\n
+Action.c(157):                                     </sec-view>\n
+Action.c(157):                                     <sec-view a-hint="Product"\n
+Action.c(157):                                               a-hint-description="ContactUs"\n
+Action.c(157):                                               a-type="select"\n
+Action.c(157):                                               a-show="productName"\n
+Action.c(157):                                               sec-select-options="productsForContact"\n
+Action.c(157):                                               sec-model="productsForContact.product"\n
+Action.c(157):                                               sec-select-change="productChange(value)">\n
+Action.c(157):                                     </sec-view>\n
+Action.c(157):                                     <sec-view a-hint="{{'Email' | translate}}"\n
+Action.c(157):                                               a-hint-description="ContactUs"\n
+Action.c(157):                                               sec-model="supportModel.email"\n
+Action.c(157):                                               sec-require="mainCtrl.getRequire('Email')">\n
+Action.c(157):                                     </sec-view>\n
+Action.c(157):                                 </div>\n
+Action.c(157):                             </div>\n
+Action.c(157):                             <div class="splitter" >\n
+Action.c(157):                                 <div class="smollPadding  margin-right">\n
+Action.c(157):                                     <label class="Subject"><span class="star">*</span> {{'Subj
+Action.c(157):     ect' | translate }}</label>\n
+Action.c(157):     \n
+Action.c(157):                                     <sec-view class="textarea"\n
+Action.c(157):                                               a-hint="subjectTextarea"\n
+Action.c(157):                                               a-hint-description="ContactUs"\n
+Action.c(157):                                               a-type="textarea"\n
+Action.c(157):                                               a-star="false"\n
+Action.c(157):                                               sec-model="supportModel.subject"\n
+Action.c(157):                                               sec-require="mainCtrl.getRequire('Email')">\n
+Action.c(157):                                     </sec-view>\n
+Action.c(157):     \n
+Action.c(157):                                     <sec-sender a-value="{{'SEND' | translate}}" sec-send="sen
+Action.c(157):     dSupportEmail()"></sec-sender>\n
+Action.c(157):     \n
+Action.c(157):                                 </div>\n
+Action.c(157):                             </div>\n
+Action.c(157):     \n
+Action.c(157):                             <label class="{{registerAnswer.class}} invalid center"> {{register
+Action.c(157):     Answer.message}} </label>\n
+Action.c(157):     \n
+Action.c(157):                         </sec-form>\n
+Action.c(157):                     </div>\n
+Action.c(157):                 </div>\n
+Action.c(157):             </div>\n
+Action.c(157):     \n
+Action.c(157):             <div id="registerSuccessCover" data-ng-show="supportSuccess">\n
+Action.c(157):                 <div class="center">\n
+Action.c(157):                     <p class="roboto-regular successMessage">{{ registerAnswer.message }}</p>\n
+Action.c(157):                     <br/>\n
+Action.c(157):                     <a class="a-button" href="#/" ng-click="continueShopping()" > {{ 'CONTINUE
+Action.c(157):     _SHOPPING' | translate}} </a>\n
+Action.c(157):                 </div>\n
+Action.c(157):             </div>\n
+Action.c(157):         </article>\n
+Action.c(157):         <div data-ng-if="mainCtrl.config.slowPage">\n
+Action.c(157):     \n
+Action.c(157):             <script href="" type="text/javascript"></script>\n
+Action.c(157):             <script href="" type="text/javascript"></script>\n
+Action.c(157):             <script href="" type="text/javascript"></script>\n
+Action.c(157):     \n
+Action.c(157):             <img src="" alt="">\n
+Action.c(157):             <img src="" alt=
+Action.c(157): Found resource "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" in HTML "https://www.advantageonlineshopping.com/app/views/home-page.html"  	[MsgId: MMSG-26659]
+Action.c(157): The request to server https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" is done with headers:
+Action.c(157):     :method = GET
+Action.c(157):     :scheme = https
+Action.c(157):     :path = /app/views/css/images/Special-offer.jpg
+Action.c(157):     :authority = www.advantageonlineshopping.com
+Action.c(157):     Referer = https://www.advantageonlineshopping.com/app/views/home-page.html
+Action.c(157):     Sec-Fetch-Dest = empty
+Action.c(157):     Sec-Fetch-Mode = cors
+Action.c(157):     Sec-Fetch-Site = same-origin
+Action.c(157):     DNT = 1
+Action.c(157):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+Action.c(157):     0
+Action.c(157):     Accept-Encoding = gzip, deflate
+Action.c(157):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Action.c(157):     Accept = */*
+Action.c(157):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+Action.c(157): Found resource "https://www.advantageonlineshopping.com/css/images/chat_logo.png" in HTML "https://www.advantageonlineshopping.com/app/views/home-page.html"  	[MsgId: MMSG-26659]
+Action.c(157): The request to server https://www.advantageonlineshopping.com/css/images/chat_logo.png" is done with headers:
+Action.c(157):     :method = GET
+Action.c(157):     :scheme = https
+Action.c(157):     :path = /css/images/chat_logo.png
+Action.c(157):     :authority = www.advantageonlineshopping.com
+Action.c(157):     Referer = https://www.advantageonlineshopping.com/app/views/home-page.html
+Action.c(157):     Sec-Fetch-Dest = empty
+Action.c(157):     Sec-Fetch-Mode = cors
+Action.c(157):     Sec-Fetch-Site = same-origin
+Action.c(157):     DNT = 1
+Action.c(157):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+Action.c(157):     0
+Action.c(157):     Accept-Encoding = gzip, deflate
+Action.c(157):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Action.c(157):     Accept = */*
+Action.c(157):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+Action.c(157): Found resource "https://www.advantageonlineshopping.com/app/views/" in HTML "https://www.advantageonlineshopping.com/app/views/home-page.html"  	[MsgId: MMSG-26659]
+Action.c(157): The request to server https://www.advantageonlineshopping.com/app/views/" is done with headers:
+Action.c(157):     :method = GET
+Action.c(157):     :scheme = https
+Action.c(157):     :path = /app/views/
+Action.c(157):     :authority = www.advantageonlineshopping.com
+Action.c(157):     Referer = https://www.advantageonlineshopping.com/app/views/home-page.html
+Action.c(157):     Sec-Fetch-Dest = empty
+Action.c(157):     Sec-Fetch-Mode = cors
+Action.c(157):     Sec-Fetch-Site = same-origin
+Action.c(157):     DNT = 1
+Action.c(157):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+Action.c(157):     0
+Action.c(157):     Accept-Encoding = gzip, deflate
+Action.c(157):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Action.c(157):     Accept = */*
+Action.c(157):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+Action.c(157): t=12411ms: 211-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/home-page.html" (RelFrameId=1, Internal ID=48)
+Action.c(157):     "">\n
+Action.c(157):             <img src="" alt="">\n
+Action.c(157):             <img src="" alt="">\n
+Action.c(157):             <img src="" alt="">\n
+Action.c(157):             <img src="" alt="">\n
+Action.c(157):             <img src="" alt="">\n
+Action.c(157):     \n
+Action.c(157):         </div>\n
+Action.c(157):     \n
+Action.c(157):     </section>\n
+Action.c(157):     \n
+Action.c(157):     \n
+Action.c(157):     \n
+Action.c(157):     <social-media-drtv></social-media-drtv>\n
+Action.c(157): t=12412ms: Request done "https://www.advantageonlineshopping.com/app/views/home-page.html"  	[MsgId: MMSG-26000]
+Action.c(157): t=12553ms: 321-byte response headers for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" (RelFrameId=, Internal ID=49)
+Action.c(157):     HTTP/2.0 404\r\n
+Action.c(157):     Status: 404\r\n
+Action.c(157):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(157):     date: Tue, 12 Mar 2024 12:25:49 GMT\r\n
+Action.c(157):     content-type: text/html;charset=utf-8\r\n
+Action.c(157):     cache-control: max-age=0\r\n
+Action.c(157):     expires: Tue, 12 Mar 2024 12:25:49 GMT\r\n
+Action.c(157):     content-language: ru\r\n
+Action.c(157):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(157):     content-encoding: gzip\r\n
+Action.c(157):     \r\n
+Action.c(157): t=12554ms: 517-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" (RelFrameId=, Internal ID=49)
+Action.c(157): t=12555ms: 825-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" (RelFrameId=, Internal ID=49)
+Action.c(157):     <!doctype html><html lang="ru"><head><title>HTTP Status 404 \xE2\x80\x93 \xD0\x9D\xD0\xB5 
+Action.c(157):     \xD0\xBD\xD0\xB0\xD0\xB9\xD0\xB4\xD0\xB5\xD0\xBD\xD0\xBE</title><style type="text/css">bod
+Action.c(157):     y {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D
+Action.c(157):     76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a 
+Action.c(157):     {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><bod
+Action.c(157):     y><h1>HTTP Status 404 \xE2\x80\x93 \xD0\x9D\xD0\xB5 \xD0\xBD\xD0\xB0\xD0\xB9\xD0\xB4\xD0\xB5
+Action.c(157):     \xD0\xBD\xD0\xBE</h1><hr class="line" /><p><b>Type</b> Status Report</p><p><b>Message</b> 
+Action.c(157):     The requested resource [&#47;app&#47;views&#47;css&#47;images&#47;Special-offer.jpg] is no
+Action.c(157):     t available</p><p><b>Description</b> The origin server did not find a current representati
+Action.c(157):     on for the target resource or is not willing to disclose that one exists.</p><hr class="li
+Action.c(157):     ne" /><h3>Apache Tomcat/9.0.65</h3></body></html>
+Action.c(157): Warning -26627: HTTP Status-Code=404 (Not Found) for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg"  	[MsgId: MWAR-26627]
+Action.c(157): t=12555ms: Request done "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg"  	[MsgId: MMSG-26000]
+Action.c(157): t=12689ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/chat_logo.png" (RelFrameId=, Internal ID=50)
+Action.c(157):     HTTP/2.0 200\r\n
+Action.c(157):     Status: 200\r\n
+Action.c(157):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(157):     date: Tue, 12 Mar 2024 12:25:50 GMT\r\n
+Action.c(157):     content-type: image/png\r\n
+Action.c(157):     content-length: 3003\r\n
+Action.c(157):     accept-ranges: bytes\r\n
+Action.c(157):     etag: W/"3003-1707902752000"\r\n
+Action.c(157):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+Action.c(157):     cache-control: max-age=864000\r\n
+Action.c(157):     expires: Fri, 22 Mar 2024 12:25:50 GMT\r\n
+Action.c(157):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(157):     \r\n
+Action.c(157): t=12691ms: 3003-byte response body for "https://www.advantageonlineshopping.com/css/images/chat_logo.png" (RelFrameId=, Internal ID=50)
+Action.c(157): t=12691ms: Request done "https://www.advantageonlineshopping.com/css/images/chat_logo.png"  	[MsgId: MMSG-26000]
+Action.c(157): t=12692ms: 321-byte response headers for "https://www.advantageonlineshopping.com/app/views/" (RelFrameId=, Internal ID=51)
+Action.c(157):     HTTP/2.0 404\r\n
+Action.c(157):     Status: 404\r\n
+Action.c(157):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(157):     date: Tue, 12 Mar 2024 12:25:50 GMT\r\n
+Action.c(157):     content-type: text/html;charset=utf-8\r\n
+Action.c(157):     cache-control: max-age=0\r\n
+Action.c(157):     expires: Tue, 12 Mar 2024 12:25:50 GMT\r\n
+Action.c(157):     content-language: ru\r\n
+Action.c(157):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(157):     content-encoding: gzip\r\n
+Action.c(157):     \r\n
+Action.c(157): t=12693ms: 496-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/" (RelFrameId=, Internal ID=51)
+Action.c(157): t=12694ms: 789-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/" (RelFrameId=, Internal ID=51)
+Action.c(157):     <!doctype html><html lang="ru"><head><title>HTTP Status 404 \xE2\x80\x93 \xD0\x9D\xD0\xB5 
+Action.c(157):     \xD0\xBD\xD0\xB0\xD0\xB9\xD0\xB4\xD0\xB5\xD0\xBD\xD0\xBE</title><style type="text/css">bod
+Action.c(157):     y {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D
+Action.c(157):     76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a 
+Action.c(157):     {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><bod
+Action.c(157):     y><h1>HTTP Status 404 \xE2\x80\x93 \xD0\x9D\xD0\xB5 \xD0\xBD\xD0\xB0\xD0\xB9\xD0\xB4\xD0\xB5
+Action.c(157):     \xD0\xBD\xD0\xBE</h1><hr class="line" /><p><b>Type</b> Status Report</p><p><b>Message</b> 
+Action.c(157):     The requested resource [&#47;app&#47;views&#47;] is not available</p><p><b>Description</b>
+Action.c(157):      The origin server did not find a current representation for the target resource or is not
+Action.c(157):      willing to disclose that one exists.</p><hr class="line" /><h3>Apache Tomcat/9.0.65</h3><
+Action.c(157):     /body></html>
+Action.c(157): Warning -26627: HTTP Status-Code=404 (Not Found) for "https://www.advantageonlineshopping.com/app/views/"  	[MsgId: MWAR-26627]
+Action.c(157): t=12695ms: Request done "https://www.advantageonlineshopping.com/app/views/"  	[MsgId: MMSG-26000]
+Action.c(157): web_url("home-page.html") highest severity level was "warning", 6259 body bytes, 1435 header bytes  	[MsgId: MMSG-26388]
+Action.c(166): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 12,5839 Wasted Time: 0,1555).
+Action.c(169): lr_think_time: 5,00 seconds.
+Action.c(171): Notify: Transaction "Search" started.
+Action.c(173): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(173): Notify: Parameter Substitution: parameter "CategoryNamernd" =  "LAPTOPS"
+Action.c(173): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(175): web_url("search") started  	[MsgId: MMSG-26355]
+Action.c(175): Notify: Parameter Substitution: parameter "CategoryNamernd" =  "LAPTOPS"
+Action.c(175): The request to server https://www.advantageonlineshopping.com/catalog/api/v1/products/search?name=LAPTOPS&quantityPerEachCategory=10" is done with headers:
+Action.c(175):     :method = GET
+Action.c(175):     :scheme = https
+Action.c(175):     :path = /catalog/api/v1/products/search?name=LAPTOPS&quantityPerEachCategory=10
+Action.c(175):     :authority = www.advantageonlineshopping.com
+Action.c(175):     Referer = https://www.advantageonlineshopping.com/
+Action.c(175):     Sec-Fetch-Dest = empty
+Action.c(175):     Sec-Fetch-Mode = cors
+Action.c(175):     Sec-Fetch-Site = same-origin
+Action.c(175):     DNT = 1
+Action.c(175):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+Action.c(175):     0
+Action.c(175):     Accept-Encoding = gzip, deflate
+Action.c(175):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Action.c(175):     Accept = */*
+Action.c(175):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+Action.c(175): t=18186ms: 375-byte response headers for "https://www.advantageonlineshopping.com/catalog/api/v1/products/search?name=LAPTOPS&quantityPerEachCategory=10" (RelFrameId=1, Internal ID=52)
+Action.c(175):     HTTP/2.0 200\r\n
+Action.c(175):     Status: 200\r\n
+Action.c(175):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(175):     date: Tue, 12 Mar 2024 12:25:55 GMT\r\n
+Action.c(175):     content-type: application/json\r\n
+Action.c(175):     expires: 0\r\n
+Action.c(175):     cache-control: no-store\r\n
+Action.c(175):     x-content-type-options: nosniff\r\n
+Action.c(175):     x-xss-protection: 1; mode=block\r\n
+Action.c(175):     x-frame-options: DENY\r\n
+Action.c(175):     vary: accept-encoding\r\n
+Action.c(175):     content-encoding: gzip\r\n
+Action.c(175):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(175):     \r\n
+Action.c(175): t=18188ms: 349-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/products/search?name=LAPTOPS&quantityPerEachCategory=10" (RelFrameId=1, Internal ID=52)
+Action.c(175): t=18189ms: 1169-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/products/search?name=LAPTOPS&quantityPerEachCategory=10" (RelFrameId=1, Internal ID=52)
+Action.c(175):     [{"categoryId":1,"categoryName":"LAPTOPS","categoryImageId":"laptops","products":[{"produc
+Action.c(175):     tId":1,"categoryId":1,"productName":"HP Pavilion 15t Touch Laptop","price":519.99,"imageUr
+Action.c(175):     l":"1100"},{"productId":2,"categoryId":1,"productName":"HP Pavilion 15z Laptop","price":54
+Action.c(175):     9.99,"imageUrl":"1200"},{"productId":3,"categoryId":1,"productName":"HP Pavilion 15z Touch
+Action.c(175):      Laptop","price":449.99,"imageUrl":"1300"},{"productId":4,"categoryId":1,"productName":"HP
+Action.c(175):      Spectre x360 - 13-4102dx","price":1399.99,"imageUrl":"1400"},{"productId":5,"categoryId":
+Action.c(175):     1,"productName":"HP Stream - 11-d020nr Laptop","price":179.99,"imageUrl":"1245"},{"product
+Action.c(175):     Id":6,"categoryId":1,"productName":"HP ENVY x360 - 15t Laptop","price":699.99,"imageUrl":"
+Action.c(175):     1600"},{"productId":7,"categoryId":1,"productName":"HP ENVY - 17t Touch Laptop","price":84
+Action.c(175):     9.99,"imageUrl":"1700"},{"productId":8,"categoryId":1,"productName":"HP ZBook 17 G2 Mobile
+Action.c(175):      Workstation","price":1799.0,"imageUrl":"1800"},{"productId":9,"categoryId":1,"productName
+Action.c(175):     ":"HP Chromebook 14 G1(ENERGY STAR)","price":299.99,"imageUrl":"1249"},{"productId":10,"ca
+Action.c(175):     tegoryId":1,"productName":"HP Chromebook 14 G1(ES)","price":1261.99,"imageUrl":"1250"}]}]
+Action.c(175): t=18190ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/products/search?name=LAPTOPS&quantityPerEachCategory=10" (RelFrameId=1, Internal ID=52)
+Action.c(175): t=18190ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/products/search?name=LAPTOPS&quantityPerEachCategory=10"  	[MsgId: MMSG-26000]
+Action.c(175): Registered web_reg_find successful for "Text="categoryName":"LAPTOPS"" (count=1)  	[MsgId: MMSG-26364]
+Action.c(175): web_url("search") was successful, 359 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+Action.c(184): web_url("all_data") started  	[MsgId: MMSG-26355]
+Action.c(184): The request to server https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" is done with headers:
+Action.c(184):     :method = GET
+Action.c(184):     :scheme = https
+Action.c(184):     :path = /catalog/api/v1/categories/all_data
+Action.c(184):     :authority = www.advantageonlineshopping.com
+Action.c(184):     Referer = https://www.advantageonlineshopping.com/
+Action.c(184):     Sec-Fetch-Dest = empty
+Action.c(184):     Sec-Fetch-Mode = cors
+Action.c(184):     Sec-Fetch-Site = same-origin
+Action.c(184):     DNT = 1
+Action.c(184):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+Action.c(184):     0
+Action.c(184):     Accept-Encoding = gzip, deflate
+Action.c(184):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Action.c(184):     Accept = */*
+Action.c(184):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+Action.c(184): t=19102ms: 375-byte response headers for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184):     HTTP/2.0 200\r\n
+Action.c(184):     Status: 200\r\n
+Action.c(184):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(184):     date: Tue, 12 Mar 2024 12:25:56 GMT\r\n
+Action.c(184):     content-type: application/json\r\n
+Action.c(184):     expires: 0\r\n
+Action.c(184):     cache-control: no-store\r\n
+Action.c(184):     x-content-type-options: nosniff\r\n
+Action.c(184):     x-xss-protection: 1; mode=block\r\n
+Action.c(184):     x-frame-options: DENY\r\n
+Action.c(184):     vary: accept-encoding\r\n
+Action.c(184):     content-encoding: gzip\r\n
+Action.c(184):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(184):     \r\n
+Action.c(184): t=19104ms: 8192-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184): t=19104ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184):     [{"categoryId":1,"categoryName":"LAPTOPS","categoryImageId":"laptops","promotedProduct":{"
+Action.c(184):     id":3,"staringPrice":"650","promotionHeader":"EXPLORE THE NEW DESIGN","promotionSubHeader"
+Action.c(184):     :"Supremely thin, yet incredibly durable","productName":"HP Pavilion 15z Touch Laptop","pr
+Action.c(184):     ice":449.99,"description":"Redesigned with you in mind, the HP Pavilion keeps getting bett
+Action.c(184):     er. Our best-selling notebook is now more powerful so you can watch more, play more, and s
+Action.c(184):     tore more, all in style.","imageUrl":"1300","attributes":[{"attributeName":"CUSTOMIZATION"
+Action.c(184):     ,"attributeValue":"Simplicity"},{"attributeName":"OPERATING SYSTEM","attributeValue":"Wind
+Action.c(184):     ows 10"},{"attributeName":"DISPLAY RESOLUTION","attributeValue":"1920x1080"},{"attributeNa
+Action.c(184):     me":"WEIGHT","attributeValue":"5.51 lb"},{"attributeName":"PROCESSOR","attributeValue":"AM
+Action.c(184):     D Quad-Core A10-8700P Processor + AMD Radeon(TM) R6 Graphics"},{"attributeName":"DISPLAY S
+Action.c(184):     IZE","attributeValue":"15.6"},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes"},{"att
+Action.c(184):     ributeName":"DISPLAY","attributeValue":"15.6-inch diagonal Full HD WLED-backlit Display (1
+Action.c(184):     920x1080) Touchscreen"},{"attributeName":"MEMORY","attributeValue":"16GB DDR3 - 2 DIMM"}]}
+Action.c(184):     ,"attributes":[{"attributeName":"CUSTOMIZATION","attributeValues":["2-in-1","Simplicity","
+Action.c(184):     Gaming","Business"]},{"attributeName":"OPERATING SYSTEM","attributeValues":["Windows 8.1",
+Action.c(184):     "Windows 7 Professional 64","Chrome OS","Windows 10"]},{"attributeName":"PROCESSOR","attri
+Action.c(184):     buteValues":["Intel(R) Core(TM) i5-6200U Dual CoreProcessor","AMD Quad-Core A10-8700P Proc
+Action.c(184):     essor + AMD Radeon(TM) R6 Graphics","Intel\xC2\xAE Core\xE2\x84\xA2 i7-4710MQ with Intel H
+Action.c(184):     D Graphics 4600 (2.5 GHz, up to 3.5 GHz with Intel Turbo Boost Technology, 6 MB cache, 4 c
+Action.c(184):     ores)","Intel(R) Core(TM) i5-6200U Dual Core Processor","Intel\xC2\xAE Celeron\xC2\xAE pro
+Action.c(184):     cessor","Intel\xC2\xAE Core\xE2\x84\xA2 i7-5500U with Intel HD Graphics 5500 (2.4 GHz, 4 M
+Action.c(184):     B cache, 2 cores)","Intel(R) Celeron(R) N3050 Processor","Intel(R) Core(TM) i7-5500U Dual 
+Action.c(184):     Core Processor","Intel Turbo Boost Technology","intel(R) Core(TM) i5-6300HQ"]},{"attribute
+Action.c(184):     Name":"MEMORY","attributeValues":["16GB DDR3 - 2 DIMM","8 GB DDR3L SDRAM (1 x 8 GB)","8 GB
+Action.c(184):      1600 MHz DDR3L SDRAM (2 x 4 GB)","8GB DDR3L - 1 DIMM","2 GB 1333 MHz DDR3 SDRAM"]},{"attr
+Action.c(184):     ibuteName":"DISPLAY","attributeValues":["14-diagonal HD WLED Brightview flat SVA (1366 x 7
+Action.c(184):     68)","13.3 inch diagonal QHD IPS Radiance Infinity LED-backlit touch screen (2560 x 1440)"
+Action.c(184):     ,"15.6-inch diagonal HD WLED-backlit Display (1366x768) Touchscreen","15.6-inch diagonal H
+Action.c(184):     D BrightView WLED-backlit Display (1366x768)","15.6-inch diagonal Full HD WLED-backlit Dis
+Action.c(184):     play (1920x1080) Touchscreen","14-inch diagonal LED-backlit HD+ SVA Anti-Glare (1600x900)"
+Action.c(184):     ,"17.3-inch diagonal Full HD WLED-backlit IPS Display (1920x1080) Touchscreen","11.6-inch 
+Action.c(184):     diagonal HD WLED-backlit IPS Display (1366x768) Touchscreen","11.6-diagonal HD anti-glare 
+Action.c(184):     WLED-backlit (1366 x 768)","17.3 inch diagonal LED-backlit FHD WVA anti-glare (1920 x 1080
+Action.c(184):     )","15.6-inch diagonal Full HD WLED-backlit IPS Display (1920x1080) Touchscreen"]},{"attri
+Action.c(184):     buteName":"WEIGHT","attributeValues":["4.96 lb","7.25 lb","3.21 lb","7.42 lb","3.2 lb","4 
+Action.c(184):     lb","3.4 lb","5.51 lb","2.3 lb","3.17 lb","2.6 lb"]},{"attributeName":"DISPLAY SIZE","attr
+Action.c(184):     ibuteValues":["13.3","14","15.6","17.3","11.6"]},{"attributeName":"DISPLAY RESOLUTION","at
+Action.c(184):     tributeValues":["1920x1080","1600x900","2560x1440","1366x768"]},{"attributeName":"TOUCHSCR
+Action.c(184):     EEN","attributeValues":["No","Yes"]}],"products":[{"productId":9,"categoryId":1,"productNa
+Action.c(184):     me":"HP Chromebook 14 G1(ENERGY STAR)","price":299.99,"description":"This HP notebook is a
+Action.c(184):     ll about getting the perfect combination of design, reliability, and features. Style and p
+Action.c(184):     roductivity while keeping your wallet in mind - now that's something to get excited about.
+Action.c(184):     ","imageUrl":"1249","attributes":[{"attributeName":"MEMORY","attributeValue":"16GB DDR3 - 
+Action.c(184):     2 DIMM","showInFilter":false},{"attributeName":"CUSTOMIZATION","attributeValue":"Simplicit
+Action.c(184):     y","showInFilter":false},{"attributeName":"OPERATING SYSTEM","attributeValue":"Chrome OS",
+Action.c(184):     "showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"14","showInFilter":
+Action.c(184):     false},{"attributeName":"DISPLAY RESOLUTION","attributeValue":"1366x768","showInFilter":fa
+Action.c(184):     lse},{"attributeName":"PROCESSOR","attributeValue":"Intel\xC2\xAE Celeron\xC2\xAE processo
+Action.c(184):     r","showInFilter":true},{"attributeName":"DISPLAY","attributeValue":"14-diagonal HD WLED B
+Action.c(184):     rightview flat SVA (1366 x 768)","showInFilter":true},{"attributeName":"WEIGHT","attribute
+Action.c(184):     Value":"2.3 lb","showInFilter":true},{"attributeName":"TOUCHSCREEN","attributeValue":"No",
+Action.c(184):     "showInFilter":false}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"FFF
+Action.c(184):     FFF","name":"WHITE","inStock":10},{"code":"414141","name":"BLACK","inStock":10}],"images":
+Action.c(184):     ["ABCDEF##1249","ABCDEF##custom_image_user_0d7396f8-11fa-4858-b0a3-b87cd0dc3eca"],"product
+Action.c(184):     Status":"Active"},{"productId":10,"categoryId":1,"productName":"HP Chromebook 14 G1(ES)","
+Action.c(184):     price":1261.99,"description":"Introducing the next generation HP EliteBook Folio 9480m Ult
+Action.c(184):     rabook\xE2\x84\xA2[2]. Timeless, ultra slim profile in an all metal design with optional 4
+Action.c(184):     G Broadband wWAN, and 4th Generation Intel\xC2\xAE Core\xE2\x84\xA2 Processing Technology.
+Action.c(184):     ","imageUrl":"1250","attributes":[{"attributeName":"CUSTOMIZATION","attributeValue":"Busin
+Action.c(184):     ess","showInFilter":false},{"attributeName":"DISPLAY RESOLUTION","attributeValue":"1600x90
+Action.c(184):     0","showInFilter":false},{"attributeName":"DISPLAY SIZE","attributeValue":"14","showInFilt
+Action.c(184):     er":false},{"attributeName":"DISPLAY","attributeValue":"14-inch diagonal LED-backlit HD+ S
+Action.c(184):     VA Anti-Glare (1600x900)","showInFilter":true},{"attributeName":"PROCESSOR","attributeValu
+Action.c(184):     e":"Intel(R) Core(TM) i5-6200U Dual CoreProcessor","showInFilter":true},{"attributeName":"
+Action.c(184):     TOUCHSCREEN","attributeValue":"No","showInFilter":false},{"attributeName":"OPERATING SYSTE
+Action.c(184):     M","attributeValue":"Windows 10","showInFilter":true},{"attributeName":"MEMORY","attribute
+Action.c(184):     Value":"16GB DDR3 - 2 DIMM","showInFilter":false},{"attributeName":"WEIGHT","attributeValu
+Action.c(184):     e":"3.2 lb","showInFilter":true}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10}],
+Action.c(184):     "images":["ABCDEF##custom_image_user_141e2c2e-68bc-4638-9c09-95a6cbc2a2de","C3C3C3##1250"]
+Action.c(184):     ,"productStatus":"Active"},{"productId":7,"categoryId":1,"productName":"HP ENVY - 17t Touc
+Action.c(184):     h Laptop","price":849.99,"description":"We took our remarkable 360\xC2\xB0 convertible PC 
+Action.c(184):     and enhanced it with premium features to give you ultimate flexibility and enviable looks.
+Action.c(184):     ","imageUrl":"1700","attributes":[{"attributeName":"DISPLAY","attributeValue":"17.3-inch d
+Action.c(184):     iagonal Full HD WLED-backlit IPS Display (1920x1080) Touchscreen","showInFilter":true},{"a
+Action.c(184):     ttributeName":"MEMORY","attributeValue":"16GB DDR3 - 2 DIMM","showInFilter":false},{"attri
+Action.c(184):     buteName":"WEIGHT","attributeValue":"7.25 lb","showInFilter":true},{"attributeName":"CUSTO
+Action.c(184):     MIZATION","attributeValue":"Business","showInFilter":false},{"attributeName":"DISPLAY SIZE
+Action.c(184):     ","attributeValue":"17.3","showInFilter":false},{"attributeName":"TOUCHSCREEN","attributeV
+Action.c(184):     alue":"Yes","showInFilter":false},{"attributeName":"OPERATING SYSTEM","attributeValue":"Wi
+Action.c(184):     ndows 10","showInFilter":true},{"attributeName":"PROCESSOR","attributeValue":"Intel(R) Cor
+Action.c(184):     e(TM) i7-5500U Dual Core Processor","showInFilter":true},{"attributeName":"DISPLAY RESOLUT
+Action.c(184):     ION","attributeValue":"1920x1080","showInFilter":false}],"colors":[{"code":"C3C3C3","name"
+Action.c(184):     :"GRAY","inStock":10}],"images":["ABCDEF##1703","ABCDEF##1702","ABCDEF##1700","C3C3C3##170
+Action.c(184):     1"],"productStatus":"Active"},{"productId":6,"categoryId":1,"productName":"HP ENVY x360 - 
+Action.c(184):     15t Laptop","price":699.99,"description":"We took our remarkable 360\xC2\xB0 convertible P
+Action.c(184):     C and enhanced it with premium features to give you ultimate flexibility and enviable look
+Action.c(184):     s.","imageUrl":"1600","attributes":[{"attributeName":"TOUCHSCREEN","attributeValue":"Yes",
+Action.c(184):     "showInFilter":false},{"attributeName":"MEMORY","attributeValue":"8GB DDR3L - 1 DIMM","sho
+Action.c(184):     wInFilter":false},{"attributeName":"DISPLAY","attributeValue":"15.6-inch diagonal Full HD 
+Action.c(184):     WLED-backlit IPS Display (1920x1080) Touchscreen","showInFilter":true},{"attributeName":"O
+Action.c(184):     PERATING SYSTEM","attributeValue":"Windows 10","showInFilter":true},{"attributeName":"WEIG
+Action.c(184):     HT","attributeValue":"4.96 lb","showInFilter":true},{"attributeName":"DISPLAY RESOLUTION",
+Action.c(184):     "attributeValue":"1920x1080","showInFilter":false},{"attributeName":"PROCESSOR","attribute
+Action.c(184):     Value":"intel(R) Core(TM) i5-6300HQ","showInFilter":true},{"attributeName":"DISPLAY SIZE",
+Action.c(184):     "attributeValue":"15.6","showInFilter":false},{"attributeName":"CUSTOMIZATION","attributeV
+Action.c(184):     alue":"2-in-1","showInFilter":false}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":1
+Action.c(184):     0}],"images":["ABCDEF##1600","C3C3C3##1603","ABCDEF##custom_image_user_c2a10e87-48b6-4f7f-
+Action.c(184):     9618-6cfdc45f4e50","ABCDEF##custom_image_user_d7e8ee3f-f78c-4d6c-9889-a5a8f4c7615c","ABCDE
+Action.c(184):     F##custom_image_user_61183d20-cb1a-42ba-9b13-48c2d8194658","C3C3C3##1601","C3C3C3##1602"],
+Action.c(184):     "productStatus":"Active"},{"productId":1,"categoryId":1,"productName":"HP Pavilion 15t Tou
+Action.c(184):     ch Laptop","price":519.99,"description":"Redesigned with you in mind, the HP Pavilion keep
+Action.c(184):     s getting better. Our best-selling notebook is now more powerful so you can watch more, pl
+Action.c(184):     ay more, and store more, all in style.","imageUrl":"1100","attributes":[{"attributeName":"
+Action.c(184):     PROCESSOR","attributeValue":"Intel(R) Core(TM) i5-6200U Dual CoreProcessor","showInFilter"
+Action.c(184):     :true},{"attributeName":"DISPLAY","attributeValue":"15.6-inch diagonal HD WLED-backlit Dis
+Action.c(184):     play (1366x768) Touchscreen","showInFilter":true},{"attributeName":"DISPLAY RESOLUTION","a
+Action.c(184):     ttributeValue":"1366x768","showInFilter":false},{"attributeName":"TOUCHSCREEN","attributeV
+Action.c(184):     alue":"Yes","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"4 lb","showI
+Action.c(184):     nFilter":true},{"attributeName":"CUSTOMIZATION","attributeValue":"Gaming","showInFilter":f
+Action.c(184):     alse},{"attributeName":"OPERATING SYSTEM","attributeValue":"Windows 10","showInFilter":tru
+Action.c(184):     e},{"attributeName":"DISPLAY SIZE","attributeValue":"15.6","showInFilter":false},{"attribu
+Action.c(184):     teName":"MEMORY","attributeValue":"16GB DDR3 - 2 DIMM","showInFilter":false}],"colors":[{"
+Action.c(184):     code":"DD3A5B","name":"RED","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10},{"c
+Action.c(184):     ode":"3683D1","name":"BLUE","inStock":10}],"images":["C3C3C3##1100","3683D1##1102","DD3A5B
+Action.c(184):     ##1101","DD3A5B##1103"],"productStatus":"Active"},{"productId":2,"categoryId":1,"productNa
+Action.c(184):     me":"HP Pavilion 15z Laptop","price":549.99,"description":"Redesigned with you in mind, th
+Action.c(184):     e HP Pavilion keeps getting better. Our best-selling notebook is now more powerful so you 
+Action.c(184):     can watch more, play more, and store more, all in style.","imageUrl":"1200","attributes":[
+Action.c(184):     {"attributeName":"OPERATING SYSTEM","attributeValue":"Windows 10","showInFilter":true},{"a
+Action.c(184):     ttributeName":"DISPLAY RESOLUTION","attributeValue":"1366x768","showInFilter":false},{"att
+Action.c(184):     ributeName":"DISPLAY","attributeValue":"15.6-inch diagonal HD BrightView WLED-backlit Disp
+Action.c(184):     lay (1366x768)","showInFilter":true},{"attributeName":"MEMORY","attributeValue":"16GB DDR3
+Action.c(184):      - 2 DIMM","showInFilter":false},{"attributeName":"CUSTOMIZATION","attributeValue":"Simpli
+Action.c(184):     city","showInFilter":false},{"attributeName":"DISPLAY SIZE","attributeValue":"15.6","showI
+Action.c(184):     nFilter":false},{"attributeName":"TOUCHSCREEN","attributeValue":"No","showInFilter":false}
+Action.c(184):     ,{"attributeName":"PROCESSOR","attributeValue":"Intel(R) Core(TM) i5-6200U Dual Core Proce
+Action.c(184):     ssor","showInFilter":true},{"attributeName":"WEIGHT","attributeValue":"3.4 lb","showInFilt
+Action.c(184):     er":true}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"DD3A5B","name"
+Action.c(184):     :"RED","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"3683D1","name":
+Action.c(184):     "BLUE","inStock":10}],"images":["414141##1202","3683D1##1200","3683D1##1201","DD3A5B##1203
+Action.c(184):     "],"productStatus":"Active"},{"productId":3,"categoryId":1,"productName":"HP Pavilion 15z 
+Action.c(184):     Touch Laptop","price":449.99,"description":"Redesigned with you in mind, the HP Pavilion k
+Action.c(184):     eeps getting better. Our best-selling notebook is now more powerful so you can watch more,
+Action.c(184):      play more, and store more, all in style.","imageUrl":"1300","attributes":[{"attributeName
+Action.c(184):     ":"CUSTOMIZATION","attributeValue":"Simplicity","showInFilter":false},{"attributeName":"OP
+Action.c(184):     ERATING SYSTEM","attributeValue":"Windows 10","showInFilter":true},{"attributeName":"DISPL
+Action.c(184):     AY RESOLUTION","attributeValue":"1920x1080","showInFilter":false},{"attributeName":"WEIGHT
+Action.c(184):     ","attributeValue":"5.51 lb","showInFilter":true
+Action.c(184): t=19114ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184):     },{"attributeName":"PROCESSOR","attributeValue":"AMD Quad-Core A10-8700P Processor + AMD R
+Action.c(184):     adeon(TM) R6 Graphics","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValu
+Action.c(184):     e":"15.6","showInFilter":false},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes","sho
+Action.c(184):     wInFilter":false},{"attributeName":"DISPLAY","attributeValue":"15.6-inch diagonal Full HD 
+Action.c(184):     WLED-backlit Display (1920x1080) Touchscreen","showInFilter":true},{"attributeName":"MEMOR
+Action.c(184):     Y","attributeValue":"16GB DDR3 - 2 DIMM","showInFilter":false}],"colors":[{"code":"414141"
+Action.c(184):     ,"name":"BLACK","inStock":10},{"code":"FCC23D","name":"YELLOW","inStock":10},{"code":"5451
+Action.c(184):     95","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10},{"code":"C3
+Action.c(184):     C3C3","name":"GRAY","inStock":10},{"code":"DD3A5B","name":"RED","inStock":10}],"images":["
+Action.c(184):     3683D1##1300","C3C3C3##1302","C3C3C3##1301","414141##1302","414141##1301"],"productStatus"
+Action.c(184):     :"Active"},{"productId":11,"categoryId":1,"productName":"HP Pavilion x360 - 11t Touch Lapt
+Action.c(184):     op","price":319.99,"description":"There\xE2\x80\x99s no limit to what this value-packed co
+Action.c(184):     nvertible PC can do. Easily convert from notebook to stand to tent to tablet mode. It\xE2\x80
+Action.c(184):     \x99s an app-loving, friend-connecting, 360\xC2\xB0-bending machine.","imageUrl":"11100","
+Action.c(184):     attributes":[{"attributeName":"WEIGHT","attributeValue":"3.21 lb","showInFilter":true},{"a
+Action.c(184):     ttributeName":"OPERATING SYSTEM","attributeValue":"Windows 10","showInFilter":true},{"attr
+Action.c(184):     ibuteName":"PROCESSOR","attributeValue":"Intel(R) Celeron(R) N3050 Processor","showInFilte
+Action.c(184):     r":true},{"attributeName":"DISPLAY RESOLUTION","attributeValue":"1366x768","showInFilter":
+Action.c(184):     false},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes","showInFilter":false},{"attri
+Action.c(184):     buteName":"DISPLAY","attributeValue":"11.6-inch diagonal HD WLED-backlit IPS Display (1366
+Action.c(184):     x768) Touchscreen","showInFilter":true},{"attributeName":"MEMORY","attributeValue":"8GB DD
+Action.c(184):     R3L - 1 DIMM","showInFilter":false},{"attributeName":"CUSTOMIZATION","attributeValue":"Sim
+Action.c(184):     plicity","showInFilter":false},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","sh
+Action.c(184):     owInFilter":false}],"colors":[{"code":"55CDD5","name":"TURQUOISE","inStock":10},{"code":"C
+Action.c(184):     3C3C3","name":"GRAY","inStock":10},{"code":"DD3A5B","name":"RED","inStock":10}],"images":[
+Action.c(184):     "55CDD5##11100","C3C3C3##11101","C3C3C3##11102","DD3A5B##11103"],"productStatus":"Active"}
+Action.c(184):     ,{"productId":4,"categoryId":1,"productName":"HP Spectre x360 - 13-4102dx","price":1399.99
+Action.c(184):     ,"description":"Stunning, ultra-slim convertible PC with a 360\xC2\xB0 hinge","imageUrl":"
+Action.c(184):     1400","attributes":[{"attributeName":"DISPLAY RESOLUTION","attributeValue":"2560x1440","sh
+Action.c(184):     owInFilter":false},{"attributeName":"WEIGHT","attributeValue":"3.17 lb","showInFilter":tru
+Action.c(184):     e},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes","showInFilter":false},{"attribute
+Action.c(184):     Name":"CUSTOMIZATION","attributeValue":"2-in-1","showInFilter":false},{"attributeName":"PR
+Action.c(184):     OCESSOR","attributeValue":"Intel\xC2\xAE Core\xE2\x84\xA2 i7-5500U with Intel HD Graphics 
+Action.c(184):     5500 (2.4 GHz, 4 MB cache, 2 cores)","showInFilter":true},{"attributeName":"DISPLAY SIZE",
+Action.c(184):     "attributeValue":"13.3","showInFilter":false},{"attributeName":"DISPLAY","attributeValue":
+Action.c(184):     "13.3 inch diagonal QHD IPS Radiance Infinity LED-backlit touch screen (2560 x 1440)","sho
+Action.c(184):     wInFilter":true},{"attributeName":"OPERATING SYSTEM","attributeValue":"Windows 10","showIn
+Action.c(184):     Filter":true},{"attributeName":"MEMORY","attributeValue":"8 GB DDR3L SDRAM (1 x 8 GB)","sh
+Action.c(184):     owInFilter":false}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["C3C
+Action.c(184):     3C3##1400","C3C3C3##1402","C3C3C3##1401","C3C3C3##1403"],"productStatus":"Active"},{"produ
+Action.c(184):     ctId":5,"categoryId":1,"productName":"HP Stream - 11-d020nr Laptop","price":179.99,"descri
+Action.c(184):     ption":"Work from a happy place with a stylish, affordable, Windows-based PC. Store your c
+Action.c(184):     ontent in the cloud for easy access from anywhere you have internet.","imageUrl":"1245","a
+Action.c(184):     ttributes":[{"attributeName":"OPERATING SYSTEM","attributeValue":"Windows 8.1","showInFilt
+Action.c(184):     er":true},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attri
+Action.c(184):     buteName":"DISPLAY","attributeValue":"11.6-diagonal HD anti-glare WLED-backlit (1366 x 768
+Action.c(184):     )","showInFilter":true},{"attributeName":"PROCESSOR","attributeValue":"Intel Turbo Boost T
+Action.c(184):     echnology","showInFilter":true},{"attributeName":"MEMORY","attributeValue":"2 GB 1333 MHz 
+Action.c(184):     DDR3 SDRAM","showInFilter":false},{"attributeName":"DISPLAY RESOLUTION","attributeValue":"
+Action.c(184):     1366x768","showInFilter":false},{"attributeName":"CUSTOMIZATION","attributeValue":"Gaming"
+Action.c(184):     ,"showInFilter":false},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilt
+Action.c(184):     er":false},{"attributeName":"TOUCHSCREEN","attributeValue":"No","showInFilter":false}],"co
+Action.c(184):     lors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inSt
+Action.c(184):     ock":10}],"images":["3683D1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"
+Action.c(184):     },{"productId":8,"categoryId":1,"productName":"HP ZBook 17 G2 Mobile Workstation","price":
+Action.c(184):     1799.0,"description":"On the go creativity knows no limits on a vivid 17.3 inch diagonal H
+Action.c(184):     P ZBook 17 G2. Showcase your best work in the office or on the go and take advantage of HP
+Action.c(184):     \xE2\x80\x99s most powerful processing, graphics, simple scalability, and blazing-fast con
+Action.c(184):     nectivity to perform and collaborate at the speed of creativity.","imageUrl":"1800","attri
+Action.c(184):     butes":[{"attributeName":"WEIGHT","attributeValue":"7.42 lb","showInFilter":true},{"attrib
+Action.c(184):     uteName":"DISPLAY","attributeValue":"17.3 inch diagonal LED-backlit FHD WVA anti-glare (19
+Action.c(184):     20 x 1080)","showInFilter":true},{"attributeName":"TOUCHSCREEN","attributeValue":"No","sho
+Action.c(184):     wInFilter":false},{"attributeName":"OPERATING SYSTEM","attributeValue":"Windows 7 Professi
+Action.c(184):     onal 64","showInFilter":true},{"attributeName":"DISPLAY RESOLUTION","attributeValue":"1920
+Action.c(184):     x1080","showInFilter":false},{"attributeName":"DISPLAY SIZE","attributeValue":"17.3","show
+Action.c(184):     InFilter":false},{"attributeName":"MEMORY","attributeValue":"8 GB 1600 MHz DDR3L SDRAM (2 
+Action.c(184):     x 4 GB)","showInFilter":false},{"attributeName":"CUSTOMIZATION","attributeValue":"Business
+Action.c(184):     ","showInFilter":false},{"attributeName":"PROCESSOR","attributeValue":"Intel\xC2\xAE Core\xE2
+Action.c(184):     \x84\xA2 i7-4710MQ with Intel HD Graphics 4600 (2.5 GHz, up to 3.5 GHz with Intel Turbo Bo
+Action.c(184):     ost Technology, 6 MB cache, 4 cores)","showInFilter":true}],"colors":[{"code":"414141","na
+Action.c(184):     me":"BLACK","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF#
+Action.c(184):     #1803","ABCDEF##1801","ABCDEF##1802","ABCDEF##1800"],"productStatus":"Active"}],"colors":[
+Action.c(184):     "414141","3683D1","545195","C3C3C3","DD3A5B","55CDD5","FFFFFF","FCC23D"]},{"categoryId":2,
+Action.c(184):     "categoryName":"HEADPHONES","categoryImageId":"headphones","promotedProduct":{"id":13,"sta
+Action.c(184):     ringPrice":"200","promotionHeader":"FEEL YOUR MUSIC","promotionSubHeader":"Lighter, strong
+Action.c(184):     er and more confortable","productName":"Bose SoundLink Around-ear Wireless Headphones II",
+Action.c(184):     "price":279.95,"description":"Wireless freedom meets best-in-class sound.","imageUrl":"230
+Action.c(184):     0","attributes":[{"attributeName":"COMPATIBILITY","attributeValue":"Compatible with most n
+Action.c(184):     otebook PCs, netbooks, tablets, mobile phones, and MP3 players with BlueTooth support."},{
+Action.c(184):     "attributeName":"CONNECTOR","attributeValue":"BlueTooth"},{"attributeName":"WEIGHT","attri
+Action.c(184):     buteValue":"0.15 lb"}]},"attributes":[{"attributeName":"CONNECTOR","attributeValues":["Jac
+Action.c(184):     k 3.5 mm","BlueTooth"]},{"attributeName":"COMPATIBILITY","attributeValues":["Compatible wi
+Action.c(184):     th most notebook PCs, netbooks, tablets, mobile phones, and MP3 players with BlueTooth sup
+Action.c(184):     port.","Compatible with most notebook PCs, netbooks, tablets, mobile phones, and MP3 playe
+Action.c(184):     rs with a 3.5 mm port available.","Compatible across all devices having 3.5 mm audio conne
+Action.c(184):     ctor (Smart phone compatibility may vary)."]},{"attributeName":"WEIGHT","attributeValues":
+Action.c(184):     ["0.15 lb","0.03 lb","0.07 lb","0.57 lb","2.6 lb"]},{"attributeName":"DISPLAY SIZE","attri
+Action.c(184):     buteValues":["11.6"]}],"products":[{"productId":15,"categoryId":2,"productName":"Beats Stu
+Action.c(184):     dio 2 Over-Ear Matte Black Headphones","price":179.99,"description":"The world\xE2\x80\x99
+Action.c(184):     s most famous headphone has been completely redesigned and reimagined. The new Beats Studi
+Action.c(184):     o\xC2\xAE is lighter, sexier, stronger, and more comfortable, with precision sound, Adapti
+Action.c(184):     ve Noise Canceling, a 20-hour rechargeable battery, and RemoteTalk\xE2\x84\xA2. It has all
+Action.c(184):      the energy and excitement you expect from Beats, plus a powerful, reengineered sound.","i
+Action.c(184):     mageUrl":"2200","attributes":[{"attributeName":"WEIGHT","attributeValue":"0.57 lb","showIn
+Action.c(184):     Filter":true},{"attributeName":"COMPATIBILITY","attributeValue":"Compatible across all dev
+Action.c(184):     ices having 3.5 mm audio connector (Smart phone compatibility may vary).","showInFilter":t
+Action.c(184):     rue},{"attributeName":"CONNECTOR","attributeValue":"Jack 3.5 mm","showInFilter":true}],"co
+Action.c(184):     lors":[{"code":"414141","name":"BLACK","inStock":10}],"images":["414141##2200","414141##22
+Action.c(184):     01"],"productStatus":"Active"},{"productId":13,"categoryId":2,"productName":"Bose SoundLin
+Action.c(184):     k Around-ear Wireless Headphones II","price":279.95,"description":"Wireless freedom meets 
+Action.c(184):     best-in-class sound.","imageUrl":"2300","attributes":[{"attributeName":"COMPATIBILITY","at
+Action.c(184):     tributeValue":"Compatible with most notebook PCs, netbooks, tablets, mobile phones, and MP
+Action.c(184):     3 players with BlueTooth support.","showInFilter":true},{"attributeName":"CONNECTOR","attr
+Action.c(184):     ibuteValue":"BlueTooth","showInFilter":true},{"attributeName":"WEIGHT","attributeValue":"0
+Action.c(184):     .15 lb","showInFilter":true}],"colors":[{"code":"55CDD5","name":"TURQUOISE","inStock":0},{
+Action.c(184):     "code":"414141","name":"BLACK","inStock":0}],"images":["ABCDEF##2300","ABCDEF##2301"],"pro
+Action.c(184):     ductStatus":"OutOfStock"},{"productId":114,"categoryId":2,"productName":"game of thrones",
+Action.c(184):     "price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"
+Action.c(184):     WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","at
+Action.c(184):     tributeValue":"11.6","showInFilter":false}],"colors":[{"code":"3683D1","name":"BLUE","inSt
+Action.c(184):     ock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1#
+Action.c(184):     #1502","3683D1##1501"],"productStatus":"Active"},{"productId":112,"categoryId":2,"productN
+Action.c(184):     ame":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attribut
+Action.c(184):     es":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeN
+Action.c(184):     ame":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"code":"3683
+Action.c(184):     D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":[
+Action.c(184):     "545195##1245","3683D1##1501","3683D1##1502"],"productStatus":"Active"},{"productId":113,"
+Action.c(184):     categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My book","ima
+Action.c(184):     geUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFil
+Action.c(184):     ter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],
+Action.c(184):     "colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","i
+Action.c(184):     nStock":10}],"images":["3683D1##1501","3683D1##1502","545195##1245"],"productStatus":"Acti
+Action.c(184):     ve"},{"productId":85,"categoryId":2,"productName":"game of thrones","price":10000.0,"descr
+Action.c(184):     iption":"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attribu
+Action.c(184):     teValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb",
+Action.c(184):     "showInFilter":true}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"36
+Action.c(184):     83D1","name":"BLUE","inStock":10}],"images":["3683D1##1501","3683D1##1502","545195##1245"]
+Action.c(184):     ,"productStatus":"Active"},{"productId":35,"categoryId":2,"productName":"game of thrones",
+Action.c(184):     "price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"
+Action.c(184):     WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","at
+Action.c(184):     tributeValue":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"PURPLE","in
+Action.c(184):     Stock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1501","3683D1#
+Action.c(184):     #1502","545195##1245"],"productStatus":"Active"},{"productId":36,"categoryId":2,"productNa
+Action.c(184):     me":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attribute
+Action.c(184):     s":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attrib
+Action.c(184):     uteName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"54519
+Action.c(184):     5","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["
+Action.c(184):     3683D1##1501","545195##1245","3683D1##1502"],
+Action.c(184): t=19124ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184):     "productStatus":"Active"},{"productId":37,"categoryId":2,"productName":"game of thrones","
+Action.c(184):     price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"W
+Action.c(184):     EIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","att
+Action.c(184):     ributeValue":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"PURPLE","inS
+Action.c(184):     tock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1501","3683D1##
+Action.c(184):     1502","545195##1245"],"productStatus":"Active"},{"productId":38,"categoryId":2,"productNam
+Action.c(184):     e":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes
+Action.c(184):     ":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attribu
+Action.c(184):     teName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"3683D1
+Action.c(184):     ","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["5
+Action.c(184):     45195##1245","3683D1##1502","3683D1##1501"],"productStatus":"Active"},{"productId":39,"cat
+Action.c(184):     egoryId":2,"productName":"game of thrones","price":10000.0,"description":"My book","imageU
+Action.c(184):     rl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFi
+Action.c(184):     lter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"co
+Action.c(184):     lors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inSt
+Action.c(184):     ock":10}],"images":["3683D1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"
+Action.c(184):     },{"productId":40,"categoryId":2,"productName":"game of thrones","price":10000.0,"descript
+Action.c(184):     ion":"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeV
+Action.c(184):     alue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","sh
+Action.c(184):     owInFilter":true}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195"
+Action.c(184):     ,"name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##1502","3683D1##1501"],"p
+Action.c(184):     roductStatus":"Active"},{"productId":41,"categoryId":2,"productName":"game of thrones","pr
+Action.c(184):     ice":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"DIS
+Action.c(184):     PLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attrib
+Action.c(184):     uteValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195","name":"PURPLE","inSto
+Action.c(184):     ck":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1502","3683D1##15
+Action.c(184):     01","545195##1245"],"productStatus":"Active"},{"productId":42,"categoryId":2,"productName"
+Action.c(184):     :"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":
+Action.c(184):     [{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attribute
+Action.c(184):     Name":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"3683D1",
+Action.c(184):     "name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["545
+Action.c(184):     195##1245","3683D1##1501","3683D1##1502"],"productStatus":"Active"},{"productId":43,"categ
+Action.c(184):     oryId":2,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl
+Action.c(184):     ":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilt
+Action.c(184):     er":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colo
+Action.c(184):     rs":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStoc
+Action.c(184):     k":10}],"images":["545195##1245","3683D1##1502","3683D1##1501"],"productStatus":"Active"},
+Action.c(184):     {"productId":44,"categoryId":2,"productName":"game of thrones","price":10000.0,"descriptio
+Action.c(184):     n":"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeVal
+Action.c(184):     ue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","show
+Action.c(184):     InFilter":true}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1"
+Action.c(184):     ,"name":"BLUE","inStock":10}],"images":["3683D1##1502","3683D1##1501","545195##1245"],"pro
+Action.c(184):     ductStatus":"Active"},{"productId":45,"categoryId":2,"productName":"game of thrones","pric
+Action.c(184):     e":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPL
+Action.c(184):     AY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attribut
+Action.c(184):     eValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195","name":"PURPLE","inStock
+Action.c(184):     ":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["545195##1245","3683D1##1502
+Action.c(184):     ","3683D1##1501"],"productStatus":"Active"},{"productId":46,"categoryId":2,"productName":"
+Action.c(184):     game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{
+Action.c(184):     "attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"
+Action.c(184):     DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"code":"545195","n
+Action.c(184):     ame":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D
+Action.c(184):     1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"},{"productId":47,"categor
+Action.c(184):     yId":2,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":
+Action.c(184):     "1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter
+Action.c(184):     ":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors
+Action.c(184):     ":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock"
+Action.c(184):     :10}],"images":["3683D1##1502","545195##1245","3683D1##1501"],"productStatus":"Active"},{"
+Action.c(184):     productId":48,"categoryId":2,"productName":"game of thrones","price":10000.0,"description"
+Action.c(184):     :"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue
+Action.c(184):     ":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showIn
+Action.c(184):     Filter":true}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195","na
+Action.c(184):     me":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##1502","3683D1##1501"],"produ
+Action.c(184):     ctStatus":"Active"},{"productId":49,"categoryId":2,"productName":"game of thrones","price"
+Action.c(184):     :10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT"
+Action.c(184):     ,"attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attribute
+Action.c(184):     Value":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"PURPLE","inStock":
+Action.c(184):     10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1501","3683D1##1502",
+Action.c(184):     "545195##1245"],"productStatus":"Active"},{"productId":50,"categoryId":2,"productName":"ga
+Action.c(184):     me of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"a
+Action.c(184):     ttributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName
+Action.c(184):     ":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"3683D1","nam
+Action.c(184):     e":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["3683D1#
+Action.c(184):     #1502","3683D1##1501","545195##1245"],"productStatus":"Active"},{"productId":51,"categoryI
+Action.c(184):     d":2,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1
+Action.c(184):     245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":
+Action.c(184):     false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":
+Action.c(184):     [{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":1
+Action.c(184):     0}],"images":["3683D1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"},{"pr
+Action.c(184):     oductId":52,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"
+Action.c(184):     My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":
+Action.c(184):     "11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFi
+Action.c(184):     lter":true}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","na
+Action.c(184):     me":"BLUE","inStock":10}],"images":["545195##1245","3683D1##1501","3683D1##1502"],"product
+Action.c(184):     Status":"Active"},{"productId":53,"categoryId":2,"productName":"game of thrones","price":1
+Action.c(184):     0000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","
+Action.c(184):     attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeVa
+Action.c(184):     lue":"11.6","showInFilter":false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},
+Action.c(184):     {"code":"545195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##1502","3
+Action.c(184):     683D1##1501"],"productStatus":"Active"},{"productId":54,"categoryId":2,"productName":"game
+Action.c(184):      of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"att
+Action.c(184):     ributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":
+Action.c(184):     "WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195","name"
+Action.c(184):     :"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1
+Action.c(184):     501","545195##1245","3683D1##1502"],"productStatus":"Active"},{"productId":55,"categoryId"
+Action.c(184):     :2,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"124
+Action.c(184):     5","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":fa
+Action.c(184):     lse},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{
+Action.c(184):     "code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}
+Action.c(184):     ],"images":["3683D1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"},{"prod
+Action.c(184):     uctId":56,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My
+Action.c(184):      book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"1
+Action.c(184):     1.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilt
+Action.c(184):     er":true}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name
+Action.c(184):     ":"BLUE","inStock":10}],"images":["545195##1245","3683D1##1502","3683D1##1501"],"productSt
+Action.c(184):     atus":"Active"},{"productId":57,"categoryId":2,"productName":"game of thrones","price":100
+Action.c(184):     00.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZ
+Action.c(184):     E","attributeValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue
+Action.c(184):     ":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},
+Action.c(184):     {"code":"3683D1","name":"BLUE","inStock":10}],"images":["545195##1245","3683D1##1501","368
+Action.c(184):     3D1##1502"],"productStatus":"Active"},{"productId":58,"categoryId":2,"productName":"game o
+Action.c(184):     f thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attri
+Action.c(184):     buteName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"W
+Action.c(184):     EIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195","name":"
+Action.c(184):     PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["545195##124
+Action.c(184):     5","3683D1##1502","3683D1##1501"],"productStatus":"Active"},{"productId":59,"categoryId":2
+Action.c(184):     ,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245"
+Action.c(184):     ,"attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":fals
+Action.c(184):     e},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"c
+Action.c(184):     ode":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],
+Action.c(184):     "images":["3683D1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"},{"produc
+Action.c(184):     tId":60,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My b
+Action.c(184):     ook","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","
+Action.c(184):     showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter"
+Action.c(184):     :false}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":
+Action.c(184):     "BLUE","inStock":10}],"images":["3683D1##1502","3683D1##1501","545195##1245"],"productStat
+Action.c(184):     us":"Active"},{"productId":61,"categoryId":2,"productName":"game of thrones","price":10000
+Action.c(184):     .0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attr
+Action.c(184):     ibuteValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue"
+Action.c(184):     :"11.6","showInFilter":false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"co
+Action.c(184):     de":"545195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##1502","3683D
+Action.c(184):     1##1501"],"productStatus":"Active"},{"productId":62,"categoryId":2,"productName":"game of 
+Action.c(184):     thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attribu
+Action.c(184):     teName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"WEI
+Action.c(184):     GHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"3683D1","name":"BL
+Action.c(184):     UE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["545195##1245"
+Action.c(184):     ,"3683D1##1502","3683D1##1501"],"productStatus":
+Action.c(184): t=19130ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184):     "Active"},{"productId":63,"categoryId":2,"productName":"game of thrones","price":10000.0,"
+Action.c(184):     description":"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","at
+Action.c(184):     tributeValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6
+Action.c(184):      lb","showInFilter":true}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":
+Action.c(184):     "545195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##1501","3683D1##1
+Action.c(184):     502"],"productStatus":"Active"},{"productId":64,"categoryId":2,"productName":"game of thro
+Action.c(184):     nes","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeNa
+Action.c(184):     me":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT"
+Action.c(184):     ,"attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195","name":"PURPLE
+Action.c(184):     ","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1502","36
+Action.c(184):     83D1##1501","545195##1245"],"productStatus":"Active"},{"productId":65,"categoryId":2,"prod
+Action.c(184):     uctName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attr
+Action.c(184):     ibutes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attrib
+Action.c(184):     uteName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"code":"
+Action.c(184):     3683D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"image
+Action.c(184):     s":["3683D1##1501","3683D1##1502","545195##1245"],"productStatus":"Active"},{"productId":6
+Action.c(184):     6,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My book","
+Action.c(184):     imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showIn
+Action.c(184):     Filter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false
+Action.c(184):     }],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE"
+Action.c(184):     ,"inStock":10}],"images":["545195##1245","3683D1##1501","3683D1##1502"],"productStatus":"A
+Action.c(184):     ctive"},{"productId":67,"categoryId":2,"productName":"game of thrones","price":10000.0,"de
+Action.c(184):     scription":"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attr
+Action.c(184):     ibuteValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 l
+Action.c(184):     b","showInFilter":true}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"5
+Action.c(184):     45195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##1501","3683D1##150
+Action.c(184):     2"],"productStatus":"Active"},{"productId":68,"categoryId":2,"productName":"game of throne
+Action.c(184):     s","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName
+Action.c(184):     ":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","
+Action.c(184):     attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195","name":"PURPLE",
+Action.c(184):     "inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1502","3683
+Action.c(184):     D1##1501","545195##1245"],"productStatus":"Active"},{"productId":69,"categoryId":2,"produc
+Action.c(184):     tName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attrib
+Action.c(184):     utes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attribut
+Action.c(184):     eName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"code":"36
+Action.c(184):     83D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images"
+Action.c(184):     :["3683D1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"},{"productId":70,
+Action.c(184):     "categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My book","im
+Action.c(184):     ageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","show
+Action.c(184):     InFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}]
+Action.c(184):     ,"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","
+Action.c(184):     inStock":10}],"images":["3683D1##1501","545195##1245","3683D1##1502"],"productStatus":"Act
+Action.c(184):     ive"},{"productId":71,"categoryId":2,"productName":"game of thrones","price":10000.0,"desc
+Action.c(184):     ription":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeVal
+Action.c(184):     ue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6",
+Action.c(184):     "showInFilter":false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545
+Action.c(184):     195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##1502","3683D1##1501"
+Action.c(184):     ],"productStatus":"Active"},{"productId":72,"categoryId":2,"productName":"game of thrones"
+Action.c(184):     ,"price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":
+Action.c(184):     "WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","a
+Action.c(184):     ttributeValue":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"PURPLE","i
+Action.c(184):     nStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["545195##1245","3683D1
+Action.c(184):     ##1502","3683D1##1501"],"productStatus":"Active"},{"productId":73,"categoryId":2,"productN
+Action.c(184):     ame":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attribut
+Action.c(184):     es":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeN
+Action.c(184):     ame":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"code":"3683
+Action.c(184):     D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":[
+Action.c(184):     "3683D1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"},{"productId":74,"c
+Action.c(184):     ategoryId":2,"productName":"game of thrones","price":10000.0,"description":"My book","imag
+Action.c(184):     eUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showIn
+Action.c(184):     Filter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"
+Action.c(184):     colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","in
+Action.c(184):     Stock":10}],"images":["545195##1245","3683D1##1502","3683D1##1501"],"productStatus":"Activ
+Action.c(184):     e"},{"productId":75,"categoryId":2,"productName":"game of thrones","price":10000.0,"descri
+Action.c(184):     ption":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue
+Action.c(184):     ":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","s
+Action.c(184):     howInFilter":false}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"368
+Action.c(184):     3D1","name":"BLUE","inStock":10}],"images":["3683D1##1502","3683D1##1501","545195##1245"],
+Action.c(184):     "productStatus":"Active"},{"productId":76,"categoryId":2,"productName":"game of thrones","
+Action.c(184):     price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"D
+Action.c(184):     ISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attr
+Action.c(184):     ibuteValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"3683D1","name":"BLUE","inSto
+Action.c(184):     ck":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##
+Action.c(184):     1501","3683D1##1502"],"productStatus":"Active"},{"productId":77,"categoryId":2,"productNam
+Action.c(184):     e":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes
+Action.c(184):     ":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attribu
+Action.c(184):     teName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"3683D1
+Action.c(184):     ","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["3
+Action.c(184):     683D1##1501","3683D1##1502","545195##1245"],"productStatus":"Active"},{"productId":78,"cat
+Action.c(184):     egoryId":2,"productName":"game of thrones","price":10000.0,"description":"My book","imageU
+Action.c(184):     rl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter
+Action.c(184):     ":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"co
+Action.c(184):     lors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inSt
+Action.c(184):     ock":10}],"images":["545195##1245","3683D1##1502","3683D1##1501"],"productStatus":"Active"
+Action.c(184):     },{"productId":79,"categoryId":2,"productName":"game of thrones","price":10000.0,"descript
+Action.c(184):     ion":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":
+Action.c(184):     "2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","sho
+Action.c(184):     wInFilter":false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195"
+Action.c(184):     ,"name":"PURPLE","inStock":10}],"images":["3683D1##1501","3683D1##1502","545195##1245"],"p
+Action.c(184):     roductStatus":"Active"},{"productId":80,"categoryId":2,"productName":"game of thrones","pr
+Action.c(184):     ice":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"DIS
+Action.c(184):     PLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attrib
+Action.c(184):     uteValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"3683D1","name":"BLUE","inStock
+Action.c(184):     ":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##15
+Action.c(184):     02","3683D1##1501"],"productStatus":"Active"},{"productId":81,"categoryId":2,"productName"
+Action.c(184):     :"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":
+Action.c(184):     [{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attribute
+Action.c(184):     Name":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195",
+Action.c(184):     "name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["545
+Action.c(184):     195##1245","3683D1##1502","3683D1##1501"],"productStatus":"Active"},{"productId":82,"categ
+Action.c(184):     oryId":2,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl
+Action.c(184):     ":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":
+Action.c(184):     true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colo
+Action.c(184):     rs":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStoc
+Action.c(184):     k":10}],"images":["545195##1245","3683D1##1501","3683D1##1502"],"productStatus":"Active"},
+Action.c(184):     {"productId":83,"categoryId":2,"productName":"game of thrones","price":10000.0,"descriptio
+Action.c(184):     n":"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeVal
+Action.c(184):     ue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","show
+Action.c(184):     InFilter":true}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1"
+Action.c(184):     ,"name":"BLUE","inStock":10}],"images":["3683D1##1502","545195##1245","3683D1##1501"],"pro
+Action.c(184):     ductStatus":"Active"},{"productId":84,"categoryId":2,"productName":"game of thrones","pric
+Action.c(184):     e":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGH
+Action.c(184):     T","attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attribu
+Action.c(184):     teValue":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"PURPLE","inStock
+Action.c(184):     ":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1502","3683D1##1501
+Action.c(184):     ","545195##1245"],"productStatus":"Active"},{"productId":86,"categoryId":2,"productName":"
+Action.c(184):     game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{
+Action.c(184):     "attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeNa
+Action.c(184):     me":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195","n
+Action.c(184):     ame":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D
+Action.c(184):     1##1501","545195##1245","3683D1##1502"],"productStatus":"Active"},{"productId":87,"categor
+Action.c(184):     yId":2,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":
+Action.c(184):     "1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":tr
+Action.c(184):     ue},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colors
+Action.c(184):     ":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock"
+Action.c(184):     :10}],"images":["545195##1245","3683D1##1501","3683D1##1502"],"productStatus":"Active"},{"
+Action.c(184):     productId":88,"categoryId":2,"productName":"game of thrones","price":10000.0,"description"
+Action.c(184):     :"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6
+Action.c(184):      lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInF
+Action.c(184):     ilter":false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195","na
+Action.c(184):     me":"PURPLE","inStock":10}],"images":["3683D1##1501","3683D1##1502","545195##1245"],"produ
+Action.c(184):     ctStatus":"Active"},{"productId":89,"categoryId":2,"productName":"game of thrones","price"
+Action.c(184):     :10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT"
+Action.c(184):     ,"attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attribute
+Action.c(184):     Value":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"PURPLE","inStock":
+Action.c(184):     10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1501","545195##1245",
+Action.c(184):     "3683D1##1502"],"productStatus":"Active"},{"prod
+Action.c(184): t=19134ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184):     uctId":90,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My
+Action.c(184):      book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb"
+Action.c(184):     ,"showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilte
+Action.c(184):     r":false}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name
+Action.c(184):     ":"BLUE","inStock":10}],"images":["545195##1245","3683D1##1501","3683D1##1502"],"productSt
+Action.c(184):     atus":"Active"},{"productId":91,"categoryId":2,"productName":"game of thrones","price":100
+Action.c(184):     00.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","at
+Action.c(184):     tributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValu
+Action.c(184):     e":"11.6","showInFilter":false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"
+Action.c(184):     code":"545195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##1501","368
+Action.c(184):     3D1##1502"],"productStatus":"Active"},{"productId":92,"categoryId":2,"productName":"game o
+Action.c(184):     f thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attri
+Action.c(184):     buteName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLA
+Action.c(184):     Y SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"
+Action.c(184):     PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["545195##124
+Action.c(184):     5","3683D1##1501","3683D1##1502"],"productStatus":"Active"},{"productId":93,"categoryId":2
+Action.c(184):     ,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245"
+Action.c(184):     ,"attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"
+Action.c(184):     attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"c
+Action.c(184):     ode":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],
+Action.c(184):     "images":["3683D1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"},{"produc
+Action.c(184):     tId":94,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My b
+Action.c(184):     ook","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.
+Action.c(184):     6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter
+Action.c(184):     ":true}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":
+Action.c(184):     "BLUE","inStock":10}],"images":["3683D1##1501","3683D1##1502","545195##1245"],"productStat
+Action.c(184):     us":"Active"},{"productId":95,"categoryId":2,"productName":"game of thrones","price":10000
+Action.c(184):     .0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attr
+Action.c(184):     ibuteValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue"
+Action.c(184):     :"11.6","showInFilter":false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"co
+Action.c(184):     de":"545195","name":"PURPLE","inStock":10}],"images":["3683D1##1501","3683D1##1502","54519
+Action.c(184):     5##1245"],"productStatus":"Active"},{"productId":96,"categoryId":2,"productName":"game of 
+Action.c(184):     thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attribu
+Action.c(184):     teName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY 
+Action.c(184):     SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"PU
+Action.c(184):     RPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["545195##1245"
+Action.c(184):     ,"3683D1##1501","3683D1##1502"],"productStatus":"Active"},{"productId":97,"categoryId":2,"
+Action.c(184):     productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","
+Action.c(184):     attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}
+Action.c(184):     ,{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"cod
+Action.c(184):     e":"3683D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"i
+Action.c(184):     mages":["3683D1##1501","3683D1##1502","545195##1245"],"productStatus":"Active"},{"productI
+Action.c(184):     d":98,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My boo
+Action.c(184):     k","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","sh
+Action.c(184):     owInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":f
+Action.c(184):     alse}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"B
+Action.c(184):     LUE","inStock":10}],"images":["545195##1245","3683D1##1501","3683D1##1502"],"productStatus
+Action.c(184):     ":"Active"},{"productId":99,"categoryId":2,"productName":"game of thrones","price":10000.0
+Action.c(184):     ,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attrib
+Action.c(184):     uteValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"
+Action.c(184):     11.6","showInFilter":false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code
+Action.c(184):     ":"545195","name":"PURPLE","inStock":10}],"images":["545195##1245","3683D1##1502","3683D1#
+Action.c(184):     #1501"],"productStatus":"Active"},{"productId":100,"categoryId":2,"productName":"game of t
+Action.c(184):     hrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attribut
+Action.c(184):     eName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY S
+Action.c(184):     IZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"code":"3683D1","name":"BLU
+Action.c(184):     E","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["3683D1##1502",
+Action.c(184):     "545195##1245","3683D1##1501"],"productStatus":"Active"},{"productId":101,"categoryId":2,"
+Action.c(184):     productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245","
+Action.c(184):     attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},{"at
+Action.c(184):     tributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{"cod
+Action.c(184):     e":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"i
+Action.c(184):     mages":["3683D1##1501","3683D1##1502","545195##1245"],"productStatus":"Active"},{"productI
+Action.c(184):     d":102,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My bo
+Action.c(184):     ok","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","s
+Action.c(184):     howInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":
+Action.c(184):     false}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"
+Action.c(184):     BLUE","inStock":10}],"images":["3683D1##1501","3683D1##1502","545195##1245"],"productStatu
+Action.c(184):     s":"Active"},{"productId":103,"categoryId":2,"productName":"game of thrones","price":10000
+Action.c(184):     .0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE"
+Action.c(184):     ,"attributeValue":"11.6","showInFilter":false},{"attributeName":"WEIGHT","attributeValue":
+Action.c(184):     "2.6 lb","showInFilter":true}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"co
+Action.c(184):     de":"545195","name":"PURPLE","inStock":10}],"images":["3683D1##1502","3683D1##1501","54519
+Action.c(184):     5##1245"],"productStatus":"Active"},{"productId":104,"categoryId":2,"productName":"game of
+Action.c(184):      thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attrib
+Action.c(184):     uteName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"WE
+Action.c(184):     IGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"3683D1","name":"B
+Action.c(184):     LUE","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["545195##1245
+Action.c(184):     ","3683D1##1502","3683D1##1501"],"productStatus":"Active"},{"productId":105,"categoryId":2
+Action.c(184):     ,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"1245"
+Action.c(184):     ,"attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":fals
+Action.c(184):     e},{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"c
+Action.c(184):     ode":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],
+Action.c(184):     "images":["3683D1##1502","3683D1##1501","545195##1245"],"productStatus":"Active"},{"produc
+Action.c(184):     tId":106,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"My 
+Action.c(184):     book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb",
+Action.c(184):     "showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter
+Action.c(184):     ":false}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name"
+Action.c(184):     :"BLUE","inStock":10}],"images":["3683D1##1502","3683D1##1501","545195##1245"],"productSta
+Action.c(184):     tus":"Active"},{"productId":107,"categoryId":2,"productName":"game of thrones","price":100
+Action.c(184):     00.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","at
+Action.c(184):     tributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValu
+Action.c(184):     e":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},
+Action.c(184):     {"code":"3683D1","name":"BLUE","inStock":10}],"images":["545195##1245","3683D1##1501","368
+Action.c(184):     3D1##1502"],"productStatus":"Active"},{"productId":108,"categoryId":2,"productName":"game 
+Action.c(184):     of thrones","price":10000.0,"description":"My book","imageUrl":"1245","attributes":[{"attr
+Action.c(184):     ibuteName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false},{"attributeName":"
+Action.c(184):     WEIGHT","attributeValue":"2.6 lb","showInFilter":true}],"colors":[{"code":"545195","name":
+Action.c(184):     "PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##15
+Action.c(184):     02","545195##1245","3683D1##1501"],"productStatus":"Active"},{"productId":109,"categoryId"
+Action.c(184):     :2,"productName":"game of thrones","price":10000.0,"description":"My book","imageUrl":"124
+Action.c(184):     5","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb","showInFilter":true},
+Action.c(184):     {"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilter":false}],"colors":[{
+Action.c(184):     "code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}
+Action.c(184):     ],"images":["545195##1245","3683D1##1501","3683D1##1502"],"productStatus":"Active"},{"prod
+Action.c(184):     uctId":110,"categoryId":2,"productName":"game of thrones","price":10000.0,"description":"M
+Action.c(184):     y book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","attributeValue":"2.6 lb
+Action.c(184):     ","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6","showInFilt
+Action.c(184):     er":false}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","nam
+Action.c(184):     e":"BLUE","inStock":10}],"images":["3683D1##1502","3683D1##1501","545195##1245"],"productS
+Action.c(184):     tatus":"Active"},{"productId":111,"categoryId":2,"productName":"game of thrones","price":1
+Action.c(184):     0000.0,"description":"My book","imageUrl":"1245","attributes":[{"attributeName":"WEIGHT","
+Action.c(184):     attributeValue":"2.6 lb","showInFilter":true},{"attributeName":"DISPLAY SIZE","attributeVa
+Action.c(184):     lue":"11.6","showInFilter":false}],"colors":[{"code":"545195","name":"PURPLE","inStock":10
+Action.c(184):     },{"code":"3683D1","name":"BLUE","inStock":10}],"images":["3683D1##1502","3683D1##1501","5
+Action.c(184):     45195##1245"],"productStatus":"Active"},{"productId":12,"categoryId":2,"productName":"HP H
+Action.c(184):     2310 In-ear Headset","price":13.99,"description":"Enjoy an acoustic concert in your ears w
+Action.c(184):     ith HP\xE2\x80\x99s In-Ear Headset H2310. Available in trend-setting design in four color 
+Action.c(184):     options and compatible with most smartphones, MP3 players and tablets \xE2\x80\x93 includi
+Action.c(184):     ng Android\xE2\x84\xA2 and Apple\xC2\xAE. Easily switch from jamming to tunes to connectin
+Action.c(184):     g with friends using the inline microphone. Quality craftsmanship, value priced, and aweso
+Action.c(184):     me sound.","imageUrl":"2100","attributes":[{"attributeName":"COMPATIBILITY","attributeValu
+Action.c(184):     e":"Compatible with most notebook PCs, netbooks, tablets, mobile phones, and MP3 players w
+Action.c(184):     ith a 3.5 mm port available.","showInFilter":true},{"attributeName":"WEIGHT","attributeVal
+Action.c(184):     ue":"0.03 lb","showInFilter":true},{"attributeName":"CONNECTOR","attributeValue":"Jack 3.5
+Action.c(184):      mm","showInFilter":true}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code"
+Action.c(184):     :"3683D1","name":"BLUE","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10},{"code"
+Action.c(184):     :"545195","name":"PURPLE","inStock":10},{"code":"55CDD5","name":"TURQUOISE","inStock":10},
+Action.c(184):     {"code":"FCC23D","name":"YELLOW","inStock":10},{"code":"DD3A5B","name":"RED","inStock":10}
+Action.c(184):     ,{"code":"FFFFFF","name":"WHITE","inStock":10}],"images":["ABCDEF##2100"],"productStatus":
+Action.c(184):     "Active"},{"productId":14,"categoryId":2,"productName":"Logitech USB Headset H390","price"
+Action.c(184):     :39.99,"description":"Features on this product will exceeded your expectations.","imageUrl
+Action.c(184):     ":"2400","attributes":[{"attributeName":"WEIGHT","attributeValue":"0.07 lb","showInFilter"
+Action.c(184):     :true},{"attributeName":"CONNECTOR","attributeValue":"Jack 3.5 mm","showInFilter":true},{"
+Action.c(184):     attributeName":"COMPATIBILITY","attributeValue":"Compatible with most notebook PCs, netboo
+Action.c(184):     ks, tablets, mobile phones, and MP3 players with a 3.5 mm port available.","showInFilter":
+Action.c(184):     true}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"55CDD5","
+Action.c(184): t=19138ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184):     name":"TURQUOISE","inStock":10},{"code":"FCC23D","name":"YELLOW","inStock":10}],"images":[
+Action.c(184):     "ABCDEF##2400"],"productStatus":"Active"}],"colors":["414141","3683D1","545195","C3C3C3","
+Action.c(184):     DD3A5B","55CDD5","FFFFFF","FCC23D"]},{"categoryId":3,"categoryName":"TABLETS","categoryIma
+Action.c(184):     geId":"tablets","promotedProduct":{"id":16,"staringPrice":"1429","promotionHeader":"TRAVEL
+Action.c(184):      CONFIDENTLY AND IN STYLE","promotionSubHeader":"Built for durability and mobility","produ
+Action.c(184):     ctName":"HP ElitePad 1000 G2 Tablet","price":1009.0,"description":"More than a tablet\xE2\x80
+Action.c(184):     \x94a total business solution. The elegant and sleek HP ElitePad 1000 G2 has the performan
+Action.c(184):     ce and flexibility to transform the way you work. Redefine productivity and stay light wit
+Action.c(184):     h the confidence of the leading manageability, security, and support you expect from HP.",
+Action.c(184):     "imageUrl":"3100","attributes":[{"attributeName":"OPERATING SYSTEM","attributeValue":"Wind
+Action.c(184):     ows 8.1 Pro 64"},{"attributeName":"PROCESSOR","attributeValue":"Intel\xC2\xAE Atom\xC2\xAE
+Action.c(184):      Z3795 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache, 4 cores)"},{"att
+Action.c(184):     ributeName":"DISPLAY","attributeValue":"10.1\\" diagonal WXGA UWVA (1900 x 1200), capaciti
+Action.c(184):     ve multi-touch screen with digitizer, Corning\xC2\xAE Gorilla\xC2\xAE Glass 3 with anti-sm
+Action.c(184):     udge coating"},{"attributeName":"GRAPHICS","attributeValue":"Intel HD Graphics"},{"attribu
+Action.c(184):     teName":"MEMORY","attributeValue":"4 GB 1067 MHz LPDDR3 SDRAM"}]},"attributes":[{"attribut
+Action.c(184):     eName":"GRAPHICS","attributeValues":["Intel\xC2\xAE HD Graphics 5300","Intel HD Graphics",
+Action.c(184):     "Intel\xC2\xAE HD Graphics"]},{"attributeName":"OPERATING SYSTEM","attributeValues":["Wind
+Action.c(184):     ows 8.1 Pro 64"]},{"attributeName":"PROCESSOR","attributeValues":["Intel\xC2\xAE Core\xE2\x84
+Action.c(184):     \xA2 M-5Y71 with Intel HD Graphics 5300 (1.2 GHz, up to 2.9 GHz with Intel Turbo Boost Tec
+Action.c(184):     hnology, 4 MB cache, 2 cores)","Intel\xC2\xAE Atom\xE2\x84\xA2 x5-Z8500 with Intel HD Grap
+Action.c(184):     hics (1.44 GHz, up to 2.24 GHz using Intel Burst Technology, 2 MB cache, 4 cores)","Intel\xC2
+Action.c(184):     \xAE Atom\xC2\xAE Z3795 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache,
+Action.c(184):      4 cores)"]},{"attributeName":"MEMORY","attributeValues":["8 GB 1600 MHz LPDDR3 SDRAM (onb
+Action.c(184):     oard)","4 GB 1067 MHz LPDDR3 SDRAM","2 GB LPDDR3-1600 SDRAM"]},{"attributeName":"DISPLAY",
+Action.c(184):     "attributeValues":["11.6\\" diagonal FHD BrightView eDP ultra-slim LED-backlit touch scree
+Action.c(184):     n (1920 x 1080)","7.9\\" diagonal FHD multi-touch display with Corning\xC2\xAE Gorilla\xC2
+Action.c(184):     \xAE Glass\xC2\xAE (2048 x 1536)","10.1\\" diagonal WXGA UWVA (1900 x 1200), capacitive mu
+Action.c(184):     lti-touch screen with digitizer, Corning\xC2\xAE Gorilla\xC2\xAE Glass 3 with anti-smudge 
+Action.c(184):     coating"]}],"products":[{"productId":16,"categoryId":3,"productName":"HP ElitePad 1000 G2 
+Action.c(184):     Tablet","price":1009.0,"description":"More than a tablet\xE2\x80\x94a total business solut
+Action.c(184):     ion. The elegant and sleek HP ElitePad 1000 G2 has the performance and flexibility to tran
+Action.c(184):     sform the way you work. Redefine productivity and stay light with the confidence of the le
+Action.c(184):     ading manageability, security, and support you expect from HP.","imageUrl":"3100","attribu
+Action.c(184):     tes":[{"attributeName":"OPERATING SYSTEM","attributeValue":"Windows 8.1 Pro 64","showInFil
+Action.c(184):     ter":false},{"attributeName":"PROCESSOR","attributeValue":"Intel\xC2\xAE Atom\xC2\xAE Z379
+Action.c(184):     5 (1.6 GHz, up to 2.39 GHz using Intel Burst Technology, 2 MB cache, 4 cores)","showInFilt
+Action.c(184):     er":true},{"attributeName":"DISPLAY","attributeValue":"10.1\\" diagonal WXGA UWVA (1900 x 
+Action.c(184):     1200), capacitive multi-touch screen with digitizer, Corning\xC2\xAE Gorilla\xC2\xAE Glass
+Action.c(184):      3 with anti-smudge coating","showInFilter":true},{"attributeName":"GRAPHICS","attributeVa
+Action.c(184):     lue":"Intel HD Graphics","showInFilter":false},{"attributeName":"MEMORY","attributeValue":
+Action.c(184):     "4 GB 1067 MHz LPDDR3 SDRAM","showInFilter":false}],"colors":[{"code":"414141","name":"BLU
+Action.c(184):     E","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF##3103","A
+Action.c(184):     BCDEF##3102","ABCDEF##3101","ABCDEF##3100"],"productStatus":"Active"},{"productId":17,"cat
+Action.c(184):     egoryId":3,"productName":"HP Elite x2 1011 G1 Tablet","price":1279.0,"description":"Ultrab
+Action.c(184):     ook\xE2\x84\xA2[2] Power\\nPower up for ultimate power with Windows 8.1,[1] 5th Gen Intel\xC2
+Action.c(184):     \xAE Core\xE2\x84\xA2 M processors,[4] with optional vPro\xE2\x84\xA2[5] and long battery 
+Action.c(184):     life provided by dual tablet and keyboard base batteries.","imageUrl":"3200","attributes":
+Action.c(184):     [{"attributeName":"PROCESSOR","attributeValue":"Intel\xC2\xAE Core\xE2\x84\xA2 M-5Y71 with
+Action.c(184):      Intel HD Graphics 5300 (1.2 GHz, up to 2.9 GHz with Intel Turbo Boost Technology, 4 MB ca
+Action.c(184):     che, 2 cores)","showInFilter":true},{"attributeName":"MEMORY","attributeValue":"8 GB 1600 
+Action.c(184):     MHz LPDDR3 SDRAM (onboard)","showInFilter":false},{"attributeName":"GRAPHICS","attributeVa
+Action.c(184):     lue":"Intel\xC2\xAE HD Graphics 5300","showInFilter":false},{"attributeName":"OPERATING SY
+Action.c(184):     STEM","attributeValue":"Windows 8.1 Pro 64","showInFilter":false},{"attributeName":"DISPLA
+Action.c(184):     Y","attributeValue":"11.6\\" diagonal FHD BrightView eDP ultra-slim LED-backlit touch scre
+Action.c(184):     en (1920 x 1080)","showInFilter":true}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock"
+Action.c(184):     :10},{"code":"414141","name":"BLACK","inStock":10}],"images":["ABCDEF##3201","ABCDEF##3202
+Action.c(184):     ","ABCDEF##3200"],"productStatus":"Active"},{"productId":18,"categoryId":3,"productName":"
+Action.c(184):     HP Pro Tablet 608 G1","price":479.0,"description":"Transform your business with this small
+Action.c(184):      stylish business tablet equipped with a brilliant, high definition display and the pervas
+Action.c(184):     ive connectivity to mobilize nearly any business process. Choose from an expansive choice 
+Action.c(184):     of accessories[2] for a customized experience.","imageUrl":"3300","attributes":[{"attribut
+Action.c(184):     eName":"GRAPHICS","attributeValue":"Intel\xC2\xAE HD Graphics","showInFilter":false},{"att
+Action.c(184):     ributeName":"OPERATING SYSTEM","attributeValue":"Windows 8.1 Pro 64","showInFilter":false}
+Action.c(184):     ,{"attributeName":"DISPLAY","attributeValue":"7.9\\" diagonal FHD multi-touch display with
+Action.c(184):      Corning\xC2\xAE Gorilla\xC2\xAE Glass\xC2\xAE (2048 x 1536)","showInFilter":true},{"attri
+Action.c(184):     buteName":"PROCESSOR","attributeValue":"Intel\xC2\xAE Atom\xE2\x84\xA2 x5-Z8500 with Intel
+Action.c(184):      HD Graphics (1.44 GHz, up to 2.24 GHz using Intel Burst Technology, 2 MB cache, 4 cores)"
+Action.c(184):     ,"showInFilter":true},{"attributeName":"MEMORY","attributeValue":"2 GB LPDDR3-1600 SDRAM",
+Action.c(184):     "showInFilter":false}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"C3
+Action.c(184):     C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF##3300","ABCDEF##3302","ABCDEF##3301",
+Action.c(184):     "ABCDEF##3303"],"productStatus":"Active"}],"colors":["414141","C3C3C3"]},{"categoryId":4,"
+Action.c(184):     categoryName":"SPEAKERS","categoryImageId":"speakers","promotedProduct":{"id":19,"staringP
+Action.c(184):     rice":"200","promotionHeader":"ENJOY PREMIUM SOUND","promotionSubHeader":"Colorful style m
+Action.c(184):     eets serious sound","productName":"HP S9500 Bluetooth Wireless Speaker","price":200.0,"des
+Action.c(184):     cription":"Impress \xE2\x80\xA6 everyone! Futuristic design with perforated steel formed i
+Action.c(184):     nto subtle angles. Requiring only minimal space, this speaker is the ideal complement to a
+Action.c(184):     ny setting.","imageUrl":"4100","attributes":[{"attributeName":"CONNECTOR","attributeValue"
+Action.c(184):     :"Wireless"},{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"},{
+Action.c(184):     "attributeName":"MANUFACTURER","attributeValue":"HP"},{"attributeName":"WEIGHT","attribute
+Action.c(184):     Value":"1.95 lb"},{"attributeName":"COMPATIBILITY","attributeValue":"Any device that has b
+Action.c(184):     luetooth enabled"}]},"attributes":[{"attributeName":"CONNECTOR","attributeValues":["Wirele
+Action.c(184):     ss"]},{"attributeName":"COMPATIBILITY","attributeValues":["Any device that has bluetooth e
+Action.c(184):     nabled or a 3.5 mm audio connector.","Any device that has bluetooth enabled"]},{"attribute
+Action.c(184):     Name":"WEIGHT","attributeValues":["3.03 lb","1.95 lb","0.55 lb","1.26 lb","1.1 lb","1.25 l
+Action.c(184):     b","1.0 lb"]},{"attributeName":"WIRELESS TECHNOLOGY","attributeValues":["Bluetooh\xC2\xAE"
+Action.c(184):     ,"Bluetooth\xC2\xAE"]},{"attributeName":"MANUFACTURER","attributeValues":["Bose","Logitech
+Action.c(184):     ","HP"]}],"products":[{"productId":20,"categoryId":4,"productName":"Bose Soundlink Bluetoo
+Action.c(184):     th Speaker III","price":269.99,"description":"Meet the speaker that brings your music and 
+Action.c(184):     friends together-with a style that's all your own. The SoundLink\xC2\xAE Bluetooth speaker
+Action.c(184):      III is our best-performing mobile Bluetooth speaker. It plays louder and longer than its 
+Action.c(184):     popular predecessor, with advanced Bose\xC2\xAE technologies that reproduce the fullness, 
+Action.c(184):     clarity and depth of your music. And a colorful assortment of optional covers let you pers
+Action.c(184):     onalize your speaker.","imageUrl":"4200","attributes":[{"attributeName":"COMPATIBILITY","a
+Action.c(184):     ttributeValue":"Any device that has bluetooth enabled","showInFilter":true},{"attributeNam
+Action.c(184):     e":"CONNECTOR","attributeValue":"Wireless","showInFilter":true},{"attributeName":"WEIGHT",
+Action.c(184):     "attributeValue":"3.03 lb","showInFilter":true},{"attributeName":"WIRELESS TECHNOLOGY","at
+Action.c(184):     tributeValue":"Bluetooh\xC2\xAE","showInFilter":true},{"attributeName":"MANUFACTURER","att
+Action.c(184):     ributeValue":"Bose","showInFilter":true}],"colors":[{"code":"C3C3C3","name":"GRAY","inStoc
+Action.c(184):     k":10},{"code":"414141","name":"BLACK","inStock":10}],"images":["ABCDEF##4200"],"productSt
+Action.c(184):     atus":"Active"},{"productId":25,"categoryId":4,"productName":"Bose SoundLink Wireless Spea
+Action.c(184):     ker","price":129.0,"description":"If music is your motivation, wait until you hear the Sou
+Action.c(184):     ndLink\xC2\xAE Color Bluetooth speaker. It plays your favorite tunes from your favorite Bl
+Action.c(184):     uetooth device-out loud in clear, full audio-just about anywhere you want to go. It's smal
+Action.c(184):     l, durable and simple to use. And it comes in a spectrum of colors to match almost any sty
+Action.c(184):     le.","imageUrl":"4700","attributes":[{"attributeName":"COMPATIBILITY","attributeValue":"An
+Action.c(184):     y device that has bluetooth enabled or a 3.5 mm audio connector.","showInFilter":true},{"a
+Action.c(184):     ttributeName":"CONNECTOR","attributeValue":"Wireless","showInFilter":true},{"attributeName
+Action.c(184):     ":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE","showInFilter":true},{"attribu
+Action.c(184):     teName":"WEIGHT","attributeValue":"1.25 lb","showInFilter":true},{"attributeName":"MANUFAC
+Action.c(184):     TURER","attributeValue":"Bose","showInFilter":true}],"colors":[{"code":"55CDD5","name":"TU
+Action.c(184):     RQUOISE","inStock":10},{"code":"414141","name":"BLACK","inStock":10},{"code":"DD3A5B","nam
+Action.c(184):     e":"RED","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["DD3A5B##47
+Action.c(184):     02","55CDD5##4700","414141##4701","3683D1##4704"],"productStatus":"Active"},{"productId":2
+Action.c(184):     4,"categoryId":4,"productName":"HP Roar Mini Wireless Speaker","price":44.99,"description"
+Action.c(184):     :"Attention-getting design, color, and sound - the HP Roar Mini Wireless Speaker. Exceptio
+Action.c(184):     nal size-defying audio while streaming music and calls from a distinctively compact speake
+Action.c(184):     r.","imageUrl":"4600","attributes":[{"attributeName":"COMPATIBILITY","attributeValue":"Any
+Action.c(184):      device that has bluetooth enabled or a 3.5 mm audio connector.","showInFilter":true},{"at
+Action.c(184):     tributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":true},{"attributeName":"W
+Action.c(184):     EIGHT","attributeValue":"0.55 lb","showInFilter":true},{"attributeName":"WIRELESS TECHNOLO
+Action.c(184):     GY","attributeValue":"Bluetooh\xC2\xAE","showInFilter":true},{"attributeName":"CONNECTOR",
+Action.c(184):     "attributeValue":"Wireless","showInFilter":true}],"colors":[{"code":"DD3A5B","name":"RED",
+Action.c(184):     "inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"414141","name":"BLACK"
+Action.c(184):     ,"inStock":10},{"code":"FCC23D","name":"YELLOW","inStock":10}],"images":["414141##4602","C
+Action.c(184):     3C3C3##4603","FCC23D##4601","DD3A5B##4600"],"productStatus":"Active"},{"productId":21,"cat
+Action.c(184):     egoryId":4,"productName":"HP Roar Plus Wireless Speaker","price":169.99,"description":"Sho
+Action.c(184):     wcase your music anywhere with the ease of wireless Bluetooth\xC2\xAE connectivity.","imag
+Action.c(184):     eUrl":"4300","attributes":[{"attributeName":"CONNECTOR","attributeValue":"Wireless","showI
+Action.c(184):     nFilter":true},{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooth\xC2\xAE"
+Action.c(184):     ,"showInFilter":true},{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter"
+Action.c(184):     :true},{"attributeName":"WEIGHT","attributeValue":"1.26 lb","showInFilter":true},{"attribu
+Action.c(184):     teName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth enabled","showInFi
+Action.c(184):     lter":true}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195","name
+Action.c(184):     ":"PURPLE","inStock":10},{"code":"414141","name":"BLACK","inStock":10}],"images":["3683D1#
+Action.c(184):     #4301","414141##4304","3683D1##4300","545195##4308"],"productStatus":"Active"},{"productId
+Action.c(184):     ":22,"categoryId":4,"productName":"HP Roar Wireless Speaker","price":84.99,"description":"
+Action.c(184):     Showcase your music anywhere with the ease of wireless Bluetooth\xC2\xAE connectivity.","i
+Action.c(184):     mageUrl":"4400","attributes":[{"attributeName":"CONNECTOR","attributeValue":"Wireless","sh
+Action.c(184):     owInFilter":true},{"attributeName":"COMPATIBILITY","attributeValue":"Any device that has b
+Action.c(184):     luetooth
+Action.c(184): t=19143ms: 2855-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184):      enabled","showInFilter":true},{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bl
+Action.c(184):     uetooh\xC2\xAE","showInFilter":true},{"attributeName":"MANUFACTURER","attributeValue":"HP"
+Action.c(184):     ,"showInFilter":true},{"attributeName":"WEIGHT","attributeValue":"1.1 lb","showInFilter":t
+Action.c(184):     rue}],"colors":[{"code":"FFFFFF","name":"WHITE","inStock":10},{"code":"FCC23D","name":"YEL
+Action.c(184):     LOW","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["FFFFFF##4401",
+Action.c(184):     "3683D1##4404","FCC23D##4408","FFFFFF##4400"],"productStatus":"Active"},{"productId":19,"c
+Action.c(184):     ategoryId":4,"productName":"HP S9500 Bluetooth Wireless Speaker","price":200.0,"descriptio
+Action.c(184):     n":"Impress \xE2\x80\xA6 everyone! Futuristic design with perforated steel formed into sub
+Action.c(184):     tle angles. Requiring only minimal space, this speaker is the ideal complement to any sett
+Action.c(184):     ing.","imageUrl":"4100","attributes":[{"attributeName":"CONNECTOR","attributeValue":"Wirel
+Action.c(184):     ess","showInFilter":true},{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetoo
+Action.c(184):     h\xC2\xAE","showInFilter":true},{"attributeName":"MANUFACTURER","attributeValue":"HP","sho
+Action.c(184):     wInFilter":true},{"attributeName":"WEIGHT","attributeValue":"1.95 lb","showInFilter":true}
+Action.c(184):     ,{"attributeName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth enabled"
+Action.c(184):     ,"showInFilter":true}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"FFF
+Action.c(184):     FFF","name":"WHITE","inStock":10}],"images":["ABCDEF##4100","ABCDEF##4101"],"productStatus
+Action.c(184):     ":"Active"},{"productId":23,"categoryId":4,"productName":"Logitech X100 Speaker System - W
+Action.c(184):     ireless Speaker(s)","price":49.99,"description":"Pump up the volume and enjoy crystal-clea
+Action.c(184):     r sound from this mobile speaker. This portable speaker is perfect for life on-the-go. Tak
+Action.c(184):     e it on the road or relax and listen at home because this mobile speaker goes everywhere. 
+Action.c(184):     Simple, intuitive design lets you wirelessly connect and stream music from your Bluetooth-
+Action.c(184):     enabled device from up to 30' away. Easily manage phone calls and volume control from your
+Action.c(184):      mobile phone. Enjoy five hours of continuous play before you need to recharge. Recharge t
+Action.c(184):     he built-in, lithium-ion battery with the convenience of the included micro-USB cable.","i
+Action.c(184):     mageUrl":"4500","attributes":[{"attributeName":"MANUFACTURER","attributeValue":"Logitech",
+Action.c(184):     "showInFilter":true},{"attributeName":"CONNECTOR","attributeValue":"Wireless","showInFilte
+Action.c(184):     r":true},{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE","showI
+Action.c(184):     nFilter":true},{"attributeName":"WEIGHT","attributeValue":"1.0 lb","showInFilter":true},{"
+Action.c(184):     attributeName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth enabled","s
+Action.c(184):     howInFilter":true}],"colors":[{"code":"414141","name":"BLACK","inStock":10}],"images":["41
+Action.c(184):     4141##4500"],"productStatus":"Active"}],"colors":["414141","3683D1","545195","C3C3C3","DD3
+Action.c(184):     A5B","55CDD5","FFFFFF","FCC23D"]},{"categoryId":5,"categoryName":"MICE","categoryImageId":
+Action.c(184):     "m
+Action.c(184): t=19144ms: 1927-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184): t=19144ms: 10525-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=53)
+Action.c(184):     ice","promotedProduct":{"id":28,"staringPrice":"29.99","promotionHeader":"DISCOVER OUR WIR
+Action.c(184):     ELESS MICE","promotionSubHeader":"designed to work and ready to play","productName":"HP Z3
+Action.c(184):     200 Wireless Mouse","price":29.99,"description":"The HP Wireless Mouse Z3200 provides powe
+Action.c(184):     rful Blue LED optical tracking. Its ambidextrous shape and familiar button controls are ea
+Action.c(184):     sy to use. Compact contoured control.","imageUrl":"5300","attributes":[{"attributeName":"T
+Action.c(184):     YPE","attributeValue":"Mouse"},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll W
+Action.c(184):     heel"},{"attributeName":"MANUFACTURER","attributeValue":"HP"},{"attributeName":"SENSOR RES
+Action.c(184):     OLUTION","attributeValue":"1600 dpi optical sensor"},{"attributeName":"CONNECTOR","attribu
+Action.c(184):     teValue":"Wireless"}]},"attributes":[{"attributeName":"CONNECTOR","attributeValues":["Wire
+Action.c(184):     less","USB Cord","Bluetooth\xC2\xAE"]},{"attributeName":"SENSOR RESOLUTION","attributeValu
+Action.c(184):     es":["1000 dpi optical sensor","N/A","1600 dpi","1600 dpi optical sensor","1000 dpi"]},{"a
+Action.c(184):     ttributeName":"TYPE","attributeValues":["Trackball","Mouse"]},{"attributeName":"MANUFACTUR
+Action.c(184):     ER","attributeValues":["Logitech","HP","Microsoft","Kensington"]},{"attributeName":"SCROLL
+Action.c(184):     ER TYPE","attributeValues":["Scroll Whell","Scroll Ball","Scroll Wheel","Touch Scroll","Sc
+Action.c(184):     roll Ring"]}],"products":[{"productId":29,"categoryId":5,"productName":"HP USB 3 Button Op
+Action.c(184):     tical Mouse","price":9.99,"description":"Smooth and Accurate - The HP USB 3-Button Optical
+Action.c(184):      Mouse is the affordable desktop optical mouse solution that combines functionality with s
+Action.c(184):     tyle","imageUrl":"5400","attributes":[{"attributeName":"TYPE","attributeValue":"Mouse","sh
+Action.c(184):     owInFilter":false},{"attributeName":"SENSOR RESOLUTION","attributeValue":"1000 dpi optical
+Action.c(184):      sensor","showInFilter":false},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll W
+Action.c(184):     hell","showInFilter":true},{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFi
+Action.c(184):     lter":false},{"attributeName":"CONNECTOR","attributeValue":"USB Cord","showInFilter":false
+Action.c(184):     }],"colors":[{"code":"414141","name":"BLACK","inStock":10}],"images":["414141##5400"],"pro
+Action.c(184):     ductStatus":"Active"},{"productId":28,"categoryId":5,"productName":"HP Z3200 Wireless Mous
+Action.c(184):     e","price":29.99,"description":"The HP Wireless Mouse Z3200 provides powerful Blue LED opt
+Action.c(184):     ical tracking. Its ambidextrous shape and familiar button controls are easy to use. Compac
+Action.c(184):     t contoured control.","imageUrl":"5300","attributes":[{"attributeName":"TYPE","attributeVa
+Action.c(184):     lue":"Mouse","showInFilter":false},{"attributeName":"SCROLLER TYPE","attributeValue":"Scro
+Action.c(184):     ll Wheel","showInFilter":true},{"attributeName":"MANUFACTURER","attributeValue":"HP","show
+Action.c(184):     InFilter":false},{"attributeName":"SENSOR RESOLUTION","attributeValue":"1600 dpi optical s
+Action.c(184):     ensor","showInFilter":false},{"attributeName":"CONNECTOR","attributeValue":"Wireless","sho
+Action.c(184):     wInFilter":false}],"colors":[{"code":"FFFFFF","name":"WHITE","inStock":10},{"code":"DD3A5B
+Action.c(184):     ","name":"RED","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["DD3A
+Action.c(184):     5B##5301","FFFFFF##5300","C3C3C3##5304","FFFFFF##5304","C3C3C3##5300","FFFFFF##5306"],"pro
+Action.c(184):     ductStatus":"Active"},{"productId":27,"categoryId":5,"productName":"HP Z3600 Wireless Mous
+Action.c(184):     e","price":15.99,"description":"The tiny HP Wireless Mouse Z3600 provides stylish comfort 
+Action.c(184):     and control for your mobile computing needs. With optical tracking, 3 button controls, and
+Action.c(184):      the freedom to connect up to 30ft (10m) away, this compact mouse provides oversized perfo
+Action.c(184):     rmance.","imageUrl":"5200","attributes":[{"attributeName":"SCROLLER TYPE","attributeValue"
+Action.c(184):     :"Scroll Whell","showInFilter":true},{"attributeName":"SENSOR RESOLUTION","attributeValue"
+Action.c(184):     :"N/A","showInFilter":false},{"attributeName":"TYPE","attributeValue":"Mouse","showInFilte
+Action.c(184):     r":false},{"attributeName":"CONNECTOR","attributeValue":"Wireless","showInFilter":false},{
+Action.c(184):     "attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":false}],"colors":[{"co
+Action.c(184):     de":"FFFFFF","name":"WHITE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10},{"c
+Action.c(184):     ode":"545195","name":"PURPLE","inStock":10},{"code":"414141","name":"BLACK","inStock":10}]
+Action.c(184):     ,"images":["FFFFFF##5206","545195##5206","ABCDEF##5200","ABCDEF##5201","3683D1##5203"],"pr
+Action.c(184):     oductStatus":"Active"},{"productId":30,"categoryId":5,"productName":"HP Z4000 Wireless Mou
+Action.c(184):     se","price":9.99,"description":"The sleek and low-profiled design make the Z4000 the must-
+Action.c(184):     have companion to every thin notebook or tablet. Style and comfort within a dynamic ultra-
+Action.c(184):     mobile wireless mouse.","imageUrl":"5505","attributes":[{"attributeName":"SCROLLER TYPE","
+Action.c(184):     attributeValue":"Scroll Whell","showInFilter":true},{"attributeName":"SENSOR RESOLUTION","
+Action.c(184):     attributeValue":"N/A","showInFilter":false},{"attributeName":"MANUFACTURER","attributeValu
+Action.c(184):     e":"HP","showInFilter":false},{"attributeName":"CONNECTOR","attributeValue":"Wireless","sh
+Action.c(184):     owInFilter":false},{"attributeName":"TYPE","attributeValue":"Mouse","showInFilter":false}]
+Action.c(184):     ,"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","
+Action.c(184):     inStock":10},{"code":"DD3A5B","name":"RED","inStock":10}],"images":["DD3A5B##5505","DD3A5B
+Action.c(184):     ##5504","3683D1##5506","545195##5501"],"productStatus":"Active"},{"productId":33,"category
+Action.c(184):     Id":5,"productName":"HP Z8000 Bluetooth Mouse","price":50.99,"description":"The exquisite 
+Action.c(184):     HP Z8000 Bluetooth Mouse is only 18mm (.7in) height, saves power with Bluetooth\xC2\xAE Lo
+Action.c(184):     w Energy connectivity, and provides effortless capacitive touch control. The future is her
+Action.c(184):     e.","imageUrl":"5800","attributes":[{"attributeName":"SCROLLER TYPE","attributeValue":"Tou
+Action.c(184):     ch Scroll","showInFilter":true},{"attributeName":"TYPE","attributeValue":"Mouse","showInFi
+Action.c(184):     lter":false},{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":false},{
+Action.c(184):     "attributeName":"CONNECTOR","attributeValue":"Bluetooth\xC2\xAE","showInFilter":false},{"a
+Action.c(184):     ttributeName":"SENSOR RESOLUTION","attributeValue":"1600 dpi","showInFilter":false}],"colo
+Action.c(184):     rs":[{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"414141","name":"BLACK","inStock
+Action.c(184):     ":10}],"images":["ABCDEF##5800","ABCDEF##5801","ABCDEF##5802"],"productStatus":"Active"},{
+Action.c(184):     "productId":32,"categoryId":5,"productName":"Kensington Orbit 72337 Trackball with Scroll 
+Action.c(184):     Ring","price":39.99,"description":"All-day comfort and scrolling come together in the Kens
+Action.c(184):     ington Orbit Trackball with Scroll Ring. The scroll ring allows you to fly through web pag
+Action.c(184):     es and documents. And all while delivering comfort and space savings no mouse can match.",
+Action.c(184):     "imageUrl":"5700","attributes":[{"attributeName":"MANUFACTURER","attributeValue":"Kensingt
+Action.c(184):     on","showInFilter":false},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Ring",
+Action.c(184):     "showInFilter":true},{"attributeName":"SENSOR RESOLUTION","attributeValue":"N/A","showInFi
+Action.c(184):     lter":false},{"attributeName":"CONNECTOR","attributeValue":"USB Cord","showInFilter":false
+Action.c(184):     },{"attributeName":"TYPE","attributeValue":"Trackball","showInFilter":false}],"colors":[{"
+Action.c(184):     code":"414141","name":"BLACK","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],
+Action.c(184):     "images":["414141##5700"],"productStatus":"Active"},{"productId":26,"categoryId":5,"produc
+Action.c(184):     tName":"Kensington Orbit 72352 Trackball","price":59.99,"description":"The Kensington Orbi
+Action.c(184):     t Wireless Mobile Trackball offers a precise, compact and versatile experience with a cent
+Action.c(184):     ered-ball design. With no wires to tie you down, the 2.4 GHz wireless with storable nano r
+Action.c(184):     eceiver works wherever you do -- at your home or office. And the unique touch scrolling le
+Action.c(184):     ts you glide effortlessly through web pages and documents.","imageUrl":"5100","attributes"
+Action.c(184):     :[{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Ball","showInFilter":true},{"a
+Action.c(184):     ttributeName":"SENSOR RESOLUTION","attributeValue":"N/A","showInFilter":false},{"attribute
+Action.c(184):     Name":"TYPE","attributeValue":"Trackball","showInFilter":false},{"attributeName":"CONNECTO
+Action.c(184):     R","attributeValue":"Wireless","showInFilter":false},{"attributeName":"MANUFACTURER","attr
+Action.c(184):     ibuteValue":"Kensington","showInFilter":false}],"colors":[{"code":"DD3A5B","name":"RED","i
+Action.c(184):     nStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF##5100"],"produ
+Action.c(184):     ctStatus":"Active"},{"productId":31,"categoryId":5,"productName":"Logitech G502 Proteus Co
+Action.c(184):     re","price":79.99,"description":"MAKE IT YOURS!\\nProteus Core perfectly tuned by you.\\nP
+Action.c(184):     roteus Core allows you to change the weight, balance, and enables you to adapt to wherever
+Action.c(184):      you choose to play. Customize it to the way you game and make it yours!\\n\\nPERSONALLY-T
+Action.c(184):     UNED PERFORMANCE\\nAdapts to your environment\\nFine tune the optical sensor in Proteus Co
+Action.c(184):     re to your playing surface for better accuracy, precision and responsiveness. A quick tuni
+Action.c(184):     ng process, and you are battle ready.","imageUrl":"5600","attributes":[{"attributeName":"M
+Action.c(184):     ANUFACTURER","attributeValue":"Logitech","showInFilter":false},{"attributeName":"CONNECTOR
+Action.c(184):     ","attributeValue":"USB Cord","showInFilter":false},{"attributeName":"SENSOR RESOLUTION","
+Action.c(184):     attributeValue":"N/A","showInFilter":false},{"attributeName":"TYPE","attributeValue":"Mous
+Action.c(184):     e","showInFilter":false},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Whell",
+Action.c(184):     "showInFilter":true}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"368
+Action.c(184):     3D1","name":"BLUE","inStock":10}],"images":["ABCDEF##5600"],"productStatus":"Active"},{"pr
+Action.c(184):     oductId":34,"categoryId":5,"productName":"Microsoft Sculpt Touch Mouse","price":49.99,"des
+Action.c(184):     cription":"Looking for a portable mouse that helps you get things done? Sculpt Touch Mouse
+Action.c(184):      saves time in long documents and works virtually anywhere, with no cables or transceivers
+Action.c(184):      to connect. And it's designed to fit comfortably in either hand.\\nThe four-way touch scr
+Action.c(184):     olling pad on the Sculpt Touch Mouse lets you breeze up and down, left and right, and thro
+Action.c(184):     ugh windows and documents with just the swipe of your finger. While you scroll, you'll fee
+Action.c(184):     l the nice surprise of tactile feedback. Sculpt Touch Mouse is also a powerful complement 
+Action.c(184):     to Windows 8, navigating fluidly and intuitively around the Start Screen.\\n","imageUrl":"
+Action.c(184):     5900","attributes":[{"attributeName":"CONNECTOR","attributeValue":"Bluetooth\xC2\xAE","sho
+Action.c(184):     wInFilter":false},{"attributeName":"SCROLLER TYPE","attributeValue":"Touch Scroll","showIn
+Action.c(184):     Filter":true},{"attributeName":"SENSOR RESOLUTION","attributeValue":"1000 dpi","showInFilt
+Action.c(184):     er":false},{"attributeName":"TYPE","attributeValue":"Mouse","showInFilter":false},{"attrib
+Action.c(184):     uteName":"MANUFACTURER","attributeValue":"Microsoft","showInFilter":false}],"colors":[{"co
+Action.c(184):     de":"C3C3C3","name":"GRAY","inStock":10},{"code":"414141","name":"BLACK","inStock":10}],"i
+Action.c(184):     mages":["ABCDEF##5900"],"productStatus":"Active"}],"colors":["414141","3683D1","545195","C
+Action.c(184):     3C3C3","DD3A5B","FFFFFF"]}]
+Action.c(184): t=19147ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data"  	[MsgId: MMSG-26000]
+Action.c(184): web_url("all_data") was successful, 10119 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+Action.c(193): Notify: Transaction "Search" ended with a "Pass" status (Duration: 1.4458 Wasted Time: 0.0074).
+Action.c(196): Notify: Transaction "UC6_Search" ended with a "Pass" status (Duration: 19.0389 Think Time: 4.9998 Wasted Time: 0.1629).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+t=19254ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=19254ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 23624), ended OK."

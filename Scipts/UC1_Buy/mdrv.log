@@ -1,650 +1,3 @@
-lib.h(321):     l complement to any setting.","imageUrl":"4100","attributes":[{"attributeName":"WEIGHT","a
-lib.h(321):     ttributeValue":"1.95 lb","showInFilter":true},{"attributeName":"COMPATIBILITY","attributeV
-lib.h(321):     alue":"Any device that has bluetooth enabled","showInFilter":true},{"attributeName":"MANUF
-lib.h(321):     ACTURER","attributeValue":"HP","showInFilter":true},{"attributeName":"CONNECTOR","attribut
-lib.h(321):     eValue":"Wireless","showInFilter":true},{"attributeName":"WIRELESS TECHNOLOGY","attributeV
-lib.h(321):     alue":"Bluetooh\xC2\xAE","showInFilter":true}],"colors":[{"code":"FFFFFF","name":"WHITE","
-lib.h(321):     inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF##4101","ABCDE
-lib.h(321):     F##4100"],"productStatus":"Active"},{"productId":23,"categoryId":4,"productName":"Logitech
-lib.h(321):      X100 Speaker System - Wireless Speaker(s)","price":49.99,"description":"Pump up the volum
-lib.h(321):     e and enjoy crystal-clear sound from this mobile speaker. This portable speaker is perfect
-lib.h(321):      for life on-the-go. Take it on the road or relax and listen at home because this mobile s
-lib.h(321):     peaker goes everywhere. Simple, intuitive design lets you wirelessly connect and stream mu
-lib.h(321):     sic from your Bluetooth-enabled device fro
-lib.h(321): t=26334ms: 4194-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=24)
-lib.h(321):     m up to 30' away. Easily manage phone calls and volume control from your mobile phone. Enj
-lib.h(321):     oy five hours of continuous play before you need to recharge. Recharge the built-in, lithi
-lib.h(321):     um-ion battery with the convenience of the included micro-USB cable.","imageUrl":"4500","a
-lib.h(321):     ttributes":[{"attributeName":"WEIGHT","attributeValue":"1.0 lb","showInFilter":true},{"att
-lib.h(321):     ributeName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth enabled","show
-lib.h(321):     InFilter":true},{"attributeName":"MANUFACTURER","attributeValue":"Logitech","showInFilter"
-lib.h(321):     :true},{"attributeName":"CONNECTOR","attributeValue":"Wireless","showInFilter":true},{"att
-lib.h(321):     ributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE","showInFilter":true}
-lib.h(321):     ],"colors":[{"code":"414141","name":"BLACK","inStock":10}],"images":["414141##4500"],"prod
-lib.h(321):     uctStatus":"Active"}],"colors":["414141","3683D1","545195","C3C3C3","DD3A5B","55CDD5","FFF
-lib.h(321):     FFF","FCC23D"]},{"categoryId":5,"categoryName":"MICE","categoryImageId":"mice","promotedPr
-lib.h(321):     oduct":{"id":28,"staringPrice":"29.99","promotionHeader":"DISCOVER OUR WIRELESS MICE","pro
-lib.h(321):     motionSubHeader":"designed to work and ready to play","productName":"HP Z3200 Wireless Mou
-lib.h(321):     se","price":29.99,"description":"The HP Wireless Mouse Z3200 provides powerful Blue LED op
-lib.h(321):     tical tracking. Its ambidextrous shape and familiar button controls are easy to use. Compa
-lib.h(321):     ct contoured control.","imageUrl":"5300","attributes":[{"attributeName":"CONNECTOR","attri
-lib.h(321):     buteValue":"Wireless"},{"attributeName":"TYPE","attributeValue":"Mouse"},{"attributeName":
-lib.h(321):     "SCROLLER TYPE","attributeValue":"Scroll Wheel"},{"attributeName":"SENSOR RESOLUTION","att
-lib.h(321):     ributeValue":"1600 dpi optical sensor"},{"attributeName":"MANUFACTURER","attributeValue":"
-lib.h(321):     HP"}]},"attributes":[{"attributeName":"CONNECTOR","attributeValues":["Wireless","USB Cord"
-lib.h(321):     ,"Bluetooth\xC2\xAE"]},{"attributeName":"SENSOR RESOLUTION","attributeValues":["1000 dpi o
-lib.h(321):     ptical sensor","N/A","1600 dpi","1600 dpi optical sensor","1000 dpi"]},{"attributeName":"T
-lib.h(321):     YPE","attributeValues":["Trackball","Mouse"]},{"attributeName":"MANUFACTURER","attributeVa
-lib.h(321):     lues":["Logitech","HP","Microsoft","Kensington"]},{"attributeName":"SCROLLER TYPE","attrib
-lib.h(321):     uteValues":["Scroll Whell","Scroll Ball","Scroll Wheel","Touch Scroll","Scroll Ring"]}],"p
-lib.h(321):     roducts":[{"productId":29,"categoryId":5,"productName":"HP USB 3 Button Optical Mouse","pr
-lib.h(321):     ice":9.99,"description":"Smooth and Accurate - The HP USB 3-Button Optical Mouse is the af
-lib.h(321):     fordable desktop optical mouse solution that combines functionality with style","imageUrl"
-lib.h(321):     :"5400","attributes":[{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter"
-lib.h(321):     :false},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Whell","showInFilter":tr
-lib.h(321):     ue},{"attributeName":"CONNECTOR","attributeValue":"USB Cord","showInFilter":false},{"attri
-lib.h(321):     buteName":"TYPE","attributeValue":"Mouse","showInFilter":false},{"attributeName":"SENSOR R
-lib.h(321):     ESOLUTION","attributeValue":"1000 dpi optical sensor","showInFilter":false}],"colors":[{"c
-lib.h(321):     ode":"414141","name":"BLACK","inStock":10}],"images":["414141##5400"],"productStatus":"Act
-lib.h(321):     ive"},{"productId":28,"categoryId":5,"productName":"HP Z3200 Wireless Mouse","price":29.99
-lib.h(321):     ,"description":"The HP Wireless Mouse Z3200 provides powerful Blue LED optical tracking. I
-lib.h(321):     ts ambidextrous shape and familiar button controls are easy to use. Compact contoured cont
-lib.h(321):     rol.","imageUrl":"5300","attributes":[{"attributeName":"CONNECTOR","attributeValue":"Wirel
-lib.h(321):     ess","showInFilter":false},{"attributeName":"TYPE","attributeValue":"Mouse","showInFilter"
-lib.h(321):     :false},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Wheel","showInFilter":tr
-lib.h(321):     ue},{"attributeName":"SENSOR RESOLUTION","attributeValue":"1600 dpi optical sensor","showI
-lib.h(321):     nFilter":false},{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":false
-lib.h(321):     }],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"FFFFFF","name":"WHITE",
-lib.h(321):     "inStock":10},{"code":"DD3A5B","name":"RED","inStock":10}],"images":["FFFFFF##5300","DD3A5
-lib.h(321):     B##5301","C3C3C3##5300","C3C3C3##5304","FFFFFF##5306","FFFFFF##5304"],"productStatus":"Act
-lib.h(321):     ive"},{"productId":27,"categoryId":5,"productName":"HP Z3600 Wireless Mouse","price":15.99
-lib.h(321):     ,"description":"The tiny HP Wireless Mouse Z3600 provides stylish 
-lib.h(321): t=26336ms: 1365-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=24)
-lib.h(321): t=26336ms: 7299-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=24)
-lib.h(321):     comfort and control for your mobile computing needs. With optical tracking, 3 button contr
-lib.h(321):     ols, and the freedom to connect up to 30ft (10m) away, this compact mouse provides oversiz
-lib.h(321):     ed performance.","imageUrl":"5200","attributes":[{"attributeName":"TYPE","attributeValue":
-lib.h(321):     "Mouse","showInFilter":false},{"attributeName":"SENSOR RESOLUTION","attributeValue":"N/A",
-lib.h(321):     "showInFilter":false},{"attributeName":"CONNECTOR","attributeValue":"Wireless","showInFilt
-lib.h(321):     er":false},{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":false},{"a
-lib.h(321):     ttributeName":"SCROLLER TYPE","attributeValue":"Scroll Whell","showInFilter":true}],"color
-lib.h(321):     s":[{"code":"414141","name":"BLACK","inStock":10},{"code":"FFFFFF","name":"WHITE","inStock
-lib.h(321):     ":10},{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inSto
-lib.h(321):     ck":10}],"images":["545195##5206","ABCDEF##5201","ABCDEF##5200","3683D1##5203","FFFFFF##52
-lib.h(321):     06"],"productStatus":"Active"},{"productId":30,"categoryId":5,"productName":"HP Z4000 Wire
-lib.h(321):     less Mouse","price":9.99,"description":"The sleek and low-profiled design make the Z4000 t
-lib.h(321):     he must-have companion to every thin notebook or tablet. Style and comfort within a dynami
-lib.h(321):     c ultra-mobile wireless mouse.","imageUrl":"5505","attributes":[{"attributeName":"TYPE","a
-lib.h(321):     ttributeValue":"Mouse","showInFilter":false},{"attributeName":"SENSOR RESOLUTION","attribu
-lib.h(321):     teValue":"N/A","showInFilter":false},{"attributeName":"CONNECTOR","attributeValue":"Wirele
-lib.h(321):     ss","showInFilter":false},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Whell"
-lib.h(321):     ,"showInFilter":true},{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter"
-lib.h(321):     :false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"DD3A5B","name":"R
-lib.h(321):     ED","inStock":10},{"code":"545195","name":"PURPLE","inStock":10}],"images":["DD3A5B##5504"
-lib.h(321):     ,"3683D1##5506","545195##5501","DD3A5B##5505"],"productStatus":"Active"},{"productId":33,"
-lib.h(321):     categoryId":5,"productName":"HP Z8000 Bluetooth Mouse","price":50.99,"description":"The ex
-lib.h(321):     quisite HP Z8000 Bluetooth Mouse is only 18mm (.7in) height, saves power with Bluetooth\xC2
-lib.h(321):     \xAE Low Energy connectivity, and provides effortless capacitive touch control. The future
-lib.h(321):      is here.","imageUrl":"5800","attributes":[{"attributeName":"CONNECTOR","attributeValue":"
-lib.h(321):     Bluetooth\xC2\xAE","showInFilter":false},{"attributeName":"SENSOR RESOLUTION","attributeVa
-lib.h(321):     lue":"1600 dpi","showInFilter":false},{"attributeName":"SCROLLER TYPE","attributeValue":"T
-lib.h(321):     ouch Scroll","showInFilter":true},{"attributeName":"TYPE","attributeValue":"Mouse","showIn
-lib.h(321):     Filter":false},{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":false}
-lib.h(321):     ],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"C3C3C3","name":"GRAY","
-lib.h(321):     inStock":10}],"images":["ABCDEF##5801","ABCDEF##5800","ABCDEF##5802"],"productStatus":"Act
-lib.h(321):     ive"},{"productId":32,"categoryId":5,"productName":"Kensington Orbit 72337 Trackball with 
-lib.h(321):     Scroll Ring","price":39.99,"description":"All-day comfort and scrolling come together in t
-lib.h(321):     he Kensington Orbit Trackball with Scroll Ring. The scroll ring allows you to fly through 
-lib.h(321):     web pages and documents. And all while delivering comfort and space savings no mouse can m
-lib.h(321):     atch.","imageUrl":"5700","attributes":[{"attributeName":"CONNECTOR","attributeValue":"USB 
-lib.h(321):     Cord","showInFilter":false},{"attributeName":"TYPE","attributeValue":"Trackball","showInFi
-lib.h(321):     lter":false},{"attributeName":"MANUFACTURER","attributeValue":"Kensington","showInFilter":
-lib.h(321):     false},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Ring","showInFilter":true
-lib.h(321):     },{"attributeName":"SENSOR RESOLUTION","attributeValue":"N/A","showInFilter":false}],"colo
-lib.h(321):     rs":[{"code":"414141","name":"BLACK","inStock":10},{"code":"3683D1","name":"BLUE","inStock
-lib.h(321):     ":10}],"images":["414141##5700"],"productStatus":"Active"},{"productId":26,"categoryId":5,
-lib.h(321):     "productName":"Kensington Orbit 72352 Trackball","price":59.99,"description":"The Kensingt
-lib.h(321):     on Orbit Wireless Mobile Trackball offers a precise, compact and versatile experience with
-lib.h(321):      a centered-ball design. With no wires to tie you down, the 2.4 GHz wireless with storable
-lib.h(321):      nano receiver works wherever you do -- at your home or office. And the unique touch scrol
-lib.h(321):     ling lets you glide effortlessly through web pages and documents.","imageUrl":"5100","attr
-lib.h(321):     ibutes":[{"attributeName":"TYPE","attributeValue":"Trackball","showInFilter":false},{"attr
-lib.h(321):     ibuteName":"MANUFACTURER","attributeValue":"Kensington","showInFilter":false},{"attributeN
-lib.h(321):     ame":"CONNECTOR","attributeValue":"Wireless","showInFilter":false},{"attributeName":"SENSO
-lib.h(321):     R RESOLUTION","attributeValue":"N/A","showInFilter":false},{"attributeName":"SCROLLER TYPE
-lib.h(321):     ","attributeValue":"Scroll Ball","showInFilter":true}],"colors":[{"code":"DD3A5B","name":"
-lib.h(321):     RED","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF##5100"]
-lib.h(321):     ,"productStatus":"Active"},{"productId":31,"categoryId":5,"productName":"Logitech G502 Pro
-lib.h(321):     teus Core","price":79.99,"description":"MAKE IT YOURS!\\nProteus Core perfectly tuned by y
-lib.h(321):     ou.\\nProteus Core allows you to change the weight, balance, and enables you to adapt to w
-lib.h(321):     herever you choose to play. Customize it to the way you game and make it yours!\\n\\nPERSO
-lib.h(321):     NALLY-TUNED PERFORMANCE\\nAdapts to your environment\\nFine tune the optical sensor in Pro
-lib.h(321):     teus Core to your playing surface for better accuracy, precision and responsiveness. A qui
-lib.h(321):     ck tuning process, and you are battle ready.","imageUrl":"5600","attributes":[{"attributeN
-lib.h(321):     ame":"MANUFACTURER","attributeValue":"Logitech","showInFilter":false},{"attributeName":"SC
-lib.h(321):     ROLLER TYPE","attributeValue":"Scroll Whell","showInFilter":true},{"attributeName":"TYPE",
-lib.h(321):     "attributeValue":"Mouse","showInFilter":false},{"attributeName":"CONNECTOR","attributeValu
-lib.h(321):     e":"USB Cord","showInFilter":false},{"attributeName":"SENSOR RESOLUTION","attributeValue":
-lib.h(321):     "N/A","showInFilter":false}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"cod
-lib.h(321):     e":"3683D1","name":"BLUE","inStock":10}],"images":["ABCDEF##5600"],"productStatus":"Active
-lib.h(321):     "},{"productId":34,"categoryId":5,"productName":"Microsoft Sculpt Touch Mouse","price":49.
-lib.h(321):     99,"description":"Looking for a portable mouse that helps you get things done? Sculpt Touc
-lib.h(321):     h Mouse saves time in long documents and works virtually anywhere, with no cables or trans
-lib.h(321):     ceivers to connect. And it's designed to fit comfortably in either hand.\\nThe four-way to
-lib.h(321):     uch scrolling pad on the Sculpt Touch Mouse lets you breeze up and down, left and right, a
-lib.h(321):     nd through windows and documents with just the swipe of your finger. While you scroll, you
-lib.h(321):     'll feel the nice surprise of tactile feedback. Sculpt Touch Mouse is also a powerful comp
-lib.h(321):     lement to Windows 8, navigating fluidly and intuitively around the Start Screen.\\n","imag
-lib.h(321):     eUrl":"5900","attributes":[{"attributeName":"CONNECTOR","attributeValue":"Bluetooth\xC2\xAE
-lib.h(321):     ","showInFilter":false},{"attributeName":"MANUFACTURER","attributeValue":"Microsoft","show
-lib.h(321):     InFilter":false},{"attributeName":"SENSOR RESOLUTION","attributeValue":"1000 dpi","showInF
-lib.h(321):     ilter":false},{"attributeName":"SCROLLER TYPE","attributeValue":"Touch Scroll","showInFilt
-lib.h(321):     er":true},{"attributeName":"TYPE","attributeValue":"Mouse","showInFilter":false}],"colors"
-lib.h(321):     :[{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"414141","name":"BLACK","inStock":1
-lib.h(321):     0}],"images":["ABCDEF##5900"],"productStatus":"Active"}],"colors":["414141","545195","3683
-lib.h(321):     D1","C3C3C3","DD3A5B","FFFFFF"]}]
-lib.h(321): t=26339ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data"  	[MsgId: MMSG-26000]
-lib.h(321): web_url("all_data") was successful, 9557 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
-lib.h(330): web_url("products_2") started  	[MsgId: MMSG-26355]
-lib.h(330): Notify: Parameter Substitution: parameter "Categoriesrnd" =  "4"
-lib.h(330): The request to server https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" is done with headers:
-lib.h(330):     :method = GET
-lib.h(330):     :scheme = https
-lib.h(330):     :path = /catalog/api/v1/categories/4/products
-lib.h(330):     :authority = www.advantageonlineshopping.com
-lib.h(330):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
-lib.h(330):     Referer = https://www.advantageonlineshopping.com/
-lib.h(330):     Sec-Fetch-Dest = empty
-lib.h(330):     Sec-Fetch-Mode = cors
-lib.h(330):     Sec-Fetch-Site = same-origin
-lib.h(330):     DNT = 1
-lib.h(330):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
-lib.h(330):     0
-lib.h(330):     Accept-Encoding = gzip, deflate
-lib.h(330):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
-lib.h(330):     Accept = */*
-lib.h(330):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(330): t=26787ms: 375-byte response headers for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" (RelFrameId=1, Internal ID=25)
-lib.h(330):     HTTP/2.0 200\r\n
-lib.h(330):     Status: 200\r\n
-lib.h(330):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(330):     date: Sat, 09 Mar 2024 16:19:59 GMT\r\n
-lib.h(330):     content-type: application/json\r\n
-lib.h(330):     expires: 0\r\n
-lib.h(330):     cache-control: no-store\r\n
-lib.h(330):     x-content-type-options: nosniff\r\n
-lib.h(330):     x-xss-protection: 1; mode=block\r\n
-lib.h(330):     x-frame-options: DENY\r\n
-lib.h(330):     vary: accept-encoding\r\n
-lib.h(330):     content-encoding: gzip\r\n
-lib.h(330):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
-lib.h(330):     \r\n
-lib.h(330): t=26788ms: 1962-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" (RelFrameId=1, Internal ID=25)
-lib.h(330): t=26789ms: 8160-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" (RelFrameId=1, Internal ID=25)
-lib.h(330):     {"categoryId":4,"categoryName":"SPEAKERS","categoryImageId":"speakers","promotedProduct":{
-lib.h(330):     "id":19,"staringPrice":"200","promotionHeader":"ENJOY PREMIUM SOUND","promotionSubHeader":
-lib.h(330):     "Colorful style meets serious sound","productName":"HP S9500 Bluetooth Wireless Speaker","
-lib.h(330):     price":200.0,"description":"Impress \xE2\x80\xA6 everyone! Futuristic design with perforat
-lib.h(330):     ed steel formed into subtle angles. Requiring only minimal space, this speaker is the idea
-lib.h(330):     l complement to any setting.","imageUrl":"4100","attributes":[{"attributeName":"MANUFACTUR
-lib.h(330):     ER","attributeValue":"HP"},{"attributeName":"WEIGHT","attributeValue":"1.95 lb"},{"attribu
-lib.h(330):     teName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth enabled"},{"attrib
-lib.h(330):     uteName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"},{"attributeName":"CONN
-lib.h(330):     ECTOR","attributeValue":"Wireless"}]},"attributes":[{"attributeName":"CONNECTOR","attribut
-lib.h(330):     eValues":["Wireless"]},{"attributeName":"COMPATIBILITY","attributeValues":["Any device tha
-lib.h(330):     t has bluetooth enabled or a 3.5 mm audio connector.","Any device that has bluetooth enabl
-lib.h(330):     ed"]},{"attributeName":"WEIGHT","attributeValues":["3.03 lb","1.95 lb","0.55 lb","1.26 lb"
-lib.h(330):     ,"1.1 lb","1.25 lb","1.0 lb"]},{"attributeName":"WIRELESS TECHNOLOGY","attributeValues":["
-lib.h(330):     Bluetooh\xC2\xAE","Bluetooth\xC2\xAE"]},{"attributeName":"MANUFACTURER","attributeValues":
-lib.h(330):     ["Bose","Logitech","HP"]}],"products":[{"productId":20,"categoryId":4,"productName":"Bose 
-lib.h(330):     Soundlink Bluetooth Speaker III","price":269.99,"description":"Meet the speaker that bring
-lib.h(330):     s your music and friends together-with a style that's all your own. The SoundLink\xC2\xAE 
-lib.h(330):     Bluetooth speaker III is our best-performing mobile Bluetooth speaker. It plays louder and
-lib.h(330):      longer than its popular predecessor, with advanced Bose\xC2\xAE technologies that reprodu
-lib.h(330):     ce the fullness, clarity and depth of your music. And a colorful assortment of optional co
-lib.h(330):     vers let you personalize your speaker.","imageUrl":"4200","attributes":[{"attributeName":"
-lib.h(330):     MANUFACTURER","attributeValue":"Bose"},{"attributeName":"WEIGHT","attributeValue":"3.03 lb
-lib.h(330):     "},{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"},{"attribute
-lib.h(330):     Name":"CONNECTOR","attributeValue":"Wireless"},{"attributeName":"COMPATIBILITY","attribute
-lib.h(330):     Value":"Any device that has bluetooth enabled"}],"colors":[{"code":"414141","name":"BLACK"
-lib.h(330):     ,"inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF##4200"],"pr
-lib.h(330):     oductStatus":"Active"},{"productId":25,"categoryId":4,"productName":"Bose SoundLink Wirele
-lib.h(330):     ss Speaker","price":129.0,"description":"If music is your motivation, wait until you hear 
-lib.h(330):     the SoundLink\xC2\xAE Color Bluetooth speaker. It plays your favorite tunes from your favo
-lib.h(330):     rite Bluetooth device-out loud in clear, full audio-just about anywhere you want to go. It
-lib.h(330):     's small, durable and simple to use. And it comes in a spectrum of colors to match almost 
-lib.h(330):     any style.","imageUrl":"4700","attributes":[{"attributeName":"CONNECTOR","attributeValue":
-lib.h(330):     "Wireless"},{"attributeName":"MANUFACTURER","attributeValue":"Bose"},{"attributeName":"WIR
-lib.h(330):     ELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"},{"attributeName":"COMPATIBILITY","a
-lib.h(330):     ttributeValue":"Any device that has bluetooth enabled or a 3.5 mm audio connector."},{"att
-lib.h(330):     ributeName":"WEIGHT","attributeValue":"1.25 lb"}],"colors":[{"code":"414141","name":"BLACK
-lib.h(330):     ","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10},{"code":"DD3A5B","name":"RED"
-lib.h(330):     ,"inStock":10},{"code":"55CDD5","name":"TURQUOISE","inStock":10}],"images":["3683D1##4704"
-lib.h(330):     ,"414141##4701","55CDD5##4700","DD3A5B##4702"],"productStatus":"Active"},{"productId":24,"
-lib.h(330):     categoryId":4,"productName":"HP Roar Mini Wireless Speaker","price":44.99,"description":"A
-lib.h(330):     ttention-getting design, color, and sound - the HP Roar Mini Wireless Speaker. Exceptional
-lib.h(330):      size-defying audio while streaming music and calls from a distinctively compact speaker."
-lib.h(330):     ,"imageUrl":"4600","attributes":[{"attributeName":"MANUFACTURER","attributeValue":"HP"},{"
-lib.h(330):     attributeName":"WEIGHT","attributeValue":"0.55 lb"},{"attributeName":"WIRELESS TECHNOLOGY"
-lib.h(330):     ,"attributeValue":"Bluetooh\xC2\xAE"},{"attributeName":"COMPATIBILITY","attributeValue":"A
-lib.h(330):     ny device that has bluetooth enabled or a 3.5 mm audio connector."},{"attributeName":"CONN
-lib.h(330):     ECTOR","attributeValue":"Wireless"}],"colors":[{"code":"414141","name":"BLACK","inStock":1
-lib.h(330):     0},{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"DD3A5B","name":"RED","inStock":10
-lib.h(330):     },{"code":"FCC23D","name":"YELLOW","inStock":10}],"images":["414141##4602","C3C3C3##4603",
-lib.h(330):     "DD3A5B##4600","FCC23D##4601"],"productStatus":"Active"},{"productId":21,"categoryId":4,"p
-lib.h(330):     roductName":"HP Roar Plus Wireless Speaker","price":169.99,"description":"Showcase your mu
-lib.h(330):     sic anywhere with the ease of wireless Bluetooth\xC2\xAE connectivity.","imageUrl":"4300",
-lib.h(330):     "attributes":[{"attributeName":"CONNECTOR","attributeValue":"Wireless"},{"attributeName":"
-lib.h(330):     WEIGHT","attributeValue":"1.26 lb"},{"attributeName":"MANUFACTURER","attributeValue":"HP"}
-lib.h(330):     ,{"attributeName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth enabled"
-lib.h(330):     },{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooth\xC2\xAE"}],"colors":[
-lib.h(330):     {"code":"414141","name":"BLACK","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}
-lib.h(330):     ,{"code":"545195","name":"PURPLE","inStock":10}],"images":["3683D1##4300","3683D1##4301","
-lib.h(330):     414141##4304","545195##4308"],"productStatus":"Active"},{"productId":22,"categoryId":4,"pr
-lib.h(330):     oductName":"HP Roar Wireless Speaker","price":84.99,"description":"Showcase your music any
-lib.h(330):     where with the ease of wireless Bluetooth\xC2\xAE connectivity.","imageUrl":"4400","attrib
-lib.h(330):     utes":[{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"},{"attri
-lib.h(330):     buteName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth enabled"},{"attr
-lib.h(330):     ibuteName":"WEIGHT","attributeValue":"1.1 lb"},{"attributeName":"CONNECTOR","attributeValu
-lib.h(330):     e":"Wireless"},{"attributeName":"MANUFACTURER","attributeValue":"HP"}],"colors":[{"code":"
-lib.h(330):     3683D1","name":"BLUE","inStock":10},{"code":"FFFFFF","name":"WHITE","inStock":10},{"code":
-lib.h(330):     "FCC23D","name":"YELLOW","inStock":10}],"images":["3683D1##4404","FCC23D##4408","FFFFFF##4
-lib.h(330):     400","FFFFFF##4401"],"productStatus":"Active"},{"productId":19,"categoryId":4,"productName
-lib.h(330):     ":"HP S9500 Bluetooth Wireless Speaker","price":200.0,"description":"Impress \xE2\x80\xA6 
-lib.h(330):     everyone! Futuristic design with perforated steel formed into subtle angles. Requiring onl
-lib.h(330):     y minimal space, this speaker is the ideal complement to any setting.","imageUrl":"4100","
-lib.h(330):     attributes":[{"attributeName":"MANUFACTURER","attributeValue":"HP"},{"attributeName":"WEIG
-lib.h(330):     HT","attributeValue":"1.95 lb"},{"attributeName":"COMPATIBILITY","attributeValue":"Any dev
-lib.h(330):     ice that has bluetooth enabled"},{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"
-lib.h(330):     Bluetooh\xC2\xAE"},{"attributeName":"CONNECTOR","attributeValue":"Wireless"}],"colors":[{"
-lib.h(330):     code":"C3C3C3","name":"GRAY","inStock":10},{"code":"FFFFFF","name":"WHITE","inStock":10}],
-lib.h(330):     "images":["ABCDEF##4100","ABCDEF##4101"],"productStatus":"Active"},{"productId":23,"catego
-lib.h(330):     ryId":4,"productName":"Logitech X100 Speaker System - Wireless Speaker(s)","price":49.99,"
-lib.h(330):     description":"Pump up the volume and enjoy crystal-clear sound from this mobile speaker. T
-lib.h(330):     his portable speaker is perfect for life on-the-go. Take it on the road or relax and liste
-lib.h(330):     n at home because this mobile speaker goes everywhere. Simple, intuitive design lets you w
-lib.h(330):     irelessly connect and stream music from your Bluetooth-enabled device from up to 30' away.
-lib.h(330):      Easily manage phone calls and volume control from your mobile phone. Enjoy five hours of 
-lib.h(330):     continuous play before you need to recharge. Recharge the built-in, lithium-ion battery wi
-lib.h(330):     th the convenience of the included micro-USB cable.","imageUrl":"4500","attributes":[{"att
-lib.h(330):     ributeName":"MANUFACTURER","attributeValue":"Logitech"},{"attributeName":"COMPATIBILITY","
-lib.h(330):     attributeValue":"Any device that has bluetooth enabled"},{"attributeName":"CONNECTOR","att
-lib.h(330):     ributeValue":"Wireless"},{"attributeName":"WEIGHT","attributeValue":"1.0 lb"},{"attributeN
-lib.h(330):     ame":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"}],"colors":[{"code":"414141
-lib.h(330):     ","name":"BLACK","inStock":10}],"images":["414141##4500"],"productStatus":"Active"}],"colo
-lib.h(330):     rs":["414141","3683D1","545195","C3C3C3","DD3A5B","55CDD5","FFFFFF","FCC23D"]}
-lib.h(330): t=26792ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" (RelFrameId=1, Internal ID=25)
-lib.h(330): t=26792ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products"  	[MsgId: MMSG-26000]
-lib.h(330): web_url("products_2") was successful, 1972 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
-lib.h(339): web_url("product-page.html") started  	[MsgId: MMSG-26355]
-lib.h(339): The request to server https://www.advantageonlineshopping.com/app/views/product-page.html" is done with headers:
-lib.h(339):     :method = GET
-lib.h(339):     :scheme = https
-lib.h(339):     :path = /app/views/product-page.html
-lib.h(339):     :authority = www.advantageonlineshopping.com
-lib.h(339):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
-lib.h(339):     Referer = https://www.advantageonlineshopping.com/
-lib.h(339):     Sec-Fetch-Dest = empty
-lib.h(339):     Sec-Fetch-Mode = cors
-lib.h(339):     Sec-Fetch-Site = same-origin
-lib.h(339):     DNT = 1
-lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
-lib.h(339):     0
-lib.h(339):     Accept-Encoding = gzip, deflate
-lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
-lib.h(339):     Accept = */*
-lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(339): t=26949ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=26)
-lib.h(339):     HTTP/2.0 200\r\n
-lib.h(339):     Status: 200\r\n
-lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(339):     date: Sat, 09 Mar 2024 16:20:00 GMT\r\n
-lib.h(339):     content-type: text/html\r\n
-lib.h(339):     accept-ranges: bytes\r\n
-lib.h(339):     etag: W/"8805-1707902752000"\r\n
-lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
-lib.h(339):     cache-control: max-age=0\r\n
-lib.h(339):     expires: Sat, 09 Mar 2024 16:20:00 GMT\r\n
-lib.h(339):     vary: accept-encoding\r\n
-lib.h(339):     content-encoding: gzip\r\n
-lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
-lib.h(339):     \r\n
-lib.h(339): t=26950ms: 2360-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=26)
-lib.h(339): t=26950ms: 8805-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=26)
-lib.h(339):     <nav class="pages fixedImportant productImage">\n
-lib.h(339):         <a translate="HOME" href="/#"></a>\n
-lib.h(339):         <a href\n
-lib.h(339):            ng-click="redirect('/category/' + breadCrumbCategoryName + '/' + product.categoryId
-lib.h(339):     )"> {{categoryName}} </a>\n
-lib.h(339):         <a class="select">{{::product.productName | uppercase}}</a>\n
-lib.h(339):     </nav>\n
-lib.h(339):     \n
-lib.h(339):     <section>\n
-lib.h(339):         <article class="max-width ">\n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):             <!-- mobile description section  -->\n
-lib.h(339):     \n
-lib.h(339):             <div id="mobileDescription" class="screen480">\n
-lib.h(339):                 <h1 class="roboto-regular"> {{::product.productName | uppercase}} </h1>\n
-lib.h(339):     \n
-lib.h(339):                 <h2 class="roboto-thin"> {{::product.price | currency:'$'}}\n
-lib.h(339):                     <span class="roboto-medium" data-ng-show="product.productStatus == 'OutOfS
-lib.h(339):     tock'" translate="SOUL_OUT"></span>\n
-lib.h(339):                 </h2>\n
-lib.h(339):             </div>\n
-lib.h(339):     \n
-lib.h(339):             <!-- end mobile description section -->\n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):             <!-- image section -->\n
-lib.h(339):     \n
-lib.h(339):             <div id="product_2">\n
-lib.h(339):                 <div id="product-section" class="half">\n
-lib.h(339):     \n
-lib.h(339):                     <div class="reviews" ng-if="mostPopularComments.length > 0">\n
-lib.h(339):                         <div class="rightArrow">\n
-lib.h(339):                             <img src="../../css/images/review_right.png" data-ng-click="nextRe
-lib.h(339):     view()" />\n
-lib.h(339):                         </div>\n
-lib.h(339):                         <div class="reviewsCover">\n
-lib.h(339):                             <div data-ng-repeat="comment in mostPopularComments track by $inde
-lib.h(339):     x">\n
-lib.h(339):                                 <p class="score roboto-regular">{{comment.score}}</p>\n
-lib.h(339):                                 <label class="reviewsTitle roboto-medium">{{comment.title}}</l
-lib.h(339):     abel>\n
-lib.h(339):                                 <p class="reviewsCount roboto-regular">{{comment.reviewsCount}
-lib.h(339):     } {{ 'reviews'| translate}}</p>\n
-lib.h(339):                                 <p class="reviewsComment roboto-light">{{comment.comment}}</p>
-lib.h(339):     \n
-lib.h(339):                                 <div class="reviewBottom roboto-regular">\n
-lib.h(339):                                     <img src="../../css/images/reviewUser.png"/>\n
-lib.h(339):                                     {{comment.name}}\n
-lib.h(339):                                 </div>\n
-lib.h(339):                             </div>\n
-lib.h(339):                         </div>\n
-lib.h(339):     \n
-lib.h(339):                         <div class="leftArrow">\n
-lib.h(339):                             <img src="../../css/images/review_Left_disabled.png" data-ng-click
-lib.h(339):     ="previousReview()" />\n
-lib.h(339):                         </div>\n
-lib.h(339):                     </div>\n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):                     <figure>\n
-lib.h(339):                         <img alt="" id="mainImg" ng-src="/catalog/fetchImage?image_id={{imageU
-lib.h(339):     rl | getImageId}}">\n
-lib.h(339):                     </figure>\n
-lib.h(339):                     <div id="coverImages" ng-show="imagesArray.length > 1">\n
-lib.h(339):                         <div id="lengthAllImages"> <!--regular font-->\n
-lib.h(339):                             <div class="imageAlias" data-ng-click="changeImage(img)"\n
-lib.h(339):                                  data-ng-repeat="img in imagesArray">\n
-lib.h(339):                                 <img alt="" data-ng-src="/catalog/fetchImage?image_id={{img | 
-lib.h(339):     getImageId}}">\n
-lib.h(339):                             </div>\n
-lib.h(339):                         </div>\n
-lib.h(339):                     </div>\n
-lib.h(339):                 </div>\n
-lib.h(339):                 <div id="Description" class="half">\n
-lib.h(339):                     <h1 class="roboto-regular screen768"> {{::product.productName | uppercase}
-lib.h(339):     } </h1>\n
-lib.h(339):     \n
-lib.h(339):                     <h2 class="roboto-thin screen768"> {{product.price | currency:'$'}}\n
-lib.h(339):                     <span class="roboto-medium" data-ng-show="product.productStatus == 'OutOfS
-lib.h(339):     tock'" translate="SOUL_OUT"></span>\n
-lib.h(339):                     </h2>\n
-lib.h(339):     \n
-lib.h(339):                     <p class="roboto-light"> {{::product.description }} </p>\n
-lib.h(339):     \n
-lib.h(339):                     <div id="productProperties">\n
-lib.h(339):                         <div class="colors" ng-if="product.colors.length > 0">\n
-lib.h(339):                             <h2 translate="Color" class="Colors roboto-light" class="roboto-li
-lib.h(339):     ght"></h2>\n
-lib.h(339):                             <!--If you are confused by the classes 'bunny rabbit' read this->-
-lib.h(339):     ->\n
-lib.h(339):                             <!--Testing issue over here. Since there are two identical element
-lib.h(339):     s here  'leanFT ' gets confused, this is the reason for this classes.-->\n
-lib.h(339):                             <div ng-show="!firstImageToShow">\n
-lib.h(339):                                 <span title="{{color.name}}"\n
-lib.h(339):                                       id="rabbit"\n
-lib.h(339):                                       data-ng-repeat="color in [] | sortArrayByColorName:produ
-lib.h(339):     ct.colors"\n
-lib.h(339):                                       class="rabbit productColor"\n
-lib.h(339):                                       data-ng-hide="color.code == 'ABCDEF'" data-ng-style="col
-lib.h(339):     or.code == 'FFFFFF' ?\n
-lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
-lib.h(339):     'solid 1px #9d9d9d' } :\n
-lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
-lib.h(339):     'solid 1px transparent'}"\n
-lib.h(339):                                       data-ng-class='{ colorSelected : colorSelected.name == c
-lib.h(339):     olor.name , {{color.name}} : colorSelected.name} '\n
-lib.h(339):                                       data-ng-click="setColor(color)">\n
-lib.h(339):                                 </span>\n
-lib.h(339):                             </div>\n
-lib.h(339):                             <div ng-show="firstImageToShow">\n
-lib.h(339):                                 <span title="{{color.name}}"\n
-lib.h(339):                                       id="bunny"\n
-lib.h(339):                                       data-ng-repeat="color in colors"\n
-lib.h(339):                                       class="bunny productColor"\n
-lib.h(339):                                       data-ng-hide="color.code == 'ABCDEF'" data-ng-style="col
-lib.h(339):     or.code == 'FFFFFF' ?\n
-lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
-lib.h(339):     'solid 1px #9d9d9d' } :\n
-lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
-lib.h(339):     'solid 1px transparent'}"\n
-lib.h(339):                                       data-ng-class='{ colorSelected : colorSelected.name == c
-lib.h(339):     olor.name , {{color.name}} : colorSelected.name} '\n
-lib.h(339):                                       data-ng-click="setColor(color, $event)">\n
-lib.h(339):                                 </span>\n
-lib.h(339):                             </div>\n
-lib.h(339):                         </div>\n
-lib.h(339):                         <div class="smoolMargin">\n
-lib.h(339):                             <label class="Quantity roboto-light" translate="Quantity:"></label
-lib.h(339):     >\n
-lib.h(339):                             <e-sec-plus-minus num-attr="quantity" a-disable="product.productSt
-lib.h(339):     atus == 'OutOfStock'"></e-sec-plus-minus>\n
-lib.h(339):                         </div>\n
-lib.h(339):                         <div class="option notPromotionCheckbox" data-ng-show="warrantyPropert
-lib.h(339):     ies.enableWarranty && product.categoryId == 1">\n
-lib.h(339):                             <input style="z-index: 999;top:8px" name="purchase_warranty" data-
-lib.h(339):     ng-model="warrantyCheckbox" type="checkbox"\n
-lib.h(339):                                    data-ng-click="addWarrenty()">\n
-lib.h(339):                             <label style="top:-5px" class="Quantity roboto-light ng-scope" tra
-lib.h(339):     nslate="add_warranty"></label>\n
-lib.h(339):                             <svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
-lib.h(339):      xmlns:xlink="http://www.w3.org/1999/xlink"  width="24px" height="24px" x="0px" y="0px"\n
-lib.h(339):                                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:spa
-lib.h(339):     ce="preserve">\n
-lib.h(339):     <path fill="#666666" d="M8,14.4c-3.5,0-6.4-2.9-6.4-6.4S4.5,1.6,8,1.6s6.4,2.9,6.4,6.4S11.5,
-lib.h(339):     14.4,8,14.4z M8,0C3.6,0,0,3.6,0,8\n
-lib.h(339):     \ts3.6,8,8,8s8-3.6,8-8S12.4,0,8,0z M7,7h2v5H7V7z M7,6V4h2v2H7z"/>\n
-lib.h(339):     </svg>                        <h2 style="    float: right;top: -3px;padding: 0; font-size:
-lib.h(339):      20px;" class="roboto-thin screen768 ng-binding">{{::warrantyPrice | currency:'$'}}</h2>\n
-lib.h(339):                         </div>\n
-lib.h(339):                         <div class="fixedBtn">\n
-lib.h(339):                             <button name="save_to_cart" class="roboto-medium" role="button"\n
-lib.h(339):                                     data-ng-class='{ disable : product.productStatus == "OutOf
-lib.h(339):     Stock" } '\n
-lib.h(339):                                     translate="ADD_TO_CART"\n
-lib.h(339):                                     data-ng-click="addToCart(product.productStatus == 'OutOfSt
-lib.h(339):     ock')">\n
-lib.h(339):                                 <div class="fixedBtn" data-ng-if="pageState != 'edit'">\n
-lib.h(339):                                     <span translate="ADD_TO_CART"></span>\n
-lib.h(339):                                 </div>\n
-lib.h(339):                                 <div class="fixedBtn" data-ng-if="pageState == 'edit'">\n
-lib.h(339):                                     <span translate="UPDATE_CART"></span>\n
-lib.h(339):                                 </div>\n
-lib.h(339):                             </button>\n
-lib.h(339):                         </div>\n
-lib.h(339):                         <label data-ng-class="message._class"> {{message.text}}</label>\n
-lib.h(339):                     </div>\n
-lib.h(339):                 </div>\n
-lib.h(339):             </div>\n
-lib.h(339):     \n
-lib.h(339):         </article>\n
-lib.h(339):         <!--data-ng-class="{ topSpace : product.images.length > 1 }"-->\n
-lib.h(339):         <div id="separator"></div>\n
-lib.h(339):     \n
-lib.h(339):         <article ng-if="showVideo" class="max-width" data-ng-switch="haveInternet" >\n
-lib.h(339):             <div ng-bind-html="srcV1">\n
-lib.h(339):             </div>\n
-lib.h(339):         </article>\n
-lib.h(339):     \n
-lib.h(339):         <article class="max-width " >\n
-lib.h(339):             <h2 class="roboto-regular product_specifications" translate="PRODUCT_SPECIFICATION
-lib.h(339):     S"></h2>\n
-lib.h(339):     \n
-lib.h(339):             <div class="roboto-light list" ng-repeat="attr in product_attributes">\n
-lib.h(339):                 <label class="attr">{{ attr.attributeName | uppercase}}</label>\n
-lib.h(339):                 <label class="value">{{ attr.attributeValue }}</label>\n
-lib.h(339):             </div>\n
-lib.h(339):         </article>\n
-lib.h(339):     \n
-lib.h(339):     </section>\n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     <social-media-drtv></social-media-drtv>\n
-lib.h(339):     \n
-lib.h(339):     <div class="trickProductBtn"></div>\n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339):     \n
-lib.h(339): Found resource "https://www.advantageonlineshopping.com/css/images/review_right.png" in HTML "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26659]
-lib.h(339): The request to server https://www.advantageonlineshopping.com/css/images/review_right.png" is done with headers:
-lib.h(339):     :method = GET
-lib.h(339):     :scheme = https
-lib.h(339):     :path = /css/images/review_right.png
-lib.h(339):     :authority = www.advantageonlineshopping.com
-lib.h(339):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
-lib.h(339):     Referer = https://www.advantageonlineshopping.com/app/views/product-page.html
-lib.h(339):     Sec-Fetch-Dest = empty
-lib.h(339):     Sec-Fetch-Mode = cors
-lib.h(339):     Sec-Fetch-Site = same-origin
-lib.h(339):     DNT = 1
-lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
-lib.h(339):     0
-lib.h(339):     Accept-Encoding = gzip, deflate
-lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
-lib.h(339):     Accept = */*
-lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(339): Found resource "https://www.advantageonlineshopping.com/css/images/reviewUser.png" in HTML "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26659]
-lib.h(339): The request to server https://www.advantageonlineshopping.com/css/images/reviewUser.png" is done with headers:
-lib.h(339):     :method = GET
-lib.h(339):     :scheme = https
-lib.h(339):     :path = /css/images/reviewUser.png
-lib.h(339):     :authority = www.advantageonlineshopping.com
-lib.h(339):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
-lib.h(339):     Referer = https://www.advantageonlineshopping.com/app/views/product-page.html
-lib.h(339):     Sec-Fetch-Dest = empty
-lib.h(339):     Sec-Fetch-Mode = cors
-lib.h(339):     Sec-Fetch-Site = same-origin
-lib.h(339):     DNT = 1
-lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
-lib.h(339):     0
-lib.h(339):     Accept-Encoding = gzip, deflate
-lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
-lib.h(339):     Accept = */*
-lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(339): Found resource "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" in HTML "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26659]
-lib.h(339): The request to server https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" is done with headers:
-lib.h(339):     :method = GET
-lib.h(339):     :scheme = https
-lib.h(339):     :path = /css/images/review_Left_disabled.png
-lib.h(339):     :authority = www.advantageonlineshopping.com
-lib.h(339):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
-lib.h(339):     Referer = https://www.advantageonlineshopping.com/app/views/product-page.html
-lib.h(339):     Sec-Fetch-Dest = empty
-lib.h(339):     Sec-Fetch-Mode = cors
-lib.h(339):     Sec-Fetch-Site = same-origin
-lib.h(339):     DNT = 1
-lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
-lib.h(339):     0
-lib.h(339):     Accept-Encoding = gzip, deflate
-lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
-lib.h(339):     Accept = */*
-lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(339): t=26959ms: Request done "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26000]
-lib.h(339): t=27112ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=27)
-lib.h(339):     HTTP/2.0 200\r\n
-lib.h(339):     Status: 200\r\n
-lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(339):     date: Sat, 09 Mar 2024 16:20:00 GMT\r\n
-lib.h(339):     content-type: image/png\r\n
-lib.h(339):     content-length: 1075\r\n
-lib.h(339):     accept-ranges: bytes\r\n
-lib.h(339):     etag: W/"1075-1707902752000"\r\n
-lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
-lib.h(339):     cache-control: max-age=864000\r\n
-lib.h(339):     expires: Tue, 19 Mar 2024 16:20:00 GMT\r\n
-lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
-lib.h(339):     \r\n
-lib.h(339): t=27113ms: 1075-byte response body for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=27)
-lib.h(339): t=27113ms: Request done "https://www.advantageonlineshopping.com/css/images/review_right.png"  	[MsgId: MMSG-26000]
-lib.h(339): t=27250ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=29)
-lib.h(339):     HTTP/2.0 200\r\n
-lib.h(339):     Status: 200\r\n
-lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(339):     date: Sat, 09 Mar 2024 16:20:00 GMT\r\n
-lib.h(339):     content-type: image/png\r\n
-lib.h(339):     content-length: 1087\r\n
-lib.h(339):     accept-ranges: bytes\r\n
-lib.h(339):     etag: W/"1087-1707902752000"\r\n
-lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
-lib.h(339):     cache-control: max-age=864000\r\n
-lib.h(339):     expires: Tue, 19 Mar 2024 16:20:00 GMT\r\n
-lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
-lib.h(339):     \r\n
-lib.h(339): t=27251ms: 1087-byte response body for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=29)
-lib.h(339): t=27251ms: Request done "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png"  	[MsgId: MMSG-26000]
-lib.h(339): t=27252ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=28)
-lib.h(339):     HTTP/2.0 200\r\n
-lib.h(339):     Status: 200\r\n
-lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(339):     date: Sat, 09 Mar 2024 16:20:00 GMT\r\n
-lib.h(339):     content-type: image/png\r\n
-lib.h(339):     content-length: 1542\r\n
-lib.h(339):     accept-ranges: bytes\r\n
-lib.h(339):     etag: W/"1542-1707902752000"\r\n
-lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
-lib.h(339):     cache-control: max-age=864000\r\n
-lib.h(339):     expires: Tue, 19 Mar 2024 16:20:00 GMT\r\n
-lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
-lib.h(339):     \r\n
-lib.h(339): t=27253ms: 1542-byte response body for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=28)
-lib.h(339): t=27253ms: Request done "https://www.advantageonlineshopping.com/css/images/reviewUser.png"  	[MsgId: MMSG-26000]
-lib.h(339): web_url("product-page.html") was successful, 6064 body bytes, 1564 header bytes  	[MsgId: MMSG-26386]
-lib.h(348): web_add_header("Origin") started  	[MsgId: MMSG-26355]
-lib.h(348): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
-lib.h(348): "Origin: https://www.advantageonlineshopping.com" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
-lib.h(348): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
-lib.h(351): Notify: Transaction "ChooseProduct" ended with a "Pass" status (Duration: 2.1171 Wasted Time: 0.0125).
-Action.c(32): lr_think_time: 5.00 seconds.
-lib.h(358): Notify: Transaction "AddToCart" started.
-lib.h(360): web_reg_find started  	[MsgId: MMSG-26355]
-lib.h(360): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
-lib.h(360): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
-lib.h(362): web_submit_data("{UserId}") started  	[MsgId: MMSG-26355]
-lib.h(362): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
-lib.h(362): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "21"
-lib.h(362): Notify: Parameter Substitution: parameter "ColorId" =  "414141"
-lib.h(362): Notify: Parameter Substitution: parameter "sessionId" =  "CE3B7F413D8B7A69642679BFBFC4F6DB"
-lib.h(362): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/978775784/product/21/color/414141?quantity=1" is done with headers:
-lib.h(362):     :method = POST
-lib.h(362):     :scheme = https
-lib.h(362):     :path = /order/api/v1/carts/978775784/product/21/color/414141?quantity=1
-lib.h(362):     :authority = www.advantageonlineshopping.com
-lib.h(362):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
-lib.h(362):     Content-Type = application/x-www-form-urlencoded
-lib.h(362):     Referer = https://www.advantageonlineshopping.com/
-lib.h(362):     Origin = https://www.advantageonlineshopping.com
 lib.h(362):     Sec-Fetch-Dest = empty
 lib.h(362):     Sec-Fetch-Mode = cors
 lib.h(362):     Sec-Fetch-Site = same-origin
@@ -654,51 +7,52 @@ lib.h(362):     0
 lib.h(362):     Accept-Encoding = gzip, deflate
 lib.h(362):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(362):     Accept = */*
-lib.h(362):     content-length = 42
-lib.h(362):     cookie = JSESSIONID=CE3B7F413D8B7A69642679BFBFC4F6DB; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(362):     content-length = 25
+lib.h(362):     cookie = JSESSIONID=4BCDB0D111F8545F05AAEF314E1798D7; userCart=%7B%22userId%22%3A-1%2C%22p
 lib.h(362):     roductsInCart%22%3A%5B%5D%7D
-lib.h(362): The request to server "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784/product/21/color/414141?quantity=1" is done with body:
-lib.h(362):     sessionId=CE3B7F413D8B7A69642679BFBFC4F6DB
-lib.h(362): t=33165ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784/product/21/color/414141?quantity=1" (RelFrameId=1, Internal ID=30)
+lib.h(362): The request to server "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" is done with body:
+lib.h(362):     sessionId=%7BsessionId%7D
+lib.h(362): t=35367ms: 572-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
 lib.h(362):     HTTP/2.0 201\r\n
 lib.h(362):     Status: 201\r\n
 lib.h(362):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(362):     date: Sat, 09 Mar 2024 16:20:06 GMT\r\n
+lib.h(362):     date: Tue, 12 Mar 2024 12:35:07 GMT\r\n
 lib.h(362):     content-type: application/json\r\n
 lib.h(362):     access-control-allow-credentials: true\r\n
 lib.h(362):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
 lib.h(362):     vary: origin,accept-encoding\r\n
 lib.h(362):     expires: 0\r\n
 lib.h(362):     cache-control: no-store\r\n
+lib.h(362):     set-cookie: JSESSIONID=40C2D235FEB2E03B556457E8FE482717; Path=/order; HttpOnly\r\n
 lib.h(362):     x-content-type-options: nosniff\r\n
 lib.h(362):     x-xss-protection: 1; mode=block\r\n
 lib.h(362):     x-frame-options: DENY\r\n
 lib.h(362):     content-encoding: gzip\r\n
 lib.h(362):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(362):     \r\n
-lib.h(362): t=33167ms: 201-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784/product/21/color/414141?quantity=1" (RelFrameId=1, Internal ID=30)
-lib.h(362): t=33167ms: 236-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784/product/21/color/414141?quantity=1" (RelFrameId=1, Internal ID=30)
-lib.h(362):     {"userId":978775784,"productsInCart":[{"productId":21,"productName":"HP Roar Plus Wireless
-lib.h(362):      Speaker","price":169.99,"quantity":1,"imageUrl":"4300","color":{"code":"414141","name":"B
-lib.h(362):     LACK","inStock":10},"exists":true,"hasWarranty":false}]}
-lib.h(362): t=33167ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784/product/21/color/414141?quantity=1" (RelFrameId=1, Internal ID=30)
-lib.h(362): t=33167ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784/product/21/color/414141?quantity=1"  	[MsgId: MMSG-26000]
-lib.h(362): Registered web_reg_find successful for "Text="userId":978775784," (count=1)  	[MsgId: MMSG-26364]
-lib.h(362): web_submit_data("{UserId}") was successful, 211 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
-lib.h(373): Notify: Transaction "AddToCart" ended with a "Pass" status (Duration: 0,9111 Wasted Time: 0,0027).
-Action.c(36): lr_think_time: 5,00 seconds.
+lib.h(362): t=35370ms: 197-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362): t=35370ms: 233-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362):     {"userId":690980838,"productsInCart":[{"productId":17,"productName":"HP Elite x2 1011 G1 T
+lib.h(362):     ablet","price":1279.0,"quantity":1,"imageUrl":"3200","color":{"code":"414141","name":"BLAC
+lib.h(362):     K","inStock":10},"exists":true,"hasWarranty":false}]}
+lib.h(362): t=35370ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362): t=35371ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1"  	[MsgId: MMSG-26000]
+lib.h(362): Registered web_reg_find successful for "Text="userId":690980838," (count=1)  	[MsgId: MMSG-26364]
+lib.h(362): web_submit_data("{UserId}") was successful, 207 body bytes, 572 header bytes  	[MsgId: MMSG-26386]
+lib.h(373): Notify: Transaction "AddToCart" ended with a "Pass" status (Duration: 1.1253 Wasted Time: 0.0043).
+Action.c(36): lr_think_time: 5.00 seconds.
 lib.h(380): Notify: Transaction "CheckCart" started.
 lib.h(382): web_reg_find started  	[MsgId: MMSG-26355]
-lib.h(382): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
+lib.h(382): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
 lib.h(382): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 lib.h(384): web_url("{UserID}_2") started  	[MsgId: MMSG-26355]
-lib.h(384): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
-lib.h(384): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" is done with headers:
+lib.h(384): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
+lib.h(384): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" is done with headers:
 lib.h(384):     :method = GET
 lib.h(384):     :scheme = https
-lib.h(384):     :path = /order/api/v1/carts/978775784
+lib.h(384):     :path = /order/api/v1/carts/690980838
 lib.h(384):     :authority = www.advantageonlineshopping.com
-lib.h(384):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(384):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(384):     Referer = https://www.advantageonlineshopping.com/
 lib.h(384):     Sec-Fetch-Dest = empty
 lib.h(384):     Sec-Fetch-Mode = cors
@@ -709,17 +63,17 @@ lib.h(384):     0
 lib.h(384):     Accept-Encoding = gzip, deflate
 lib.h(384):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(384):     Accept = */*
-lib.h(384):     cookie = JSESSIONID=CE3B7F413D8B7A69642679BFBFC4F6DB; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(384):     cookie = JSESSIONID=40C2D235FEB2E03B556457E8FE482717; userCart=%7B%22userId%22%3A-1%2C%22p
 lib.h(384):     roductsInCart%22%3A%5B%5D%7D
-lib.h(384): t=38702ms: 455-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=31)
+lib.h(384): t=40992ms: 455-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
 lib.h(384):     HTTP/2.0 200\r\n
 lib.h(384):     Status: 200\r\n
 lib.h(384):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(384):     date: Sat, 09 Mar 2024 16:20:11 GMT\r\n
+lib.h(384):     date: Tue, 12 Mar 2024 12:35:12 GMT\r\n
 lib.h(384):     content-type: application/json\r\n
 lib.h(384):     expires: 0\r\n
 lib.h(384):     cache-control: no-store\r\n
-lib.h(384):     set-cookie: JSESSIONID=239334D7970A045DE6B298278142ACE4; Path=/order; HttpOnly\r\n
+lib.h(384):     set-cookie: JSESSIONID=01856941F47F2839A5D60FDD370D2400; Path=/order; HttpOnly\r\n
 lib.h(384):     x-content-type-options: nosniff\r\n
 lib.h(384):     x-xss-protection: 1; mode=block\r\n
 lib.h(384):     x-frame-options: DENY\r\n
@@ -727,23 +81,23 @@ lib.h(384):     vary: accept-encoding\r\n
 lib.h(384):     content-encoding: gzip\r\n
 lib.h(384):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(384):     \r\n
-lib.h(384): t=38703ms: 237-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=31)
-lib.h(384): t=38703ms: 283-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=31)
-lib.h(384):     {"userId":978775784,"productsInCart":[{"productId":21,"productName":"HP Roar Plus Wireless
-lib.h(384):      Speaker","price":169.99,"quantity":1,"imageUrl":"4300","color":{"code":"414141","name":"B
-lib.h(384):     LACK","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"239334D7970A045DE6B29
-lib.h(384):     8278142ACE4"}
-lib.h(384): t=38704ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=31)
-lib.h(384): t=38704ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784"  	[MsgId: MMSG-26000]
-lib.h(384): Registered web_reg_find successful for "Text="userId":978775784," (count=1)  	[MsgId: MMSG-26364]
-lib.h(384): web_url("{UserID}_2") was successful, 247 body bytes, 455 header bytes  	[MsgId: MMSG-26386]
+lib.h(384): t=40994ms: 235-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(384): t=40994ms: 280-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(384):     {"userId":690980838,"productsInCart":[{"productId":17,"productName":"HP Elite x2 1011 G1 T
+lib.h(384):     ablet","price":1279.0,"quantity":1,"imageUrl":"3200","color":{"code":"414141","name":"BLAC
+lib.h(384):     K","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"01856941F47F2839A5D60FDD
+lib.h(384):     370D2400"}
+lib.h(384): t=40995ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(384): t=40995ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
+lib.h(384): Registered web_reg_find successful for "Text="userId":690980838," (count=1)  	[MsgId: MMSG-26364]
+lib.h(384): web_url("{UserID}_2") was successful, 245 body bytes, 455 header bytes  	[MsgId: MMSG-26386]
 lib.h(393): web_url("shoppingCart.html") started  	[MsgId: MMSG-26355]
 lib.h(393): The request to server https://www.advantageonlineshopping.com/app/views/shoppingCart.html" is done with headers:
 lib.h(393):     :method = GET
 lib.h(393):     :scheme = https
 lib.h(393):     :path = /app/views/shoppingCart.html
 lib.h(393):     :authority = www.advantageonlineshopping.com
-lib.h(393):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(393):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(393):     Referer = https://www.advantageonlineshopping.com/
 lib.h(393):     Sec-Fetch-Dest = empty
 lib.h(393):     Sec-Fetch-Mode = cors
@@ -755,23 +109,23 @@ lib.h(393):     Accept-Encoding = gzip, deflate
 lib.h(393):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(393):     Accept = */*
 lib.h(393):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(393): t=38873ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=32)
+lib.h(393): t=41167ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
 lib.h(393):     HTTP/2.0 200\r\n
 lib.h(393):     Status: 200\r\n
 lib.h(393):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(393):     date: Sat, 09 Mar 2024 16:20:12 GMT\r\n
+lib.h(393):     date: Tue, 12 Mar 2024 12:35:12 GMT\r\n
 lib.h(393):     content-type: text/html\r\n
 lib.h(393):     accept-ranges: bytes\r\n
 lib.h(393):     etag: W/"5840-1707902752000"\r\n
 lib.h(393):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(393):     cache-control: max-age=0\r\n
-lib.h(393):     expires: Sat, 09 Mar 2024 16:20:12 GMT\r\n
+lib.h(393):     expires: Tue, 12 Mar 2024 12:35:12 GMT\r\n
 lib.h(393):     vary: accept-encoding\r\n
 lib.h(393):     content-encoding: gzip\r\n
 lib.h(393):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(393):     \r\n
-lib.h(393): t=38874ms: 1465-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=32)
-lib.h(393): t=38874ms: 5840-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=32)
+lib.h(393): t=41169ms: 1465-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
+lib.h(393): t=41170ms: 5840-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
 lib.h(393):     \n
 lib.h(393):     <section>\n
 lib.h(393):         <article class="sp">\n
@@ -915,7 +269,7 @@ lib.h(393):     :method = GET
 lib.h(393):     :scheme = https
 lib.h(393):     :path = /css/images/Master_credit.png
 lib.h(393):     :authority = www.advantageonlineshopping.com
-lib.h(393):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(393):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(393):     Referer = https://www.advantageonlineshopping.com/app/views/shoppingCart.html
 lib.h(393):     Sec-Fetch-Dest = empty
 lib.h(393):     Sec-Fetch-Mode = cors
@@ -933,7 +287,7 @@ lib.h(393):     :method = GET
 lib.h(393):     :scheme = https
 lib.h(393):     :path = /css/images/SafePay.png
 lib.h(393):     :authority = www.advantageonlineshopping.com
-lib.h(393):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(393):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(393):     Referer = https://www.advantageonlineshopping.com/app/views/shoppingCart.html
 lib.h(393):     Sec-Fetch-Dest = empty
 lib.h(393):     Sec-Fetch-Mode = cors
@@ -945,42 +299,42 @@ lib.h(393):     Accept-Encoding = gzip, deflate
 lib.h(393):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(393):     Accept = */*
 lib.h(393):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(393): t=38881ms: Request done "https://www.advantageonlineshopping.com/app/views/shoppingCart.html"  	[MsgId: MMSG-26000]
-lib.h(393): t=39037ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=33)
+lib.h(393): t=41182ms: Request done "https://www.advantageonlineshopping.com/app/views/shoppingCart.html"  	[MsgId: MMSG-26000]
+lib.h(393): t=41341ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=30)
 lib.h(393):     HTTP/2.0 200\r\n
 lib.h(393):     Status: 200\r\n
 lib.h(393):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(393):     date: Sat, 09 Mar 2024 16:20:12 GMT\r\n
+lib.h(393):     date: Tue, 12 Mar 2024 12:35:13 GMT\r\n
 lib.h(393):     content-type: image/png\r\n
 lib.h(393):     content-length: 1651\r\n
 lib.h(393):     accept-ranges: bytes\r\n
 lib.h(393):     etag: W/"1651-1707902752000"\r\n
 lib.h(393):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(393):     cache-control: max-age=864000\r\n
-lib.h(393):     expires: Tue, 19 Mar 2024 16:20:12 GMT\r\n
+lib.h(393):     expires: Fri, 22 Mar 2024 12:35:13 GMT\r\n
 lib.h(393):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(393):     \r\n
-lib.h(393): t=39037ms: 1651-byte response body for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=33)
-lib.h(393): t=39038ms: Request done "https://www.advantageonlineshopping.com/css/images/Master_credit.png"  	[MsgId: MMSG-26000]
-lib.h(393): t=39156ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=34)
+lib.h(393): t=41342ms: 1651-byte response body for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=30)
+lib.h(393): t=41343ms: Request done "https://www.advantageonlineshopping.com/css/images/Master_credit.png"  	[MsgId: MMSG-26000]
+lib.h(393): t=41464ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=31)
 lib.h(393):     HTTP/2.0 200\r\n
 lib.h(393):     Status: 200\r\n
 lib.h(393):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(393):     date: Sat, 09 Mar 2024 16:20:12 GMT\r\n
+lib.h(393):     date: Tue, 12 Mar 2024 12:35:13 GMT\r\n
 lib.h(393):     content-type: image/png\r\n
 lib.h(393):     content-length: 4650\r\n
 lib.h(393):     accept-ranges: bytes\r\n
 lib.h(393):     etag: W/"4650-1707902752000"\r\n
 lib.h(393):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(393):     cache-control: max-age=864000\r\n
-lib.h(393):     expires: Tue, 19 Mar 2024 16:20:12 GMT\r\n
+lib.h(393):     expires: Fri, 22 Mar 2024 12:35:13 GMT\r\n
 lib.h(393):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(393):     \r\n
-lib.h(393): t=39157ms: 4650-byte response body for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=34)
-lib.h(393): t=39157ms: Request done "https://www.advantageonlineshopping.com/css/images/SafePay.png"  	[MsgId: MMSG-26000]
+lib.h(393): t=41465ms: 4650-byte response body for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=31)
+lib.h(393): t=41466ms: Request done "https://www.advantageonlineshopping.com/css/images/SafePay.png"  	[MsgId: MMSG-26000]
 lib.h(393): web_url("shoppingCart.html") was successful, 7766 body bytes, 1178 header bytes  	[MsgId: MMSG-26386]
-lib.h(402): Notify: Transaction "CheckCart" ended with a "Pass" status (Duration: 0,9826 Wasted Time: 0,0064).
-Action.c(40): lr_think_time: 5,00 seconds.
+lib.h(402): Notify: Transaction "CheckCart" ended with a "Pass" status (Duration: 1.0867 Wasted Time: 0.0086).
+Action.c(40): lr_think_time: 5.00 seconds.
 lib.h(409): Notify: Transaction "ChechOut" started.
 lib.h(412): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
 lib.h(412): "SOAPAction: com.advantage.online.store.accountserviceGetAccountByIdRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
@@ -994,14 +348,14 @@ lib.h(418): An unrecognized header ("X-Requested-With") is being added  	[MsgId:
 lib.h(418): "X-Requested-With: XMLHttpRequest" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
 lib.h(418): web_add_auto_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
 lib.h(421): web_custom_request("GetAccountByIdRequest") started  	[MsgId: MMSG-26355]
-lib.h(421): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
+lib.h(421): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
 lib.h(421): Warning: The string 't_authoriizatiion' with parameter delimiters is not a parameter.
 lib.h(421): The request to server https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdRequest" is done with headers:
 lib.h(421):     :method = POST
 lib.h(421):     :scheme = https
 lib.h(421):     :path = /accountservice/ws/GetAccountByIdRequest
 lib.h(421):     :authority = www.advantageonlineshopping.com
-lib.h(421):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(421):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(421):     Content-Type = text/xml; charset=UTF-8
 lib.h(421):     Referer = https://www.advantageonlineshopping.com/
 lib.h(421):     SOAPAction = com.advantage.online.store.accountserviceGetAccountByIdRequest
@@ -1022,15 +376,15 @@ lib.h(421): The request to server "https://www.advantageonlineshopping.com/accou
 lib.h(421):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
 lib.h(421):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
 lib.h(421):     www.w3.org/2001/XMLSchema"><soap:Body><GetAccountByIdRequest xmlns="com.advantage.online.s
-lib.h(421):     tore.accountservice"><accountId>978775784</accountId><base64Token>Basic {t_authoriizatiion
+lib.h(421):     tore.accountservice"><accountId>690980838</accountId><base64Token>Basic {t_authoriizatiion
 lib.h(421):     }</base64Token></GetAccountByIdRequest></soap:Body></soap:Envelope>
-lib.h(421): t=44480ms: 736-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdRequest" (RelFrameId=1, Internal ID=35)
+lib.h(421): t=46796ms: 736-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdRequest" (RelFrameId=1, Internal ID=32)
 lib.h(421):     HTTP/2.0 200\r\n
 lib.h(421):     Status: 200\r\n
 lib.h(421):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(421):     date: Sat, 09 Mar 2024 16:20:17 GMT\r\n
+lib.h(421):     date: Tue, 12 Mar 2024 12:35:18 GMT\r\n
 lib.h(421):     content-type: text/xml;charset=utf-8\r\n
-lib.h(421):     content-length: 1296\r\n
+lib.h(421):     content-length: 1293\r\n
 lib.h(421):     x-content-type-options: nosniff\r\n
 lib.h(421):     x-xss-protection: 1; mode=block\r\n
 lib.h(421):     cache-control: no-store\r\n
@@ -1047,36 +401,36 @@ lib.h(421):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*
 lib.h(421):     soapaction: ""\r\n
 lib.h(421):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(421):     \r\n
-lib.h(421): t=44482ms: 1296-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdRequest" (RelFrameId=1, Internal ID=35)
+lib.h(421): t=46799ms: 1293-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdRequest" (RelFrameId=1, Internal ID=32)
 lib.h(421):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
 lib.h(421):     ader/><SOAP-ENV:Body><ns2:GetAccountByIdResponse xmlns:ns2="com.advantage.online.store.acc
-lib.h(421):     ountservice"><ns2:AccountResponse><ns2:id>978775784</ns2:id><ns2:lastName>Smith</ns2:lastN
-lib.h(421):     ame><ns2:firstName>John</ns2:firstName><ns2:loginName>ujeeeouvd</ns2:loginName><ns2:accoun
-lib.h(421):     tType>20</ns2:accountType><ns2:countryId>40</ns2:countryId><ns2:countryName>United States<
-lib.h(421):     /ns2:countryName><ns2:countryIsoName>us</ns2:countryIsoName><ns2:stateProvince>California<
-lib.h(421):     /ns2:stateProvince><ns2:cityName>Los Angeles</ns2:cityName><ns2:address>123 Main St</ns2:a
-lib.h(421):     ddress><ns2:zipcode>90001</ns2:zipcode><ns2:phoneNumber>123456789</ns2:phoneNumber><ns2:em
-lib.h(421):     ail>j.smith@example.com</ns2:email><ns2:defaultPaymentMethodId>0</ns2:defaultPaymentMethod
-lib.h(421):     Id><ns2:allowOffersPromotion>true</ns2:allowOffersPromotion><ns2:internalUnsuccessfulLogin
-lib.h(421):     Attempts>0</ns2:internalUnsuccessfulLoginAttempts><ns2:internalUserBlockedFromLoginUntil>0
-lib.h(421):     </ns2:internalUserBlockedFromLoginUntil><ns2:internalLastSuccesssulLogin>0</ns2:internalLa
-lib.h(421):     stSuccesssulLogin><ns2:loginPassword>819b2ec38337afb55698dce34883e6e0b52cd6fe</ns2:loginPa
-lib.h(421):     ssword><ns2:aobUser>false</ns2:aobUser></ns2:AccountResponse></ns2:GetAccountByIdResponse>
-lib.h(421):     </SOAP-ENV:Body></SOAP-ENV:Envelope>
-lib.h(421): t=44483ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdRequest"  	[MsgId: MMSG-26000]
-lib.h(421): web_custom_request("GetAccountByIdRequest") was successful, 1296 body bytes, 736 header bytes  	[MsgId: MMSG-26386]
+lib.h(421):     ountservice"><ns2:AccountResponse><ns2:id>690980838</ns2:id><ns2:lastName>Smith</ns2:lastN
+lib.h(421):     ame><ns2:firstName>John</ns2:firstName><ns2:loginName>j.smith</ns2:loginName><ns2:accountT
+lib.h(421):     ype>20</ns2:accountType><ns2:countryId>40</ns2:countryId><ns2:countryName>United States</n
+lib.h(421):     s2:countryName><ns2:countryIsoName>us</ns2:countryIsoName><ns2:stateProvince>California</n
+lib.h(421):     s2:stateProvince><ns2:cityName>Los Angles</ns2:cityName><ns2:address>123 Main St</ns2:addr
+lib.h(421):     ess><ns2:zipcode>90001</ns2:zipcode><ns2:phoneNumber>123456789</ns2:phoneNumber><ns2:email
+lib.h(421):     >j.smith@example.com</ns2:email><ns2:defaultPaymentMethodId>0</ns2:defaultPaymentMethodId>
+lib.h(421):     <ns2:allowOffersPromotion>true</ns2:allowOffersPromotion><ns2:internalUnsuccessfulLoginAtt
+lib.h(421):     empts>0</ns2:internalUnsuccessfulLoginAttempts><ns2:internalUserBlockedFromLoginUntil>0</n
+lib.h(421):     s2:internalUserBlockedFromLoginUntil><ns2:internalLastSuccesssulLogin>0</ns2:internalLastS
+lib.h(421):     uccesssulLogin><ns2:loginPassword>7219de152c0c1cd15d56a626b3ddbeb72be99044</ns2:loginPassw
+lib.h(421):     ord><ns2:aobUser>false</ns2:aobUser></ns2:AccountResponse></ns2:GetAccountByIdResponse></S
+lib.h(421):     OAP-ENV:Body></SOAP-ENV:Envelope>
+lib.h(421): t=46800ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdRequest"  	[MsgId: MMSG-26000]
+lib.h(421): web_custom_request("GetAccountByIdRequest") was successful, 1293 body bytes, 736 header bytes  	[MsgId: MMSG-26386]
 lib.h(433): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
 lib.h(433): "SOAPAction: com.advantage.online.store.accountserviceGetAccountByIdNewRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
 lib.h(433): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
 lib.h(436): web_custom_request("GetAccountByIdNewRequest") started  	[MsgId: MMSG-26355]
-lib.h(436): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
+lib.h(436): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
 lib.h(436): Warning: The string 't_authoriizatiion' with parameter delimiters is not a parameter.
 lib.h(436): The request to server https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdNewRequest" is done with headers:
 lib.h(436):     :method = POST
 lib.h(436):     :scheme = https
 lib.h(436):     :path = /accountservice/ws/GetAccountByIdNewRequest
 lib.h(436):     :authority = www.advantageonlineshopping.com
-lib.h(436):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(436):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(436):     Content-Type = text/xml; charset=UTF-8
 lib.h(436):     Referer = https://www.advantageonlineshopping.com/
 lib.h(436):     SOAPAction = com.advantage.online.store.accountserviceGetAccountByIdNewRequest
@@ -1097,15 +451,15 @@ lib.h(436): The request to server "https://www.advantageonlineshopping.com/accou
 lib.h(436):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
 lib.h(436):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
 lib.h(436):     www.w3.org/2001/XMLSchema"><soap:Body><GetAccountByIdNewRequest xmlns="com.advantage.onlin
-lib.h(436):     e.store.accountservice"><accountId>978775784</accountId><base64Token>Basic {t_authoriizati
+lib.h(436):     e.store.accountservice"><accountId>690980838</accountId><base64Token>Basic {t_authoriizati
 lib.h(436):     ion}</base64Token></GetAccountByIdNewRequest></soap:Body></soap:Envelope>
-lib.h(436): t=44806ms: 736-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdNewRequest" (RelFrameId=1, Internal ID=36)
+lib.h(436): t=47154ms: 736-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdNewRequest" (RelFrameId=1, Internal ID=33)
 lib.h(436):     HTTP/2.0 200\r\n
 lib.h(436):     Status: 200\r\n
 lib.h(436):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(436):     date: Sat, 09 Mar 2024 16:20:17 GMT\r\n
+lib.h(436):     date: Tue, 12 Mar 2024 12:35:18 GMT\r\n
 lib.h(436):     content-type: text/xml;charset=utf-8\r\n
-lib.h(436):     content-length: 1231\r\n
+lib.h(436):     content-length: 1228\r\n
 lib.h(436):     x-content-type-options: nosniff\r\n
 lib.h(436):     x-xss-protection: 1; mode=block\r\n
 lib.h(436):     cache-control: no-store\r\n
@@ -1122,23 +476,23 @@ lib.h(436):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*
 lib.h(436):     soapaction: ""\r\n
 lib.h(436):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(436):     \r\n
-lib.h(436): t=44808ms: 1231-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdNewRequest" (RelFrameId=1, Internal ID=36)
+lib.h(436): t=47157ms: 1228-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdNewRequest" (RelFrameId=1, Internal ID=33)
 lib.h(436):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
 lib.h(436):     ader/><SOAP-ENV:Body><ns2:GetAccountByIdNewResponse xmlns:ns2="com.advantage.online.store.
-lib.h(436):     accountservice"><ns2:AccountResponse><ns2:id>978775784</ns2:id><ns2:lastName>Smith</ns2:la
-lib.h(436):     stName><ns2:firstName>John</ns2:firstName><ns2:loginName>ujeeeouvd</ns2:loginName><ns2:acc
-lib.h(436):     ountType>20</ns2:accountType><ns2:countryId>40</ns2:countryId><ns2:countryName>United Stat
-lib.h(436):     es</ns2:countryName><ns2:countryIsoName>us</ns2:countryIsoName><ns2:stateProvince>Californ
-lib.h(436):     ia</ns2:stateProvince><ns2:cityName>Los Angeles</ns2:cityName><ns2:homeAddress>123 Main St
-lib.h(436):     </ns2:homeAddress><ns2:zipcode>90001</ns2:zipcode><ns2:mobilePhone>123456789</ns2:mobilePh
-lib.h(436):     one><ns2:email>j.smith@example.com</ns2:email><ns2:defaultPaymentMethodId>0</ns2:defaultPa
-lib.h(436):     ymentMethodId><ns2:allowOffersPromotion>true</ns2:allowOffersPromotion><ns2:internalUnsucc
-lib.h(436):     essfulLoginAttempts>0</ns2:internalUnsuccessfulLoginAttempts><ns2:internalUserBlockedFromL
-lib.h(436):     oginUntil>0</ns2:internalUserBlockedFromLoginUntil><ns2:internalLastSuccesssulLogin>0</ns2
-lib.h(436):     :internalLastSuccesssulLogin><ns2:aobUser>false</ns2:aobUser></ns2:AccountResponse></ns2:G
-lib.h(436):     etAccountByIdNewResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
-lib.h(436): t=44809ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdNewRequest"  	[MsgId: MMSG-26000]
-lib.h(436): web_custom_request("GetAccountByIdNewRequest") was successful, 1231 body bytes, 736 header bytes  	[MsgId: MMSG-26386]
+lib.h(436):     accountservice"><ns2:AccountResponse><ns2:id>690980838</ns2:id><ns2:lastName>Smith</ns2:la
+lib.h(436):     stName><ns2:firstName>John</ns2:firstName><ns2:loginName>j.smith</ns2:loginName><ns2:accou
+lib.h(436):     ntType>20</ns2:accountType><ns2:countryId>40</ns2:countryId><ns2:countryName>United States
+lib.h(436):     </ns2:countryName><ns2:countryIsoName>us</ns2:countryIsoName><ns2:stateProvince>California
+lib.h(436):     </ns2:stateProvince><ns2:cityName>Los Angles</ns2:cityName><ns2:homeAddress>123 Main St</n
+lib.h(436):     s2:homeAddress><ns2:zipcode>90001</ns2:zipcode><ns2:mobilePhone>123456789</ns2:mobilePhone
+lib.h(436):     ><ns2:email>j.smith@example.com</ns2:email><ns2:defaultPaymentMethodId>0</ns2:defaultPayme
+lib.h(436):     ntMethodId><ns2:allowOffersPromotion>true</ns2:allowOffersPromotion><ns2:internalUnsuccess
+lib.h(436):     fulLoginAttempts>0</ns2:internalUnsuccessfulLoginAttempts><ns2:internalUserBlockedFromLogi
+lib.h(436):     nUntil>0</ns2:internalUserBlockedFromLoginUntil><ns2:internalLastSuccesssulLogin>0</ns2:in
+lib.h(436):     ternalLastSuccesssulLogin><ns2:aobUser>false</ns2:aobUser></ns2:AccountResponse></ns2:GetA
+lib.h(436):     ccountByIdNewResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+lib.h(436): t=47158ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdNewRequest"  	[MsgId: MMSG-26000]
+lib.h(436): web_custom_request("GetAccountByIdNewRequest") was successful, 1228 body bytes, 736 header bytes  	[MsgId: MMSG-26386]
 lib.h(448): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
 lib.h(448): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
 lib.h(448): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
@@ -1148,13 +502,13 @@ lib.h(450): web_remove/revert_auto_header("X-Requested-With") was successful  	[
 lib.h(452): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
 lib.h(452): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
 lib.h(459): web_url("{UserID}_3") started  	[MsgId: MMSG-26355]
-lib.h(459): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
-lib.h(459): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" is done with headers:
+lib.h(459): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
+lib.h(459): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" is done with headers:
 lib.h(459):     :method = GET
 lib.h(459):     :scheme = https
-lib.h(459):     :path = /order/api/v1/carts/978775784
+lib.h(459):     :path = /order/api/v1/carts/690980838
 lib.h(459):     :authority = www.advantageonlineshopping.com
-lib.h(459):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(459):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(459):     Referer = https://www.advantageonlineshopping.com/
 lib.h(459):     Sec-Fetch-Dest = empty
 lib.h(459):     Sec-Fetch-Mode = cors
@@ -1165,13 +519,13 @@ lib.h(459):     0
 lib.h(459):     Accept-Encoding = gzip, deflate
 lib.h(459):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(459):     Accept = */*
-lib.h(459):     cookie = JSESSIONID=239334D7970A045DE6B298278142ACE4; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(459):     cookie = JSESSIONID=01856941F47F2839A5D60FDD370D2400; userCart=%7B%22userId%22%3A-1%2C%22p
 lib.h(459):     roductsInCart%22%3A%5B%5D%7D
-lib.h(459): t=45304ms: 375-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=37)
+lib.h(459): t=47779ms: 375-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=34)
 lib.h(459):     HTTP/2.0 200\r\n
 lib.h(459):     Status: 200\r\n
 lib.h(459):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(459):     date: Sat, 09 Mar 2024 16:20:18 GMT\r\n
+lib.h(459):     date: Tue, 12 Mar 2024 12:35:19 GMT\r\n
 lib.h(459):     content-type: application/json\r\n
 lib.h(459):     expires: 0\r\n
 lib.h(459):     cache-control: no-store\r\n
@@ -1182,16 +536,16 @@ lib.h(459):     vary: accept-encoding\r\n
 lib.h(459):     content-encoding: gzip\r\n
 lib.h(459):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(459):     \r\n
-lib.h(459): t=45305ms: 237-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=37)
-lib.h(459): t=45306ms: 283-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=37)
-lib.h(459):     {"userId":978775784,"productsInCart":[{"productId":21,"productName":"HP Roar Plus Wireless
-lib.h(459):      Speaker","price":169.99,"quantity":1,"imageUrl":"4300","color":{"code":"414141","name":"B
-lib.h(459):     LACK","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"239334D7970A045DE6B29
-lib.h(459):     8278142ACE4"}
-lib.h(459): Notify: Saving Parameter "Cost = 169.99".
-lib.h(459): t=45306ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=37)
-lib.h(459): t=45306ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784"  	[MsgId: MMSG-26000]
-lib.h(459): web_url("{UserID}_3") was successful, 247 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(459): t=47781ms: 235-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=34)
+lib.h(459): t=47782ms: 280-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=34)
+lib.h(459):     {"userId":690980838,"productsInCart":[{"productId":17,"productName":"HP Elite x2 1011 G1 T
+lib.h(459):     ablet","price":1279.0,"quantity":1,"imageUrl":"3200","color":{"code":"414141","name":"BLAC
+lib.h(459):     K","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"01856941F47F2839A5D60FDD
+lib.h(459):     370D2400"}
+lib.h(459): Notify: Saving Parameter "Cost = 1279.0".
+lib.h(459): t=47782ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=34)
+lib.h(459): t=47783ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
+lib.h(459): web_url("{UserID}_3") was successful, 245 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
 lib.h(468): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
 lib.h(468): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
 lib.h(468): "Origin: https://www.advantageonlineshopping.com" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
@@ -1204,13 +558,13 @@ lib.h(471): Notify: Parameter Substitution: parameter "State" =  "California"
 lib.h(471): Notify: Parameter Substitution: parameter "Name" =  "John"
 lib.h(471): Notify: Parameter Substitution: parameter "LastName" =  "Smith"
 lib.h(471): Notify: Parameter Substitution: parameter "Num" =  "123456789"
-lib.h(471): Notify: Parameter Substitution: parameter "sessionId" =  "CE3B7F413D8B7A69642679BFBFC4F6DB"
+lib.h(471): Warning: The string 'sessionId' with parameter delimiters is not a parameter.
 lib.h(471): The request to server https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" is done with headers:
 lib.h(471):     :method = POST
 lib.h(471):     :scheme = https
 lib.h(471):     :path = /order/api/v1/shippingcost/
 lib.h(471):     :authority = www.advantageonlineshopping.com
-lib.h(471):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(471):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(471):     Content-Type = application/json;charset=utf-8
 lib.h(471):     Referer = https://www.advantageonlineshopping.com/
 lib.h(471):     Sec-Fetch-Dest = empty
@@ -1223,19 +577,19 @@ lib.h(471):     0
 lib.h(471):     Accept-Encoding = gzip, deflate
 lib.h(471):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(471):     Accept = */*
-lib.h(471):     content-length = 302
-lib.h(471):     cookie = JSESSIONID=239334D7970A045DE6B298278142ACE4; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(471):     content-length = 281
+lib.h(471):     cookie = JSESSIONID=01856941F47F2839A5D60FDD370D2400; userCart=%7B%22userId%22%3A-1%2C%22p
 lib.h(471):     roductsInCart%22%3A%5B%5D%7D
 lib.h(471): The request to server "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" is done with body:
 lib.h(471):     {"seaddress":{"addressLine1":"123 Main St","addressLine2":"","city":"Los Angeles","country
 lib.h(471):     ":"us","postalCode":90001,"state":"California"},"secustomerName":"John Smith","secustomerP
-lib.h(471):     hone":123456789,"senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"CE
-lib.h(471):     3B7F413D8B7A69642679BFBFC4F6DB"}
-lib.h(471): t=45656ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" (RelFrameId=1, Internal ID=38)
+lib.h(471):     hone":123456789,"senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"{s
+lib.h(471):     essionId}"}
+lib.h(471): t=48207ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" (RelFrameId=1, Internal ID=35)
 lib.h(471):     HTTP/2.0 200\r\n
 lib.h(471):     Status: 200\r\n
 lib.h(471):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(471):     date: Sat, 09 Mar 2024 16:20:18 GMT\r\n
+lib.h(471):     date: Tue, 12 Mar 2024 12:35:19 GMT\r\n
 lib.h(471):     content-type: application/json\r\n
 lib.h(471):     access-control-allow-credentials: true\r\n
 lib.h(471):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
@@ -1248,13 +602,13 @@ lib.h(471):     x-frame-options: DENY\r\n
 lib.h(471):     content-encoding: gzip\r\n
 lib.h(471):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(471):     \r\n
-lib.h(471): t=45657ms: 115-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" (RelFrameId=1, Internal ID=38)
-lib.h(471): t=45658ms: 124-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" (RelFrameId=1, Internal ID=38)
-lib.h(471):     {"code":"Ok","reason":"Ok","amount":"0.00","currency":"USD","transactionDate":"9032024","s
-lib.h(471):     etransactionType":"SHIPPING_COST"}
-lib.h(471): t=45658ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" (RelFrameId=1, Internal ID=38)
-lib.h(471): t=45658ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/"  	[MsgId: MMSG-26000]
-lib.h(471): web_custom_request("shippingcost") was successful, 125 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
+lib.h(471): t=48210ms: 116-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" (RelFrameId=1, Internal ID=35)
+lib.h(471): t=48210ms: 125-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" (RelFrameId=1, Internal ID=35)
+lib.h(471):     {"code":"Ok","reason":"Ok","amount":"0.00","currency":"USD","transactionDate":"12032024","
+lib.h(471):     setransactionType":"SHIPPING_COST"}
+lib.h(471): t=48211ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/" (RelFrameId=1, Internal ID=35)
+lib.h(471): t=48211ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/shippingcost/"  	[MsgId: MMSG-26000]
+lib.h(471): web_custom_request("shippingcost") was successful, 126 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
 lib.h(483): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
 lib.h(483): "SOAPAction: com.advantage.online.store.accountserviceGetAccountPaymentPreferencesRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
 lib.h(483): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
@@ -1263,14 +617,14 @@ lib.h(486): An unrecognized header ("X-Requested-With") is being added  	[MsgId:
 lib.h(486): "X-Requested-With: XMLHttpRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
 lib.h(486): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
 lib.h(489): web_custom_request("GetAccountPaymentPreferencesRequest") started  	[MsgId: MMSG-26355]
-lib.h(489): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
+lib.h(489): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
 lib.h(489): Warning: The string 't_authoriizatiion' with parameter delimiters is not a parameter.
 lib.h(489): The request to server https://www.advantageonlineshopping.com/accountservice/ws/GetAccountPaymentPreferencesRequest" is done with headers:
 lib.h(489):     :method = POST
 lib.h(489):     :scheme = https
 lib.h(489):     :path = /accountservice/ws/GetAccountPaymentPreferencesRequest
 lib.h(489):     :authority = www.advantageonlineshopping.com
-lib.h(489):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(489):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(489):     Content-Type = text/xml; charset=UTF-8
 lib.h(489):     Referer = https://www.advantageonlineshopping.com/
 lib.h(489):     SOAPAction = com.advantage.online.store.accountserviceGetAccountPaymentPreferencesRequest
@@ -1291,16 +645,16 @@ lib.h(489): The request to server "https://www.advantageonlineshopping.com/accou
 lib.h(489):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
 lib.h(489):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
 lib.h(489):     www.w3.org/2001/XMLSchema"><soap:Body><GetAccountPaymentPreferencesRequest xmlns="com.adva
-lib.h(489):     ntage.online.store.accountservice"><accountId>978775784</accountId><base64Token>Basic {t_a
+lib.h(489):     ntage.online.store.accountservice"><accountId>690980838</accountId><base64Token>Basic {t_a
 lib.h(489):     uthoriizatiion}</base64Token></GetAccountPaymentPreferencesRequest></soap:Body></soap:Enve
 lib.h(489):     lope>
-lib.h(489): t=45974ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountPaymentPreferencesRequest" (RelFrameId=1, Internal ID=39)
+lib.h(489): t=48540ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountPaymentPreferencesRequest" (RelFrameId=1, Internal ID=36)
 lib.h(489):     HTTP/2.0 200\r\n
 lib.h(489):     Status: 200\r\n
 lib.h(489):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(489):     date: Sat, 09 Mar 2024 16:20:19 GMT\r\n
+lib.h(489):     date: Tue, 12 Mar 2024 12:35:20 GMT\r\n
 lib.h(489):     content-type: text/xml;charset=utf-8\r\n
-lib.h(489):     content-length: 226\r\n
+lib.h(489):     content-length: 497\r\n
 lib.h(489):     x-content-type-options: nosniff\r\n
 lib.h(489):     x-xss-protection: 1; mode=block\r\n
 lib.h(489):     cache-control: no-store\r\n
@@ -1317,12 +671,15 @@ lib.h(489):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*
 lib.h(489):     soapaction: ""\r\n
 lib.h(489):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(489):     \r\n
-lib.h(489): t=45977ms: 226-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountPaymentPreferencesRequest" (RelFrameId=1, Internal ID=39)
+lib.h(489): t=48541ms: 497-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountPaymentPreferencesRequest" (RelFrameId=1, Internal ID=36)
 lib.h(489):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
 lib.h(489):     ader/><SOAP-ENV:Body><ns2:PaymentPreferences xmlns:ns2="com.advantage.online.store.account
-lib.h(489):     service"/></SOAP-ENV:Body></SOAP-ENV:Envelope>
-lib.h(489): t=45977ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountPaymentPreferencesRequest"  	[MsgId: MMSG-26000]
-lib.h(489): web_custom_request("GetAccountPaymentPreferencesRequest") was successful, 226 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+lib.h(489):     service"><ns2:preference><ns2:paymentMethod>10</ns2:paymentMethod><ns2:safePayUsername>oou
+lib.h(489):     alhwpd</ns2:safePayUsername><ns2:safePayPassword>20e594db14a4d65006b8a92386a6458799acd141<
+lib.h(489):     /ns2:safePayPassword><ns2:preferenceId>0</ns2:preferenceId></ns2:preference></ns2:PaymentP
+lib.h(489):     references></SOAP-ENV:Body></SOAP-ENV:Envelope>
+lib.h(489): t=48542ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountPaymentPreferencesRequest"  	[MsgId: MMSG-26000]
+lib.h(489): web_custom_request("GetAccountPaymentPreferencesRequest") was successful, 497 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
 lib.h(501): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
 lib.h(501): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
 lib.h(501): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
@@ -1332,7 +689,7 @@ lib.h(503):     :method = GET
 lib.h(503):     :scheme = https
 lib.h(503):     :path = /app/order/views/orderPayment-page.html
 lib.h(503):     :authority = www.advantageonlineshopping.com
-lib.h(503):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(503):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(503):     Referer = https://www.advantageonlineshopping.com/
 lib.h(503):     Sec-Fetch-Dest = empty
 lib.h(503):     Sec-Fetch-Mode = cors
@@ -1344,23 +701,23 @@ lib.h(503):     Accept-Encoding = gzip, deflate
 lib.h(503):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(503):     Accept = */*
 lib.h(503):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(503): t=46149ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html" (RelFrameId=1, Internal ID=40)
+lib.h(503): t=48699ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html" (RelFrameId=1, Internal ID=37)
 lib.h(503):     HTTP/2.0 200\r\n
 lib.h(503):     Status: 200\r\n
 lib.h(503):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(503):     date: Sat, 09 Mar 2024 16:20:19 GMT\r\n
+lib.h(503):     date: Tue, 12 Mar 2024 12:35:20 GMT\r\n
 lib.h(503):     content-type: text/html\r\n
 lib.h(503):     accept-ranges: bytes\r\n
 lib.h(503):     etag: W/"2446-1707902752000"\r\n
 lib.h(503):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(503):     cache-control: max-age=0\r\n
-lib.h(503):     expires: Sat, 09 Mar 2024 16:20:19 GMT\r\n
+lib.h(503):     expires: Tue, 12 Mar 2024 12:35:20 GMT\r\n
 lib.h(503):     vary: accept-encoding\r\n
 lib.h(503):     content-encoding: gzip\r\n
 lib.h(503):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(503):     \r\n
-lib.h(503): t=46150ms: 914-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html" (RelFrameId=1, Internal ID=40)
-lib.h(503): t=46150ms: 2446-byte DECODED response body for "https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html" (RelFrameId=1, Internal ID=40)
+lib.h(503): t=48701ms: 914-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html" (RelFrameId=1, Internal ID=37)
+lib.h(503): t=48701ms: 2446-byte DECODED response body for "https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html" (RelFrameId=1, Internal ID=37)
 lib.h(503):     <!--\n
 lib.h(503):     <section id="png">\n
 lib.h(503):         <img src="../../../dcss/images/mariaDesigns/order/1Identification.png" />\n
@@ -1418,10 +775,10 @@ lib.h(503):         </article>\n
 lib.h(503):     </section>\n
 lib.h(503):     \n
 lib.h(503):     <social-media-drtv></social-media-drtv>\n
-lib.h(503): t=46152ms: Request done "https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html"  	[MsgId: MMSG-26000]
+lib.h(503): t=48706ms: Request done "https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html"  	[MsgId: MMSG-26000]
 lib.h(503): web_url("orderPayment-page.html") was successful, 914 body bytes, 406 header bytes  	[MsgId: MMSG-26386]
-lib.h(513): Notify: Transaction "ChechOut" ended with a "Pass" status (Duration: 1,9860 Wasted Time: 0,0180).
-Action.c(44): lr_think_time: 5,00 seconds.
+lib.h(513): Notify: Transaction "ChechOut" ended with a "Pass" status (Duration: 2.2329 Wasted Time: 0.0217).
+Action.c(44): lr_think_time: 5.00 seconds.
 lib.h(520): Notify: Transaction "SafePayment" started.
 lib.h(522): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
 lib.h(522): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
@@ -1437,15 +794,15 @@ lib.h(528): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-263
 lib.h(531): web_reg_find started  	[MsgId: MMSG-26355]
 lib.h(531): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 lib.h(533): web_custom_request("AddSafePayMethodRequest") started  	[MsgId: MMSG-26355]
-lib.h(533): Notify: Parameter Substitution: parameter "Loginrnd" =  "ujeeeouvd"
-lib.h(533): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
-lib.h(533): Notify: Parameter Substitution: parameter "t_authorization" =  "dWplZWVvdXZkOkpvaG4xMjM="
+lib.h(533): Notify: Parameter Substitution: parameter "Loginrnd" =  "jjvrzbpvf"
+lib.h(533): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
+lib.h(533): Notify: Parameter Substitution: parameter "t_authorization" =  "ai5zbWl0aDpKb2huMTIz"
 lib.h(533): The request to server https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest" is done with headers:
 lib.h(533):     :method = POST
 lib.h(533):     :scheme = https
 lib.h(533):     :path = /accountservice/ws/AddSafePayMethodRequest
 lib.h(533):     :authority = www.advantageonlineshopping.com
-lib.h(533):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(533):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(533):     Content-Type = text/xml; charset=UTF-8
 lib.h(533):     Referer = https://www.advantageonlineshopping.com/
 lib.h(533):     SOAPAction = com.advantage.online.store.accountserviceAddSafePayMethodRequest
@@ -1460,20 +817,20 @@ lib.h(533):     0
 lib.h(533):     Accept-Encoding = gzip, deflate
 lib.h(533):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(533):     Accept = */*
-lib.h(533):     content-length = 524
+lib.h(533):     content-length = 520
 lib.h(533):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
 lib.h(533): The request to server "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest" is done with body:
 lib.h(533):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
 lib.h(533):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
 lib.h(533):     www.w3.org/2001/XMLSchema"><soap:Body><AddSafePayMethodRequest xmlns="com.advantage.online
-lib.h(533):     .store.accountservice"><safePayUsername>ujeeeouvd</safePayUsername><accountId>978775784</a
-lib.h(533):     ccountId><safePayPassword>SPpass123</safePayPassword><base64Token>Basic dWplZWVvdXZkOkpvaG
-lib.h(533):     4xMjM=</base64Token></AddSafePayMethodRequest></soap:Body></soap:Envelope>
-lib.h(533): t=51460ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest" (RelFrameId=1, Internal ID=41)
+lib.h(533):     .store.accountservice"><safePayUsername>jjvrzbpvf</safePayUsername><accountId>690980838</a
+lib.h(533):     ccountId><safePayPassword>SPpass123</safePayPassword><base64Token>Basic ai5zbWl0aDpKb2huMT
+lib.h(533):     Iz</base64Token></AddSafePayMethodRequest></soap:Body></soap:Envelope>
+lib.h(533): t=54047ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest" (RelFrameId=1, Internal ID=38)
 lib.h(533):     HTTP/2.0 200\r\n
 lib.h(533):     Status: 200\r\n
 lib.h(533):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(533):     date: Sat, 09 Mar 2024 16:20:24 GMT\r\n
+lib.h(533):     date: Tue, 12 Mar 2024 12:35:25 GMT\r\n
 lib.h(533):     content-type: text/xml;charset=utf-8\r\n
 lib.h(533):     content-length: 408\r\n
 lib.h(533):     x-content-type-options: nosniff\r\n
@@ -1492,23 +849,23 @@ lib.h(533):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*
 lib.h(533):     soapaction: ""\r\n
 lib.h(533):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(533):     \r\n
-lib.h(533): t=51462ms: 408-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest" (RelFrameId=1, Internal ID=41)
+lib.h(533): t=54051ms: 408-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest" (RelFrameId=1, Internal ID=38)
 lib.h(533):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
 lib.h(533):     ader/><SOAP-ENV:Body><ns2:AddSafePayMethodResponse xmlns:ns2="com.advantage.online.store.a
 lib.h(533):     ccountservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:id>0</ns2:id><ns2:re
 lib.h(533):     ason>SafePay data updated successfully</ns2:reason></ns2:StatusMessage></ns2:AddSafePayMet
 lib.h(533):     hodResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
-lib.h(533): t=51463ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest"  	[MsgId: MMSG-26000]
+lib.h(533): t=54051ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest"  	[MsgId: MMSG-26000]
 lib.h(533): Registered web_reg_find successful for "Text=<ns2:reason>SafePay data updated successfully</ns2:reason>" (count=1)  	[MsgId: MMSG-26364]
 lib.h(533): web_custom_request("AddSafePayMethodRequest") was successful, 408 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
 lib.h(546): web_reg_find started  	[MsgId: MMSG-26355]
 lib.h(546): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 lib.h(549): web_custom_request("{UserID}_4") started  	[MsgId: MMSG-26355]
-lib.h(549): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
-lib.h(549): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
+lib.h(549): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
+lib.h(549): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
 lib.h(549): Notify: Parameter Substitution: parameter "Num" =  "123456789"
-lib.h(549): Notify: Parameter Substitution: parameter "Loginrnd" =  "ujeeeouvd"
-lib.h(549): Notify: Parameter Substitution: parameter "Date" =  "03092024"
+lib.h(549): Notify: Parameter Substitution: parameter "Loginrnd" =  "jjvrzbpvf"
+lib.h(549): Notify: Parameter Substitution: parameter "Date" =  "03122024"
 lib.h(549): Notify: Parameter Substitution: parameter "Addres" =  "123 Main St"
 lib.h(549): Notify: Parameter Substitution: parameter "City" =  "Los Angeles"
 lib.h(549): Notify: Parameter Substitution: parameter "Name" =  "John"
@@ -1516,15 +873,15 @@ lib.h(549): Notify: Parameter Substitution: parameter "LastName" =  "Smith"
 lib.h(549): Notify: Parameter Substitution: parameter "Num" =  "123456789"
 lib.h(549): Notify: Parameter Substitution: parameter "Zip" =  "90001"
 lib.h(549): Notify: Parameter Substitution: parameter "State" =  "California"
-lib.h(549): Notify: Parameter Substitution: parameter "Cost" =  "169.99"
+lib.h(549): Notify: Parameter Substitution: parameter "Cost" =  "1279.0"
 lib.h(549): Notify: Parameter Substitution: parameter "ColorId" =  "414141"
-lib.h(549): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "21"
-lib.h(549): The request to server https://www.advantageonlineshopping.com/order/api/v1/orders/users/978775784" is done with headers:
+lib.h(549): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "17"
+lib.h(549): The request to server https://www.advantageonlineshopping.com/order/api/v1/orders/users/690980838" is done with headers:
 lib.h(549):     :method = POST
 lib.h(549):     :scheme = https
-lib.h(549):     :path = /order/api/v1/orders/users/978775784
+lib.h(549):     :path = /order/api/v1/orders/users/690980838
 lib.h(549):     :authority = www.advantageonlineshopping.com
-lib.h(549):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(549):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(549):     Content-Type = application/json
 lib.h(549):     Referer = https://www.advantageonlineshopping.com/
 lib.h(549):     Sec-Fetch-Dest = empty
@@ -1538,26 +895,26 @@ lib.h(549):     Accept-Encoding = gzip, deflate
 lib.h(549):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(549):     Accept = */*
 lib.h(549):     content-length = 1018
-lib.h(549):     cookie = JSESSIONID=239334D7970A045DE6B298278142ACE4; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(549):     cookie = JSESSIONID=01856941F47F2839A5D60FDD370D2400; userCart=%7B%22userId%22%3A-1%2C%22p
 lib.h(549):     roductsInCart%22%3A%5B%5D%7D
-lib.h(549): The request to server "https://www.advantageonlineshopping.com/order/api/v1/orders/users/978775784" is done with body:
-lib.h(549):     {"orderPaymentInformation":{"Transaction_AccountNumber":"978775784","Transaction_Currency"
+lib.h(549): The request to server "https://www.advantageonlineshopping.com/order/api/v1/orders/users/690980838" is done with body:
+lib.h(549):     {"orderPaymentInformation":{"Transaction_AccountNumber":"690980838","Transaction_Currency"
 lib.h(549):     :"USD","Transaction_CustomerPhone":123456789,"Transaction_MasterCredit_CVVNumber":"","Tran
 lib.h(549):     saction_MasterCredit_CardNumber":"4886","Transaction_MasterCredit_CustomerName":"","Transa
 lib.h(549):     ction_MasterCredit_ExpirationDate":"122027","Transaction_PaymentMethod":"SafePay","Transac
 lib.h(549):     tion_ReferenceNumber":0,"Transaction_SafePay_Password":"SPpass123","Transaction_SafePay_Us
-lib.h(549):     erName":"ujeeeouvd","Transaction_TransactionDate":"03092024","Transaction_Type":"PAYMENT"}
+lib.h(549):     erName":"jjvrzbpvf","Transaction_TransactionDate":"03122024","Transaction_Type":"PAYMENT"}
 lib.h(549):     ,"orderShippingInformation":{"Shipping_Address_Address":"123 Main St","Shipping_Address_Ci
 lib.h(549):     ty":"Los Angeles","Shipping_Address_CountryCode":40,"Shipping_Address_CustomerName":"John 
 lib.h(549):     Smith","Shipping_Address_CustomerPhone":123456789,"Shipping_Address_PostalCode":90001,"Shi
-lib.h(549):     pping_Address_State":"California","Shipping_Cost":169.99,"Shipping_NumberOfProducts":1,"Sh
-lib.h(549):     ipping_TrackingNumber":0},"purchasedProducts":[{"hexColor":"414141","productId":21,"quanti
+lib.h(549):     pping_Address_State":"California","Shipping_Cost":1279.0,"Shipping_NumberOfProducts":1,"Sh
+lib.h(549):     ipping_TrackingNumber":0},"purchasedProducts":[{"hexColor":"414141","productId":17,"quanti
 lib.h(549):     ty":1,"hasWarranty":false}]}
-lib.h(549): t=52151ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/978775784" (RelFrameId=1, Internal ID=42)
+lib.h(549): t=54849ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/690980838" (RelFrameId=1, Internal ID=39)
 lib.h(549):     HTTP/2.0 200\r\n
 lib.h(549):     Status: 200\r\n
 lib.h(549):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(549):     date: Sat, 09 Mar 2024 16:20:25 GMT\r\n
+lib.h(549):     date: Tue, 12 Mar 2024 12:35:26 GMT\r\n
 lib.h(549):     content-type: application/json\r\n
 lib.h(549):     access-control-allow-credentials: true\r\n
 lib.h(549):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
@@ -1570,22 +927,22 @@ lib.h(549):     x-frame-options: DENY\r\n
 lib.h(549):     content-encoding: gzip\r\n
 lib.h(549):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(549):     \r\n
-lib.h(549): t=52153ms: 149-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/978775784" (RelFrameId=1, Internal ID=42)
-lib.h(549): t=52154ms: 180-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/978775784" (RelFrameId=1, Internal ID=42)
-lib.h(549):     {"success":true,"code":"Ok","reason":"order completed successfully","orderNumber":95547958
-lib.h(549):     59,"paymentConfirmationNumber":9554762529,"trackingNumber":1709554929,"hasWarranty":false}
-lib.h(549): t=52154ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/978775784" (RelFrameId=1, Internal ID=42)
-lib.h(549): t=52158ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/orders/users/978775784"  	[MsgId: MMSG-26000]
+lib.h(549): t=54851ms: 151-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/690980838" (RelFrameId=1, Internal ID=39)
+lib.h(549): t=54852ms: 180-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/690980838" (RelFrameId=1, Internal ID=39)
+lib.h(549):     {"success":true,"code":"Ok","reason":"order completed successfully","orderNumber":95547960
+lib.h(549):     66,"paymentConfirmationNumber":9554762702,"trackingNumber":1709555092,"hasWarranty":false}
+lib.h(549): t=54852ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/690980838" (RelFrameId=1, Internal ID=39)
+lib.h(549): t=54856ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/orders/users/690980838"  	[MsgId: MMSG-26000]
 lib.h(549): Registered web_reg_find successful for "Text="order completed successfully"" (count=1)  	[MsgId: MMSG-26364]
-lib.h(549): web_custom_request("{UserID}_4") was successful, 159 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
+lib.h(549): web_custom_request("{UserID}_4") was successful, 161 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
 lib.h(561): web_custom_request("{UserID}_5") started  	[MsgId: MMSG-26355]
-lib.h(561): Notify: Parameter Substitution: parameter "UserID" =  "978775784"
-lib.h(561): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" is done with headers:
+lib.h(561): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
+lib.h(561): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" is done with headers:
 lib.h(561):     :method = DELETE
 lib.h(561):     :scheme = https
-lib.h(561):     :path = /order/api/v1/carts/978775784
+lib.h(561):     :path = /order/api/v1/carts/690980838
 lib.h(561):     :authority = www.advantageonlineshopping.com
-lib.h(561):     Authorization = Basic dWplZWVvdXZkOkpvaG4xMjM=
+lib.h(561):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(561):     Referer = https://www.advantageonlineshopping.com/
 lib.h(561):     Sec-Fetch-Dest = empty
 lib.h(561):     Sec-Fetch-Mode = cors
@@ -1598,13 +955,13 @@ lib.h(561):     Accept-Encoding = gzip, deflate
 lib.h(561):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(561):     Accept = */*
 lib.h(561):     content-length = 0
-lib.h(561):     cookie = JSESSIONID=239334D7970A045DE6B298278142ACE4; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(561):     cookie = JSESSIONID=01856941F47F2839A5D60FDD370D2400; userCart=%7B%22userId%22%3A-1%2C%22p
 lib.h(561):     roductsInCart%22%3A%5B%5D%7D
-lib.h(561): t=52516ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=43)
+lib.h(561): t=55266ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=40)
 lib.h(561):     HTTP/2.0 200\r\n
 lib.h(561):     Status: 200\r\n
 lib.h(561):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(561):     date: Sat, 09 Mar 2024 16:20:25 GMT\r\n
+lib.h(561):     date: Tue, 12 Mar 2024 12:35:27 GMT\r\n
 lib.h(561):     content-type: application/json\r\n
 lib.h(561):     access-control-allow-credentials: true\r\n
 lib.h(561):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
@@ -1617,21 +974,21 @@ lib.h(561):     x-frame-options: DENY\r\n
 lib.h(561):     content-encoding: gzip\r\n
 lib.h(561):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(561):     \r\n
-lib.h(561): t=52517ms: 56-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=43)
-lib.h(561): t=52518ms: 40-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=43)
-lib.h(561):     {"userId":978775784,"productsInCart":[]}
-lib.h(561): t=52518ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784" (RelFrameId=1, Internal ID=43)
-lib.h(561): t=52518ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/978775784"  	[MsgId: MMSG-26000]
+lib.h(561): t=55269ms: 56-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=40)
+lib.h(561): t=55269ms: 40-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=40)
+lib.h(561):     {"userId":690980838,"productsInCart":[]}
+lib.h(561): t=55269ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=40)
+lib.h(561): t=55270ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
 lib.h(561): web_custom_request("{UserID}_5") was successful, 66 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
-lib.h(571): Notify: Transaction "SafePayment" ended with a "Pass" status (Duration: 1,3640 Wasted Time: 0,0082).
-Action.c(49): Notify: Transaction "UC1_Buy" ended with a "Pass" status (Duration: 52,3360 Think Time: 39,0040 Wasted Time: 0,1539).
+lib.h(571): Notify: Transaction "SafePayment" ended with a "Pass" status (Duration: 1,5595 Wasted Time: 0,0128).
+Action.c(49): Notify: Transaction "UC1_Buy" ended with a "Pass" status (Duration: 55,1139 Think Time: 41,0039 Wasted Time: 0,1684).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...
 Starting action vuser_end.
 Ending action vuser_end.
 Vuser Terminated.
-t=52543ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
-t=52543ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=55297ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=55298ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
 HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
-Vuser 0 (thread 1540), ended OK."
+Vuser 0 (thread 15280), ended OK."

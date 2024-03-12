@@ -41,6 +41,7 @@
     <FileEntry Name="UC1_Buy.prm.bak" Filter="1" />
     <FileEntry Name="UC5_Delete_From_Cart.c.pickle" Filter="1" />
     <FileEntry Name="UC5_Delete_From_Cart.ci" Filter="1" />
+    <FileEntry Name="UC5_Delete_From_Cart.prm.bak" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\Andrey.Home-PC\LoadTestForIBS\Scipts\AdvantageOnlineShoppingLoadTest
+-IC:\Users\Andrey.Home-PC\LoadTestForIBS\Scipts\UC1_Buy
 -ID:\Program Files\LoadRunner\include
--ec:\users\andrey.home-pc\loadtestforibs\scipts\advantageonlineshoppingloadtest\\logfile.log
-c:\users\andrey.home-pc\loadtestforibs\scipts\advantageonlineshoppingloadtest\\combined_AdvantageOnlineShoppingLoadTest.c
-c:\users\andrey.home-pc\loadtestforibs\scipts\advantageonlineshoppingloadtest\\pre_cci.c
+-ec:\users\andrey.home-pc\loadtestforibs\scipts\uc1_buy\\logfile.log
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc1_buy\\combined_UC1_Buy.c
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc1_buy\\pre_cci.c

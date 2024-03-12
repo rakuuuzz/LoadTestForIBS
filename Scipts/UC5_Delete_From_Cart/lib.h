@@ -300,7 +300,6 @@ ChooseProduct()
 {
 	lr_save_string(lr_paramarr_random("ProductId"),"ProductIdrnd");
 	
-	
 	lr_start_transaction("ChooseProduct");
 
 	web_reg_save_param_ex(

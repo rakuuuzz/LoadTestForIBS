@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Andrey.Home-PC\LoadTestForIBS\Scipts\UC6_Search
+-ID:\Program Files\LoadRunner\include
+-ec:\users\andrey.home-pc\loadtestforibs\scipts\uc6_search\\logfile.log
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc6_search\\combined_UC6_Search.c
+c:\users\andrey.home-pc\loadtestforibs\scipts\uc6_search\\pre_cci.c

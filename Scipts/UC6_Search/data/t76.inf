@@ -1,0 +1,15 @@
+[t76]
+FileName1=t76_search.json
+URL1=https://www.advantageonlineshopping.com/catalog/api/v1/products/search?name=hea&quantityPerEachCategory=10
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_76.xml
+RequestHeaderFile=t76_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t76_ResponseHeader.txt
+FileName2=t76_fetchImage.jpg
+URL2=https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=4100
+FileName3=t76_fetchImage.jpg
+URL3=https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=5200
+[ProtocolInfo]
+ProtocolId=QTWeb
