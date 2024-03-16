@@ -358,6 +358,9 @@ AddToCart()
 	lr_start_transaction("AddToCart");
 	
 	web_reg_find("Text=\"userId\":{UserID},",LAST);
+	
+	web_add_header("Origin", 
+		"https://www.advantageonlineshopping.com");
 
 	web_submit_data("{UserId}",
 		"Action=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}/product/{ProductIdrnd}/color/{ColorId}?quantity=1",
@@ -365,7 +368,7 @@ AddToCart()
 		"RecContentType=application/json",
 		"Referer=https://www.advantageonlineshopping.com/",
 		"Snapshot=t52.inf",
-		"Mode=HTML",
+		"Mode=HTTP",
 		ITEMDATA,
 		"Name=sessionId", "Value={sessionId}", ENDITEM,
 		LAST); 

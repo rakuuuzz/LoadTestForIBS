@@ -17,6 +17,7 @@
     <FileEntry Name="combined_UC5_Delete_From_Cart.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="55358044440.idx" Filter="1" />
+    <FileEntry Name="57799848440.idx" Filter="1" />
     <FileEntry Name="AdvantageOnlineShoppingLoadTest.prm.bak" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -26,6 +27,11 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvIzr.85.log" Filter="1" />
+    <FileEntry Name="mdrvlI9.795.log" Filter="1" />
+    <FileEntry Name="mdrvoRb.635.log" Filter="1" />
+    <FileEntry Name="mdrvtHc.25.log" Filter="1" />
+    <FileEntry Name="mdrvVtC.853.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="NewParam(1).dat" Filter="1" />
     <FileEntry Name="NewParam.dat" Filter="1" />

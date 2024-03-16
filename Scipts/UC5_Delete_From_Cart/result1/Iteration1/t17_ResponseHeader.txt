@@ -1,14 +1,14 @@
 HTTP/2.0 201
 Status: 201
 server: nginx/1.18.0 (Ubuntu)
-date: Tue, 12 Mar 2024 12:42:33 GMT
+date: Fri, 15 Mar 2024 16:13:58 GMT
 content-type: application/json
 access-control-allow-credentials: true
 access-control-allow-origin: https://www.advantageonlineshopping.com
 vary: origin,accept-encoding
 expires: 0
 cache-control: no-store
-set-cookie: JSESSIONID=D9E14AF61B47FDEB5E8150A51D24E252; Path=/order; HttpOnly
+set-cookie: JSESSIONID=5CD0E594D3BCB62AFE60190667341FBF; Path=/order; HttpOnly
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 x-frame-options: DENY

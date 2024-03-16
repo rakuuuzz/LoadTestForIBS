@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC2_View_Product__*delimiter*__LogOut"
+Order="UC2_View_Product"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -62,4 +62,3 @@ ActiveRunName=result1
 lib.h=
 [Transactions]
 UC2_View_Product=
-LogOut=

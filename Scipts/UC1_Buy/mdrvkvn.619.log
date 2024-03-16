@@ -1,0 +1,2010 @@
+lib.h(155):     ec-plus-minus>div>input{border:0;outline:0;font-size:14px;text-align:center;border-left:so
+lib.h(155):     lid 1px #d0d0d0;border-right:solid 1px #d0d0d0;width:100%;top:0;height:100%;position:absol
+lib.h(155):     ute}.sec-plus-minus-disable .e-sec-plus-minus div.minus:before,.sec-plus-minus-disable .e-
+lib.h(155):     sec-plus-minus div.plus:before,.sec-plus-minus-disable .e-sec-plus-minus div.plus:after{ba
+lib.h(155):     ckground-color:#b2b2b2}.info-demo{display:inline-block;padding:22px 23px;position:relative
+lib.h(155):     ;border:solid 1px #454545;margin:0 auto}.info-demo>div{display:block;padding:0 19px;positi
+lib.h(155):     on:relative;border-left:solid 2px #454545}.info-demo>div>h4{background-image:url(/css/imag
+lib.h(155):     es/Bell.png);background-repeat:no-repeat;background-position:0 50%;font-size:20px;font-wei
+lib.h(155):     ght:500;text-indent:23px;padding:3px;top:-3px;position:relative}.info-demo>div>p{font-size
+lib.h(155):     :14px;font-weight:300;margin-top:0;color:#828282}.sec-view{position:relative;display:block
+lib.h(155):     }.sec-view div.inputContainer{padding-top:22px;height:100px}.sec-view div label,.sec-view 
+lib.h(155):     div .selectList,.sec-sender{-webkit-user-select:none;-ms-user-select:none;-moz-user-select
+lib.h(155):     :none;user-select:none}.sec-view div input,.sec-view div .selectList span{width:100%;displ
+lib.h(155):     ay:block;padding:3px;font-size:14px;white-space:nowrap}.sec-view div .selectList span{padd
+lib.h(155):     ing:6px 8px}.sec-view *{padding:0;margin:0;box-sizing:border-box}input:-webkit-autofill{-w
+lib.h(155):     ebkit-box-shadow:inset 0 0 0 9999px #fff}.sec-view div .selectList{float:right;position:ab
+lib.h(155):     solute;top:52px;max-height:161px;width:100%;border:solid 1px #d5d5d5;overflow:hidden;overf
+lib.h(155):     low-y:scroll;display:none;cursor:pointer;z-index:20}.sec-view div .selectList span{backgro
+lib.h(155):     und-color:#fff;transition:all .2s ease}.sec-view div .selectList span:last-child{border-bo
+lib.h(155):     ttom:solid 1px rgba(213,213,213,0)}.sec-view div .selectList span:hover{background-color:#
+lib.h(155):     f0f0f0}.sec-view div label{position:absolute;top:22px;left:0;transition:all .4s ease,top .
+lib.h(155):     2s ease,transform .4s ease;transform-origin:0;color:#5d5d5d}.sec-view div .star{display:in
+lib.h(155):     line-block;position:absolute;top:29px;left:-10px;font-size:14px;color:#ff454f}.sec-view di
+lib.h(155):     v label.select-value{height:31px;border-bottom:1px solid #CECCCC;cursor:pointer;font-size:
+lib.h(155):     14px!important}.sec-view div label.select-value:before{content:"";position:absolute;top:14
+lib.h(155):     px;right:10px;border-top:solid 4px #5e5e5e;border-left:solid 4px transparent;border-right:
+lib.h(155):     solid 4px transparent}.sec-view div label.animated{top:2px;transform:scale(0.8,1);padding:
+lib.h(155):     0 3px;margin:5px 0;transition:all .6s ease,transform .2s ease;color:#2a2a2a}.sec-view div 
+lib.h(155):     label.invalid{color:#ff454f;top:51px;font-size:13px}.sec-view div input,.sec-view div sele
+lib.h(155):     ct{margin:4px 0 0;outline:0;cursor:text;border:0;border-bottom:1px solid #CECCCC;transitio
+lib.h(155):     n:border-bottom .4s ease}.sec-view div select{width:100%;font-size:14px;padding:2px 0}.sec
+lib.h(155):     -view div textarea{margin:0;outline:0;cursor:text;border:0;border
+lib.h(155): t=123530ms: 2565-byte ENCODED response body received for "https://www.advantageonlineshopping.com/css/main.min.css" (RelFrameId=, Internal ID=41)
+lib.h(155): t=123530ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/css/main.min.css" (RelFrameId=, Internal ID=41)
+lib.h(155):     :1px solid #CECCCC;width:100%;height:115px;resize:none}.sec-view div.card-number-four-digi
+lib.h(155):     ts{position:relative;padding-left:3px}.sec-view div.card-number-four-digits:before{display
+lib.h(155):     :inline-block;position:absolute;content:"4886";bottom:10px;font-size:14px}.sec-view div.ca
+lib.h(155):     rd-number-four-star:before{content:"****"}.sec-view div input.card-number-four-digits{text
+lib.h(155):     -indent:35px}.sec-view div.card-number-four-star .card-number-four-digits{text-indent:35px
+lib.h(155):     }.sec-view div input.invalid{border-bottom:1px solid #ff454f}.sec-view div label.invalid{c
+lib.h(155):     olor:#ff454f}.sec-view ul{list-style:none}.sec-view ul li{display:none}.sec-view ul li a{c
+lib.h(155):     olor:#828282;font-size:12px;padding:2px 0;text-decoration:none}.sec-view div input[type=ch
+lib.h(155):     eckbox]{width:16px;height:17px}.sec-view div label.checkboxText{cursor:pointer;display:inl
+lib.h(155):     ine-block;position:relative;margin-left:22px;top:-2px;width:100%;font-size:13px;transform:
+lib.h(155):     scale(1)}.sec-sender{display:inline-block;cursor:pointer}.sec-sender .sec-sender-a{transit
+lib.h(155):     ion:all linear .2s;border:solid 2px #2a2a2a;background-color:transparent;color:#2a2a2a;wid
+lib.h(155):     th:100%;display:block;text-align:center;font-size:12px;padding:8px 13px;letter-spacing:.5p
+lib.h(155):     x;font-weight:600;box-sizing:border-box}.sec-sender:hover .sec-sender-a{color:#fff;backgro
+lib.h(155):     und-color:#2a2a2a}.sec-sender .sec-sender-a.invalid,.sec-sender .sec-sender-a.invalid:hove
+lib.h(155):     r{color:#b2b2b2!important;border:solid 2px #d1d1d1!important;cursor:default;background-col
+lib.h(155):     or:#fff}confirmation-modal{display:none;position:fixed;z-index:999;left:0;top:0;width:100%
+lib.h(155):     ;height:100%;overflow:auto;background-color:#000;background-color:rgba(0,0,0,.5)}.modal-co
+lib.h(155):     ntent{background-color:#fefefe;margin:20% auto;padding:10px;border:1px solid #888;width:35
+lib.h(155):     0px}.close{color:#aaa;float:right;font-size:28px;font-weight:700}.confirmation-modal-conte
+lib.h(155):     nt label{text-align:center;display:block;margin:0 auto}.confirmation-modal-content label:f
+lib.h(155):     irst-child{padding-top:20px}.close:hover,.close:focus{color:#000;text-decoration:none;curs
+lib.h(155):     or:pointer}.conf-modal-btn{font-size:14px;color:#2a2a2a;background-color:transparent;width
+lib.h(155):     :137px;margin:26px 10px;height:40px}.conf-modal-btn:hover{background-color:#2a2a2a;color:#
+lib.h(155):     fff}.conf-close-btn{float:right}.conf-modal-btn-container{text-align:center}.conf-btn-regu
+lib.h(155):     lar{font-family:localRobotoRegular}.conf-btn-bold,.conf-btn-regular{display:inline!importa
+lib.h(155):     nt;font-size:12px}.conf-btn-bold{font-family:localRobotoBold}.conf-large-thin{font-size:24
+lib.h(155):     px;font-family:localRobotoThin}.conf-large-regular{font-size:24px}.PopUp img{display:block
+lib.h(155):     ;margin-left:auto;margin-right:auto;height:34px}.PopUp label{display:block}.PopUp img{disp
+lib.h(155):     lay:block;margin:5px auto}.facebook{cursor:pointer;color:#fff;display:block;font-weight:10
+lib.h(155):     0;padding:15px;margin:20px 0;text-align:center;background-color:#46629E;background-image:u
+lib.h(155):     rl(../../css/images/FacebookLogo.png);background-repeat:no-repeat;background-position:16% 
+lib.h(155):     center}.or{display:block}.login .sec-sender{width:100%}.login .sec-sender .sec-sender-a{fo
+lib.h(155):     nt-size:17px;margin:36px 0 5px;padding:12px 0}.forgot-Passwowd{display:block;opacity:.5;cu
+lib.h(155):     rsor:pointer;padding:8px 0;text-align:center}.create-new-account,.forgot-Passwowd{color:#0
+lib.h(155):     00}.create-new-account{cursor:pointer;text-align:center;display:block}.login{position:rela
+lib.h(155):     tive}.login .invalid{color:#ff454f}@media screen and (max-width:600px){.PopUp>div:nth-chil
+lib.h(155):     d(1){margin-top:10%;padding:20px 38px}.PopUp img{display:none}}@media screen and (max-widt
+lib.h(155):     h:480px){.PopUp>div:nth-child(1){width:80%}.facebook{background-image:none;background-posi
+lib.h(155):     tion:21px center}}#registerCover{max-width:1260px;margin:0 auto;padding:110px 30px 30px}#i
+lib.h(155):     nfoDemo,#form{display:table-cell;vertical-align:top}#form{width:100%}#infoDemo{white-space
+lib.h(155):     :nowrap}#registerPage .spliter{white-space:nowrap;width:90%}#registerPage .spliter .sec-vi
+lib.h(155):     ew{width:50%;display:inline-block;padding-right:80px;box-sizing:border-box;vertical-align:
+lib.h(155):     top}#registerPage .spliter .sec-view div label.select-value,#registerPage .spliter .sec-vi
+lib.h(155):     ew div.selectList{width:82%}#formCover>div{margin-bottom:56px}#formCover>div h3{margin:30p
+lib.h(155):     x 0 13px;letter-spacing:1px;font-size:16px}#infoDemo .info-demo{margin:34px 75px 0 0}#regi
+lib.h(155):     sterPage .invalid{color:#ff454f;margin-bottom:10px;white-space:nowrap}#formCover .option{m
+lib.h(155):     argin:3px 0;display:block}#formCover .option.marginTop{margin-top:30px}#formCover .option 
+lib.h(155):     span{width:100%;font-size:14px;color:#828282}.removeSpaces{width:100%;margin:0}#registerPa
+lib.h(155):     ge .sec-sender .sec-sender-a{width:330px;font-size:16px;margin:20px auto}.ALREADY_HAVE_AN_
+lib.h(155):     ACCOUNT{display:block;text-align:center;margin-bottom:40px}.ALREADY_HAVE_AN_ACCOUNT a{font
+lib.h(155):     -size:12px;color:#2a2a2a;cursor:pointer}#form .valid{color:#0f0!important}#form .center{di
+lib.h(155):     splay:block;text-align:center;padding:20px}#form .invalidInput{border-bottom:solid #ff454f
+lib.h(155):      1px}#formCover .validate-directive{width:49%}#formCover>div input[type=text],#formCover>d
+lib.h(155):     iv input[type=password],#formCover>div .inputtext{}#registerSuccessCover{padding:100px 0;f
+lib.h(155):     ont-size:26px}#registerSuccessCover h1{}#registerSuccessCover .successMessage{display:inli
+lib.h(155):     ne-block;position:relative}#registerSuccessCover .successMessage:before{content:"";positio
+lib.h(155):     n:absolute;top:6px;left:-29px;width:20px;height:10px;border-bottom:solid #54b3ad 4px;borde
+lib.h(155):     r-left:solid #54b3ad 4px;transform:rotate(-48deg);z-index:10}#registerSuccessCover .a-butt
+lib.h(155):     on{padding:13px 30px;margin:30px 0 80px;font-size:15px;font-weight:500}@media screen and (
+lib.h(155):     max-width:1200px){#registerPage .spliter{width:100%}}@media screen and (max-width:940px){#
+lib.h(155):     infoDemo,#form{display:block;width:100%}#infoDemo{text-align:center}#infoDemo .info-demo{t
+lib.h(155):     ext-align:left;margin:0 auto;display:inline-block}#registerPage .spliter .sec-view{padding
+lib.h(155):     :0}#registerPage .spliter .sec-view:nth-child(odd){padding-right:40px}#registerPage .split
+lib.h(155):     er .sec-view div label.select-value,#registerPage .spliter .sec-view div.selectList{width:
+lib.h(155):     91%}/*!*width: 100% !important;*!*/}@media screen and (max-width:768px){#form{width:100%;d
+lib.h(155):     isplay:block}#formCover>div span{width:100%;margin:0}.animPlaceholderUp *{white-space:norm
+lib.h(155):     al}#registerSuccessCover .successMessage{width:240px}#registerPage .spliter{white-space:no
+lib.h(155):     rmal}#registerPage .spliter .sec-view,#registerPage .spliter .sec-view div label.select-va
+lib.h(155):     lue,#registerPage .spliter .sec-view div.selectList{width:100%}#registerPage .spliter .sec
+lib.h(155):     -view:nth-child(odd){padding:0}#registerCover{padding:0 30px 30px}#registerPage .sec-sende
+lib.h(155):     r{}}@media screen and (max-width:480px){#registerPage .sec-sender .sec-sender-a{width:100%
+lib.h(155):     }#registerPage .sec-sender{width:100%;padding:0 30px;box-sizing:border-box}#formCover>div{
+lib.h(155):     }#infoDemo{display:none}#form button{width:100%}#formCover>div input[type=text],#formCover
+lib.h(155):     >div input[type=password],#formCover>div .inputtext{width:100%!important}}div.gather_left{
+lib.h(155):     padding-bottom:40px;overflow:hidden;display:table;padding-left:23%;width:76%}div.gather_ri
+lib.h(155):     ght{padding-bottom:40px;overflow:hidden;display:table;padding-left:63%;width:40%}div.whats
+lib.h(155):     _new{font-size:25px;text-align:center;top:110px;padding-bottom:69px}div.paragraph{padding-
+lib.h(155):     left:20px;font-size:15px;line-height:160%;vertical-align:top;display:table-cell;width:90%}
+lib.h(155):     div.menu_side{position:fixed;left:60px;display:inline-block}div.devices{display:table;widt
+lib.h(155):     h:238px;border:2px solid #000;margin-right:50px;padding-top:14px;padding-bottom:14px;paddi
+lib.h(155):     ng-left:25px;padding-right:25px;cursor:pointer}.devices_inner_line{display:table-cell;vert
+lib.h(155):     ical-align:middle;border-left:1px solid #000;padding-left:25px}.devices_inner_line>span{di
+lib.h(155):     splay:block}.devices_font{font-size:25px;line-height:29px}div.devices_pic{display:table-ce
+lib.h(155):     ll;vertical-align:middle;width:30%}div.section_line{border-top:1px solid #000;width:60%;ma
+lib.h(155):     rgin-left:25%;border-color:gray;border-width:1.5px}div.section_line_padding{padding-bottom
+lib.h(155):     :56px}div.section_line_bottom_padding{padding-top:20px}.section_font{padding-bottom:39px;f
+lib.h(155):     ont-size:30px;padding-top:56px}.section_line.section_line_padding>span{display:block}.post
+lib.h(155):     gres_section{width:45%;border-left:2px solid #000;padding-left:10px;margin-top:23px;line-h
+lib.h(155):     eight:24px}.postgres_section>span{display:block;font-size:14px}div.bottom_section{display:
+lib.h(155):     table;padding-top:10px;padding-bottom:60px}span.installation_section_requirements{padding-
+lib.h(155):     top:53px;padding-bottom:14px;letter-spacing:1px;line-height:19px;font-size:16px}div.adm_ma
+lib.h(155):     rket_section{flex-direction:row;display:flex;width:45%;border:2px solid #000;margin-right:
+lib.h(155):     50px;padding:10px}div.mc_pic_padding{}div.app_pic_padding{}div.multiple_elements_overflow{
+lib.h(155):     overflow:hidden}.multiple_elements_overflow>span,.multiple_elements_overflow>a{display:blo
+lib.h(155):     ck}.whats_new_section_pic{display:table-cell}.color_turquoise{color:#54B3AD}.color_grey{co
+lib.h(155):     lor:#8E8E8E}.font_15_px{font-size:15px}p.whats_new_width_paragraph_60{width:90%}p.whats_ne
+lib.h(155):     w_width_paragraph_90{width:90%}.padding_bottom_5_px{padding-bottom:5px}.padding_bottom_15_
+lib.h(155):     px{padding-bottom:15px}.padding_bottom_60_px{padding-bottom:60px}.mini_version_list{displa
+lib.h(155):     y:none;position:absolute;top:75%;left:45%;margin:0 auto;z-index:100;background-color:#fff;
+lib.h(155):     padding:8px;text-align:left;width:181px;border:solid 1px rgba(100,100,100,.82)}.mini_versi
+lib.h(155):     on_list .option{display:inline-block;color:#2a2a2a;font-size:12px;text-decoration:none;pad
+lib.h(155):     ding:7px;width:100%;box-sizing:border-box;cursor:pointer}.mini_version_list .option:hover{
+lib.h(155):     background-color:#f9f9f9}a.release_version,a.release_version:visited,a.release_version:hov
+lib.h(155):     er,a.release_version:active{color:inherit}a.a_menu_side,a.a_menu_side:visited,a.a_menu_sid
+lib.h(155):     e:hover,a.a_menu_side:active{color:grey;display:inline-block}a.release_version:visited{col
+lib.h(155):     or:#000}.menu_side_list{line-height:16px;letter-spacing:1px;font-size:14px}.menu_side>span
+lib.h(155):     {display:block}a.a_menu_side:before{display:block;content:'';border-top:solid 3px gray;pad
+lib.h(155):     ding-bottom:10px;transform:scaleX(0);transition:transform 255ms ease-in-out;transform-orig
+lib.h(155):     in:0 50%}a.a_menu_side:hover:before{transform:scaleX(1)}a.a_menu_side.selected:before{tran
+lib.h(155):     sform:scaleX(1);border-top:solid 3px #000;color:#000}a.a_menu_side.selected{color:#000}.ci
+lib.h(155):     rcle_advantage_icon{border-radius:50%;width:66px;height:66px;background-image:url(images/A
+lib.h(155):     dvantage_logo_white.svg);background-color:#ce42f4;background-repeat:no-repeat;background-p
+lib.h(155):     osition:center;background-position-x:22px}@media screen and (max-width:1220px){}@media scr
+lib.h(155):     een and (max-width:1162px){div.gather_right{padding-left:40%;width:60%}div.gather_left{pad
+lib.h(155):     ding-left:40%;width:60%}div.devices{margin-bottom:20px}div.section_line{margin-left:40%}}@
+lib.h(155):     media screen and (max-width:768px){div.gather_right{padding-left:50%}div.gather_left{paddi
+lib.h(155):     ng-left:50%;width:50%}div.devices{margin-bottom:20px}div.section_line{margin-left:50%}}#or
+lib.h(155):     derPayment{max-width:1180px;font-size:0;margin:100px auto;padding:65px 0 100px}#orderPayme
+lib.h(155):     nt>div{display:inline-block;font-size:14px;vertical-align:top;position:relative}#orderPaym
+lib.h(155):     ent>div:nth-child(1){width:63%}#orderPayment>#userCart{width:330px;padding:20px 25px;backg
+lib.h(155):     round-color:#f9f9f9;position:relative;right:-50px}#orderPayment>#userCart #toolTipCart{dis
+lib.h(155):     play:block;z-index:20;position:static}#orderPayment>#userCart #toolTipCart *{background-co
+lib.h(155):     lor:transparent}#orderPayment>#userCart #toolTipCart table{border:solid 0 #d0d0d0}#orderPa
+lib.h(155):     yment>#userCart #toolTipCart tbody h3{font-weight:600}#orderPayment .itemsCount{color:#2a2
+lib.h(155):     a2a;font-size:12px;position:absolute;top:25px;right:35px}#orderPayment .closeDiv{display:n
+lib.h(155):     one}#orderPayment .shipping,#orderPayment .total{color:#2a2a2a;display:block}#orderPayment
+lib.h(155):      label:first-child{font-size:16px}#orderPayment .total{font-size:15px;margin:6px 0}#userCa
+lib.h(155):     rt .penetrationInCart{padding:0 0 0 80px;position:relative}#userCart .penetrationInCart>sp
+lib.h(155):     an{font-size:11px!important;color:#828282;padding-bottom:5px;display:inline-block}#orderPa
+lib.h(155):     yment .penetrationInCart>label{display:block;font-size:12px}#orderPayment .penetrationInCa
+lib.h(155):     rt>label:first-child{padding-top:20px;padding-bottom:5px}#orderPayment .penetrationInCart>
+lib.h(155):     label span{position:absolute;right:8px}#orderPayment .penetrationInCart .noShipping{height
+lib.h(155):     :0;font-size:0;overflow:hidden;opacity:0;padding-top:10px!important}#orderPayment .penetra
+lib.h(155):     tionInCart>label.shippingText{font-size:12px}#orderPayment .penetrationInCart>label span.s
+lib.h(155):     hippingValue{font-size:14px}#orderPayment .penetrationInCart>label.totalText{font-size:15p
+lib.h(155):     x}#orderPayment .penetrationInCart>label span.to
+lib.h(155): t=123531ms: 149-byte DECODED response body for "https://www.advantageonlineshopping.com/css/main.min.css" (RelFrameId=, Internal ID=41)
+lib.h(155):     talValue{font-size:20px}#orderPayment .totalTitle{position:absolute;right:11px;top:4px}#or
+lib.h(155):     derPayment #toolTipCart tbody .price{height:100%;padding:50
+lib.h(155): t=123531ms: 6180-byte ENCODED response body received for "https://www.advantageonlineshopping.com/css/main.min.css" (RelFrameId=, Internal ID=41)
+lib.h(155): t=123531ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/css/main.min.css" (RelFrameId=, Internal ID=41)
+lib.h(155):     % 0}#orderPayment tfoot{display:none}#orderPayment .closeDiv{display:none}#orderPayment #t
+lib.h(155):     oolTipCart tbody tr:first-child{border-top:solid 1px #d0d0d0}#orderPayment #toolTipCart tb
+lib.h(155):     ody{max-height:inherit}@media screen and (max-width:1200px){#orderPayment>#userCart{right:
+lib.h(155):     0}#detailslink>label{width:50%!important}#orderPayment>div:nth-child(1){width:60%}}@media 
+lib.h(155):     screen and (max-width:980px){#orderPayment .blueLink{display:block}#orderPayment .marginBo
+lib.h(155):     ttom{margin-bottom:90px}#orderPayment>div:nth-child(1){width:53%}#paymentMethod .sec-valid
+lib.h(155):     ate .inputtext{width:70%!important}}@media screen and (max-width:850px){#userSection .next
+lib.h(155):     Btn{}.mobileBtnHandler{height:118px}#orderPayment>div:nth-child(1){width:100%}#orderPaymen
+lib.h(155):     t>#userCart{box-sizing:border-box;width:100%;margin-top:20px}#orderPayment>#userCart{margi
+lib.h(155):     n:30px auto}}@media screen and (max-width:768px){#orderPayment{margin:70px auto;padding-to
+lib.h(155):     p:0}#orderPayment>#userCart{margin-top:20px}#orderPayment .noUserSection .cover{margin:16p
+lib.h(155):     x auto}}@media screen and (max-width:480px){#orderPayment{margin:0 auto;padding-top:20px}}
+lib.h(155):     #orderPayment>div>div{vertical-align:top;padding:0 30px}#orderPayment h5.bigPadding{paddin
+lib.h(155):     g-bottom:65px;font-size:24px;color:#2a2a2a}#orderPayment>div>h5{color:#2a2a2a;font-size:18
+lib.h(155):     px;padding-bottom:16px}#orderPayment label.roboto-medium{font-size:16px;color:#2a2a2a;padd
+lib.h(155):     ing-bottom:15px;display:inline-block}#orderPayment .noUserSection{width:48%;display:inline
+lib.h(155):     -block;vertical-align:top}#orderPayment #Forgot_your_password{color:#828282;padding-bottom
+lib.h(155):     :20px;padding-top:5px;display:inline-block;cursor:pointer}#orderPayment .itemsCount{color:
+lib.h(155):     #2a2a2a;font-size:12px;position:absolute;top:25px;right:35px}#orderPayment .noUserSection 
+lib.h(155):     .cover{max-width:240px;margin:0 auto}#orderPayment .noUserSection .cover div{border-left:s
+lib.h(155):     olid 2px #454545;padding:0 0 0 27px;height:213px}#orderPayment .noUserSection .cover div.n
+lib.h(155):     oEmail{height:170px}#orderPayment .noUserSection .cover a{margin:18px 28px;margin-top:33px
+lib.h(155):     }#orderPayment .sec-sender .sec-sender-a{width:138px;margin-top:16px}#orderPayment #newCli
+lib.h(155):     ent p{line-height:25px;padding:10px 0}#orderPayment .noUserSection>.cover{float:right}#ord
+lib.h(155):     erPayment .closeDiv{display:none}#orderPayment .shipping,#orderPayment .total{color:#2a2a2
+lib.h(155):     a;display:block}#orderPayment label:first-child{font-size:16px}@media screen and (max-widt
+lib.h(155):     h:650px){#orderPayment{padding-bottom:0;margin-bottom:0}#orderPayment .noUserSection{width
+lib.h(155):     :100%;display:block}#orderPayment .noUserSection .cover{max-width:650px;margin:20px auto;w
+lib.h(155):     idth:100%}#orderPayment .noUserSection .cover div{border-left:0 0 #FFF;height:auto;padding
+lib.h(155):     :0}#orderPayment>#userCart{margin:0 auto;padding:0 25px;padding-bottom:50px}#orderPayment 
+lib.h(155):     .itemsCount{top:-15px;position:relative;right:0}#orderPayment .noUserSection .cover a,#ord
+lib.h(155):     erPayment .noUserSection .a-button{margin:18px 0;width:100%;font-size:15px;padding:12px 0}
+lib.h(155):     .noUserLogin #orderPayment>#userCart{width:90%;display:block;margin:288px auto}#orderPayme
+lib.h(155):     nt>div:nth-child(1){width:90%;display:block;margin:0 auto}#orderPayment>div>h5{padding-bot
+lib.h(155):     tom:36px;padding-top:26px}}#detailslink{width:100%;text-align:center;font-size:0;margin-bo
+lib.h(155):     ttom:60px}#detailslink>label{font-size:16px;padding:15px 0;display:inline-block;width:50%;
+lib.h(155):     border-top:#d0d0d0 1px solid;color:#828282;white-space:nowrap}#detailslink>label.selected{
+lib.h(155):     border-top:#54b3ad 3px solid;color:#2a2a2a}#userSection *{font-weight:400}#userSection>div
+lib.h(155):     {position:relative}#userSection>div>a{color:#54b3ad;font-size:13px;text-decoration:none}#u
+lib.h(155):     serSection>div>label{float:right;font-size:11px;color:#2a2a2a;text-decoration:none;positio
+lib.h(155):     n:relative;top:-6px;font-weight:500;letter-spacing:.5px}#userSection>div>label>img{positio
+lib.h(155):     n:relative;top:4px;padding-left:9px}#userSection .spliter{white-space:nowrap}#userSection 
+lib.h(155):     .spliter .sec-view{width:50%;display:inline-block;box-sizing:border-box;vertical-align:top
+lib.h(155):     }#userSection .spliter .sec-view:nth-child(odd){padding-right:35px}#userSection .spliter .
+lib.h(155):     sec-view div label.select-value{width:90%}#userSection .sec-sender{float:right}#userDetail
+lib.h(155):     sEditMode h6{margin:18px 0 0;letter-spacing:1px;font-size:16px;font-weight:500}.blueLink a
+lib.h(155):     {font-size:16px;display:inline-block;color:#54b3ad;cursor:pointer}.blueLink .float-button{
+lib.h(155):     float:right;font-size:12px;color:#313131}.blueLink .float-button.linkToPress{padding:9px 4
+lib.h(155):     3px;margin:17px 20px}.blueLink .float-button.linkToPress:hover{color:#54b3ad}.blueLink .fl
+lib.h(155):     oat-button img{position:relative;top:5px}#userDetails{font-size:0;margin-bottom:11px;borde
+lib.h(155):     r:solid #454545 1px}#userDetails>div{box-sizing:border-box;font-size:15px;display:inline-b
+lib.h(155):     lock;vertical-align:top;width:33.33%;min-height:122px;padding:17px;padding-top:25px;positi
+lib.h(155):     on:relative}#userDetails>div:nth-child(2){border-left:solid #454545 1px;border-right:solid
+lib.h(155):      #454545 1px}#userDetails>div img{position:absolute;right:0;top:0;padding:15px}#userDetail
+lib.h(155):     s>div .iconCss{position:absolute;right:0;top:0;margin:15px}#userDetails>div .iconHome{tran
+lib.h(155):     sform:scale(0.8);margin-top:22px}#userDetails>div label{display:block;padding:2px;font-siz
+lib.h(155):     e:14px;color:#2a2a2a}#userSection .nextBtn{width:138px;position:absolute;right:0;padding:8
+lib.h(155):     px;margin-top:75px;font-size:12px;letter-spacing:.5px;font-weight:600}.Choose_payment{font
+lib.h(155):     -size:16px;color:#2a2a2a}.paymentMethods{border:solid 1px #454545;font-size:0}#paymentMeth
+lib.h(155):     od .notice{padding-top:42px;margin-bottom:35px}#paymentMethod .notice h4{background-image:
+lib.h(155):     url(/css/images/Bell.png);background-repeat:no-repeat;background-position:left center;font
+lib.h(155):     -size:16px;font-weight:500;text-indent:28px}#paymentMethod .notice p{padding-top:10px;colo
+lib.h(155):     r:#828282;font-size:15px}.float_right{float:right}#paymentMethod .sec-view{width:50%}#paym
+lib.h(155):     entMethod .grayCheckbox{color:#828282}.paymentMethods .imgRadioButton{display:inline-block
+lib.h(155):     ;position:relative;cursor:pointer}.styled-radioButtons{display:inline-block;width:20px;hei
+lib.h(155):     ght:20px;float:left;margin-left:15px;vertical-align:top;margin-top:22px}.paymentMethods .i
+lib.h(155):     mgRadioButton>img{display:block;padding:15px;padding-left:50px}.paymentMethods .imgRadioBu
+lib.h(155):     tton:before{content:"";position:absolute;height:15px;width:15px;border-radius:50%;border:s
+lib.h(155):     olid 1px #828282;top:23px;left:21px}.paymentMethods .selected.imgRadioButton:before{box-sh
+lib.h(155):     adow:0 0 0 5px #fff inset,0 0 0 15px #54b3ad inset}#paymentMethod .option{margin:9px 0}#us
+lib.h(155):     erSection .option.marginTop{margin-top:25px}#paymentMethod .masterCreditSeccion{display:bl
+lib.h(155):     ock;border-bottom:solid 1px #454545;padding:9px 0;margin:20px 0;width:50%}.masterCreditSec
+lib.h(155):     cion>div>span{white-space:nowrap;padding:0 3px}.masterCreditSeccion>div>label.edit{color:#
+lib.h(155):     54b3ad;float:right;cursor:pointer}#paymentMethod .payment_date{width:50%;display:inline-bl
+lib.h(155):     ock;white-space:nowrap}.expiration_date_title{display:block;margin-top:10px}#paymentMethod
+lib.h(155):      .payment_date .sec-view{display:inline-block}#paymentMethod .payment_date>label{font-size
+lib.h(155):     :14px;color:#2a2a2a;display:block}.Card_Number_4Digits .validate-label{z-index:10}.Card_Nu
+lib.h(155):     mber_4Digits:before{position:absolute;top:7px;left:0;content:'4886';z-index:10;opacity:.7}
+lib.h(155):     .margin15px{margin:15px 0;display:block}#paymentMethod .spliter{white-space:nowrap}#paymen
+lib.h(155):     tMethod .spliter .sec-view{width:50%;display:inline-block;box-sizing:border-box;vertical-a
+lib.h(155):     lign:top;padding-right:25%}#paymentMethod .spliter .sec-view div label.select-value{width:
+lib.h(155):     90%}#paymentMethod .sec-sender{float:right}@media screen and (max-width:1100px){#paymentMe
+lib.h(155):     thod .spliter .sec-view{padding-right:45px}#paymentMethod .spliter .sec-view div label.sel
+lib.h(155):     ect-value{width:70%}#paymentMethod .payment_date .sec-view{width:44%!important;margin-righ
+lib.h(155):     t:0}}@media screen and (max-width:768px){#userSection .nextBtn{margin-top:40px}#paymentMet
+lib.h(155):     hod .sec-view,#paymentMethod .masterCreditSeccion{width:100%}}@media screen and (max-width
+lib.h(155):     :550px){#userSection .spliter{white-space:normal}#userSection .spliter .sec-view{width:100
+lib.h(155):     %}#userSection .spliter .sec-view:nth-child(odd){padding-right:0}#userSection .spliter .se
+lib.h(155):     c-view div label.select-value{width:100%}#paymentMethod .spliter{white-space:normal}#payme
+lib.h(155):     ntMethod .spliter .sec-view{padding-right:0}#paymentMethod .spliter .sec-view,#paymentMeth
+lib.h(155):     od .spliter .sec-view div label.select-value{width:100%}#paymentMethod .payment_date .sec-
+lib.h(155):     view{width:100%!important;margin-right:0}#paymentMethod .payment_date .sec-view:nth-child(
+lib.h(155):     odd){width:90%!important;margin-right:10%}#paymentMethod .payment_date .sec-view:nth-child
+lib.h(155):     (even){width:90%!important;margin-left:10%}}@media screen and (max-width:480px){#userDetai
+lib.h(155):     ls>div{width:100%}#userSection .nextBtn{font-size:15px;width:100%;padding:13px 0}#userDeta
+lib.h(155):     ils>div:nth-child(2){border-top:solid #454545 1px;border-bottom:solid #454545 1px;border-l
+lib.h(155):     eft:0 #454545 1px;border-right:0 #454545 1px}#orderPayment>div>div{padding:0 8px}#orderPay
+lib.h(155):     ment #detailslink>label{font-size:12px}#detailslink>label{width:50%!important}}.payNow_err
+lib.h(155):     or_label{display:table-row;color:#ff454f}payNowButtonMarginWithError{margin-right:20%}@med
+lib.h(155):     ia screen and (max-width:480px){#paymentMethod #payNowSPDrtv{margin-top:10%}}#orderPayment
+lib.h(155):     Success{display:block;margin:130px auto;padding-top:30px;text-align:center}#orderPaymentSu
+lib.h(155):     ccess>h2{display:inline-block;background-color:#54b3ad;margin:0 auto;padding:0 100px;color
+lib.h(155):     :#fff}#orderPaymentSuccess>h2 span{padding:10px;font-size:15px;color:#fff;display:block;fo
+lib.h(155):     nt-weight:300;position:relative}#orderPaymentSuccess>h2 span:before{content:"";position:ab
+lib.h(155):     solute;width:100%;height:2px;top:19px;left:-12px;z-index:1;display:inline-block;border-lef
+lib.h(155):     t:solid 15px #fff;border-right:solid 15px #fff}#orderPaymentSuccess span.separator{padding
+lib.h(155):     :0 10px;display:inline-block}#orderPaymentSuccess>p{font-size:14px;color:#2a2a2a;padding:2
+lib.h(155):     8px 0}#orderPaymentSuccess>div{display:inline-block;margin:0 auto;border:solid #2a2a2a 1px
+lib.h(155):     ;font-size:0;padding:30px 0}#orderPaymentSuccess>div>div.seccion{text-align:left;font-size
+lib.h(155):     :14px;width:358px;height:286px;display:inline-block;vertical-align:top}#orderPaymentSucces
+lib.h(155):     s div.borderRight{border-right:solid #454545 2px}#orderPaymentSuccess>div>div.seccion .ico
+lib.h(155):     nCss{float:right;vertical-align:top}#orderPaymentSuccess>div>div.seccion:last-child{border
+lib.h(155):     -right:0 0 red}#orderPaymentSuccess .seccion>span{font-size:16px;font-weight:500}#orderPay
+lib.h(155):     mentSuccess div.innerSeccion,#orderPaymentSuccess .seccion>span{padding:20px 0;margin:0 40
+lib.h(155):     px}#orderPaymentSuccess div.innerSeccion{border-bottom:solid 1px #d0d0d0}#orderPaymentSucc
+lib.h(155):     ess div.innerSeccion:last-child{border-bottom:0 0 red}#orderPaymentSuccess div.innerSeccio
+lib.h(155):     n img,#orderPaymentSuccess div.innerSeccion .floater{float:right;display:inline-block}#ord
+lib.h(155):     erPaymentSuccess div.innerSeccion .floater span{padding:0 2px;display:inline-block}#orderP
+lib.h(155):     aymentSuccess div.innerSeccion label{display:block;padding:2px;font-size:14px;color:#2a2a2
+lib.h(155):     a}#orderPaymentSuccess div.innerSeccion label.total{font-size:16px;font-weight:500}@media 
+lib.h(155):     screen and (max-width:1100px){#orderPaymentSuccess>div{margin:0 33px}#orderPaymentSuccess>
+lib.h(155):     h2{padding:0 39px}#orderPaymentSuccess>h2 span{font-size:13px}#orderPaymentSuccess span.se
+lib.h(155):     parator{display:block;font-size:0}#orderPaymentSuccess>div{width:90%}#orderPaymentSuccess>
+lib.h(155):     div>div.seccion{border-right:0 #454545 0;height:auto;padding:20px 0;width:100%}#orderPayme
+lib.h(155):     ntSuccess{margin:140px auto}}@media screen and (max-width:768px){#orderPaymentSuccess{}#or
+lib.h(155):     derPaymentSuccess>h2 span:before{top:17px}#orderPaymentSuccess{margin:0 auto}}@media scree
+lib.h(155):     n and (max-width:600px){#orderPaymentSuccess>div{margin:0 auto}}#myAccountContainer{margin
+lib.h(155):     :0 50px;padding-top:100px}.fixed+#myAccountContainer{padding-top:135px;margin:0 50px}#myAc
+lib.h(155):     countContainer .cube{max-width:700px;margin:0 auto;font-size:0}#myAccountContainer .cube>h
+lib.h(155):     3{padding-top:37px;padding-bottom:7px;color:#020202;font-size:16px;font-weight:500}#myAcco
+lib.h(155):     untContainer .cube>div>div{position:relative;width:33.33%;display:inline-block;box-sizing:
+lib.h(155):     border-box;font-size:15px;vertical-align:top;padding:17px}#myAccountContainer .cube .borde
+lib.h(155):     rBox,#myAccountContainer .cube .categoriesBox,#myAccountContainer .cube .paymentBox{border
+lib.h(155):     :solid 1px #454545;min-height:50px}#myAccountContainer .cube>div>div.middle{border-left:so
+lib.h(155):     lid 1px #454545;border-right:solid 1px #454545}#myAccountContainer .cube .floatRigth{float
+lib.h(155):     :right}#myAccountContainer .cube .iconHome{transform:scale(0.8);top:5px}#myAccountContaine
+lib.h(155):     r .cube>div label{display:block;font-weight:400;
+lib.h(155): t=123532ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/css/main.min.css" (RelFrameId=, Internal ID=41)
+lib.h(155):     font-size:14px;padding:2px 0;color:#020202}#myAccountContainer .cube div .floatRigth+label
+lib.h(155):     {padding-top:11px}#myAccountContainer .cube .blueLink a{font-weight:400;padding:0 2px;font
+lib.h(155):     -size:15px}#myAccountContainer .cube .paymentBox{font-size:15px}#myAccountContainer .cube 
+lib.h(155):     .paymentBox img{padding:8px 10px}#myAccountContainer .cube .paymentBox .mastercart{padding
+lib.h(155):     :15px 7px;padding-right:12px;font-size:16px}#myAccountContainer .cube .paymentBox label{pa
+lib.h(155):     dding:18px 2px;display:inline-block;vertical-align:top}#myAccountContainer .cube .paymentB
+lib.h(155):     ox span{padding:18px 2px;display:inline-block;vertical-align:top;font-size:13px}#myAccount
+lib.h(155):     Container .cube .option span{font-weight:300;font-size:14px}#myAccountContainer .cube .not
+lib.h(155):     PromotionCheckbox{margin-top:37px;margin-bottom:6px}#myAccountContainer .cube .categoriesB
+lib.h(155):     ox p{font-size:16px;padding:14px 17px;display:inline-block}#myAccountContainer .cube .cate
+lib.h(155):     goriesBox{position:relative}#myAccountContainer .cube .categoriesBox.disableBox{border:sol
+lib.h(155):     id 1px rgba(69,69,69,.49)}#myAccountContainer .cube .categoriesBox.disableBox:before{conte
+lib.h(155):     nt:"";position:absolute;z-index:1;width:100%;height:100%;background-color:rgba(255,255,255
+lib.h(155):     ,.42)}#myAccountContainer .cube .categoriesBox .categoriesCheckboxes{width:100%;padding:0;
+lib.h(155):     margin:0;white-space:nowrap}#myAccountContainer .cube .categoriesBox .categoriesCheckboxes
+lib.h(155):      .option{display:inline-block;margin:10px 13px;white-space:nowrap}#myAccountContainer .cub
+lib.h(155):     e .categoriesBox .categoriesCheckboxes .Categories{padding:15px 13px;display:inline-block;
+lib.h(155):     border-right:solid 1px #454545;color:#454545}#registerCover .link{display:inline-block;col
+lib.h(155):     or:#54b3ad;font-size:14px;position:relative;padding-top:22px;cursor:pointer}#form .account
+lib.h(155):     DetailsBtn .sec-sender-a{margin:20px auto}.changePassword{display:none;position:relative;m
+lib.h(155):     argin:0;white-space:normal}.changePassword .validate-directive{display:block;margin:28px 0
+lib.h(155):     }#form .Choose_payment{padding:30px 0 22px;display:block}#accountCover .maxWidth{max-width
+lib.h(155):     :950px;margin:100px auto;padding:40px}#accountCover #paymentMethod .blueLink{display:inlin
+lib.h(155):     e-block;float:right}#paymentMethod .option span{margin-top:30px;font-weight:400;display:bl
+lib.h(155):     ock;cursor:pointer}#paymentMethod .option.blocked:before{content:"";position:absolute;top:
+lib.h(155):     0;left:0;width:100%;height:100%;z-index:10}#accountCover .paymentMethods{margin-bottom:40p
+lib.h(155):     x}#accountCover #paymentMethod .spliter .sec-view{padding-right:10%}#accountCover #payment
+lib.h(155):     Method .sec-sender .sec-sender-a{width:134px}@media screen and (max-width:768px){#myAccoun
+lib.h(155):     tContainer .cube .categoriesBox .categoriesCheckboxes .option{width:27%;white-space:normal
+lib.h(155):     }#myAccountContainer{padding-top:0!important}#accountCover .maxWidth{margin:0 auto}#myAcco
+lib.h(155):     untContainer .cube .categoriesBox .categoriesCheckboxes{white-space:normal}#myAccountConta
+lib.h(155):     iner .cube .categoriesBox .categoriesCheckboxes .Categories{padding:15px 13px;display:inli
+lib.h(155):     ne-block;border-right:0 1px #454545;border-bottom:solid 1px #454545;box-sizing:border-box;
+lib.h(155):     width:100%}}@media screen and (max-width:600px){#myAccountContainer .cube .categoriesBox .
+lib.h(155):     categoriesCheckboxes .option{width:40%}}@media screen and (max-width:480px){#myAccountCont
+lib.h(155):     ainer .cube .categoriesBox .categoriesCheckboxes .option{width:100%}#accountCover #form .a
+lib.h(155):     ccountDetailsBtn.withMargin{margin:0!important;width:100%!important;height:auto!important;
+lib.h(155):     padding:12px 0;font-size:15px;float:none}#accountCover #form .accountDetailsBtn{width:100%
+lib.h(155):     !important;height:49px!important}#accountCover #formCover>div input[type=text],#formCover>
+lib.h(155):     div input[type=password],#formCover>div .inputtext{width:100%!important}#myAccountContaine
+lib.h(155):     r{margin:0 25px;margin-bottom:35px}#myAccountContainer .cube>div>div{width:100%}#myAccount
+lib.h(155):     Container .cube>div>div.middle{border-top:solid 1px #454545;border-bottom:solid 1px #45454
+lib.h(155):     5;border-left:0 1px #454545;border-right:0 1px #454545}.fixed+#myAccountContainer{margin-b
+lib.h(155):     ottom:40px}#myAccountContainer .cube .floatRigth{top:0}#myAccountContainer .cube>h3{font-s
+lib.h(155):     ize:14px;padding-top:18px}#myAccountContainer .cube .option span{color:#020202;font-size:1
+lib.h(155):     4px;font-weight:400}#myAccountContainer .cube .categoriesBox .categoriesCheckboxes{width:1
+lib.h(155):     00%}#myAccountContainer .cube .categoriesBox p{padding-bottom:0}#infoDemo>div{width:185px;
+lib.h(155):     margin:34px auto}#accountCover .maxWidth{padding:0 20px}}@media screen and (max-width:366p
+lib.h(155):     x){#myAccountContainer .cube .paymentBox .mastercart{padding:15px 0;padding-right:0}}@medi
+lib.h(155):     a screen and (max-width:350px){#myAccountContainer .cube .floatRigth{float:none}}.deleteAc
+lib.h(155):     countPopup{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);width:400px;max-
+lib.h(155):     width:100%;height:200px;max-height:100%;z-index:10000;background:#fff;border-radius:5px}.s
+lib.h(155):     uccessfulDeleteMessage{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);widt
+lib.h(155):     h:400px;max-width:100%;height:200px;max-height:100%;z-index:10000;background:#fff;border-r
+lib.h(155):     adius:5px}.deleteAccountPopupContent{font-size:15px;margin-top:20px;margin-bottom:50px;mar
+lib.h(155):     gin-left:10px;letter-spacing:.5px;font-weight:600;padding:5px;overflow:auto;z-index:10000}
+lib.h(155):     .closeDelete{display:none}.show{display:block}.deletePopupImg{margin-left:34%;margin-top:1
+lib.h(155):     2px;width:115px}.deleteBtnContainer{}.deletePopupBtn{text-align:center;display:block;heigh
+lib.h(155):     t:50px;line-height:50px;text-transform:uppercase;color:#fff;-webkit-transition:background-
+lib.h(155):     color .2s;-moz-transition:background-color .2s;transition:background-color .2s}.deleteRed{
+lib.h(155):     background:#fc7169;float:left;width:50%;border-radius:0 0 0 .2em}.deleteGreen{background:#
+lib.h(155):     35a785;border-radius:0 0 .3em}.deleteIcon{margin-left:-28px}.deleteIcon:hover{color:#fff}.
+lib.h(155):     deleteMainBtnContainer{margin-top:60px;margin-left:40%;border-width:1.5px}.deleteBtnText{}
+lib.h(155):     .modificationOne{margin-top:25px}.modificationTwo{margin-top:25px;margin-left:70px}.myOrde
+lib.h(155):     rSection .cover{margin:20px auto;max-width:1100px}.myOrderSection .cover table{width:100%;
+lib.h(155):     border-collapse:collapse}.myOrderSection .cover table{width:100%}.myOrderSection tr:not(.i
+lib.h(155):     nnerTr) td{border-top:1px solid rgba(189,189,187,1)}.myOrderSection .cover table label{dis
+lib.h(155):     play:block;color:#2a2a2a;padding:12px}@media screen and (max-width:850px){.mobile-order-el
+lib.h(155):     ement{max-width:280px}}.myOrderSection .cover .center{text-align:center}.myOrderSection .c
+lib.h(155):     over .right{text-align:right}.myOrderSection .cover table th label,.myOrderSection .tablet
+lib.h(155):     sSection label{font-size:11px}.myOrderSection .cover table img,.myOrderSection .products i
+lib.h(155):     mg{padding:18px 10px;display:inline-block;width:100px}.myOrderSection .cover table td labe
+lib.h(155):     l,.myOrderSection .tabletsSection .products label{font-size:16px}.myOrderSection .cover .l
+lib.h(155):     eft{text-align:left}.myOrderSection .cover table td span{vertical-align:top;padding:45px 1
+lib.h(155):     0px;display:inline-block;font-size:16px}.actions.remove-product:hover{color:#54b3ad}.actio
+lib.h(155):     ns.remove-product{font-size:9px!important;padding:0 12px!important;display:block!important
+lib.h(155):     ;text-align:right!important;cursor:pointer}.myOrderSection .elipse{width:20px;height:20px;
+lib.h(155):     border-radius:20px;display:block;margin:0 auto}.myOrderSection .tabletsSection{display:non
+lib.h(155):     e}.myOrderSection .bigEmptyOrder{font-size:30px;padding:20px 12px;margin-top:180px}.myOrde
+lib.h(155):     rSection .bigEmptyOrder label{display:block}.order-search-container{margin:0 auto;max-widt
+lib.h(155):     h:1100px;cursor:pointer}@media screen and (max-width:1250px){.myOrderSection .cover table{
+lib.h(155):     display:none}.myOrderSection .tabletsSection{display:block}.myOrderSection .tabletsSection
+lib.h(155):      .title{border-bottom:1px solid rgba(189,189,187,1)}.myOrderSection .tabletsSection .order
+lib.h(155):     Details{background-color:#F4F4F2}.myOrderSection .tabletsSection .title,.myOrderSection .p
+lib.h(155):     roducts .orderDetails{display:table;width:100%}.myOrderSection .tabletsSection .title>div,
+lib.h(155):     .myOrderSection .products .orderDetails>div{display:table-cell;width:33%}.myOrderSection .
+lib.h(155):     tabletsSection .title label,.myOrderSection .products .orderDetails label{display:block;pa
+lib.h(155):     dding:10px}.myOrderSection .products .orderDetails img{width:80px;padding:10px 0}.myOrderS
+lib.h(155):     ection .products div.productName{display:inline-block;position:relative;vertical-align:top
+lib.h(155):     ;height:80px;margin:15px 0}.myOrderSection .products div.productName>span{display:inline-b
+lib.h(155):     lock;position:relative}.myOrderSection .products div.productName>div{position:absolute;bot
+lib.h(155):     tom:0;color:#828282}.myOrderSection .products div.productName>div>*{display:block}.myOrder
+lib.h(155):     Section .products div.productName>div *{font-size:11px}}@media screen and (max-width:768px
+lib.h(155):     ){.myOrderSection{margin:0!important}.myOrderSection .bigEmptyOrder{font-size:30px;padding
+lib.h(155):     :20px 12px;margin-top:0}}@font-face{font-family:localRobotoThin;src:url(fonts/roboto_thin_
+lib.h(155):     macroman/Roboto-Thin-webfont.eot);src:url(fonts/roboto_thin_macroman/Roboto-Thin-webfont.e
+lib.h(155):     ot?#iefix) format('embedded-opentype'),url(fonts/roboto_thin_macroman/Roboto-Thin-webfont.
+lib.h(155):     woff) format('woff'),url(fonts/roboto_thin_macroman/Roboto-Thin-webfont.ttf) format('truet
+lib.h(155):     ype'),url(fonts/roboto_thin_macroman/Roboto-Thin-webfont.svg#RobotoMediumItalic) format('s
+lib.h(155):     vg');font-weight:200;font-style:normal}@font-face{font-family:localRobotoLight;src:url(fon
+lib.h(155):     ts/roboto_light_macroman/Roboto-Light-webfont.eot);src:url(fonts/roboto_light_macroman/Rob
+lib.h(155):     oto-Light-webfont.eot?#iefix) format('embedded-opentype'),url(fonts/roboto_light_macroman/
+lib.h(155):     Roboto-Light-webfont.woff) format('woff'),url(fonts/roboto_light_macroman/Roboto-Light-web
+lib.h(155):     font.ttf) format('truetype'),url(fonts/roboto_light_macroman/Roboto-Light-webfont.svg#Robo
+lib.h(155):     toMediumItalic) format('svg');font-weight:200;font-style:normal}@font-face{font-family:loc
+lib.h(155):     alRobotoRegular;src:url(fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot);src:url(
+lib.h(155):     fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?#iefix) format('embedded-opentype
+lib.h(155):     '),url(fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff) format('woff'),url(fonts
+lib.h(155):     /roboto_regular_macroman/Roboto-Regular-webfont.ttf) format('truetype'),url(fonts/roboto_r
+lib.h(155):     egular_macroman/Roboto-Regular-webfont.svg#RobotoMediumItalic) format('svg');font-style:no
+lib.h(155):     rmal;font-weight:400}@font-face{font-family:localRobotoMedium;src:url(fonts/roboto_medium_
+lib.h(155):     macroman/Roboto-Medium-webfont.eot);src:url(fonts/roboto_medium_macroman/Roboto-Medium-web
+lib.h(155):     font.eot?#iefix) format('embedded-opentype'),url(fonts/roboto_medium_macroman/Roboto-Mediu
+lib.h(155):     m-webfont.woff) format('woff'),url(fonts/roboto_medium_macroman/Roboto-Medium-webfont.ttf)
+lib.h(155):      format('truetype'),url(fonts/roboto_medium_macroman/Roboto-Medium-webfont.svg#RobotoMediu
+lib.h(155):     mItalic) format('svg');font-style:normal;font-weight:500}@font-face{font-family:localRobot
+lib.h(155):     oBold;src:url(fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot);src:url(fonts/roboto_bol
+lib.h(155):     d_macroman/Roboto-Bold-webfont.eot?#iefix) format('embedded-opentype'),url(fonts/roboto_bo
+lib.h(155):     ld_macroman/Roboto-Bold-webfont.woff) format('woff'),url(fonts/roboto_bold_macroman/Roboto
+lib.h(155):     -Bold-webfont.ttf) format('truetype'),url(fonts/roboto_bold_macroman/Roboto-Bold-webfont.s
+lib.h(155):     vg#RobotoMediumItalic) format('svg');font-style:normal;font-weight:800}*{font-family:local
+lib.h(155):     RobotoRegular}html,body{margin:0;padding:0}#chat{width:100%;height:100%;position:fixed;bac
+lib.h(155):     kground-color:#fff;padding:20px 30px;box-sizing:border-box;overflow-y:scroll;border-bottom
+lib.h(155):     :52px solid #fff}#chat>#chatBody{max-width:800px;margin:0 auto}#chat .chat-date{font-size:
+lib.h(155):     12px;color:#828282;text-align:center}#chat .chat-date img{margin:-2px 3px}#chat .assistant
+lib.h(155):     {width:65px;text-align:center;display:inline-block;vertical-align:top}#chat .message .assi
+lib.h(155):     stant img{width:45px}#chat .message.user{direction:rtl}#chat .message .assistant span{font
+lib.h(155):     -size:11px;color:#828282;display:block}#chat .message .ballon,#chat .message .written{disp
+lib.h(155):     lay:inline-block;width:50%;vertical-align:top;position:relative;top:11px;box-sizing:border
+lib.h(155):     -box}#chat .message .ballon{background-color:#54b3ad;padding:0 40px 0 25px;border-radius:0
+lib.h(155):      60px 60px;top:20px;margin-bottom:30px}#chat .message.user .ballon{background-color:#ecece
+lib.h(155):     c;border-radius:60px 0 60px 60px;padding:0 40px;direction:ltr}#chat .message .ballon p{col
+lib.h(155):     or:#fff;font-size:13px}#chat .message.user .ballon p{color:#2a2a2a;text-align:left}#chat .
+lib.h(155):     message.user .ballon p{color:#2a2a2a;text-align:left}#chat .message .written ul{list-style
+lib.h(155):     :none;padding:0;margin:0}#chat .message .written ul li{width:6px;height:6px;border-radius:
+lib.h(155):     10px;margin-left:7px;background-color:#54b3ad;display:inline-block;-webkit-animation-fill-
+lib.h(155):     mode:both;animation-fill-mode:both;-webkit-anima
+lib.h(155): t=123533ms: 10168-byte DECODED response body for "https://www.advantageonlineshopping.com/css/main.min.css" (RelFrameId=, Internal ID=41)
+lib.h(155):     tion-duration:1s;animation-duration:1s;-webkit-animation-iteration-count:infinite;animatio
+lib.h(155):     n-iteration-count:infinite;-webkit-animation-name:writtenRightNow;-moz-animation-name:writ
+lib.h(155):     tenRightNow;-o-animation-name:writtenRightNow;animation-name:writtenRightNow;animation-del
+lib.h(155):     ay:0s;transform:scale(1)}#chat .message .written ul li:nth-child(2){animation-delay:.2s;ba
+lib.h(155):     ckground-color:#98d1ce}#chat .message .written ul li:nth-child(3){animation-delay:.4s;back
+lib.h(155):     ground-color:#bbe1de}@keyframes writtenRightNow{from{background-color:#54b3ad}70%{backgrou
+lib.h(155):     nd-color:#bbe1de;transform:scale(1)}to{background-color:#54b3ad}}#bottomSection{position:f
+lib.h(155):     ixed;bottom:0;z-index:20;width:100%;border:solid 1px #e8e8e8}#btnSender.disable{opacity:.3
+lib.h(155):     }#bottomSection input[type=text]{font-size:14px;color:#828282;font-family:localRobotoLight
+lib.h(155):     ;width:calc(100% - 64px);display:inline-block;padding:15px 30px;box-sizing:border-box;bord
+lib.h(155):     er:0;outline:0}#bottomSection img{cursor:pointer;padding:10px;vertical-align:middle}@media
+lib.h(155):      screen and (max-width:450px){#chat .assistant{width:auto}#chat .message .assistant img,#c
+lib.h(155):     hat .message .assistant span{display:inline-block;vertical-align:middle;padding:0 5px}#cha
+lib.h(155):     t .message .ballon{width:100%;top:5px}#chat .chat-date{margin-bottom:20px}}#png{position:a
+lib.h(155):     bsolute;z-index:90000;top:0;top:-14px;opacity:.39}*{margin:0;padding:0;outline:0}.loader{w
+lib.h(155):     idth:100%;height:100%;position:fixed;background-color:rgba(255,255,255,.5);z-index:1001;di
+lib.h(155):     splay:none}.loader>div{position:absolute;top:49%;left:0;right:0;width:50px;height:50px;mar
+lib.h(155):     gin:0 auto;transform:scale(1.6)}.loader div:before{}body{position:relative;left:0;overflow
+lib.h(155):     -x:hidden;display:block}.no-bottom-padding{padding-bottom:0}div.mobile-btn-handler{padding
+lib.h(155):     :0 5px;margin:16px 10px;display:none;cursor:pointer}div.mobile-btn-handler span{display:bl
+lib.h(155):     ock;width:25px;height:3px;margin:5px 0;background-color:#333}#mobile-section{background-co
+lib.h(155):     lor:#fff;position:fixed;top:38px;left:9999px;height:100%;z-index:990}#mobile-section ul{fo
+lib.h(155):     nt-size:0}#mobile-section .cart{font-size:12px;position:absolute;top:0;padding:10px 4px 10
+lib.h(155):     px 0;background-color:#fff;border-radius:0 10px 10px 0}#mobile-section .img{padding:14px;b
+lib.h(155):     ackground-color:#fff;display:block;text-align:center;cursor:pointer;position:relative;padd
+lib.h(155):     ing-left:8px}#mobile-section .img:active{background-color:#ededed}#mobile-section .hi-user
+lib.h(155):     {font-size:16px;display:block;position:relative;top:7px}.mobileTitle{position:fixed;top:91
+lib.h(155):     px;z-index:9999}.pointer{cursor:pointer}.uiview{padding-top:65px}header{position:fixed;bac
+lib.h(155):     kground-color:#fff;width:100%;z-index:999;top:0}nav{direction:rtl}nav .navLinks{display:no
+lib.h(155):     ne;white-space:nowrap}nav ul{float:right;display:inline-block;margin:7px 15px 0 0}nav ul l
+lib.h(155):     i{display:inline-block;vertical-align:top;position:relative}nav ul li>ul{font-size:0}nav u
+lib.h(155):     l li>a{font-size:16px;cursor:pointer;display:block;text-decoration:none;padding:9px;transi
+lib.h(155):     tion:all 1s ease;transform:scale(1);opacity:1;color:#313131;white-space:nowrap}nav ul li>a
+lib.h(155):      .mini-title{white-space:normal}nav ul li>a .mini-title-help{white-space:normal}nav ul li 
+lib.h(155):     a.searchSectionEnabled{transform:scale(0);opacity:0}nav ul li a span.cart{position:absolut
+lib.h(155):     e;font-size:13px;top:-3px;right:-2px}nav ul li a.menu{padding:10px 66px}nav ul li:nth-chil
+lib.h(155):     d(3) a.menu{padding-right:53px}nav ul li>a:not(.img){opacity:.8;padding:15px 18px}nav ul l
+lib.h(155):     i a:not(.img):hover{opacity:1}nav .img{position:relative;top:4px}nav .img>img{height:25px}
+lib.h(155):     nav .img>.hi-user{font-size:15px;position:relative;top:-7px;padding:0;left:-7px;margin-lef
+lib.h(155):     t:11px;font-weight:400;z-index:1}div.logo{float:left}div.logo a{direction:ltr;display:inli
+lib.h(155):     ne-block;padding:10px;vertical-align:top;font-size:0}div.logo a span{font-size:30px;color:
+lib.h(155):     #313131;vertical-align:bottom;display:inline-block;position:relative;left:-2px;top:3px}div
+lib.h(155):     .logo span.logoDemo{font-size:21.5px;padding:3px 2px}div.logo img{vertical-align:top;paddi
+lib.h(155):     ng:10px 25px}#scrollToTop{position:fixed;margin:70px 20px;bottom:0;right:0;opacity:.8;tran
+lib.h(155):     sition:all 1s ease;display:none;z-index:9999;border-radius:100%}#scrollToTop p{transform:s
+lib.h(155):     cale(0.8);opacity:0}#scrollToTop:hover{opacity:1}.nav-li-Links{display:inline-block}.cell{
+lib.h(155):     display:table-cell}footer{position:absolute;left:0;right:0;bottom:0;margin-top:90px;backgr
+lib.h(155):     ound-color:#F4F4F2;font-size:0;z-index:50}footer>div{padding:10px 0;width:80%;margin:0 aut
+lib.h(155):     o;text-align:center}footer img{margin:17px 31px;width:82px}footer label{font-size:14px;pad
+lib.h(155):     ding:34px 0 0;color:#6c6c6c;display:block}footer .splitter{display:none}#mobileSearch{posi
+lib.h(155):     tion:relative;display:none}#mobileSearch input{width:100%;background-color:#ededed;padding
+lib.h(155):     :7px;font-size:18px;border:0;color:#000}#mobileSearch .img{position:absolute;top:7px;right
+lib.h(155):     :8px;cursor:pointer}#mobileSearch ::-webkit-input-placeholder{font-weight:300}#mobileSearc
+lib.h(155):     h :-ms-input-placeholder{font-weight:300}#mobileSearch :-moz-placeholder{font-weight:300}#
+lib.h(155):     toast{top:60px;border-radius:50px;background-color:rgba(128,128,128,.85);z-index:999;posit
+lib.h(155):     ion:fixed;display:none;margin:0 auto;left:0;right:0;width:88%;text-align:center;font-weigh
+lib.h(155):     t:600;color:#fff}#toast a{padding:10px;display:block}#team{position:fixed;display:none;wid
+lib.h(155):     th:100%;height:100%;background-color:rgba(0,0,0,.5);z-index:99999}#team .container{display
+lib.h(155):     :table-cell;vertical-align:middle}#team .img{margin-left:auto;margin-right:auto;width:65%}
+lib.h(155):     #team .img img{width:100%;border-radius:2px;box-shadow:0 30px 30px rgba(0,0,0,.5);box-shad
+lib.h(155):     ow:0 10px 80px rgba(255,255,255,.9),0 30px 70px rgba(0,0,0,.9)}#teamIdToAnimate{display:no
+lib.h(155):     ne}.animated{-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-d
+lib.h(155):     uration:3s;animation-duration:3s}.hidden{display:none}.displayed{display:block;position:ab
+lib.h(155):     solute;transform-origin:0;transform:scale(0.8,1);top:7px;color:#2a2a2a}.animated.zoomInDow
+lib.h(155):     n{-webkit-animation-fill-mode:both;animation-fill-mode:both;-webkit-animation-duration:1.8
+lib.h(155):     s;animation-duration:1.8s}@keyframes hinge{0%{-webkit-transform-origin:top left;transform-
+lib.h(155):     origin:top left;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ea
+lib.h(155):     se-in-out}20%{-webkit-transform:rotate3d(0,0,1,80deg);transform:rotate3d(0,0,1,80deg);-web
+lib.h(155):     kit-transform-origin:top left;transform-origin:top left;-webkit-animation-timing-function:
+lib.h(155):     ease-in-out;animation-timing-function:ease-in-out}40%{-webkit-transform:rotate3d(0,0,1,35d
+lib.h(155):     eg);transform:rotate3d(0,0,1,35deg);-webkit-transform-origin:top left;transform-origin:top
+lib.h(155):      left;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out;
+lib.h(155):     opacity:1}60%{-webkit-transform:rotate3d(0,0,1,70deg);transform:rotate3d(0,0,1,70deg);-web
+lib.h(155):     kit-transform-origin:top left;transform-origin:top left;-webkit-animation-timing-function:
+lib.h(155):     ease-in-out;animation-timing-function:ease-in-out}80%{-webkit-transform:rotate3d(0,0,1,60d
+lib.h(155):     eg);transform:rotate3d(0,0,1,60deg);-webkit-transform-origin:top left;transform-origin:top
+lib.h(155):      left;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out;
+lib.h(155):     opacity:1}to{-webkit-transform:translate3d(-400px,1200px,0);transform:translate3d(-400px,1
+lib.h(155):     200px,0);opacity:0}}.hinge{-webkit-animation-name:hinge;animation-name:hinge}@-webkit-keyf
+lib.h(155):     rames zoomInDown{from{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,-5000px,
+lib.h(155):     0);transform:scale3d(.1,.1,.1) translate3d(0,-5000px,0);-webkit-animation-timing-function:
+lib.h(155):     cubic-bezier(0.55,.055,.675,.19);animation-timing-function:cubic-bezier(0.55,.055,.675,.19
+lib.h(155):     )}60%{opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,60px,0);transform:
+lib.h(155):     scale3d(.475,.475,.475) translate3d(0,60px,0);-webkit-animation-timing-function:cubic-bezi
+lib.h(155):     er(0.175,.885,.32,1);animation-timing-function:cubic-bezier(0.175,.885,.32,1)}}@keyframes 
+lib.h(155):     zoomInDown{from{opacity:0;-webkit-transform:scale3d(.1,.1,.1) translate3d(0,-1000px,0);tra
+lib.h(155):     nsform:scale3d(.1,.1,.1) translate3d(0,-1000px,0);-webkit-animation-timing-function:cubic-
+lib.h(155):     bezier(0.55,.055,.675,.19);animation-timing-function:cubic-bezier(0.55,.055,.675,.19)}60%{
+lib.h(155):     opacity:1;-webkit-transform:scale3d(.475,.475,.475) translate3d(0,60px,0);transform:scale3
+lib.h(155):     d(.475,.475,.475) translate3d(0,60px,0);-webkit-animation-timing-function:cubic-bezier(0.1
+lib.h(155):     75,.885,.32,1);animation-timing-function:cubic-bezier(0.175,.885,.32,1)}}.zoomInDown{-webk
+lib.h(155):     it-animation-name:zoomInDown;animation-name:zoomInDown}@media screen and (max-width:1220px
+lib.h(155):     ){nav ul li>a:not(.img){padding:15px 12px}}@media screen and (max-width:1150px){.nav-li-Li
+lib.h(155):     nks{display:none}footer>div{width:100%}#mobileSearch{display:block}#searchSection{display:
+lib.h(155):     none}}@media screen and (max-width:768px){h3.roboto-regular{font-size:26px}nav.pages{displ
+lib.h(155):     ay:inline-block;width:100%}.pages,.fixedImportant,h3.roboto-regular{position:static!import
+lib.h(155):     ant}.noPromotedProductDiv{margin-top:0}.sticky.fixed+div .category-type-products{margin-to
+lib.h(155):     p:0}.categoryData{display:none!important}#searchSection>.searchPopUp>div,#searchSection>.s
+lib.h(155):     earchPopUp>div:nth-child(1){display:block;width:100%}#searchSection>.searchPopUp>div:nth-c
+lib.h(155):     hild(1){height:auto}footer img{margin:0 19px;width:16%}div.logo img{vertical-align:top;pad
+lib.h(155):     ding:10px 0;margin:0 12px}}@media screen and (max-width:480px){.uiview{padding-top:40px}he
+lib.h(155):     ader{}div.logo a{padding:0;padding-top:0}div.logo svg{transform:scale(0.8);position:relati
+lib.h(155):     ve;top:5px}div.logo span.logoDemo{font-size:14px}.pages{display:none!important}#special_of
+lib.h(155):     fer_items,.slider,#popular_items{display:none}.desktop-handler{display:none}footer{margin-
+lib.h(155):     top:0}div.mobile-btn-handler{display:inline-block}#searchSection>div{width:90%}#scrollToTo
+lib.h(155):     p{display:none!important}div.logo{float:none;display:block;text-align:center}div.logo a{-w
+lib.h(155):     ebkit-transform:translateX(-29px);-ms-transform:translateX(-29px);-o-transform:translateX(
+lib.h(155):     -29px);transform:translateX(-29px)}div.logo a span{font-size:22px}div.logo svg{width:25px;
+lib.h(155):     height:25px;top:2px}div.logo #mobile-btn{float:left}div.mobile-btn-handler{margin:5px 2px}
+lib.h(155):     h3.roboto-regular{font-size:22px}#mobileSearch .img{top:51px}#threeFormFactors{border:0!im
+lib.h(155):     portant;width:400px!important;height:800px!important}#threeFormFactorsWeb,#threeFormFactor
+lib.h(155):     sWebMobile,#threeFormFactorsNativeMobile{height:200px!important;width:300px!important}div.
+lib.h(155):     threeFormFactorsLines{display:none}div.aboutPagePaddingCaption{padding-top:0!important}}
+lib.h(155): t=123534ms: Request done "https://www.advantageonlineshopping.com/css/main.min.css"  	[MsgId: MMSG-26000]
+lib.h(155): web_url("www.advantageonlineshopping.com") was successful, 147316 body bytes, 2225 header bytes  	[MsgId: MMSG-26386]
+lib.h(164): web_add_cookie started  	[MsgId: MMSG-26355]
+lib.h(164): web_add_cookie was successful  	[MsgId: MMSG-26392]
+lib.h(166): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+lib.h(166): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+lib.h(166): "Sec-Fetch-Dest: empty" header registered (superseding previous registration) for adding to requests from all following Action functions  	[MsgId: MMSG-26504]
+lib.h(166): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+lib.h(169): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+lib.h(169): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+lib.h(169): "Sec-Fetch-Mode: cors" header registered (superseding previous registration) for adding to requests from all following Action functions  	[MsgId: MMSG-26504]
+lib.h(169): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+lib.h(172): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+lib.h(172): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+lib.h(172): "Sec-Fetch-Site: same-origin" header registered (superseding previous registration) for adding to requests from all following Action functions  	[MsgId: MMSG-26504]
+lib.h(172): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+lib.h(175): web_url("ALL") started  	[MsgId: MMSG-26355]
+lib.h(175): The request to server https://www.advantageonlineshopping.com/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" is done with headers:
+lib.h(175):     :method = GET
+lib.h(175):     :scheme = https
+lib.h(175):     :path = /catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL
+lib.h(175):     :authority = www.advantageonlineshopping.com
+lib.h(175):     Referer = https://www.advantageonlineshopping.com/
+lib.h(175):     Sec-Fetch-Dest = empty
+lib.h(175):     Sec-Fetch-Mode = cors
+lib.h(175):     Sec-Fetch-Site = same-origin
+lib.h(175):     DNT = 1
+lib.h(175):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(175):     0
+lib.h(175):     Accept-Encoding = gzip, deflate
+lib.h(175):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(175):     Accept = */*
+lib.h(175):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(175): t=123728ms: 375-byte response headers for "https://www.advantageonlineshopping.com/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" (RelFrameId=1, Internal ID=45)
+lib.h(175):     HTTP/2.0 200\r\n
+lib.h(175):     Status: 200\r\n
+lib.h(175):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(175):     date: Wed, 13 Mar 2024 21:33:40 GMT\r\n
+lib.h(175):     content-type: application/json\r\n
+lib.h(175):     expires: 0\r\n
+lib.h(175):     cache-control: no-store\r\n
+lib.h(175):     x-content-type-options: nosniff\r\n
+lib.h(175):     x-xss-protection: 1; mode=block\r\n
+lib.h(175):     x-frame-options: DENY\r\n
+lib.h(175):     vary: accept-encoding\r\n
+lib.h(175):     content-encoding: gzip\r\n
+lib.h(175):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(175):     \r\n
+lib.h(175): t=123728ms: 6531-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" (RelFrameId=1, Internal ID=45)
+lib.h(175): t=123729ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" (RelFrameId=1, Internal ID=45)
+lib.h(175):     {"parameters":[{"parameterName":"Email_in_login","datatype":"enum:[Yes,No]","description":
+lib.h(175):     "Determines whether a mandatory Email field is added to the login screen. Use this paramet
+lib.h(175):     er to demonstrate that in BPT, a single component can be modified without updating other t
+lib.h(175):     ests. Default = No. Yes = Add the Email Address field.","attributeTools":"BPT","locationIn
+lib.h(175):     Advantage":"Login page","locationInAdminTool":"Functional","parameterValue":"No"},{"parame
+lib.h(175):     terName":"AppPulse_user","datatype":"string","description":"UserName:Password for AppPulse
+lib.h(175):      user to trigger the relevant AppPulse features.","attributeTools":"AppPulse","locationInA
+lib.h(175):     dvantage":"Entire site","locationInAdminTool":"Mobile;Functional","parameterValue":"AppPul
+lib.h(175):     se:AppPulse1"},{"parameterName":"ShipEx_repeat_calls","datatype":"string","description":"D
+lib.h(175):     efines the number of times to repeat a call to ShipEx. Use this parameter to find unnecess
+lib.h(175):     ary multiple calls to the same methods, and affects performance. Default = 0 (no repeat ca
+lib.h(175):     lling. ","attributeTools":"NV","locationInAdvantage":"Purchase","locationInAdminTool":"Gen
+lib.h(175):     eral;Performance","parameterValue":"0"},{"parameterName":"Add_product_to_incorrect_categor
+lib.h(175):     y","datatype":"enum:[Yes,No]","description":"Defines whether to move a Headphones item (pr
+lib.h(175):     oduct-id=13) from the Headphones category to the Speakers category. Use this parameter to 
+lib.h(175):     demonstrate an error in GUI or API testing. Default = No (category is not changed). Yes = 
+lib.h(175):     Modify the product category.","attributeTools":"LeanFT;UFT","locationInAdvantage":"Speaker
+lib.h(175):     s page","locationInAdminTool":"Functional","parameterValue":"No"},{"parameterName":"DB_cal
+lib.h(175):     l_delay","datatype":"string","description":"Defines the number of seconds to delay the ret
+lib.h(175):     rieval of countries during user registration. Default = 0 (no delay). Possible values = An
+lib.h(175):     y positive integer.","attributeTools":"LoadRunner;StormRunner","locationInAdvantage":"CREA
+lib.h(175):     TE ACCOUNT page","locationInAdminTool":"Performance;ITOM","parameterValue":"0"},{"paramete
+lib.h(175):     rName":"User_alternate_WSDL","datatype":"enum:[Yes,No]","description":"Determines whether 
+lib.h(175):     to modify the field names on the user registration page. (Preferred payment method > Favor
+lib.h(175):     ite payment; Phone > Mobile phone) Use this parameter to demonstrate API testing. Default 
+lib.h(175):     = No. Yes = Use the second WSDL request to register a new user","attributeTools":"UFT","lo
+lib.h(175):     cationInAdvantage":"CREATE ACCOUNT page","locationInAdminTool":"Functional","parameterValu
+lib.h(175):     e":"No"},{"parameterName":"Sum_added_to_cart","datatype":"string","description":"Defines a
+lib.h(175):      sum to be added to each cart calculation. The sum is updated in to both the Web and Mobil
+lib.h(175):     e UI (no API). A user must be logged in to enable this change. Default = 0 (no sum added)"
+lib.h(175):     ,"attributeTools":"LeanFT;UFT","locationInAdvantage":"Order payment page","locationInAdmin
+lib.h(175):     Tool":"Functional","parameterValue":"0"},{"parameterName":"Generate_memory_leak","datatype
+lib.h(175):     ":"string","description":"Defines the amount of memory leak in megabytes while retrieving 
+lib.h(175):     the order history. The memory leak is visible in both the UI and the API. Default = 0 (no 
+lib.h(175):     leak at all). Positive Integer = Number, multiplied by 1000. For example 1 = 1000 megabyte
+lib.h(175):      memory leak.","attributeTools":"LoadRunner;StormRunner","locationInAdvantage":"Order hist
+lib.h(175):     ory","locationInAdminTool":"Performance;ITOM","parameterValue":"0"},{"parameterName":"Post
+lib.h(175):     gres_Locks","datatype":"enum:[Tip]","description":"To generate a exhaustion of\xC2\xA0Post
+lib.h(175):     gresSQL\xC2\xA0locks, go to CONTACT US type \xE2\x80\x98database\xE2\x80\x99 at the Subjec
+lib.h(175):     t and click SEND.","attributeTools":"Ops B","locationInAdvantage":"Mobile, Entire App","lo
+lib.h(175):     cationInAdminTool":"Performance;ITOM","parameterValue":"Tip"},{"parameterName":"Max_concur
+lib.h(175):     rent_users","datatype":"string","description":"Defines the maximum number of concurrent us
+lib.h(175):     ers allowed. Any additional users are rejected with an error code 500. Default = 0 (no con
+lib.h(175):     current sessions allowed). Possible values = Any positive integer.","attributeTools":"Load
+lib.h(175):     Runner;StormRunner;NV","locationInAdvantage":"Login response","locationInAdminTool":"Perfo
+lib.h(175):     rmance;ITOM","parameterValue":"0"},{"parameterName":"Typos_on_order_payment","datatype":"e
+lib.h(175):     num:[Yes,No]","description":"Determines whether spelling errors appear in the UI. Default 
+lib.h(175):     = No. Yes = The following spelling errors are shown: - SHIPING DETAILS - Ciity - Recipeint
+lib.h(175):      Details (Web only) - ORDERR SUMMARY (Web only)","attributeTools":"Sprinter","locationInAd
+lib.h(175):     vantage":"Web: ORDER PAYMENT page ; Mobile: SHIPPING DETAILS page","locationInAdminTool":"
+lib.h(175):     Functional","parameterValue":"No"},{"parameterName":"Misplace_pictures_on_Android","dataty
+lib.h(175):     pe":"enum:[Yes,No]","description":"Determines whether pictures are placed differently on t
+lib.h(175):     he home page when viewed on an Android  device. Use this parameter to demonstrate how the 
+lib.h(175):     application may function differently on different mobile OSs. Default = No. Yes = Pictures
+lib.h(175):      are placed differently on Android devices.","attributeTools":"LeanFT;MobileCenter;UFT","l
+lib.h(175):     ocationInAdvantage":"Home page","locationInAdminTool":"Mobile;Functional","parameterValue"
+lib.h(175):     :"No"},{"parameterName":"Add_to_cart_time_delay","datatype":"string","description":"Define
+lib.h(175):     s the number of seconds to add as a delay in response time when a logged in user adds an i
+lib.h(175):     tem to cart. Default = 0 (no delay).","attributeTools":"LoadRunner;StormRunner","locationI
+lib.h(175):     nAdvantage":"DefaultShoppingCartRepository","locationInAdminTool":"ITOM;Performance","para
+lib.h(175):     meterValue":"0"},{"parameterName":"SLA_add_delay_time","datatype":"string","description":"
+lib.h(175):     Defines the number of seconds to add as a delay in response time when trying to login. Def
+lib.h(175):     ault = 0 (no delay). If you modify this value, also modify the SLA_add_delay_sessions para
+lib.h(175):     meter.","attributeTools":"LoadRunner;StormRunner","locationInAdvantage":"AccountServiceEnd
+lib.h(175):     point","locationInAdminTool":"Performance","parameterValue":"0"},{"parameterName":"SLA_add
+lib.h(175):     _delay_sessions","datatype":"string","description":"Defines a number of concurrent users s
+lib.h(175):     essions at which a delay is added to login response. Enabled only when SLA_add_delay_time 
+lib.h(175):     is set to a number greater than 0. Default = 20. Valid values = 0-n. The system starts add
+lib.h(175):     ing a delay if the number of sessions is greater than the defined value. It will stop the 
+lib.h(175):     delay if the number of sessions is decreased to less than the defined value. If you modify
+lib.h(175):      this value, also modify the SLA_add_delay_time parameter.","attributeTools":"LoadRunner;S
+lib.h(175):     tormRunner","locationInAdvantage":"ADD TO CART response","locationInAdminTool":"Performanc
+lib.h(175):     e","parameterValue":"0"},{"parameterName":"Show_slow_pages","datatype":"enum:[Yes,No]","de
+lib.h(175):     scription":"Determines whether NV report shows problems and errors: HTTP Codes 4xx and 5xx
+lib.h(175):     , loading unused libraries, timeout, downloading big images, etc. ","attributeTools":"NV;S
+lib.h(175):     tormRunner","locationInAdvantage":"Home Page; Laptops Page","locationInAdminTool":"Perform
+lib.h(175):     ance","parameterValue":"No"},{"parameterName":"Price_diffs_UI_vs_API","datatype":"enum:[Ye
+lib.h(175):     s,No]","description":"Creates a difference in the prices shown in the UI and the prices us
+lib.h(175):     ed in the API. Default = No. Yes = Price is doubled in the UI only, for both desktop and m
+lib.h(175):     obile, across the entire app.","attributeTools":"LeanFT;UFT","locationInAdvantage":"Entire
+lib.h(175):      site","locationInAdminTool":"Functional","parameterValue":"No"},{"parameterName":"Allow_E
+lib.h(175):     rror_in_Login","datatype":"enum:[Yes,No]","description":"Determines whether an invalid pas
+lib.h(175):     swords are allowed. These would trigger an error in a test, indicating a security gap in t
+lib.h(175):     he product. Default = No. Yes = Invalid passwords allowed, such as an empty password, or \xE2
+lib.h(175):     \x80\x981\xE2\x80\x99=\xE2\x80\x991\xE2\x80\x99","attributeTools":"Fortify","locationInAdv
+lib.h(175):     antage":"Login page","locationInAdminTool":"Security","parameterValue":"No"},{"parameterNa
+lib.h(175):     me":"Tips_Implement_DevOps_Process","datatype":"enum:[Tip]","description":"To demonstrate 
+lib.h(175):     the DevOpps process in a lifecycle management product, do the following: \xC2\xA0       1.
+lib.h(175):      In Octane, in your product release, add a user story to change an invalid user name or pa
+lib.h(175):     ssword text.         2. Demonstrate that you can view this new user story in your IDE.    
+lib.h(175):          3. Implement the user story by changing the MESSAGE_USER_LOGIN_FAILED error message i
+lib.h(175):     n the following file: \\\\adm-demo-app\\\\accountservice\\\\src\\\\main\\\\java\\\\com\\\\
+lib.h(175):     advantage\\\\accountsoap\\\\model\\\\Account.java.         For example, change it from \\"
+lib.h(175):     Invalid user name or password\\" to \\"Incorrect user name or password, please try again\\
+lib.h(175):     ".         4. Demonstrate the DevOps process and that you can now see the new error messag
+lib.h(175):     e on both desktop and mobile.","attributeTools":"","locationInAdvantage":"Change password"
+lib.h(175):     ,"locationInAdminTool":"General","parameterValue":"Tip"},{"parameterName":"ShipEx_Free_Num
+lib.h(175):     ber_Of_Products","datatype":"string","description":"The quantity of products in a single p
+lib.h(175):     urchase that are entitled to free shipping. Default = 1.","attributeTools":"","locationInA
+lib.h(175):     dvantage":"Order Payment","locationInAdminTool":"General","parameterValue":"1"},{"paramete
+lib.h(175):     rName":"Tips_Mock_SOAP_ShipEx_Service","datatype":"enum:[Tip]","description":"The shipping
+lib.h(175):      cost is determined by a table table in the 'shipex-mock-for-db.properties' configuration 
+lib.h(175):     file, according to country.  Shipping costs to countries not defined in the table are dete
+lib.h(175):     rmined based on the value for Other.  Free shipping can be provided when the number of ite
+lib.h(175):     ms ordered is equal to or less than the value  of the 'ShipEx_Free_Number_Of_Products' con
+lib.h(175):     figuration parameter (default = 1).","attributeTools":"","locationInAdvantage":"Order Paym
+lib.h(175):     ent","locationInAdminTool":"General","parameterValue":"Tip"},{"parameterName":"Tips_Applic
+lib.h(175):     ation_Development_Environment","datatype":"enum:[Tip]","description":"The Advantage demo s
+lib.h(175):     ite uses the following software versions and interfaces:  - Java server: Java 8  - Applica
+lib.h(175):     tion server: Tomcat 8  - Web UI: Angular 1.47  - Admin Application: Standalone .NET  - Dat
+lib.h(175):     abase: PostgreSQL 9.4  - Schema Management: Liquibase 3.4  - Catalog, Order Services: REST
+lib.h(175):      API  - User Management: WSDL.","attributeTools":"","locationInAdvantage":"","locationInAd
+lib.h(175):     minTool":"General","parameterValue":"Tip"},{"parameterName":"Tips_Scripting","datatype":"e
+lib.h(175):     num:[Tip]","description":"The demo app IP addresses are not fixed. In any scripts you crea
+lib.h(175):     te for a demo, make sure to use a parameter for the application IP address.","attributeToo
+lib.h(175):     ls":"LeanFT;UFT;LoadRunner;StormRunner","locationInAdvantage":"","locationInAdminTool":"Pe
+lib.h(175):     rformance;Functional","parameterValue":"Tip"},{"parameterName":"Tips_Fill_User_Location_Fr
+lib.h(175):     om_GPS","datatype":"enum:[Tip]","description":"To use your GPS location instead of the def
+lib.h(175):     ault values, toggle on the Use my location option on the following pages:  1. CREATE ACCOU
+lib.h(175):     NT, for the user account details.  2. ORDER PAYMENT, for the shipping details.","attribute
+lib.h(175):     Tools":"MobileCenter","locationInAdvantage":"Create Account, Order Payment - Shipping deta
+lib.h(175):     ils","locationInAdminTool":"Mobile","parameterValue":"Tip"},{"parameterName":"Tips_Mock_Ma
+lib.h(175):     sterCredit_Generate_Error","datatype":"enum:[Tip]","description":"To generate an error usi
+lib.h(175):     ng the MasterCredit card, enter a MasterCredit expiration date earlier than the current da
+lib.h(175):     y.","attributeTools":"","locationInAdvantage":"Order Payment","locationInAdminTool":"Gener
+lib.h(175):     al","parameterValue":"Tip"},{"parameterName":"Tips_Mock_SafePay_Generate_Error_409","datat
+lib.h(175):     ype":"enum:[Tip]","description":"To generate an error using SafePay, enter identical (case
+lib.h(175):      sensitive) username and password.","attributeTools":"AppPulse","locationInAdvantage":"Web
+lib.h(175):     : Order Payment; Mobile: Payment Method (SafePay)","locationInAdminTool":"Functional;Mobil
+lib.h(175):     e","parameterValue":"Tip"},{"parameterName":"Tips_WebSocket_example","datatype":"enum:[Tip
+lib.h(175):     ]","description":"To demonstrate WebSocket features, use the chat widget located on the Ho
+lib.h(175):     me page (http://www.advantageonlineshopping.com/), under Contact Us.","attributeTools":"Lo
+lib.h(175):     adRunner","locationInAdvantage":"Home page - CONTACT US","locationInAdminTool":"Performanc
+lib.h(175):     e","parameterValue":"Tip"},{"parameterName":"Tips_Support_Different_Types_Of_Controls","da
+lib.h(175):     tatype":"enum:[Tip]","description":"Use the following UI elements to demonstrate various f
+lib.h(175):     unctional testing features:  * String: On the CREATE ACCOUNT or ACCOUNT DETAILS page, upda
+lib.h(175):     te the Personal Details fields.  * Radio button: On the ORDER PAYMENT page, select a payme
+lib.h(175):     nt method.  * Date value: On the ORDER PAYMENT page
+lib.h(175): t=123730ms: 11644-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" (RelFrameId=1, Internal ID=45)
+lib.h(175):     , select the MasterCredit option and then enter an expiration date.  * List box: On the CR
+lib.h(175):     EATE ACCOUNT page, select a country from the Country drop down list.  * Multiple selection
+lib.h(175):     : Browse products by category and filter the products shown by using the options on the le
+lib.h(175):     ft","attributeTools":"BPT;MobileCenter;LeanFT;UFT","locationInAdvantage":"Entire Site","lo
+lib.h(175):     cationInAdminTool":"Functional;Mobile","parameterValue":"Tip"},{"parameterName":"Tips_Syst
+lib.h(175):     em_Configuration","datatype":"enum:[Tip]","description":"The Admin UI menu and pages are r
+lib.h(175):     ead-only in the shared system on the cloud.  You can make changes in a local instance.  Tr
+lib.h(175):     oubleshooting: If you are unable to make changes in a local instance:  1. Navigate to the 
+lib.h(175):     DemoApp.properties file.  2. Ensure that the Allow user configuration value is set to Yes.
+lib.h(175):      This is the default setting.  3. Verify that you can configure the relevant field from th
+lib.h(175):     e Admin UI as needed.","attributeTools":"","locationInAdvantage":".NET Admin app","locatio
+lib.h(175):     nInAdminTool":"General","parameterValue":"Tip"},{"parameterName":"Tips_replace_3rd_party_s
+lib.h(175):     ervices_with_SV","datatype":"enum:[Tip]","description":"Replace the ShipEx, MasterCredit, 
+lib.h(175):     or SafePay 3rd party services with Service Virtualization by updating the relevant URLs in
+lib.h(175):      the services.properties configuration file.  This file is located in properties folder of
+lib.h(175):      5 services: accountservice, MasterCredit, order, ROOT, SafePay.  For example: /accountser
+lib.h(175):     vice/properties/services.properties.  1. Navigate to the <service-name>.url.host line, and
+lib.h(175):      modify the URL/IP address string to the Service Virtualization URL and IP address.  2. Na
+lib.h(175):     vigate to the <service-name>.url.port line and modify the port string to the Service Virtu
+lib.h(175):     alization port.  3. Save the file, and repeat these steps for each service in the services
+lib.h(175):     .properties file, and in the services.properties files for each service.","attributeTools"
+lib.h(175):     :"SV","locationInAdvantage":"ShipEx;MasterCredit;SafePay","locationInAdminTool":"Functiona
+lib.h(175):     l","parameterValue":"Tip"},{"parameterName":"Tips_How_To_Use_Product_Video","datatype":"en
+lib.h(175):     um:[Tip]","description":"ADM performance tools support HTML5 video streaming via: native b
+lib.h(175):     rowsers, plugins such as Adobe Flash, or standalone software.  To demonstrate this feature
+lib.h(175):     , browse to one of the following products and view the demo video:  - HP ROAR WIRELESS SPE
+lib.h(175):     AKER (Product ID: 22)  - BEATS STUDIO 2 OVER-EAR MATTE BLACK HEADPHONES (product ID: 15)  
+lib.h(175):     - HP ELITEPAD 1000 G2 TABLET (product ID: 16)","attributeTools":"LoadRunner","locationInAd
+lib.h(175):     vantage":"Selected Products","locationInAdminTool":"Performance","parameterValue":"Tip"},{
+lib.h(175):     "parameterName":"Tips_regular_expression","datatype":"enum:[Tip]","description":"The butto
+lib.h(175):     n text always starts with Pay to allow for demonstrating regular expressions in object ide
+lib.h(175):     ntification.","attributeTools":"LeanFT;UFT","locationInAdvantage":"Pay button in cart sum"
+lib.h(175):     ,"locationInAdminTool":"Functional","parameterValue":"Tip"},{"parameterName":"Tips_correla
+lib.h(175):     tion_example","datatype":"enum:[Tip]","description":"To demonstrate correlation, make sure
+lib.h(175):      that you include a login step in your flow.  The correlation is implemented with the sess
+lib.h(175):     ion ID.","attributeTools":"LoadRunner","locationInAdvantage":"Web Application Login","loca
+lib.h(175):     tionInAdminTool":"Performance","parameterValue":"Tip"},{"parameterName":"Tips_async_exampl
+lib.h(175):     e","datatype":"enum:[Tip]","description":"ADM performance tools support asynchronous commu
+lib.h(175):     nication.  To demonstrate this feature, browse to any of the products in the HEADPHONES ca
+lib.h(175):     tegory, and record the comments (web only).","attributeTools":"LoadRunner","locationInAdva
+lib.h(175):     ntage":"Performance","locationInAdminTool":"Performance","parameterValue":"Tip"},{"paramet
+lib.h(175):     erName":"Tips_Swagger_Interface_For_REST_APIs","datatype":"enum:[Tip]","description":"To u
+lib.h(175):     se Swagger interface for REST APIs change the URL to http://<your-server>:<port>/<service>
+lib.h(175):     /api/docs.  <service> can be on of the following (case sensitive): catalog, order, MasterC
+lib.h(175):     redit or SafePay.  For example: http://www.advantageonlineshopping.com:80/catalog/api/docs
+lib.h(175):     .","attributeTools":"","locationInAdvantage":"catalog,MasterCredit,order,SafePay services"
+lib.h(175):     ,"locationInAdminTool":"General","parameterValue":"Tip"},{"parameterName":"Tips_REST_API_P
+lib.h(175):     arams_In_Request_URL","datatype":"enum:[Tip]","description":"Send the REST API request and
+lib.h(175):      parameters in request URL. Example: http://www.advantageonlineshopping.com/catalog/api/v1
+lib.h(175):     /products/1.","attributeTools":"UFT","locationInAdvantage":"catalog,MasterCredit,order,Saf
+lib.h(175):     ePay services","locationInAdminTool":"Functional","parameterValue":"Tip"},{"parameterName"
+lib.h(175):     :"Tips_REST_API_Params_In_Request_Body","datatype":"enum:[Tip]","description":"Send the RE
+lib.h(175):     ST API parameters in the request body. Example: http://www.advantageonlineshopping.com/Mas
+lib.h(175):     terCredit/api/v1/payments/payment, body: { \\"MCCVVNumber\\": 666, \\"MCCardNumber\\": 654
+lib.h(175):     3210987654321, \\"MCCustomerName\\": \\"King David\\", \\"MCCustomerPhone\\": \\"+12025551
+lib.h(175):     969\\", \\"MCExpirationDate\\": \\"032017\\", \\"MCRecevingAmount.Value\\": 2011.03, \\"MC
+lib.h(175):     RecevingCard.AccountNumber\\": 112987298763, \\"MCRecevingCard.Currency\\": \\"USD\\", \\"
+lib.h(175):     MCTransactionDate\\": \\"02092016\\", \\"MCTransactionType\\": \\"PAYMENT\\" }.","attribut
+lib.h(175):     eTools":"UFT","locationInAdvantage":"catalog,MasterCredit,order,SafePay services","locatio
+lib.h(175):     nInAdminTool":"Functional","parameterValue":"Tip"},{"parameterName":"Tips_DFE","datatype":
+lib.h(175):     "enum:[Tip]","description":"Send login request and response in Base-64 encoded, instead of
+lib.h(175):      in plain text, to show DFE in snapshot (display only).","attributeTools":"LoadRunner","lo
+lib.h(175):     cationInAdvantage":"Web Application Login","locationInAdminTool":"Performance","parameterV
+lib.h(175):     alue":"Tip"},{"parameterName":"Tips_validation_example","datatype":"enum:[Tip]","descripti
+lib.h(175):     on":"To demonstrate validation: Perform a flow where you buy the contents of the cart, the
+lib.h(175):     n go to the My Orders page and look for the order by its order number (shows positive\xC2\xA0
+lib.h(175):     validation). Delete the order, then look for the order by its number again (shows negative
+lib.h(175):     \xC2\xA0validation).","attributeTools":"LoadRunner","locationInAdvantage":"My Orders","loc
+lib.h(175):     ationInAdminTool":"Performance","parameterValue":"Tip"},{"parameterName":"Mobile_crash","d
+lib.h(175):     atatype":"enum:[Tip]","description":"To generate a crash, login with AppPulse user and cha
+lib.h(175):     nge\xC2\xA0the device orientation from\xC2\xA0portrait to landscape","attributeTools":"App
+lib.h(175):     Pulse","locationInAdvantage":"Mobile: entire app","locationInAdminTool":"Mobile;Functional
+lib.h(175):     ;ITOM","parameterValue":"Tip"},{"parameterName":"Slow_launch_of_the_native_app","datatype"
+lib.h(175):     :"enum:[Tip]","description":"To show a slow launch, log in as the AppPulse user and kill t
+lib.h(175):     he app. From this point on, any launch will be slow until you log in with a different user
+lib.h(175):     ","attributeTools":"AppPulse","locationInAdvantage":"Android\xC2\xA0native app: Launch","l
+lib.h(175):     ocationInAdminTool":"Mobile;Performance","parameterValue":"Tip"},{"parameterName":"Error_5
+lib.h(175):     00","datatype":"enum:[Tip]","description":"To generate error 500, login with AppPulse user
+lib.h(175):     , add items to\xC2\xA0the the cart, checkout and click on pay now","attributeTools":"AppPu
+lib.h(175):     lse","locationInAdvantage":"Order Payment","locationInAdminTool":"Mobile;Functional;ITOM",
+lib.h(175):     "parameterValue":"Tip"},{"parameterName":"Error_403","datatype":"enum:[Tip]","description"
+lib.h(175):     :"To generate error 403, click on the 'Sign in with Facebook' button.","attributeTools":"A
+lib.h(175):     ppPulse","locationInAdvantage":"Login page","locationInAdminTool":"Mobile;Functional;ITOM"
+lib.h(175):     ,"parameterValue":"Tip"},{"parameterName":"Use_Camera_Capability","datatype":"enum:[Tip]",
+lib.h(175):     "description":"Add an option to enable the user to take a picture with the camera . This p
+lib.h(175):     icture will be added to the current product page. In offline mode, the picture is retained
+lib.h(175):      for the current session only. When using MC, if \xE2\x80\x9CCamera Sensor\xE2\x80\x9D is 
+lib.h(175):     enabled, this picture will be replaced with the picture the user previously uploaded to MC
+lib.h(175):     .","attributeTools":"MobileCenter","locationInAdvantage":"Mobile apps: Product page","loca
+lib.h(175):     tionInAdminTool":"Mobile","parameterValue":"Tip"},{"parameterName":"Tips_SQL_injection_vul
+lib.h(175):     nerability","datatype":"enum:[Tip]","description":"A functional test finds the following d
+lib.h(175):     efect: The user creates a user with any\xC2\xA0Username, but the\xC2\xA0name that is actua
+lib.h(175):     lly created is duplicated, as displayed at\xC2\xA0the top right side of the site.\xC2\xA0\xC2
+lib.h(175):     \xA0 The user opens a defect, fixes the code, and commits the change. This triggers a Fort
+lib.h(175):     ify scan (provided that you added the Fortify scan trigger in the code change) that will f
+lib.h(175):     ind an\xC2\xA0SQL injection\xC2\xA0vulnerability.  To achieve this, you must edit the\xC2\xA0
+lib.h(175):     accountservice\\\\src\\\\main\\\\java\\\\com\\\\advantage\\\\accountsoap\\\\dao\\\\impl\\\\
+lib.h(175):     DefaultAccountRepository\xC2\xA0file. In this file, first uncomment the\xC2\xA0code that i
+lib.h(175):     s located\xC2\xA0between the\xC2\xA0'SQL injection vulnerability' tags. \xC2\xA0Then, comm
+lib.h(175):     ent out the code that is located between the 'Code without\xC2\xA0SQL injection vulnerabil
+lib.h(175):     ity' tags. Note that there are 2 locations in the code in which you need to make these cha
+lib.h(175):     nges.","attributeTools":"Fortify, LeanFT, UFT","locationInAdvantage":"Create Account page"
+lib.h(175):     ,"locationInAdminTool":"Security","parameterValue":"Tip"},{"parameterName":"Enable_Warrant
+lib.h(175):     y","datatype":"enum:[Yes,No]","description":"Determines whether a warranty checkbox is add
+lib.h(175):     ed to each laptop product screen. Use this parameter to demonstrate an integration between
+lib.h(175):      AOS and COBOL, during checkout AOS backend invoke a COBOL service to activate a warranty 
+lib.h(175):     for laptop. Default = No. Yes = Add a checkbox to the laptop product page.","attributeTool
+lib.h(175):     s":"AMC","locationInAdvantage":"Laptops","locationInAdminTool":"General","parameterValue":
+lib.h(175):     "No"},{"parameterName":"Warranty_Service_URL","datatype":"string","description":"The URL o
+lib.h(175):     f the COBOL web service to be used for the warranty, the default service is located on AZU
+lib.h(175):     RE. the default URL is: https://aoswarrantyfunction.azurewebsites.net/api/Function1?code=K
+lib.h(175):     EK/GaiTZ0lfJdRkJGgNdsn8qfenPseDGaS3j3n8noI6AGtSIriLAg== note: mouse over on the text field
+lib.h(175):      to view the current URL.","attributeTools":"AMC","locationInAdvantage":"Laptops","locatio
+lib.h(175):     nInAdminTool":"General","parameterValue":"https://aoswarrantyfunction.azurewebsites.net/ap
+lib.h(175):     i/Function1?code=KEK/GaiTZ0lfJdRkJGgNdsn8qfenPseDGaS3j3n8noI6AGtSIriLAg=="},{"parameterNam
+lib.h(175):     e":"Enable_Voltage_Encryption","datatype":"enum:[Yes,No]","description":"Use this paramete
+lib.h(175):     r to demonstrate an integration between Voltage Data Encryption And AOS. The MasterCredit 
+lib.h(175):     number is encrypted when the flag is set to 'Yes'","attributeTools":"AMC","locationInAdvan
+lib.h(175):     tage":"Payment page","locationInAdminTool":"General","parameterValue":"No"},{"parameterNam
+lib.h(175):     e":"Voltage_Service_URL","datatype":"string","description":"The URL of the Voltage Data En
+lib.h(175):     cryption service to be used for the encryption, the default service is located on AZURE. t
+lib.h(175):     he default URL is: https://voltage-pp-0000.dataprotection.voltage.com note: mouse over on 
+lib.h(175):     the text field to view the current URL.","attributeTools":"ITOM","locationInAdvantage":"Pa
+lib.h(175):     yment page","locationInAdminTool":"General","parameterValue":"https://voltage-pp-0000.data
+lib.h(175):     protection.voltage.com"},{"parameterName":"duplicate_countries","datatype":"enum:[Yes,No]"
+lib.h(175):     ,"description":"Duplicates the countries in adv_account DB, causing error during registrat
+lib.h(175):     ion. Note: Restart required.","attributeTools":"ITOM","locationInAdvantage":"Registration 
+lib.h(175):     page","locationInAdminTool":"General","parameterValue":"No"},{"parameterName":"AOB_Endpoin
+lib.h(175):     t","datatype":"string","description":"Purchases made using AOB user, will create a transac
+lib.h(175):     tion on AOB system, on the current endpoint","attributeTools":"","locationInAdvantage":"Pu
+lib.h(175):     rchase Page","locationInAdminTool":"General","parameterValue":"http://advantageonlinebanki
+lib.h(175):     ng.com/api/accounts/purchase"}]}
+lib.h(175): t=123731ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" (RelFrameId=1, Internal ID=45)
+lib.h(175): t=123731ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL"  	[MsgId: MMSG-26000]
+lib.h(175): web_url("ALL") was successful, 6541 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(184): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+lib.h(184): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
+lib.h(184): "Origin: https://www.advantageonlineshopping.com" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(184): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+lib.h(187): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+lib.h(187): "SOAPAction: com.advantage.online.store.accountserviceGetAccountConfigurationRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(187): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+lib.h(190): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+lib.h(190): An unrecognized header ("X-Requested-With") is being added  	[MsgId: MMSG-26595]
+lib.h(190): "X-Requested-With: XMLHttpRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(190): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+lib.h(193): web_custom_request("GetAccountConfigurationRequest") started  	[MsgId: MMSG-26355]
+lib.h(193): The request to server https://www.advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest" is done with headers:
+lib.h(193):     :method = POST
+lib.h(193):     :scheme = https
+lib.h(193):     :path = /accountservice/ws/GetAccountConfigurationRequest
+lib.h(193):     :authority = www.advantageonlineshopping.com
+lib.h(193):     Content-Type = text/xml; charset=UTF-8
+lib.h(193):     Referer = https://www.advantageonlineshopping.com/
+lib.h(193):     Origin = https://www.advantageonlineshopping.com
+lib.h(193):     SOAPAction = com.advantage.online.store.accountserviceGetAccountConfigurationRequest
+lib.h(193):     X-Requested-With = XMLHttpRequest
+lib.h(193):     Sec-Fetch-Dest = empty
+lib.h(193):     Sec-Fetch-Mode = cors
+lib.h(193):     Sec-Fetch-Site = same-origin
+lib.h(193):     DNT = 1
+lib.h(193):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(193):     0
+lib.h(193):     Accept-Encoding = gzip, deflate
+lib.h(193):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(193):     Accept = */*
+lib.h(193):     content-length = 361
+lib.h(193):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(193): The request to server "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest" is done with body:
+lib.h(193):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
+lib.h(193):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
+lib.h(193):     www.w3.org/2001/XMLSchema"><soap:Body><GetAccountConfigurationRequest xmlns="com.advantage
+lib.h(193):     .online.store.accountservice"></GetAccountConfigurationRequest></soap:Body></soap:Envelope
+lib.h(193):     >
+lib.h(193): t=124030ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest" (RelFrameId=1, Internal ID=46)
+lib.h(193):     HTTP/2.0 200\r\n
+lib.h(193):     Status: 200\r\n
+lib.h(193):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(193):     date: Wed, 13 Mar 2024 21:33:41 GMT\r\n
+lib.h(193):     content-type: text/xml;charset=utf-8\r\n
+lib.h(193):     content-length: 823\r\n
+lib.h(193):     x-content-type-options: nosniff\r\n
+lib.h(193):     x-xss-protection: 1; mode=block\r\n
+lib.h(193):     cache-control: no-store\r\n
+lib.h(193):     pragma: no-cache\r\n
+lib.h(193):     expires: 0\r\n
+lib.h(193):     x-frame-options: DENY\r\n
+lib.h(193):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+lib.h(193):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+lib.h(193):     access-control-max-age: 3600\r\n
+lib.h(193):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+lib.h(193):     ion\r\n
+lib.h(193):     access-control-allow-origin: *\r\n
+lib.h(193):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+lib.h(193):     soapaction: ""\r\n
+lib.h(193):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(193):     \r\n
+lib.h(193): t=124030ms: 823-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest" (RelFrameId=1, Internal ID=46)
+lib.h(193):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+lib.h(193):     ader/><SOAP-ENV:Body><ns2:GetAccountConfigurationResponse xmlns:ns2="com.advantage.online.
+lib.h(193):     store.accountservice"><ns2:numberOfFailedLoginAttemptsBeforeBlocking>3</ns2:numberOfFailed
+lib.h(193):     LoginAttemptsBeforeBlocking><ns2:loginBlockingIntervalInSeconds>300</ns2:loginBlockingInte
+lib.h(193):     rvalInSeconds><ns2:productInStockDefaultValue>10</ns2:productInStockDefaultValue><ns2:user
+lib.h(193):     SecondWsdl>false</ns2:userSecondWsdl><ns2:userLoginTimeout>60</ns2:userLoginTimeout><ns2:a
+lib.h(193):     llowUserConfiguration>true</ns2:allowUserConfiguration><ns2:productionHostIp>http://54.175
+lib.h(193):     .138.128:8081</ns2:productionHostIp><ns2:productionHostName>http://advantageonlineshopping
+lib.h(193):     .com</ns2:productionHostName></ns2:GetAccountConfigurationResponse></SOAP-ENV:Body></SOAP-
+lib.h(193):     ENV:Envelope>
+lib.h(193): t=124031ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest"  	[MsgId: MMSG-26000]
+lib.h(193): web_custom_request("GetAccountConfigurationRequest") was successful, 823 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+lib.h(205): web_url("categories") started  	[MsgId: MMSG-26355]
+lib.h(205): The request to server https://www.advantageonlineshopping.com/catalog/api/v1/categories" is done with headers:
+lib.h(205):     :method = GET
+lib.h(205):     :scheme = https
+lib.h(205):     :path = /catalog/api/v1/categories
+lib.h(205):     :authority = www.advantageonlineshopping.com
+lib.h(205):     Referer = https://www.advantageonlineshopping.com/
+lib.h(205):     Sec-Fetch-Dest = empty
+lib.h(205):     Sec-Fetch-Mode = cors
+lib.h(205):     Sec-Fetch-Site = same-origin
+lib.h(205):     DNT = 1
+lib.h(205):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(205):     0
+lib.h(205):     Accept-Encoding = gzip, deflate
+lib.h(205):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(205):     Accept = */*
+lib.h(205):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(205): t=124505ms: 375-byte response headers for "https://www.advantageonlineshopping.com/catalog/api/v1/categories" (RelFrameId=1, Internal ID=47)
+lib.h(205):     HTTP/2.0 200\r\n
+lib.h(205):     Status: 200\r\n
+lib.h(205):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(205):     date: Wed, 13 Mar 2024 21:33:41 GMT\r\n
+lib.h(205):     content-type: application/json\r\n
+lib.h(205):     expires: 0\r\n
+lib.h(205):     cache-control: no-store\r\n
+lib.h(205):     x-content-type-options: nosniff\r\n
+lib.h(205):     x-xss-protection: 1; mode=block\r\n
+lib.h(205):     x-frame-options: DENY\r\n
+lib.h(205):     vary: accept-encoding\r\n
+lib.h(205):     content-encoding: gzip\r\n
+lib.h(205):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(205):     \r\n
+lib.h(205): t=124505ms: 5059-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories" (RelFrameId=1, Internal ID=47)
+lib.h(205): t=124505ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories" (RelFrameId=1, Internal ID=47)
+lib.h(205):     [{"categoryId":1,"categoryName":"LAPTOPS","managedImageId":"laptops","products":[{"id":10,
+lib.h(205):     "productName":"HP Chromebook 14 G1(ES)","price":1261.99,"description":"Introducing the nex
+lib.h(205):     t generation HP EliteBook Folio 9480m Ultrabook\xE2\x84\xA2[2]. Timeless, ultra slim profi
+lib.h(205):     le in an all metal design with optional 4G Broadband wWAN, and 4th Generation Intel\xC2\xAE
+lib.h(205):      Core\xE2\x84\xA2 Processing Technology.","productStatus":"Active","managedImageId":"1250"
+lib.h(205):     },{"id":11,"productName":"HP Pavilion x360 - 11t Touch Laptop","price":319.99,"description
+lib.h(205):     ":"There\xE2\x80\x99s no limit to what this value-packed convertible PC can do. Easily con
+lib.h(205):     vert from notebook to stand to tent to tablet mode. It\xE2\x80\x99s an app-loving, friend-
+lib.h(205):     connecting, 360\xC2\xB0-bending machine.","productStatus":"Active","managedImageId":"11100
+lib.h(205):     "},{"id":6,"productName":"HP ENVY x360 - 15t Laptop","price":699.99,"description":"We took
+lib.h(205):      our remarkable 360\xC2\xB0 convertible PC and enhanced it with premium features to give y
+lib.h(205):     ou ultimate flexibility and enviable looks.","productStatus":"Active","managedImageId":"16
+lib.h(205):     00"},{"id":7,"productName":"HP ENVY - 17t Touch Laptop","price":849.99,"description":"We t
+lib.h(205):     ook our remarkable 360\xC2\xB0 convertible PC and enhanced it with premium features to giv
+lib.h(205):     e you ultimate flexibility and enviable looks.","productStatus":"Active","managedImageId":
+lib.h(205):     "1700"},{"id":1,"productName":"HP Pavilion 15t Touch Laptop","price":519.99,"description":
+lib.h(205):     "Redesigned with you in mind, the HP Pavilion keeps getting better. Our best-selling noteb
+lib.h(205):     ook is now more powerful so you can watch more, play more, and store more, all in style.",
+lib.h(205):     "productStatus":"Active","managedImageId":"1100"},{"id":8,"productName":"HP ZBook 17 G2 Mo
+lib.h(205):     bile Workstation","price":1799.0,"description":"On the go creativity knows no limits on a 
+lib.h(205):     vivid 17.3 inch diagonal HP ZBook 17 G2. Showcase your best work in the office or on the g
+lib.h(205):     o and take advantage of HP\xE2\x80\x99s most powerful processing, graphics, simple scalabi
+lib.h(205):     lity, and blazing-fast connectivity to perform and collaborate at the speed of creativity.
+lib.h(205):     ","productStatus":"Active","managedImageId":"1800"},{"id":5,"productName":"HP Stream - 11-
+lib.h(205):     d020nr Laptop","price":179.99,"description":"Work from a happy place with a stylish, affor
+lib.h(205):     dable, Windows-based PC. Store your content in the cloud for easy access from anywhere you
+lib.h(205):      have internet.","productStatus":"Active","managedImageId":"1245"},{"id":9,"productName":"
+lib.h(205):     HP Chromebook 14 G1(ENERGY STAR)","price":299.99,"description":"This HP notebook is all ab
+lib.h(205):     out getting the perfect combination of design, reliability, and features. Style and produc
+lib.h(205):     tivity while keeping your wallet in mind - now that's something to get excited about.","pr
+lib.h(205):     oductStatus":"Active","managedImageId":"1249"},{"id":2,"productName":"HP Pavilion 15z Lapt
+lib.h(205):     op","price":549.99,"description":"Redesigned with you in mind, the HP Pavilion keeps getti
+lib.h(205):     ng better. Our best-selling notebook is now more powerful so you can watch more, play more
+lib.h(205):     , and store more, all in style.","productStatus":"Active","managedImageId":"1200"},{"id":3
+lib.h(205):     ,"productName":"HP Pavilion 15z Touch Laptop","price":449.99,"description":"Redesigned wit
+lib.h(205):     h you in mind, the HP Pavilion keeps getting better. Our best-selling notebook is now more
+lib.h(205):      powerful so you can watch more, play more, and store more, all in style.","productStatus"
+lib.h(205):     :"Active","managedImageId":"1300"},{"id":4,"productName":"HP Spectre x360 - 13-4102dx","pr
+lib.h(205):     ice":1399.99,"description":"Stunning, ultra-slim convertible PC with a 360\xC2\xB0 hinge",
+lib.h(205):     "productStatus":"Active","managedImageId":"1400"}]},{"categoryId":2,"categoryName":"HEADPH
+lib.h(205):     ONES","managedImageId":"headphones","products":[{"id":125,"productName":"game of thrones",
+lib.h(205):     "price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},
+lib.h(205):     {"id":57,"productName":"game of thrones","price":10000.0,"description":"My book","productS
+lib.h(205):     tatus":"Active","managedImageId":"1245"},{"id":87,"productName":"game of thrones","price":
+lib.h(205):     10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":11
+lib.h(205):     1,"productName":"game of thrones","price":10000.0,"description":"My book","productStatus":
+lib.h(205):     "Active","managedImageId":"1245"},{"id":106,"productName":"game of thrones","price":10000.
+lib.h(205):     0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":82,"prod
+lib.h(205):     uctName":"game of thrones","price":10000.0,"description":"My book","productStatus":"Active
+lib.h(205):     ","managedImageId":"1245"},{"id":67,"productName":"game of thrones","price":10000.0,"descr
+lib.h(205):     iption":"My book","productStatus":"Active","managedImageId":"1245"},{"id":94,"productName"
+lib.h(205):     :"game of thrones","price":10000.0,"description":"My book","productStatus":"Active","manag
+lib.h(205):     edImageId":"1245"},{"id":100,"productName":"game of thrones","price":10000.0,"description"
+lib.h(205):     :"My book","productStatus":"Active","managedImageId":"1245"},{"id":86,"productName":"game 
+lib.h(205):     of thrones","price":10000.0,"description":"My book","productStatus":"Active","managedImage
+lib.h(205):     Id":"1245"},{"id":56,"productName":"game of thrones","price":10000.0,"description":"My boo
+lib.h(205):     k","productStatus":"Active","managedImageId":"1245"},{"id":61,"productName":"game of thron
+lib.h(205):     es","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"124
+lib.h(205):     5"},{"id":99,"productName":"game of thrones","price":10000.0,"description":"My book","prod
+lib.h(205):     uctStatus":"Active","managedImageId":"1245"},{"id":40,"productName":"game of thrones","pri
+lib.h(205):     ce":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id
+lib.h(205):     ":91,"productName":"game of thrones","price":10000.0,"description":"My book","productStatu
+lib.h(205):     s":"Active","managedImageId":"1245"},{"id":58,"productName":"game of thrones","price":1000
+lib.h(205):     0.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":65,"pr
+lib.h(205):     oductName":"game of thrones","price":10000.0,"description":"My book","productStatus":"Acti
+lib.h(205):     ve","managedImageId":"1245"},{"id":96,"productName":"game of thrones","price":10000.0,"des
+lib.h(205):     cription":"My book","productStatus":"Active","managedImageId":"1245"},{"id":133,"productNa
+lib.h(205):     me":"game of thrones","price":10000.0,"description":"My book","productStatus":"Active","ma
+lib.h(205):     nagedImageId":"1245"},{"id":60,"productName":"game of thrones","price":10000.0,"descriptio
+lib.h(205):     n":"My book","productStatus":"Active","managedImageId":"1245"},{"id":38,"productName":"gam
+lib.h(205):     e of thrones","price":10000.0,"description":"My book","productStatus":"Active","managedIma
+lib.h(205):     geId":"1245"},{"id":120,"productName":"game of thrones","price":10000.0,"description":"My 
+lib.h(205):     book","productStatus":"Active","managedImageId":"1245"},{"id":101,"productName":"game of t
+lib.h(205):     hrones","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":
+lib.h(205):     "1245"},{"id":104,"productName":"game of thrones","price":10000.0,"description":"My book",
+lib.h(205):     "productStatus":"Active","managedImageId":"1245"},{"id":112,"productName":"game of thrones
+lib.h(205):     ","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"
+lib.h(205):     },{"id":51,"productName":"game of thrones","price":10000.0,"description":"My book","produc
+lib.h(205):     tStatus":"Active","managedImageId":"1245"},{"id":114,"productName":"game of thrones","pric
+lib.h(205):     e":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id"
+lib.h(205):     :129,"productName":"game of thrones","price":10000.0,"description":"My book","productStatu
+lib.h(205):     s":"Active","managedImageId":"1245"},{"id":107,"productName":"game of thrones","price":100
+lib.h(205):     00.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":79,"p
+lib.h(205):     roductName":"game of thrones","price":10000.0,"description":"My book","productStatus":"Act
+lib.h(205):     ive","managedImageId":"1245"},{"id":69,"productName":"game of thrones","price":10000.0,"de
+lib.h(205):     scription":"My book","productStatus":"Active","managedImageId":"1245"},{"id":74,"productNa
+lib.h(205):     me":"game of thrones","price":10000.0,"description":"My book","productStatus":"Active","ma
+lib.h(205):     nagedImageId":"1245"},{"id":90,"productName":"game of thrones","price":10000.0,"descriptio
+lib.h(205):     n":"My book","productStatus":"Active","managedImageId":"1245"},{"id":105,"productName":"ga
+lib.h(205):     me of thrones","price":10000.0,"description":"My book","productStatus":"Active","managedIm
+lib.h(205):     ageId":"1245"},{"id":117,"productName":"game of thrones","price":10000.0,"description":"My
+lib.h(205):      book","productStatus":"Active","managedImageId":"1245"},{"id":84,"productName":"game of t
+lib.h(205):     hrones","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":
+lib.h(205):     "1245"},{"id":118,"productName":"game of thrones","price":10000.0,"description":"My book",
+lib.h(205):     "productStatus":"Active","managedImageId":"1245"},{"id":123,"productName":"game of thrones
+lib.h(205):     ","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"
+lib.h(205):     },{"id":77,"productName":"game of thrones","price":10000.0,"description":"My book","produc
+lib.h(205):     tStatus":"Active","managedImageId":"1245"},{"id":132,"productName":"game of thrones","pric
+lib.h(205):     e":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id"
+lib.h(205):     :109,"productName":"game of thrones","price":10000.0,"description":"My book","productStatu
+lib.h(205):     s":"Active","managedImageId":"1245"},{"id":15,"productName":"Beats Studio 2 Over-Ear Matte
+lib.h(205):      Black Headphones","price":179.99,"description":"The world\xE2\x80\x99s most famous headph
+lib.h(205):     one has been completely redesigned and reimagined. The new Beats Studio\xC2\xAE is lighter
+lib.h(205):     , sexier, stronger, and more comfortable, with precision sound, Adaptive Noise Canceling, 
+lib.h(205):     a 20-hour rechargeable battery, and RemoteTalk\xE2\x84\xA2. It has all the energy and exci
+lib.h(205):     tement you expect from Beats, plus a powerful, reengineered sound.","productStatus":"Activ
+lib.h(205):     e","managedImageId":"2200"},{"id":122,"productName":"game of thrones","price":10000.0,"des
+lib.h(205):     cription":"My book","productStatus":"Active","managedImageId":"1245"},{"id":97,"productNam
+lib.h(205):     e":"game of thrones","price":10000.0,"description":"My book","productStatus":"Active","man
+lib.h(205):     agedImageId":"1245"},{"id":88,"productName":"game of thrones","price":10000.0,"description
+lib.h(205):     ":"My book","productStatus":"Active","managedImageId":"1245"},{"id":52,"productName":"game
+lib.h(205):      of thrones","price":10000.0,"description":"My book","productStatus":"Active","managedImag
+lib.h(205):     eId":"1245"},{"id":63,"productName":"game of thrones","price":10000.0,"description":"My bo
+lib.h(205):     ok","productStatus":"Active","managedImageId":"1245"},{"id":126,"productName":"game of thr
+lib.h(205):     ones","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1
+lib.h(205):     245"},{"id":73,"productName":"game of thrones","price":10000.0,"description":"My book","pr
+lib.h(205):     oductStatus":"Active","managedImageId":"1245"},{"id":83,"productName":"game of thrones","p
+lib.h(205):     rice":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"
+lib.h(205):     id":134,"productName":"game of thrones","price":10000.0,"description":"My book","productSt
+lib.h(205):     atus":"Active","managedImageId":"1245"},{"id":48,"productName":"game of thrones","price":1
+lib.h(205):     0000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":81,
+lib.h(205):     "productName":"game of thrones","price":10000.0,"description":"My book","productStatus":"A
+lib.h(205):     ctive","managedImageId":"1245"},{"id":42,"productName":"game of thrones","price":10000.0,"
+lib.h(205):     description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":121,"produc
+lib.h(205):     tName":"game of thrones","price":10000.0,"description":"My book","productStatus":"Active",
+lib.h(205):     "managedImageId":"1245"},{"id":41,"productName":"game of thrones","price":10000.0,"descrip
+lib.h(205):     tion":"My book","productStatus":"Active","managedImageId":"1245"},{"id":47,"productName":"
+lib.h(205):     game of thrones","price":10000.0,"description":"My book","productStatus":"Active","managed
+lib.h(205):     ImageId":"1245"},{"id":108,"productName":"game of thrones","price":10000.0,"description":"
+lib.h(205):     My book","productStatus":"Active","managedImageId":"1245"},{"id":124,"productName":"game o
+lib.h(205):     f thrones","price":10000.0,"description":"My book","productStatus":"Active","managedImageI
+lib.h(205):     d":"1245"},{"id":116,"productName":"game of thrones","price":10000.0,"description":"My boo
+lib.h(205):     k","productStatus":"Active","managedImageId":"1245"},{"id":37,"productName":"game of thron
+lib.h(205):     es","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"124
+lib.h(205):     5"},{"id":14,"productName":"Logitech USB Headset H390","price":39.99,"description":"Featur
+lib.h(205):     es on this product will exceeded your expectations.","productStatus":"Active","managedImag
+lib.h(205):     eId":"2400"},{"id":66,"productName":"game of thrones","price":10000.0,"description":"My bo
+lib.h(205):     ok","productStatus":"Active","managedImageId":"1245"},{"
+lib.h(205): t=124507ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories" (RelFrameId=1, Internal ID=47)
+lib.h(205):     id":115,"productName":"game of thrones","price":10000.0,"description":"My book","productSt
+lib.h(205):     atus":"Active","managedImageId":"1245"},{"id":49,"productName":"game of thrones","price":1
+lib.h(205):     0000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":70,
+lib.h(205):     "productName":"game of thrones","price":10000.0,"description":"My book","productStatus":"A
+lib.h(205):     ctive","managedImageId":"1245"},{"id":46,"productName":"game of thrones","price":10000.0,"
+lib.h(205):     description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":36,"product
+lib.h(205):     Name":"game of thrones","price":10000.0,"description":"My book","productStatus":"Active","
+lib.h(205):     managedImageId":"1245"},{"id":78,"productName":"game of thrones","price":10000.0,"descript
+lib.h(205):     ion":"My book","productStatus":"Active","managedImageId":"1245"},{"id":13,"productName":"B
+lib.h(205):     ose SoundLink Around-ear Wireless Headphones II","price":279.95,"description":"Wireless fr
+lib.h(205):     eedom meets best-in-class sound.","productStatus":"OutOfStock","managedImageId":"2300"},{"
+lib.h(205):     id":39,"productName":"game of thrones","price":10000.0,"description":"My book","productSta
+lib.h(205):     tus":"Active","managedImageId":"1245"},{"id":113,"productName":"game of thrones","price":1
+lib.h(205):     0000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":71,
+lib.h(205):     "productName":"game of thrones","price":10000.0,"description":"My book","productStatus":"A
+lib.h(205):     ctive","managedImageId":"1245"},{"id":76,"productName":"game of thrones","price":10000.0,"
+lib.h(205):     description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":35,"product
+lib.h(205):     Name":"game of thrones","price":10000.0,"description":"My book","productStatus":"Active","
+lib.h(205):     managedImageId":"1245"},{"id":110,"productName":"game of thrones","price":10000.0,"descrip
+lib.h(205):     tion":"My book","productStatus":"Active","managedImageId":"1245"},{"id":50,"productName":"
+lib.h(205):     game of thrones","price":10000.0,"description":"My book","productStatus":"Active","managed
+lib.h(205):     ImageId":"1245"},{"id":80,"productName":"game of thrones","price":10000.0,"description":"M
+lib.h(205):     y book","productStatus":"Active","managedImageId":"1245"},{"id":43,"productName":"game of 
+lib.h(205):     thrones","price":10000.0,"description":"My book","productStatus":"Active","managedImageId"
+lib.h(205):     :"1245"},{"id":92,"productName":"game of thrones","price":10000.0,"description":"My book",
+lib.h(205):     "productStatus":"Active","managedImageId":"1245"},{"id":131,"productName":"game of thrones
+lib.h(205):     ","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"
+lib.h(205):     },{"id":44,"productName":"game of thrones","price":10000.0,"description":"My book","produc
+lib.h(205):     tStatus":"Active","managedImageId":"1245"},{"id":130,"productName":"game of thrones","pric
+lib.h(205):     e":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id"
+lib.h(205):     :93,"productName":"game of thrones","price":10000.0,"description":"My book","productStatus
+lib.h(205):     ":"Active","managedImageId":"1245"},{"id":62,"productName":"game of thrones","price":10000
+lib.h(205):     .0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":103,"pr
+lib.h(205):     oductName":"game of thrones","price":10000.0,"description":"My book","productStatus":"Acti
+lib.h(205):     ve","managedImageId":"1245"},{"id":128,"productName":"game of thrones","price":10000.0,"de
+lib.h(205):     scription":"My book","productStatus":"Active","managedImageId":"1245"},{"id":102,"productN
+lib.h(205):     ame":"game of thrones","price":10000.0,"description":"My book","productStatus":"Active","m
+lib.h(205):     anagedImageId":"1245"},{"id":64,"productName":"game of thrones","price":10000.0,"descripti
+lib.h(205):     on":"My book","productStatus":"Active","managedImageId":"1245"},{"id":95,"productName":"ga
+lib.h(205):     me of thrones","price":10000.0,"description":"My book","productStatus":"Active","managedIm
+lib.h(205):     ageId":"1245"},{"id":85,"productName":"game of thrones","price":10000.0,"description":"My 
+lib.h(205):     book","productStatus":"Active","managedImageId":"1245"},{"id":75,"productName":"game of th
+lib.h(205):     rones","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"
+lib.h(205):     1245"},{"id":53,"productName":"game of thrones","price":10000.0,"description":"My book","p
+lib.h(205):     roductStatus":"Active","managedImageId":"1245"},{"id":59,"productName":"game of thrones","
+lib.h(205):     price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{
+lib.h(205):     "id":72,"productName":"game of thrones","price":10000.0,"description":"My book","productSt
+lib.h(205):     atus":"Active","managedImageId":"1245"},{"id":45,"productName":"game of thrones","price":1
+lib.h(205):     0000.0,"description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":89,
+lib.h(205):     "productName":"game of thrones","price":10000.0,"description":"My book","productStatus":"A
+lib.h(205):     ctive","managedImageId":"1245"},{"id":54,"productName":"game of thrones","price":10000.0,"
+lib.h(205):     description":"My book","productStatus":"Active","managedImageId":"1245"},{"id":12,"product
+lib.h(205):     Name":"HP H2310 In-ear Headset","price":13.99,"description":"Enjoy an acoustic concert in 
+lib.h(205):     your ears with HP\xE2\x80\x99s In-Ear Headset H2310. Available in trend-setting design in 
+lib.h(205):     four color options and compatible with most smartphones, MP3 players and tablets \xE2\x80\x93
+lib.h(205):      including Android\xE2\x84\xA2 and Apple\xC2\xAE. Easily switch from jamming to tunes to c
+lib.h(205):     onnecting with friends using the inline microphone. Quality craftsmanship, value priced, a
+lib.h(205):     nd awesome sound.","productStatus":"Active","managedImageId":"2100"},{"id":119,"productNam
+lib.h(205):     e":"game of thrones","price":10000.0,"description":"My book","productStatus":"Active","man
+lib.h(205):     agedImageId":"1245"},{"id":55,"productName":"game of thrones","price":10000.0,"description
+lib.h(205):     ":"My book","productStatus":"Active","managedImageId":"1245"},{"id":68,"productName":"game
+lib.h(205):      of thrones","price":10000.0,"description":"My book","productStatus":"Active","managedImag
+lib.h(205):     eId":"1245"},{"id":98,"productName":"game of thrones","price":10000.0,"description":"My bo
+lib.h(205):     ok","productStatus":"Active","managedImageId":"1245"},{"id":127,"productName":"game of thr
+lib.h(205):     ones","price":10000.0,"description":"My book","productStatus":"Active","managedImageId":"1
+lib.h(205):     245"}]},{"categoryId":3,"categoryName":"TABLETS","managedImageId":"tablets","products":[{"
+lib.h(205):     id":17,"productName":"HP Elite x2 1011 G1 Tablet","price":1279.0,"description":"Ultrabook\xE2
+lib.h(205):     \x84\xA2[2] Power\\nPower up for ultimate power with Windows 8.1,[1] 5th Gen Intel\xC2\xAE
+lib.h(205):      Core\xE2\x84\xA2 M processors,[4] with optional vPro\xE2\x84\xA2[5] and long battery life
+lib.h(205):      provided by dual tablet and keyboard base batteries.","productStatus":"Active","managedIm
+lib.h(205):     ageId":"3200"},{"id":18,"productName":"HP Pro Tablet 608 G1","price":479.0,"description":"
+lib.h(205):     Transform your business with this small stylish business tablet equipped with a brilliant,
+lib.h(205):      high definition display and the pervasive connectivity to mobilize nearly any business pr
+lib.h(205):     ocess. Choose from an expansive choice of accessories[2] for a customized experience.","pr
+lib.h(205):     oductStatus":"Active","managedImageId":"3300"},{"id":16,"productName":"HP ElitePad 1000 G2
+lib.h(205):      Tablet","price":1009.0,"description":"More than a tablet\xE2\x80\x94a total business solu
+lib.h(205):     tion. The elegant and sleek HP ElitePad 1000 G2 has the performance and flexibility to tra
+lib.h(205):     nsform the way you work. Redefine productivity and stay light with the confidence of the l
+lib.h(205):     eading manageability, security, and support you expect from HP.","productStatus":"Active",
+lib.h(205):     "managedImageId":"3100"}]},{"categoryId":4,"categoryName":"SPEAKERS","managedImageId":"spe
+lib.h(205):     akers","products":[{"id":19,"productName":"HP S9500 Bluetooth Wireless Speaker","price":20
+lib.h(205):     0.0,"description":"Impress \xE2\x80\xA6 everyone! Futuristic design with perforated steel 
+lib.h(205):     formed into subtle angles. Requiring only minimal space, this speaker is the ideal complem
+lib.h(205):     ent to any setting.","productStatus":"Active","managedImageId":"4100"},{"id":24,"productNa
+lib.h(205):     me":"HP Roar Mini Wireless Speaker","price":44.99,"description":"Attention-getting design,
+lib.h(205):      color, and sound - the HP Roar Mini Wireless Speaker. Exceptional size-defying audio whil
+lib.h(205):     e streaming music and calls from a distinctively compact speaker.","productStatus":"Active
+lib.h(205):     ","managedImageId":"4600"},{"id":22,"productName":"HP Roar Wireless Speaker","price":84.99
+lib.h(205):     ,"description":"Showcase your music anywhere with the ease of wireless Bluetooth\xC2\xAE c
+lib.h(205):     onnectivity.","productStatus":"Active","managedImageId":"4400"},{"id":23,"productName":"Lo
+lib.h(205):     gitech X100 Speaker System - Wireless Speaker(s)","price":49.99,"description":"Pump up the
+lib.h(205):      volume and enjoy crystal-clear sound from this mobile speaker. This portable speaker is p
+lib.h(205):     erfect for life on-the-go. Take it on the road or relax and listen at home because this mo
+lib.h(205):     bile speaker goes everywhere. Simple, intuitive design lets you wirelessly connect and str
+lib.h(205):     eam music from your Bluetooth-enabled device from up to 30' away. Easily manage phone call
+lib.h(205):     s and volume control from your mobile phone. Enjoy five hours of continuous play before yo
+lib.h(205):     u need to recharge. Recharge the built-in, lithium-ion battery with the convenience of the
+lib.h(205):      included micro-USB cable.","productStatus":"Active","managedImageId":"4500"},{"id":20,"pr
+lib.h(205):     oductName":"Bose Soundlink Bluetooth Speaker III","price":269.99,"description":"Meet the s
+lib.h(205):     peaker that brings your music and friends together-with a style that's all your own. The S
+lib.h(205):     oundLink\xC2\xAE Bluetooth speaker III is our best-performing mobile Bluetooth speaker. It
+lib.h(205):      plays louder and longer than its popular predecessor, with advanced Bose\xC2\xAE technolo
+lib.h(205):     gies that reproduce the fullness, clarity and depth of your music. And a colorful assortme
+lib.h(205):     nt of optional covers let you personalize your speaker.","productStatus":"Active","managed
+lib.h(205):     ImageId":"4200"},{"id":21,"productName":"HP Roar Plus Wireless Speaker","price":169.99,"de
+lib.h(205):     scription":"Showcase your music anywhere with the ease of wireless Bluetooth\xC2\xAE conne
+lib.h(205):     ctivity.","productStatus":"Active","managedImageId":"4300"},{"id":25,"productName":"Bose S
+lib.h(205):     oundLink Wireless Speaker","price":129.0,"description":"If music is your motivation, wait 
+lib.h(205):     until you hear the SoundLink\xC2\xAE Color Bluetooth speaker. It plays your favorite tunes
+lib.h(205):      from your favorite Bluetooth device-out loud in clear, full audio-just about anywhere you
+lib.h(205):      want to go. It's small, durable and simple to use. And it comes in a spectrum of colors t
+lib.h(205):     o match almost any style.","productStatus":"Active","managedImageId":"4700"}]},{"categoryI
+lib.h(205):     d":5,"categoryName":"MICE","managedImageId":"mice","products":[{"id":32,"productName":"Ken
+lib.h(205):     sington Orbit 72337 Trackball with Scroll Ring","price":39.99,"description":"All-day comfo
+lib.h(205):     rt and scrolling come together in the Kensington Orbit Trackball with Scroll Ring. The scr
+lib.h(205):     oll ring allows you to fly through web pages and documents. And all while delivering comfo
+lib.h(205):     rt and space savings no mouse can match.","productStatus":"Active","managedImageId":"5700"
+lib.h(205):     },{"id":28,"productName":"HP Z3200 Wireless Mouse","price":29.99,"description":"The HP Wir
+lib.h(205):     eless Mouse Z3200 provides powerful Blue LED optical tracking. Its ambidextrous shape and 
+lib.h(205):     familiar button controls are easy to use. Compact contoured control.","productStatus":"Act
+lib.h(205):     ive","managedImageId":"5300"},{"id":31,"productName":"Logitech G502 Proteus Core","price":
+lib.h(205):     79.99,"description":"MAKE IT YOURS!\\nProteus Core perfectly tuned by you.\\nProteus Core 
+lib.h(205):     allows you to change the weight, balance, and enables you to adapt to wherever you choose 
+lib.h(205):     to play. Customize it to the way you game and make it yours!\\n\\nPERSONALLY-TUNED PERFORM
+lib.h(205):     ANCE\\nAdapts to your environment\\nFine tune the optical sensor in Proteus Core to your p
+lib.h(205):     laying surface for better accuracy, precision and responsiveness. A quick tuning process, 
+lib.h(205):     and you are battle ready.","productStatus":"Active","managedImageId":"5600"},{"id":26,"pro
+lib.h(205):     ductName":"Kensington Orbit 72352 Trackball","price":59.99,"description":"The Kensington O
+lib.h(205):     rbit Wireless Mobile Trackball offers a precise, compact and versatile experience with a c
+lib.h(205):     entered-ball design. With no wires to tie you down, the 2.4 GHz wireless with storable nan
+lib.h(205):     o receiver works wherever you do -- at your home or office. And the unique touch scrolling
+lib.h(205):      lets you glide effortlessly through web pages and documents.","productStatus":"Active","m
+lib.h(205):     anagedImageId":"5100"},{"id":29,"productName":"HP USB 3 Button Optical Mouse","price":9.99
+lib.h(205):     ,"description":"Smooth and Accurate - The HP USB 3-Button Optical Mouse is the affordable 
+lib.h(205):     desktop optical mouse solution that combines functionality with style","productStatus":"Ac
+lib.h(205):     tive","managedImageId":"5400"},{"id":30,"productName":"HP Z4000 Wireless Mouse","price":9.
+lib.h(205):     99,"description":"The sleek and low-profiled design make the Z4000 the must-have companion
+lib.h(205):      to every thin notebook or tablet. Style and comfort within a dynamic ult
+lib.h(205): t=124508ms: 1513-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories" (RelFrameId=1, Internal ID=47)
+lib.h(205):     ra-mobile wireless mouse.","productStatus":"Active","managedImageId":"5505"},{"id":33,"pro
+lib.h(205):     ductName":"HP Z8000 Bluetooth Mouse","price":50.99,"description":"The exquisite HP Z8000 B
+lib.h(205):     luetooth Mouse is only 18mm (.7in) height, saves power with Bluetooth\xC2\xAE Low Energy c
+lib.h(205):     onnectivity, and provides effortless capacitive touch control. The future is here.","produ
+lib.h(205):     ctStatus":"Active","managedImageId":"5800"},{"id":34,"productName":"Microsoft Sculpt Touch
+lib.h(205):      Mouse","price":49.99,"description":"Looking for a portable mouse that helps you get thing
+lib.h(205):     s done? Sculpt Touch Mouse saves time in long documents and works virtually anywhere, with
+lib.h(205):      no cables or transceivers to connect. And it's designed to fit comfortably in either hand
+lib.h(205):     .\\nThe four-way touch scrolling pad on the Sculpt Touch Mouse lets you breeze up and down
+lib.h(205):     , left and right, and through windows and documents with just the swipe of your finger. Wh
+lib.h(205):     ile you scroll, you'll feel the nice surprise of tactile feedback. Sculpt Touch Mouse is a
+lib.h(205):     lso a powerful complement to Windows 8, navigating fluidly and intuitively around the Star
+lib.h(205):     t Screen.\\n","productStatus":"Active","managedImageId":"5900"},{"id":27,"productName":"HP
+lib.h(205):      Z3600 Wireless Mouse","price":15.99,"description":"The tiny HP Wireless Mouse Z3600 provi
+lib.h(205):     des stylish comfort and control for your mobile computing needs. With optical tracking, 3 
+lib.h(205):     button controls, and the freedom to connect up to 30ft (10m) away, this compact mouse prov
+lib.h(205):     ides oversized performance.","productStatus":"Active","managedImageId":"5200"}]}]
+lib.h(205): t=124508ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories" (RelFrameId=1, Internal ID=47)
+lib.h(205): t=124508ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories"  	[MsgId: MMSG-26000]
+lib.h(205): web_url("categories") was successful, 5069 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(214): web_url("search") started  	[MsgId: MMSG-26355]
+lib.h(214): The request to server https://www.advantageonlineshopping.com/catalog/api/v1/deals/search?dealOfTheDay=true" is done with headers:
+lib.h(214):     :method = GET
+lib.h(214):     :scheme = https
+lib.h(214):     :path = /catalog/api/v1/deals/search?dealOfTheDay=true
+lib.h(214):     :authority = www.advantageonlineshopping.com
+lib.h(214):     Referer = https://www.advantageonlineshopping.com/
+lib.h(214):     Sec-Fetch-Dest = empty
+lib.h(214):     Sec-Fetch-Mode = cors
+lib.h(214):     Sec-Fetch-Site = same-origin
+lib.h(214):     DNT = 1
+lib.h(214):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(214):     0
+lib.h(214):     Accept-Encoding = gzip, deflate
+lib.h(214):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(214):     Accept = */*
+lib.h(214):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(214): t=125004ms: 375-byte response headers for "https://www.advantageonlineshopping.com/catalog/api/v1/deals/search?dealOfTheDay=true" (RelFrameId=1, Internal ID=48)
+lib.h(214):     HTTP/2.0 200\r\n
+lib.h(214):     Status: 200\r\n
+lib.h(214):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(214):     date: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(214):     content-type: application/json\r\n
+lib.h(214):     expires: 0\r\n
+lib.h(214):     cache-control: no-store\r\n
+lib.h(214):     x-content-type-options: nosniff\r\n
+lib.h(214):     x-xss-protection: 1; mode=block\r\n
+lib.h(214):     x-frame-options: DENY\r\n
+lib.h(214):     vary: accept-encoding\r\n
+lib.h(214):     content-encoding: gzip\r\n
+lib.h(214):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(214):     \r\n
+lib.h(214): t=125004ms: 341-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/deals/search?dealOfTheDay=true" (RelFrameId=1, Internal ID=48)
+lib.h(214): t=125004ms: 681-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/deals/search?dealOfTheDay=true" (RelFrameId=1, Internal ID=48)
+lib.h(214):     [{"id":1,"dealType":10,"description":"Redesigned with you in mind, the HP Pavilion keeps g
+lib.h(214):     etting better. Our best-selling notebook is now more powerful so you can watch more, play 
+lib.h(214):     more, and store more, all in style.","promotionHeader":"EXPLORE THE NEW DESIGN","promotion
+lib.h(214):     SubHeader":"Supremely thin, yet incredibly durable","staringPrice":"650","discount":0.0,"p
+lib.h(214):     roduct":{"id":3,"productName":"HP Pavilion 15z Touch Laptop","price":449.99,"description":
+lib.h(214):     "Redesigned with you in mind, the HP Pavilion keeps getting better. Our best-selling noteb
+lib.h(214):     ook is now more powerful so you can watch more, play more, and store more, all in style.",
+lib.h(214):     "productStatus":"Active","managedImageId":"1300"}}]
+lib.h(214): t=125005ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/deals/search?dealOfTheDay=true" (RelFrameId=1, Internal ID=48)
+lib.h(214): t=125005ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/deals/search?dealOfTheDay=true"  	[MsgId: MMSG-26000]
+lib.h(214): web_url("search") was successful, 351 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(223): web_url("popularProducts.json") started  	[MsgId: MMSG-26355]
+lib.h(223): The request to server https://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json" is done with headers:
+lib.h(223):     :method = GET
+lib.h(223):     :scheme = https
+lib.h(223):     :path = /app/tempFiles/popularProducts.json
+lib.h(223):     :authority = www.advantageonlineshopping.com
+lib.h(223):     Referer = https://www.advantageonlineshopping.com/
+lib.h(223):     Sec-Fetch-Dest = empty
+lib.h(223):     Sec-Fetch-Mode = cors
+lib.h(223):     Sec-Fetch-Site = same-origin
+lib.h(223):     DNT = 1
+lib.h(223):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(223):     0
+lib.h(223):     Accept-Encoding = gzip, deflate
+lib.h(223):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(223):     Accept = */*
+lib.h(223):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(223): t=125142ms: 413-byte response headers for "https://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json" (RelFrameId=1, Internal ID=49)
+lib.h(223):     HTTP/2.0 200\r\n
+lib.h(223):     Status: 200\r\n
+lib.h(223):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(223):     date: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(223):     content-type: application/json\r\n
+lib.h(223):     accept-ranges: bytes\r\n
+lib.h(223):     etag: W/"2323-1707902752000"\r\n
+lib.h(223):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(223):     cache-control: max-age=0\r\n
+lib.h(223):     expires: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(223):     vary: accept-encoding\r\n
+lib.h(223):     content-encoding: gzip\r\n
+lib.h(223):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(223):     \r\n
+lib.h(223): t=125142ms: 500-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json" (RelFrameId=1, Internal ID=49)
+lib.h(223): t=125142ms: 2323-byte DECODED response body for "https://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json" (RelFrameId=1, Internal ID=49)
+lib.h(223):     [{"id": 16,\n
+lib.h(223):       "productName": "HP ELITEPAD 1000 G2 TABLET",\n
+lib.h(223):       "price": 550,\n
+lib.h(223):       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",\n
+lib.h(223):       "imageUrl" : "css/images/Popular-item3.jpg",\n
+lib.h(223):       "attributes" : [\n
+lib.h(223):         {"attributeName" : "PRICE", "attributeValue" : 400},\n
+lib.h(223):         {"attributeName" : "COLOR", "attributeValue" : "FFFFFF"},\n
+lib.h(223):         {"attributeName" : "OPERATING SYSTEM", "attributeValue" : "Chrome"},\n
+lib.h(223):         {"attributeName" : "CUSTOMIZATION", "attributeValue" : "Gaming"},\n
+lib.h(223):         {"attributeName" : "PROCESSOR", "attributeValue" : "intel(R) Core(TM) i5-6300HQ"},\n
+lib.h(223):         {"attributeName" : "DISPLAY", "attributeValue" : "15.6-inch diagonal HD BrightView WLE
+lib.h(223):     D-backlit Display (1366x768)"},\n
+lib.h(223):         {"attributeName" : "MEMORY", "attributeValue" : "16GB DDR3 - 2 DIMM"}\n
+lib.h(223):       ]},{"id": 10,\n
+lib.h(223):       "productName": "HP EliteBook Folio",\n
+lib.h(223):       "price": 550,\n
+lib.h(223):       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",\n
+lib.h(223):       "imageUrl" : "css/images/Popular-item2.jpg",\n
+lib.h(223):       "attributes" : [\n
+lib.h(223):         {"attributeName" : "PRICE", "attributeValue" : 400},\n
+lib.h(223):         {"attributeName" : "COLOR", "attributeValue" : "FFFFFF"},\n
+lib.h(223):         {"attributeName" : "OPERATING SYSTEM", "attributeValue" : "Chrome"},\n
+lib.h(223):         {"attributeName" : "CUSTOMIZATION", "attributeValue" : "Gaming"},\n
+lib.h(223):         {"attributeName" : "PROCESSOR", "attributeValue" : "intel(R) Core(TM) i5-6300HQ"},\n
+lib.h(223):         {"attributeName" : "DISPLAY", "attributeValue" : "15.6-inch diagonal HD BrightView WLE
+lib.h(223):     D-backlit Display (1366x768)"},\n
+lib.h(223):         {"attributeName" : "MEMORY", "attributeValue" : "16GB DDR3 - 2 DIMM"}\n
+lib.h(223):       ]},\n
+lib.h(223):       {"id": 21,\n
+lib.h(223):         "productName": "HP ROAR PLUS WIRELESS SPEAKER",\n
+lib.h(223):         "price": 550,\n
+lib.h(223):         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",\n
+lib.h(223):         "imageUrl" : "css/images/Popular-item1.jpg",\n
+lib.h(223):         "attributes" : [\n
+lib.h(223):           {"attributeName" : "PRICE", "attributeValue" : 400},\n
+lib.h(223):           {"attributeName" : "COLOR", "attributeValue" : "FFFFFF"},\n
+lib.h(223):           {"attributeName" : "OPERATING SYSTEM", "attributeValue" : "Chrome"},\n
+lib.h(223):           {"attributeName" : "CUSTOMIZATION", "attributeValue" : "Gaming"},\n
+lib.h(223):           {"attributeName" : "PROCESSOR", "attributeValue" : "intel(R) Core(TM) i5-6300HQ"},\n
+lib.h(223):           {"attributeName" : "DISPLAY", "attributeValue" : "15.6-inch diagonal HD BrightView W
+lib.h(223):     LED-backlit Display (1366x768)"},\n
+lib.h(223):           {"attributeName" : "MEMORY", "attributeValue" : "16GB DDR3 - 2 DIMM"}\n
+lib.h(223):         ]}]
+lib.h(223): t=125142ms: Request done "https://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json"  	[MsgId: MMSG-26000]
+lib.h(223): web_url("popularProducts.json") was successful, 500 body bytes, 413 header bytes  	[MsgId: MMSG-26386]
+lib.h(232): web_url("home-page.html") started  	[MsgId: MMSG-26355]
+lib.h(232): The request to server https://www.advantageonlineshopping.com/app/views/home-page.html" is done with headers:
+lib.h(232):     :method = GET
+lib.h(232):     :scheme = https
+lib.h(232):     :path = /app/views/home-page.html
+lib.h(232):     :authority = www.advantageonlineshopping.com
+lib.h(232):     Referer = https://www.advantageonlineshopping.com/
+lib.h(232):     Sec-Fetch-Dest = empty
+lib.h(232):     Sec-Fetch-Mode = cors
+lib.h(232):     Sec-Fetch-Site = same-origin
+lib.h(232):     DNT = 1
+lib.h(232):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(232):     0
+lib.h(232):     Accept-Encoding = gzip, deflate
+lib.h(232):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(232):     Accept = */*
+lib.h(232):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+Action was aborted.	[MsgId: MMSG-10694]
+Action was aborted.	[MsgId: MMSG-10694]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Ending Vuser...	[MsgId: MMSG-15966]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser Terminated.	[MsgId: MMSG-15963]
+lib.h(549): t=125149ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+lib.h(549): t=125149ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+lib.h(362): t=125149ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+lib.h(549): t=125150ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+lib.h(549): t=125150ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+lib.h(362): t=125150ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 2 (thread 17848), ended OK."	[MsgId: MMSG-10695]
+Vuser 1 (thread 13948), ended OK."	[MsgId: MMSG-10695]
+Vuser 3 (thread 27652), ended OK."	[MsgId: MMSG-10695]
+lib.h(232): t=125280ms: 407-byte response headers for "https://www.advantageonlineshopping.com/app/views/home-page.html" (RelFrameId=1, Internal ID=50)
+lib.h(232):     HTTP/2.0 200\r\n
+lib.h(232):     Status: 200\r\n
+lib.h(232):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(232):     date: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(232):     content-type: text/html\r\n
+lib.h(232):     accept-ranges: bytes\r\n
+lib.h(232):     etag: W/"12499-1707902752000"\r\n
+lib.h(232):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(232):     cache-control: max-age=0\r\n
+lib.h(232):     expires: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(232):     vary: accept-encoding\r\n
+lib.h(232):     content-encoding: gzip\r\n
+lib.h(232):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(232):     \r\n
+lib.h(232): t=125280ms: 2243-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/home-page.html" (RelFrameId=1, Internal ID=50)
+lib.h(232): t=125280ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/home-page.html" (RelFrameId=1, Internal ID=50)
+lib.h(232):     <scroll-to-top></scroll-to-top>\n
+lib.h(232):     <section>\n
+lib.h(232):     \n
+lib.h(232):         <!--  five pictures  -->\n
+lib.h(232):         <article id="our_products">\n
+lib.h(232):     \n
+lib.h(232):             <search mobile-search></search>\n
+lib.h(232):     \n
+lib.h(232):             <div class="container ">\n
+lib.h(232):     \n
+lib.h(232):                 <div class="rowSection">\n
+lib.h(232):                     <div id="speakersImg" aria-label="SpeakersCategory" ng-click="redirect('/c
+lib.h(232):     ategory/' + categories[3].categoryName + '/' + categories[3].categoryId)"\n
+lib.h(232):                          role="link" href="javascript:void(0)"\n
+lib.h(232):                          class="SpeakersImg categoryCell"\n
+lib.h(232):                          a-sec-back-img="{{categories[3].managedImageId}}" a-slow-page="{{ mai
+lib.h(232):     nCtrl.config.slowPage }}" >\n
+lib.h(232):                         <div class="shop_now_slider">\n
+lib.h(232):                             <span id="speakersTxt" aria-label="SpeakersCategoryTxt" class="sho
+lib.h(232):     p_now roboto-bold" role="link" href="javascript:void(0)">{{::categories[3].categoryName | 
+lib.h(232):     uppercase}}</span>\n
+lib.h(232):                             <label id="speakersLink" class="shop_nowSub roboto-regular" transl
+lib.h(232):     ate="Shop_Now"></label>\n
+lib.h(232):                         </div>\n
+lib.h(232):                     </div>\n
+lib.h(232):                     <div id="tabletsImg" aria-label="TabletsCategory" ng-click="redirect('/cat
+lib.h(232):     egory/' + categories[2].categoryName + '/' + categories[2].categoryId)"\n
+lib.h(232):                          role="link" href="javascript:void(0)"\n
+lib.h(232):                          a-sec-back-img="{{categories[2].managedImageId}}" class="categoryCell
+lib.h(232):     ">\n
+lib.h(232):                         <div class="shop_now_slider" aria-label="TabletsCategoryTxt">\n
+lib.h(232):                             <span id="tabletsTxt" aria-label="TabletsCategoryTxt" class="shop_
+lib.h(232):     now roboto-bold" role="link" href="javascript:void(0)">{{::categories[2].categoryName | up
+lib.h(232):     percase}}</span>\n
+lib.h(232):                             <label id="tabletsLink" class="shop_nowSub roboto-regular" transla
+lib.h(232):     te="Shop_Now"></label>\n
+lib.h(232):                         </div>\n
+lib.h(232):                     </div>\n
+lib.h(232):                     <div class="emptyCell">\n
+lib.h(232):                     </div>\n
+lib.h(232):                 </div>\n
+lib.h(232):     \n
+lib.h(232):     \n
+lib.h(232):                 <div class="rowSection">\n
+lib.h(232):                     <div id="laptopsImg" aria-label="LaptopsCategory" ng-click="redirect('/cat
+lib.h(232):     egory/' + categories[0].categoryName + '/' + categories[0].categoryId)" class="laptopImg c
+lib.h(232):     ategoryCell"\n
+lib.h(232):                          role="link" href="javascript:void(0)"\n
+lib.h(232):                          a-sec-back-img="{{categories[0].managedImageId}}">\n
+lib.h(232):                         <div class="shop_now_slider">\n
+lib.h(232):                             <span id="laptopsTxt" aria-label="LaptopsCategoryTxt" class="shop_
+lib.h(232):     now roboto-bold" role="link" href="javascript:void(0)">{{::categories[0].categoryName | up
+lib.h(232):     percase}}</span>\n
+lib.h(232):                             <label id="laptopsLink" class="shop_nowSub roboto-regular" transla
+lib.h(232):     te="Shop_Now"></label>\n
+lib.h(232):                         </div>\n
+lib.h(232):                     </div>\n
+lib.h(232):                     <div id="miceImg" aria-label="MiceCategory" ng-click="redirect('/category/
+lib.h(232):     ' + categories[4].categoryName + '/' + categories[4].categoryId)" class="miceImg categoryC
+lib.h(232):     ell"\n
+lib.h(232):                          role="link" href="javascript:void(0)"\n
+lib.h(232):                          a-sec-back-img="{{categories[4].managedImageId}}">\n
+lib.h(232):                         <div class="shop_now_slider">\n
+lib.h(232):                             <span id="miceTxt" aria-label="MiceCategoryTxt" class="shop_now ro
+lib.h(232):     boto-bold" role="link" href="javascript:void(0)">{{::categories[4].categoryName | uppercas
+lib.h(232):     e}}</span>\n
+lib.h(232):                             <label id="miceLink" class="shop_nowSub roboto-regular" translate=
+lib.h(232):     "Shop_Now"></label>\n
+lib.h(232):                         </div>\n
+lib.h(232):                     </div>\n
+lib.h(232):                     <div id="headphonesImg" aria-label="HeadphonesCategory" ng-click="redirect
+lib.h(232):     ('/category/' + categories[1].categoryName + '/' + categories[1].categoryId)" class="twoRo
+lib.h(232):     ws categoryCell"\n
+lib.h(232):                          role="link" href="javascript:void(0)"\n
+lib.h(232):                          a-sec-back-img="{{categories[1].managedImageId}}">\n
+lib.h(232):                         <div class="shop_now_slider">\n
+lib.h(232):                             <span id="headphonesTxt" aria-label="HeadphonesCategoryTxt" class=
+lib.h(232):     "shop_now roboto-bold" role="link" href="javascript:void(0)">{{::categories[1].categoryNam
+lib.h(232):     e | uppercase}}</span>\n
+lib.h(232):                             <label id="headphonesLink" class="shop_nowSub roboto-regular" tran
+lib.h(232):     slate="Shop_Now"></label>\n
+lib.h(232):                         </div>\n
+lib.h(232):                     </div>\n
+lib.h(232):                 </div>\n
+lib.h(232):             </div>\n
+lib.h(232):         </article>\n
+lib.h(232):         <!-- end five pictures -->\n
+lib.h(232):     \n
+lib.h(232):     \n
+lib.h(232):         <!-- SPACIAL OFFER -->\n
+lib.h(232):         <article id="special_offer_items">\n
+lib.h(232):             <h3 class="roboto-regular center" translate="SPACIAL_OFFER"></h3>\n
+lib.h(232):             <div>\n
+lib.h(232):                 <div id="img-special-offer">\n
+lib.h(232):                     <figure>\n
+lib.h(232):                         <img src="css/images/Special-offer.jpg" alt="Special-offer">\n
+lib.h(232):                     </figure>\n
+lib.h(232):                 </div>\n
+lib.h(232):                 <div id="div-special-offer">\n
+lib.h(232):                     <div>\n
+lib.h(232):                         <span class="roboto-light"> {{specialOffer[0].promotionHeader}} </span
+lib.h(232):     >\n
+lib.h(232):     \n
+lib.h(232):                         <h1 class="roboto-thin"> {{specialOffer[0].product.productName}} </h1>
+lib.h(232):     \n
+lib.h(232):     \n
+lib.h(232):                         <p> {{specialOffer[0].promotionSubHeader}} </p>\n
+lib.h(232):                         <a href="#/product/{{specialOffer[0].product.id}}">\n
+lib.h(232):                             <button id="see_offer_btn" translate="SEE_OFFER" role="button"></b
+lib.h(232):     utton>\n
+lib.h(232):                         </a>\n
+lib.h(232):                     </div>\n
+lib.h(232):                 </div>\n
+lib.h(232):             </div>\n
+lib.h(232):         </article>\n
+lib.h(232):         <!-- end SPACIAL OFFER -->\n
+lib.h(232):     \n
+lib.h(232):     \n
+lib.h(232):         <!-- check directive -->\n
+lib.h(232):     \n
+lib.h(232):     \n
+lib.h(232):         <!-- slider -->\n
+lib.h(232):         <article id="slider_explore_now">\n
+lib.h(232):             <div class="slider">\n
+lib.h(232):                 <div class="slider-length transition">\n
+lib.h(232):                     <div ng-repeat="img in images" class="imgSection">\n
+lib.h(232):                         <div class="imgContainer">\n
+lib.h(232):                             <img data-ng-src="../../css/images/{{img.imageName}}"\n
+lib.h(232):                                  ng-click="redirect('/category/' + categories[img.categoryId].
+lib.h(232):     categoryId)"/>\n
+lib.h(232):                         </div>\n
+lib.h(232):                         <div class="container">\n
+lib.h(232):                             <h2 ng-bind-html='img.message | trustHtml' class="roboto-light"></
+lib.h(232):     h2>\n
+lib.h(232):                             <button name="explore_now_btn" ng-click="redirect('/category/' + c
+lib.h(232):     ategories[img.categoryId].categoryName + '/' + categories[img.categoryId].categoryId)"\n
+lib.h(232):                                     translate="EXPLORE_NOW" role="button"></button>\n
+lib.h(232):                         </div>\n
+lib.h(232):                     </div>\n
+lib.h(232):                     <div class="imgSection">\n
+lib.h(232):                         <div class="imgContainer">\n
+lib.h(232):                             <img data-ng-src="../../css/images/{{images[0].imageName}}"\n
+lib.h(232):                                  ng-click="redirect('/category/' + categories[img.categoryId].
+lib.h(232):     categoryName + '/' + categories[0].categoryId)"/>\n
+lib.h(232):                         </div>\n
+lib.h(232):                         <div class="container">\n
+lib.h(232):                             <h2 class="roboto-light">{{images[0].message}}</h2>\n
+lib.h(232):                             <button name="explore_now_btn" ng-click="redirect('/category/' + c
+lib.h(232):     ategories[img.categoryId].categoryName + '/' + categories[0].categoryId)"\n
+lib.h(232):                                     class="white" translate="EXPLORE_NOW" role="button"></butt
+lib.h(232):     on>\n
+lib.h(232):                         </div>\n
+lib.h(232):                     </div>\n
+lib.h(232):                 </div>\n
+lib.h(232):                 <div class="slider-steps">\n
+lib.h(232):                     <span href="javascript:void(0)" role="link"\n
+lib.h(232):                             ng-repeat="img in images" ng-class="{selected : ({{img.imageId ===
+lib.h(232):      0}})}"></span>\n
+lib.h(232):                 </div>\n
+lib.h(232):             </div>\n
+lib.h(232):         </article>\n
+lib.h(232):         <!-- end slider -->\n
+lib.h(232):     \n
+lib.h(232):     \n
+lib.h(232):         <!-- POPULAR ITEMS\n
+lib.h(232):         <popular-items-drtv popular-products="popularProducts"></popular-items-drtv>\n
+lib.h(232):         -->\n
+lib.h(232):     \n
+lib.h(232):         <article id="popular_items">\n
+lib.h(232):             <h3 class="roboto-regular center" translate="POPULAR_ITEMS"></h3>\n
+lib.h(232):     \n
+lib.h(232):             <div class="grid-table center">\n
+lib.h(232):                 <div name="popular_item_{{product.id}}" ng-repeat="product in popularProducts"
+lib.h(232):      ng-if="popularProducts.length > 0">\n
+lib.h(232):                     <figure>\n
+lib.h(232):                         <img name="popular_item_{{product.id}}_img" data-ng-src="{{product.ima
+lib.h(232):     geUrl}}" alt="Special-offer"\n
+lib.h(232):                             href="javascript:void(0)" role="link">\n
+lib.h(232):                     </figure>\n
+lib.h(232):                     <p name="popular_item_{{product.id}}_name" class="center productName robot
+lib.h(232):     o-medium">{{product.productName | uppercase}}</p>\n
+lib.h(232):                     <a href="#/product/{{product.id}}" role="link">\n
+lib.h(232):                         <label id="details_{{product.id}}" class="shop_nowSub viewDetail" tran
+lib.h(232):     slate="View_details"></label>\n
+lib.h(232):                     </a>\n
+lib.h(232):                 </div>\n
+lib.h(232):             </div>\n
+lib.h(232):         </article>\n
+lib.h(232):         <!-- end POPULAR ITEMS -->\n
+lib.h(232):     \n
+lib.h(232):     \n
+lib.h(232):         <article id="contact_us">\n
+lib.h(232):     \n
+lib.h(232):             <div data-ng-hide="supportSuccess">\n
+lib.h(232):     \n
+lib.h(232):                 <div id="supportCover">\n
+lib.h(232):     \n
+lib.h(232):                     <div>\n
+lib.h(232):     \n
+lib.h(232):                         <div name="chat_with_us" class="chat" data-ng-click="openChat()">\n
+lib.h(232):     \n
+lib.h(232):                             <div>\n
+lib.h(232):                                 <img id="chatLogo" src="../../css/images/chat_logo.png" alt="c
+lib.h(232):     hat logo" />\n
+lib.h(232):                                 <label class="roboto-bold" translate="CHAT_WITH_US"></label>\n
+lib.h(232):                             </div>\n
+lib.h(232):     \n
+lib.h(232):                         </div>\n
+lib.h(232):     \n
+lib.h(232):                     </div>\n
+lib.h(232):                     <div>\n
+lib.h(232):     \n
+lib.h(232):                         <h1 class="roboto-bold contact_us" translate="CONTACT_US"></h1>\n
+lib.h(232):     \n
+lib.h(232):                         <sec-form>\n
+lib.h(232):     \n
+lib.h(232):                             <div class="splitter">\n
+lib.h(232):                                 <div class="inputMargin">\n
+lib.h(232):                                     <sec-view a-hint="Category"\n
+lib.h(232):                                               a-hint-description="ContactUs"\n
+lib.h(232):                                               a-type="select"\n
+lib.h(232):                                               a-show="categoryName"\n
+lib.h(232):                                               sec-select-options="categoriesForContact"\n
+lib.h(232):                                               sec-model="categoriesForContact.category"\n
+lib.h(232):                                               sec-select-change="categoryChange(value)">\n
+lib.h(232):                                     </sec-view>\n
+lib.h(232):                                     <sec-view a-hint="Product"\n
+lib.h(232):                                               a-hint-description="ContactUs"\n
+lib.h(232):                                               a-type="select"\n
+lib.h(232):                                               a-show="productName"\n
+lib.h(232):                                               sec-select-options="productsForContact"\n
+lib.h(232):                                               sec-model="productsForContact.product"\n
+lib.h(232):                                               sec-select-change="productChange(value)">\n
+lib.h(232):                                     </sec-view>\n
+lib.h(232):                                     <sec-view a-hint="{{'Email' | translate}}"\n
+lib.h(232):                                               a-hint-description="ContactUs"\n
+lib.h(232):                                               sec-model="supportModel.email"\n
+lib.h(232):                                               sec-require="mainCtrl.getRequire('Email')">\n
+lib.h(232):                                     </sec-view>\n
+lib.h(232):                                 </div>\n
+lib.h(232):                             </div>\n
+lib.h(232):                             <div class="splitter" >\n
+lib.h(232):                                 <div class="smollPadding  margin-right">\n
+lib.h(232):                                     <label class="Subject"><span class="star">*</span> {{'Subj
+lib.h(232):     ect' | translate }}</label>\n
+lib.h(232):     \n
+lib.h(232):                                     <sec-view class="textarea"\n
+lib.h(232):                                               a-hint="subjectTextarea"\n
+lib.h(232):                                               a-hint-description="ContactUs"\n
+lib.h(232):                                               a-type="textarea"\n
+lib.h(232):                                               a-star="false"\n
+lib.h(232):                                               sec-model="supportModel.subject"\n
+lib.h(232):                                               sec-require="mainCtrl.getRequire('Email')">\n
+lib.h(232):                                     </sec-view>\n
+lib.h(232):     \n
+lib.h(232):                                     <sec-sender a-value="{{'SEND' | translate}}" sec-send="sen
+lib.h(232):     dSupportEmail()"></sec-sender>\n
+lib.h(232):     \n
+lib.h(232):                                 </div>\n
+lib.h(232):                             </div>\n
+lib.h(232):     \n
+lib.h(232):                             <label class="{{registerAnswer.class}} invalid center"> {{register
+lib.h(232):     Answer.message}} </label>\n
+lib.h(232):     \n
+lib.h(232):                         </sec-form>\n
+lib.h(232):                     </div>\n
+lib.h(232):                 </div>\n
+lib.h(232):             </div>\n
+lib.h(232):     \n
+lib.h(232):             <div id="registerSuccessCover" data-ng-show="supportSuccess">\n
+lib.h(232):                 <div class="center">\n
+lib.h(232):                     <p class="roboto-regular successMessage">{{ registerAnswer.message }}</p>\n
+lib.h(232):                     <br/>\n
+lib.h(232):                     <a class="a-button" href="#/" ng-click="continueShopping()" > {{ 'CONTINUE
+lib.h(232):     _SHOPPING' | translate}} </a>\n
+lib.h(232):                 </div>\n
+lib.h(232):             </div>\n
+lib.h(232):         </article>\n
+lib.h(232):         <div data-ng-if="mainCtrl.config.slowPage">\n
+lib.h(232):     \n
+lib.h(232):             <script href="" type="text/javascript"></script>\n
+lib.h(232):             <script href="" type="text/javascript"></script>\n
+lib.h(232):             <script href="" type="text/javascript"></script>\n
+lib.h(232):     \n
+lib.h(232):             <img src="" alt="">\n
+lib.h(232):             <img src="" alt=
+lib.h(232): Found resource "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" in HTML "https://www.advantageonlineshopping.com/app/views/home-page.html"  	[MsgId: MMSG-26659]
+lib.h(232): The request to server https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" is done with headers:
+lib.h(232):     :method = GET
+lib.h(232):     :scheme = https
+lib.h(232):     :path = /app/views/css/images/Special-offer.jpg
+lib.h(232):     :authority = www.advantageonlineshopping.com
+lib.h(232):     Referer = https://www.advantageonlineshopping.com/app/views/home-page.html
+lib.h(232):     Sec-Fetch-Dest = empty
+lib.h(232):     Sec-Fetch-Mode = cors
+lib.h(232):     Sec-Fetch-Site = same-origin
+lib.h(232):     DNT = 1
+lib.h(232):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(232):     0
+lib.h(232):     Accept-Encoding = gzip, deflate
+lib.h(232):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(232):     Accept = */*
+lib.h(232):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(232): Found resource "https://www.advantageonlineshopping.com/css/images/chat_logo.png" in HTML "https://www.advantageonlineshopping.com/app/views/home-page.html"  	[MsgId: MMSG-26659]
+lib.h(232): The request to server https://www.advantageonlineshopping.com/css/images/chat_logo.png" is done with headers:
+lib.h(232):     :method = GET
+lib.h(232):     :scheme = https
+lib.h(232):     :path = /css/images/chat_logo.png
+lib.h(232):     :authority = www.advantageonlineshopping.com
+lib.h(232):     Referer = https://www.advantageonlineshopping.com/app/views/home-page.html
+lib.h(232):     Sec-Fetch-Dest = empty
+lib.h(232):     Sec-Fetch-Mode = cors
+lib.h(232):     Sec-Fetch-Site = same-origin
+lib.h(232):     DNT = 1
+lib.h(232):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(232):     0
+lib.h(232):     Accept-Encoding = gzip, deflate
+lib.h(232):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(232):     Accept = */*
+lib.h(232):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(232): Found resource "https://www.advantageonlineshopping.com/app/views/" in HTML "https://www.advantageonlineshopping.com/app/views/home-page.html"  	[MsgId: MMSG-26659]
+lib.h(232): The request to server https://www.advantageonlineshopping.com/app/views/" is done with headers:
+lib.h(232):     :method = GET
+lib.h(232):     :scheme = https
+lib.h(232):     :path = /app/views/
+lib.h(232):     :authority = www.advantageonlineshopping.com
+lib.h(232):     Referer = https://www.advantageonlineshopping.com/app/views/home-page.html
+lib.h(232):     Sec-Fetch-Dest = empty
+lib.h(232):     Sec-Fetch-Mode = cors
+lib.h(232):     Sec-Fetch-Site = same-origin
+lib.h(232):     DNT = 1
+lib.h(232):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(232):     0
+lib.h(232):     Accept-Encoding = gzip, deflate
+lib.h(232):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(232):     Accept = */*
+lib.h(232):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(232): t=125284ms: 211-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/home-page.html" (RelFrameId=1, Internal ID=50)
+lib.h(232):     "">\n
+lib.h(232):             <img src="" alt="">\n
+lib.h(232):             <img src="" alt="">\n
+lib.h(232):             <img src="" alt="">\n
+lib.h(232):             <img src="" alt="">\n
+lib.h(232):             <img src="" alt="">\n
+lib.h(232):     \n
+lib.h(232):         </div>\n
+lib.h(232):     \n
+lib.h(232):     </section>\n
+lib.h(232):     \n
+lib.h(232):     \n
+lib.h(232):     \n
+lib.h(232):     <social-media-drtv></social-media-drtv>\n
+lib.h(232): t=125284ms: Request done "https://www.advantageonlineshopping.com/app/views/home-page.html"  	[MsgId: MMSG-26000]
+lib.h(232): t=125422ms: 321-byte response headers for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" (RelFrameId=, Internal ID=51)
+lib.h(232):     HTTP/2.0 404\r\n
+lib.h(232):     Status: 404\r\n
+lib.h(232):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(232):     date: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(232):     content-type: text/html;charset=utf-8\r\n
+lib.h(232):     cache-control: max-age=0\r\n
+lib.h(232):     expires: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(232):     content-language: ru\r\n
+lib.h(232):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(232):     content-encoding: gzip\r\n
+lib.h(232):     \r\n
+lib.h(232): t=125422ms: 517-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" (RelFrameId=, Internal ID=51)
+lib.h(232): t=125422ms: 825-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg" (RelFrameId=, Internal ID=51)
+lib.h(232):     <!doctype html><html lang="ru"><head><title>HTTP Status 404 \xE2\x80\x93 \xD0\x9D\xD0\xB5 
+lib.h(232):     \xD0\xBD\xD0\xB0\xD0\xB9\xD0\xB4\xD0\xB5\xD0\xBD\xD0\xBE</title><style type="text/css">bod
+lib.h(232):     y {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D
+lib.h(232):     76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a 
+lib.h(232):     {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><bod
+lib.h(232):     y><h1>HTTP Status 404 \xE2\x80\x93 \xD0\x9D\xD0\xB5 \xD0\xBD\xD0\xB0\xD0\xB9\xD0\xB4\xD0\xB5
+lib.h(232):     \xD0\xBD\xD0\xBE</h1><hr class="line" /><p><b>Type</b> Status Report</p><p><b>Message</b> 
+lib.h(232):     The requested resource [&#47;app&#47;views&#47;css&#47;images&#47;Special-offer.jpg] is no
+lib.h(232):     t available</p><p><b>Description</b> The origin server did not find a current representati
+lib.h(232):     on for the target resource or is not willing to disclose that one exists.</p><hr class="li
+lib.h(232):     ne" /><h3>Apache Tomcat/9.0.65</h3></body></html>
+lib.h(232): Warning -26627: HTTP Status-Code=404 (Not Found) for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg"  	[MsgId: MWAR-26627]
+lib.h(232): t=125422ms: Request done "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg"  	[MsgId: MMSG-26000]
+lib.h(232): t=125554ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/chat_logo.png" (RelFrameId=, Internal ID=52)
+lib.h(232):     HTTP/2.0 200\r\n
+lib.h(232):     Status: 200\r\n
+lib.h(232):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(232):     date: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(232):     content-type: image/png\r\n
+lib.h(232):     content-length: 3003\r\n
+lib.h(232):     accept-ranges: bytes\r\n
+lib.h(232):     etag: W/"3003-1707902752000"\r\n
+lib.h(232):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(232):     cache-control: max-age=864000\r\n
+lib.h(232):     expires: Sat, 23 Mar 2024 21:33:42 GMT\r\n
+lib.h(232):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(232):     \r\n
+lib.h(232): t=125554ms: 3003-byte response body for "https://www.advantageonlineshopping.com/css/images/chat_logo.png" (RelFrameId=, Internal ID=52)
+lib.h(232): t=125554ms: Request done "https://www.advantageonlineshopping.com/css/images/chat_logo.png"  	[MsgId: MMSG-26000]
+lib.h(232): t=125554ms: 321-byte response headers for "https://www.advantageonlineshopping.com/app/views/" (RelFrameId=, Internal ID=53)
+lib.h(232):     HTTP/2.0 404\r\n
+lib.h(232):     Status: 404\r\n
+lib.h(232):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(232):     date: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(232):     content-type: text/html;charset=utf-8\r\n
+lib.h(232):     cache-control: max-age=0\r\n
+lib.h(232):     expires: Wed, 13 Mar 2024 21:33:42 GMT\r\n
+lib.h(232):     content-language: ru\r\n
+lib.h(232):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(232):     content-encoding: gzip\r\n
+lib.h(232):     \r\n
+lib.h(232): t=125554ms: 496-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/" (RelFrameId=, Internal ID=53)
+lib.h(232): t=125554ms: 789-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/" (RelFrameId=, Internal ID=53)
+lib.h(232):     <!doctype html><html lang="ru"><head><title>HTTP Status 404 \xE2\x80\x93 \xD0\x9D\xD0\xB5 
+lib.h(232):     \xD0\xBD\xD0\xB0\xD0\xB9\xD0\xB4\xD0\xB5\xD0\xBD\xD0\xBE</title><style type="text/css">bod
+lib.h(232):     y {font-family:Tahoma,Arial,sans-serif;} h1, h2, h3, b {color:white;background-color:#525D
+lib.h(232):     76;} h1 {font-size:22px;} h2 {font-size:16px;} h3 {font-size:14px;} p {font-size:12px;} a 
+lib.h(232):     {color:black;} .line {height:1px;background-color:#525D76;border:none;}</style></head><bod
+lib.h(232):     y><h1>HTTP Status 404 \xE2\x80\x93 \xD0\x9D\xD0\xB5 \xD0\xBD\xD0\xB0\xD0\xB9\xD0\xB4\xD0\xB5
+lib.h(232):     \xD0\xBD\xD0\xBE</h1><hr class="line" /><p><b>Type</b> Status Report</p><p><b>Message</b> 
+lib.h(232):     The requested resource [&#47;app&#47;views&#47;] is not available</p><p><b>Description</b>
+lib.h(232):      The origin server did not find a current representation for the target resource or is not
+lib.h(232):      willing to disclose that one exists.</p><hr class="line" /><h3>Apache Tomcat/9.0.65</h3><
+lib.h(232):     /body></html>
+lib.h(232): Warning -26627: HTTP Status-Code=404 (Not Found) for "https://www.advantageonlineshopping.com/app/views/"  	[MsgId: MWAR-26627]
+lib.h(232): t=125555ms: Request done "https://www.advantageonlineshopping.com/app/views/"  	[MsgId: MMSG-26000]
+lib.h(232): web_url("home-page.html") highest severity level was "warning", 6259 body bytes, 1435 header bytes  	[MsgId: MMSG-26388]
+lib.h(241): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 3,1136 Wasted Time: 0,0004).	[MsgId: MMSG-16871]
+lib.h(579): Notify: Transaction "LogIn" started.	[MsgId: MMSG-16999]
+lib.h(581): web_reg_find started  	[MsgId: MMSG-26355]
+lib.h(581): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+lib.h(583): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+lib.h(583): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+lib.h(590): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+lib.h(590): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+lib.h(598): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+lib.h(598): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
+lib.h(598): "Origin: https://www.advantageonlineshopping.com" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(598): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+lib.h(601): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+lib.h(601): "SOAPAction: com.advantage.online.store.accountserviceAccountLoginRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(601): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+lib.h(604): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+lib.h(604): An unrecognized header ("X-Requested-With") is being added  	[MsgId: MMSG-26595]
+lib.h(604): "X-Requested-With: XMLHttpRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(604): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+lib.h(607): lr_think_time: 11,00 seconds.	[MsgId: MMSG-15948]
+lib.h(609): web_custom_request("AccountLoginRequest") started  	[MsgId: MMSG-26355]
+lib.h(609): Notify: Parameter Substitution: parameter "Email" =  "s.johnson@example.com"	[MsgId: MMSG-13992]
+lib.h(609): Notify: Parameter Substitution: parameter "Pass" =  "Sarah456"	[MsgId: MMSG-13992]
+lib.h(609): Notify: Parameter Substitution: parameter "Login" =  "s.johnson"	[MsgId: MMSG-13992]
+lib.h(609): The request to server https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest" is done with headers:
+lib.h(609):     :method = POST
+lib.h(609):     :scheme = https
+lib.h(609):     :path = /accountservice/ws/AccountLoginRequest
+lib.h(609):     :authority = www.advantageonlineshopping.com
+lib.h(609):     Content-Type = text/xml; charset=UTF-8
+lib.h(609):     Referer = https://www.advantageonlineshopping.com/
+lib.h(609):     Origin = https://www.advantageonlineshopping.com
+lib.h(609):     SOAPAction = com.advantage.online.store.accountserviceAccountLoginRequest
+lib.h(609):     X-Requested-With = XMLHttpRequest
+lib.h(609):     Sec-Fetch-Dest = empty
+lib.h(609):     Sec-Fetch-Mode = cors
+lib.h(609):     Sec-Fetch-Site = same-origin
+lib.h(609):     DNT = 1
+lib.h(609):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(609):     0
+lib.h(609):     Accept-Encoding = gzip, deflate
+lib.h(609):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(609):     Accept = */*
+lib.h(609):     content-length = 446
+lib.h(609):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(609): The request to server "https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest" is done with body:
+lib.h(609):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
+lib.h(609):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
+lib.h(609):     www.w3.org/2001/XMLSchema"><soap:Body><AccountLoginRequest xmlns="com.advantage.online.sto
+lib.h(609):     re.accountservice"><email>s.johnson@example.com</email><loginPassword>Sarah456</loginPassw
+lib.h(609):     ord><loginUser>s.johnson</loginUser></AccountLoginRequest></soap:Body></soap:Envelope>
+lib.h(609): t=136873ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest" (RelFrameId=1, Internal ID=54)
+lib.h(609):     HTTP/2.0 200\r\n
+lib.h(609):     Status: 200\r\n
+lib.h(609):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(609):     date: Wed, 13 Mar 2024 21:33:54 GMT\r\n
+lib.h(609):     content-type: text/xml;charset=utf-8\r\n
+lib.h(609):     content-length: 409\r\n
+lib.h(609):     x-content-type-options: nosniff\r\n
+lib.h(609):     x-xss-protection: 1; mode=block\r\n
+lib.h(609):     cache-control: no-store\r\n
+lib.h(609):     pragma: no-cache\r\n
+lib.h(609):     expires: 0\r\n
+lib.h(609):     x-frame-options: DENY\r\n
+lib.h(609):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+lib.h(609):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+lib.h(609):     access-control-max-age: 3600\r\n
+lib.h(609):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+lib.h(609):     ion\r\n
+lib.h(609):     access-control-allow-origin: *\r\n
+lib.h(609):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+lib.h(609):     soapaction: ""\r\n
+lib.h(609):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(609):     \r\n
+lib.h(609): t=136873ms: 409-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest" (RelFrameId=1, Internal ID=54)
+lib.h(609):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+lib.h(609):     ader/><SOAP-ENV:Body><ns2:AccountLoginResponse xmlns:ns2="com.advantage.online.store.accou
+lib.h(609):     ntservice"><ns2:StatusMessage><ns2:success>false</ns2:success><ns2:userId>-1</ns2:userId><
+lib.h(609):     ns2:reason>Incorrect user name or password.</ns2:reason></ns2:StatusMessage></ns2:AccountL
+lib.h(609):     oginResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+lib.h(609): Notify: Saving Parameter "UserID = -1".	[MsgId: MMSG-13798]
+lib.h(609): t=136873ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest"  	[MsgId: MMSG-26000]
+lib.h(609): Error -26366: "Text=<ns2:reason>Login Successful</ns2:reason>" not found for web_reg_find  	[MsgId: MERR-26366] [Time:2024-03-14 00:33:51]
+lib.h(609): Error -26377: No match found for the requested parameter "t_authorization". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 409 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377] [Time:2024-03-14 00:33:51]
+lib.h(609): Notify: Saving Parameter "t_authorization = ".	[MsgId: MMSG-13798]
+lib.h(609): web_custom_request("AccountLoginRequest") highest severity level was "ERROR", 409 body bytes, 735 header bytes  	[MsgId: MMSG-26388]
+lib.h(609): Notify: Transaction "LogIn" ended with a "Fail" status (Duration: 11,3187 Think Time: 11,0010 Wasted Time: 0,0001).	[MsgId: MMSG-16870]
+lib.h(609): Notify: Transaction "LogIn" has 2 error message(s).	[MsgId: MMSG-16818]
+lib.h(609): Notify: The 1st error message associated with transaction "LogIn" is "Error -26366: "Text=<ns2:reason>Login Successful</ns2:reason>" not found for web_reg_find"	[MsgId: MMSG-16819]
+lib.h(609): Notify: The 2nd error message associated with transaction "LogIn" is "Error -26377: No match found for the requested parameter "t_authorization". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 409 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+lib.h(609): Notify: Transaction "UC1_Buy" ended with a "Fail" status (Duration: 14,4324 Think Time: 11,0010 Wasted Time: 0,0005).	[MsgId: MMSG-16870]
+lib.h(609): Notify: Transaction "UC1_Buy" has 2 error message(s).	[MsgId: MMSG-16818]
+lib.h(609): Notify: The 1st error message associated with transaction "UC1_Buy" is "Error -26366: "Text=<ns2:reason>Login Successful</ns2:reason>" not found for web_reg_find"	[MsgId: MMSG-16819]
+lib.h(609): Notify: The 2nd error message associated with transaction "UC1_Buy" is "Error -26377: No match found for the requested parameter "t_authorization". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 409 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+lib.h(609): t=136874ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+lib.h(609): t=136874ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 8724), ended OK."	[MsgId: MMSG-10695]

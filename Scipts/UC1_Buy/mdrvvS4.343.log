@@ -1,0 +1,60 @@
+lib.h(362):     Content-Type = application/x-www-form-urlencoded
+lib.h(362):     Referer = https://www.advantageonlineshopping.com/
+lib.h(362):     Origin = https://www.advantageonlineshopping.com
+lib.h(362):     Sec-Fetch-Dest = empty
+lib.h(362):     Sec-Fetch-Mode = cors
+lib.h(362):     Sec-Fetch-Site = same-origin
+lib.h(362):     DNT = 1
+lib.h(362):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(362):     0
+lib.h(362):     Accept-Encoding = gzip, deflate
+lib.h(362):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(362):     Accept = */*
+lib.h(362):     content-length = 25
+lib.h(362):     cookie = JSESSIONID=F3C26811A84ED9E491E09FF56C530BF2; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(362):     roductsInCart%22%3A%5B%5D%7D
+lib.h(362): The request to server "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" is done with body:
+lib.h(362):     sessionId=%7BsessionId%7D
+lib.h(362): t=2794401ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362):     HTTP/2.0 401\r\n
+lib.h(362):     Status: 401\r\n
+lib.h(362):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(362):     date: Fri, 15 Mar 2024 14:34:26 GMT\r\n
+lib.h(362):     content-type: application/json\r\n
+lib.h(362):     access-control-allow-credentials: true\r\n
+lib.h(362):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
+lib.h(362):     vary: origin,accept-encoding\r\n
+lib.h(362):     expires: 0\r\n
+lib.h(362):     cache-control: no-store\r\n
+lib.h(362):     x-content-type-options: nosniff\r\n
+lib.h(362):     x-xss-protection: 1; mode=block\r\n
+lib.h(362):     x-frame-options: DENY\r\n
+lib.h(362):     content-encoding: gzip\r\n
+lib.h(362):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(362):     \r\n
+lib.h(362): t=2794401ms: 48-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362): t=2794402ms: 32-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362):     {"userId":0,"productsInCart":[]}
+lib.h(362): t=2794402ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362): Error -26630: HTTP Status-Code=401 (Unauthorized) for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1"  	[MsgId: MERR-26630] [Time:2024-03-15 17:34:25]
+lib.h(362): t=2794402ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1"  	[MsgId: MMSG-26000]
+lib.h(362): Error -26366: "Text="userId":690980838," not found for web_reg_find  	[MsgId: MERR-26366] [Time:2024-03-15 17:34:25]
+lib.h(362): web_submit_data("{UserId}") highest severity level was "ERROR", 58 body bytes, 492 header bytes  	[MsgId: MMSG-26388]
+lib.h(362): Notify: Transaction "AddToCart" ended with a "Fail" status (Duration: 0,3774 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+lib.h(362): Notify: Transaction "AddToCart" has 2 error message(s).	[MsgId: MMSG-16818]
+lib.h(362): Notify: The 1st error message associated with transaction "AddToCart" is "Error -26630: HTTP Status-Code=401 (Unauthorized) for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1""	[MsgId: MMSG-16819]
+lib.h(362): Notify: The 2nd error message associated with transaction "AddToCart" is "Error -26366: "Text="userId":690980838," not found for web_reg_find"	[MsgId: MMSG-16819]
+lib.h(362): Notify: Transaction "UC1_Buy" ended with a "Fail" status (Duration: 38,8991 Think Time: 26,0044 Wasted Time: 0,0010).	[MsgId: MMSG-16870]
+lib.h(362): Notify: Transaction "UC1_Buy" has 2 error message(s).	[MsgId: MMSG-16818]
+lib.h(362): Notify: The 1st error message associated with transaction "UC1_Buy" is "Error -26630: HTTP Status-Code=401 (Unauthorized) for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1""	[MsgId: MMSG-16819]
+lib.h(362): Notify: The 2nd error message associated with transaction "UC1_Buy" is "Error -26366: "Text="userId":690980838," not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+lib.h(362): t=2794403ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+lib.h(362): t=2794403ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 7 (thread 18444), ended OK."	[MsgId: MMSG-10695]

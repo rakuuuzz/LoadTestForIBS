@@ -6,91 +6,91 @@
                 "stepId": "STEP1",
                 "stepName": "Url: www.advantageonlineshopping.com",
                 "infFile": "t1.inf",
-                "time": 1710245995345
+                "time": 1710518128946
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: ALL",
                 "infFile": "t2.inf",
-                "time": 1710245995528
+                "time": 1710518129137
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Custom Request: GetAccountConfigurationRequest",
                 "infFile": "t3.inf",
-                "time": 1710245995857
+                "time": 1710518129454
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Url: categories",
                 "infFile": "t4.inf",
-                "time": 1710245996350
+                "time": 1710518129984
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Url: search",
                 "infFile": "t5.inf",
-                "time": 1710245996824
+                "time": 1710518130652
             },
             {
                 "stepId": "STEP6",
                 "stepName": "Url: popularProducts.json",
                 "infFile": "t6.inf",
-                "time": 1710245996981
+                "time": 1710518130801
             },
             {
                 "stepId": "STEP7",
                 "stepName": "Url: home-page.html",
                 "infFile": "t7.inf",
-                "time": 1710245997423
+                "time": 1710518131222
             },
             {
                 "stepId": "STEP8",
                 "stepName": "Custom Request: AccountLoginRequest",
                 "infFile": "t8.inf",
-                "time": 1710246008864
+                "time": 1710518142643
             },
             {
                 "stepId": "STEP9",
                 "stepName": "Url: {UserID}",
                 "infFile": "t9.inf",
-                "time": 1710246010950
+                "time": 1710518147786
             },
             {
                 "stepId": "STEP10",
                 "stepName": "Custom Request: AccountLogoutRequest",
                 "infFile": "t10.inf",
-                "time": 1710246021353
+                "time": 1710518158193
             }
         ],
         "transactions": [
             {
                 "transactionName": "HomePage",
-                "rawStartTime": 1710245994114,
-                "rawEndTime": 1710245997423,
+                "rawStartTime": 1710518127811,
+                "rawEndTime": 1710518131222,
                 "thinkTime": 0.0,
-                "wastedTime": 0.08529281616210938
+                "wastedTime": 0.07315611839294434
             },
             {
                 "transactionName": "LogIn",
-                "rawStartTime": 1710245997426,
-                "rawEndTime": 1710246010951,
-                "thinkTime": 11.001189,
-                "wastedTime": 0.008556127548217774
+                "rawStartTime": 1710518131224,
+                "rawEndTime": 1710518147786,
+                "thinkTime": 11.001442,
+                "wastedTime": 0.005580902099609375
             },
             {
                 "transactionName": "LogOut",
-                "rawStartTime": 1710246015956,
-                "rawEndTime": 1710246021354,
-                "thinkTime": 5.000382,
-                "wastedTime": 0.004339694976806641
+                "rawStartTime": 1710518152792,
+                "rawEndTime": 1710518158193,
+                "thinkTime": 5.00139,
+                "wastedTime": 0.0032041072845458986
             },
             {
                 "transactionName": "UC3_Login",
-                "rawStartTime": 1710245994109,
-                "rawEndTime": 1710246026359,
-                "thinkTime": 26.000805,
-                "wastedTime": 0.09818863868713379
+                "rawStartTime": 1710518127805,
+                "rawEndTime": 1710518163200,
+                "thinkTime": 26.005670000000003,
+                "wastedTime": 0.08194112777709961
             }
         ]
     }

@@ -1,0 +1,436 @@
+lib.h(330):     buteValue":"Intel\xC2\xAE Atom\xE2\x84\xA2 x5-Z8500 with Intel HD Graphics (1.44 GHz, up t
+lib.h(330):     o 2.24 GHz using Intel Burst Technology, 2 MB cache, 4 cores)"},{"attributeName":"GRAPHICS
+lib.h(330):     ","attributeValue":"Intel\xC2\xAE HD Graphics"}],"colors":[{"code":"414141","name":"BLACK"
+lib.h(330):     ,"inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF##3300","ABC
+lib.h(330):     DEF##3301","ABCDEF##3302","ABCDEF##3303"],"productStatus":"Active"}],"colors":["414141","C
+lib.h(330):     3C3C3"]}
+lib.h(330): t=30056ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/3/products" (RelFrameId=1, Internal ID=22)
+lib.h(330): t=30056ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories/3/products"  	[MsgId: MMSG-26000]
+lib.h(330): web_url("products_2") was successful, 1461 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(339): web_url("product-page.html") started  	[MsgId: MMSG-26355]
+lib.h(339): The request to server https://www.advantageonlineshopping.com/app/views/product-page.html" is done with headers:
+lib.h(339):     :method = GET
+lib.h(339):     :scheme = https
+lib.h(339):     :path = /app/views/product-page.html
+lib.h(339):     :authority = www.advantageonlineshopping.com
+lib.h(339):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(339):     Referer = https://www.advantageonlineshopping.com/
+lib.h(339):     Sec-Fetch-Dest = empty
+lib.h(339):     Sec-Fetch-Mode = cors
+lib.h(339):     Sec-Fetch-Site = same-origin
+lib.h(339):     DNT = 1
+lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(339):     0
+lib.h(339):     Accept-Encoding = gzip, deflate
+lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(339):     Accept = */*
+lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(339): t=30211ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
+lib.h(339):     HTTP/2.0 200\r\n
+lib.h(339):     Status: 200\r\n
+lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(339):     date: Fri, 15 Mar 2024 13:16:55 GMT\r\n
+lib.h(339):     content-type: text/html\r\n
+lib.h(339):     accept-ranges: bytes\r\n
+lib.h(339):     etag: W/"8805-1707902752000"\r\n
+lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(339):     cache-control: max-age=0\r\n
+lib.h(339):     expires: Fri, 15 Mar 2024 13:16:55 GMT\r\n
+lib.h(339):     vary: accept-encoding\r\n
+lib.h(339):     content-encoding: gzip\r\n
+lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(339):     \r\n
+lib.h(339): t=30212ms: 2360-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
+lib.h(339): t=30212ms: 8805-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
+lib.h(339):     <nav class="pages fixedImportant productImage">\n
+lib.h(339):         <a translate="HOME" href="/#"></a>\n
+lib.h(339):         <a href\n
+lib.h(339):            ng-click="redirect('/category/' + breadCrumbCategoryName + '/' + product.categoryId
+lib.h(339):     )"> {{categoryName}} </a>\n
+lib.h(339):         <a class="select">{{::product.productName | uppercase}}</a>\n
+lib.h(339):     </nav>\n
+lib.h(339):     \n
+lib.h(339):     <section>\n
+lib.h(339):         <article class="max-width ">\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):             <!-- mobile description section  -->\n
+lib.h(339):     \n
+lib.h(339):             <div id="mobileDescription" class="screen480">\n
+lib.h(339):                 <h1 class="roboto-regular"> {{::product.productName | uppercase}} </h1>\n
+lib.h(339):     \n
+lib.h(339):                 <h2 class="roboto-thin"> {{::product.price | currency:'$'}}\n
+lib.h(339):                     <span class="roboto-medium" data-ng-show="product.productStatus == 'OutOfS
+lib.h(339):     tock'" translate="SOUL_OUT"></span>\n
+lib.h(339):                 </h2>\n
+lib.h(339):             </div>\n
+lib.h(339):     \n
+lib.h(339):             <!-- end mobile description section -->\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):             <!-- image section -->\n
+lib.h(339):     \n
+lib.h(339):             <div id="product_2">\n
+lib.h(339):                 <div id="product-section" class="half">\n
+lib.h(339):     \n
+lib.h(339):                     <div class="reviews" ng-if="mostPopularComments.length > 0">\n
+lib.h(339):                         <div class="rightArrow">\n
+lib.h(339):                             <img src="../../css/images/review_right.png" data-ng-click="nextRe
+lib.h(339):     view()" />\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <div class="reviewsCover">\n
+lib.h(339):                             <div data-ng-repeat="comment in mostPopularComments track by $inde
+lib.h(339):     x">\n
+lib.h(339):                                 <p class="score roboto-regular">{{comment.score}}</p>\n
+lib.h(339):                                 <label class="reviewsTitle roboto-medium">{{comment.title}}</l
+lib.h(339):     abel>\n
+lib.h(339):                                 <p class="reviewsCount roboto-regular">{{comment.reviewsCount}
+lib.h(339):     } {{ 'reviews'| translate}}</p>\n
+lib.h(339):                                 <p class="reviewsComment roboto-light">{{comment.comment}}</p>
+lib.h(339):     \n
+lib.h(339):                                 <div class="reviewBottom roboto-regular">\n
+lib.h(339):                                     <img src="../../css/images/reviewUser.png"/>\n
+lib.h(339):                                     {{comment.name}}\n
+lib.h(339):                                 </div>\n
+lib.h(339):                             </div>\n
+lib.h(339):                         </div>\n
+lib.h(339):     \n
+lib.h(339):                         <div class="leftArrow">\n
+lib.h(339):                             <img src="../../css/images/review_Left_disabled.png" data-ng-click
+lib.h(339):     ="previousReview()" />\n
+lib.h(339):                         </div>\n
+lib.h(339):                     </div>\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):                     <figure>\n
+lib.h(339):                         <img alt="" id="mainImg" ng-src="/catalog/fetchImage?image_id={{imageU
+lib.h(339):     rl | getImageId}}">\n
+lib.h(339):                     </figure>\n
+lib.h(339):                     <div id="coverImages" ng-show="imagesArray.length > 1">\n
+lib.h(339):                         <div id="lengthAllImages"> <!--regular font-->\n
+lib.h(339):                             <div class="imageAlias" data-ng-click="changeImage(img)"\n
+lib.h(339):                                  data-ng-repeat="img in imagesArray">\n
+lib.h(339):                                 <img alt="" data-ng-src="/catalog/fetchImage?image_id={{img | 
+lib.h(339):     getImageId}}">\n
+lib.h(339):                             </div>\n
+lib.h(339):                         </div>\n
+lib.h(339):                     </div>\n
+lib.h(339):                 </div>\n
+lib.h(339):                 <div id="Description" class="half">\n
+lib.h(339):                     <h1 class="roboto-regular screen768"> {{::product.productName | uppercase}
+lib.h(339):     } </h1>\n
+lib.h(339):     \n
+lib.h(339):                     <h2 class="roboto-thin screen768"> {{product.price | currency:'$'}}\n
+lib.h(339):                     <span class="roboto-medium" data-ng-show="product.productStatus == 'OutOfS
+lib.h(339):     tock'" translate="SOUL_OUT"></span>\n
+lib.h(339):                     </h2>\n
+lib.h(339):     \n
+lib.h(339):                     <p class="roboto-light"> {{::product.description }} </p>\n
+lib.h(339):     \n
+lib.h(339):                     <div id="productProperties">\n
+lib.h(339):                         <div class="colors" ng-if="product.colors.length > 0">\n
+lib.h(339):                             <h2 translate="Color" class="Colors roboto-light" class="roboto-li
+lib.h(339):     ght"></h2>\n
+lib.h(339):                             <!--If you are confused by the classes 'bunny rabbit' read this->-
+lib.h(339):     ->\n
+lib.h(339):                             <!--Testing issue over here. Since there are two identical element
+lib.h(339):     s here  'leanFT ' gets confused, this is the reason for this classes.-->\n
+lib.h(339):                             <div ng-show="!firstImageToShow">\n
+lib.h(339):                                 <span title="{{color.name}}"\n
+lib.h(339):                                       id="rabbit"\n
+lib.h(339):                                       data-ng-repeat="color in [] | sortArrayByColorName:produ
+lib.h(339):     ct.colors"\n
+lib.h(339):                                       class="rabbit productColor"\n
+lib.h(339):                                       data-ng-hide="color.code == 'ABCDEF'" data-ng-style="col
+lib.h(339):     or.code == 'FFFFFF' ?\n
+lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
+lib.h(339):     'solid 1px #9d9d9d' } :\n
+lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
+lib.h(339):     'solid 1px transparent'}"\n
+lib.h(339):                                       data-ng-class='{ colorSelected : colorSelected.name == c
+lib.h(339):     olor.name , {{color.name}} : colorSelected.name} '\n
+lib.h(339):                                       data-ng-click="setColor(color)">\n
+lib.h(339):                                 </span>\n
+lib.h(339):                             </div>\n
+lib.h(339):                             <div ng-show="firstImageToShow">\n
+lib.h(339):                                 <span title="{{color.name}}"\n
+lib.h(339):                                       id="bunny"\n
+lib.h(339):                                       data-ng-repeat="color in colors"\n
+lib.h(339):                                       class="bunny productColor"\n
+lib.h(339):                                       data-ng-hide="color.code == 'ABCDEF'" data-ng-style="col
+lib.h(339):     or.code == 'FFFFFF' ?\n
+lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
+lib.h(339):     'solid 1px #9d9d9d' } :\n
+lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
+lib.h(339):     'solid 1px transparent'}"\n
+lib.h(339):                                       data-ng-class='{ colorSelected : colorSelected.name == c
+lib.h(339):     olor.name , {{color.name}} : colorSelected.name} '\n
+lib.h(339):                                       data-ng-click="setColor(color, $event)">\n
+lib.h(339):                                 </span>\n
+lib.h(339):                             </div>\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <div class="smoolMargin">\n
+lib.h(339):                             <label class="Quantity roboto-light" translate="Quantity:"></label
+lib.h(339):     >\n
+lib.h(339):                             <e-sec-plus-minus num-attr="quantity" a-disable="product.productSt
+lib.h(339):     atus == 'OutOfStock'"></e-sec-plus-minus>\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <div class="option notPromotionCheckbox" data-ng-show="warrantyPropert
+lib.h(339):     ies.enableWarranty && product.categoryId == 1">\n
+lib.h(339):                             <input style="z-index: 999;top:8px" name="purchase_warranty" data-
+lib.h(339):     ng-model="warrantyCheckbox" type="checkbox"\n
+lib.h(339):                                    data-ng-click="addWarrenty()">\n
+lib.h(339):                             <label style="top:-5px" class="Quantity roboto-light ng-scope" tra
+lib.h(339):     nslate="add_warranty"></label>\n
+lib.h(339):                             <svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+lib.h(339):      xmlns:xlink="http://www.w3.org/1999/xlink"  width="24px" height="24px" x="0px" y="0px"\n
+lib.h(339):                                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:spa
+lib.h(339):     ce="preserve">\n
+lib.h(339):     <path fill="#666666" d="M8,14.4c-3.5,0-6.4-2.9-6.4-6.4S4.5,1.6,8,1.6s6.4,2.9,6.4,6.4S11.5,
+lib.h(339):     14.4,8,14.4z M8,0C3.6,0,0,3.6,0,8\n
+lib.h(339):     \ts3.6,8,8,8s8-3.6,8-8S12.4,0,8,0z M7,7h2v5H7V7z M7,6V4h2v2H7z"/>\n
+lib.h(339):     </svg>                        <h2 style="    float: right;top: -3px;padding: 0; font-size:
+lib.h(339):      20px;" class="roboto-thin screen768 ng-binding">{{::warrantyPrice | currency:'$'}}</h2>\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <div class="fixedBtn">\n
+lib.h(339):                             <button name="save_to_cart" class="roboto-medium" role="button"\n
+lib.h(339):                                     data-ng-class='{ disable : product.productStatus == "OutOf
+lib.h(339):     Stock" } '\n
+lib.h(339):                                     translate="ADD_TO_CART"\n
+lib.h(339):                                     data-ng-click="addToCart(product.productStatus == 'OutOfSt
+lib.h(339):     ock')">\n
+lib.h(339):                                 <div class="fixedBtn" data-ng-if="pageState != 'edit'">\n
+lib.h(339):                                     <span translate="ADD_TO_CART"></span>\n
+lib.h(339):                                 </div>\n
+lib.h(339):                                 <div class="fixedBtn" data-ng-if="pageState == 'edit'">\n
+lib.h(339):                                     <span translate="UPDATE_CART"></span>\n
+lib.h(339):                                 </div>\n
+lib.h(339):                             </button>\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <label data-ng-class="message._class"> {{message.text}}</label>\n
+lib.h(339):                     </div>\n
+lib.h(339):                 </div>\n
+lib.h(339):             </div>\n
+lib.h(339):     \n
+lib.h(339):         </article>\n
+lib.h(339):         <!--data-ng-class="{ topSpace : product.images.length > 1 }"-->\n
+lib.h(339):         <div id="separator"></div>\n
+lib.h(339):     \n
+lib.h(339):         <article ng-if="showVideo" class="max-width" data-ng-switch="haveInternet" >\n
+lib.h(339):             <div ng-bind-html="srcV1">\n
+lib.h(339):             </div>\n
+lib.h(339):         </article>\n
+lib.h(339):     \n
+lib.h(339):         <article class="max-width " >\n
+lib.h(339):             <h2 class="roboto-regular product_specifications" translate="PRODUCT_SPECIFICATION
+lib.h(339):     S"></h2>\n
+lib.h(339):     \n
+lib.h(339):             <div class="roboto-light list" ng-repeat="attr in product_attributes">\n
+lib.h(339):                 <label class="attr">{{ attr.attributeName | uppercase}}</label>\n
+lib.h(339):                 <label class="value">{{ attr.attributeValue }}</label>\n
+lib.h(339):             </div>\n
+lib.h(339):         </article>\n
+lib.h(339):     \n
+lib.h(339):     </section>\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     <social-media-drtv></social-media-drtv>\n
+lib.h(339):     \n
+lib.h(339):     <div class="trickProductBtn"></div>\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339): Found resource "https://www.advantageonlineshopping.com/css/images/review_right.png" in HTML "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26659]
+lib.h(339): The request to server https://www.advantageonlineshopping.com/css/images/review_right.png" is done with headers:
+lib.h(339):     :method = GET
+lib.h(339):     :scheme = https
+lib.h(339):     :path = /css/images/review_right.png
+lib.h(339):     :authority = www.advantageonlineshopping.com
+lib.h(339):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(339):     Referer = https://www.advantageonlineshopping.com/app/views/product-page.html
+lib.h(339):     Sec-Fetch-Dest = empty
+lib.h(339):     Sec-Fetch-Mode = cors
+lib.h(339):     Sec-Fetch-Site = same-origin
+lib.h(339):     DNT = 1
+lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(339):     0
+lib.h(339):     Accept-Encoding = gzip, deflate
+lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(339):     Accept = */*
+lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(339): Found resource "https://www.advantageonlineshopping.com/css/images/reviewUser.png" in HTML "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26659]
+lib.h(339): The request to server https://www.advantageonlineshopping.com/css/images/reviewUser.png" is done with headers:
+lib.h(339):     :method = GET
+lib.h(339):     :scheme = https
+lib.h(339):     :path = /css/images/reviewUser.png
+lib.h(339):     :authority = www.advantageonlineshopping.com
+lib.h(339):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(339):     Referer = https://www.advantageonlineshopping.com/app/views/product-page.html
+lib.h(339):     Sec-Fetch-Dest = empty
+lib.h(339):     Sec-Fetch-Mode = cors
+lib.h(339):     Sec-Fetch-Site = same-origin
+lib.h(339):     DNT = 1
+lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(339):     0
+lib.h(339):     Accept-Encoding = gzip, deflate
+lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(339):     Accept = */*
+lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(339): Found resource "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" in HTML "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26659]
+lib.h(339): The request to server https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" is done with headers:
+lib.h(339):     :method = GET
+lib.h(339):     :scheme = https
+lib.h(339):     :path = /css/images/review_Left_disabled.png
+lib.h(339):     :authority = www.advantageonlineshopping.com
+lib.h(339):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(339):     Referer = https://www.advantageonlineshopping.com/app/views/product-page.html
+lib.h(339):     Sec-Fetch-Dest = empty
+lib.h(339):     Sec-Fetch-Mode = cors
+lib.h(339):     Sec-Fetch-Site = same-origin
+lib.h(339):     DNT = 1
+lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(339):     0
+lib.h(339):     Accept-Encoding = gzip, deflate
+lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(339):     Accept = */*
+lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(339): t=30214ms: Request done "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26000]
+lib.h(339): t=30354ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=24)
+lib.h(339):     HTTP/2.0 200\r\n
+lib.h(339):     Status: 200\r\n
+lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(339):     date: Fri, 15 Mar 2024 13:16:56 GMT\r\n
+lib.h(339):     content-type: image/png\r\n
+lib.h(339):     content-length: 1075\r\n
+lib.h(339):     accept-ranges: bytes\r\n
+lib.h(339):     etag: W/"1075-1707902752000"\r\n
+lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(339):     cache-control: max-age=864000\r\n
+lib.h(339):     expires: Mon, 25 Mar 2024 13:16:56 GMT\r\n
+lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(339):     \r\n
+lib.h(339): t=30354ms: 1075-byte response body for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=24)
+lib.h(339): t=30354ms: Request done "https://www.advantageonlineshopping.com/css/images/review_right.png"  	[MsgId: MMSG-26000]
+lib.h(339): t=30491ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=25)
+lib.h(339):     HTTP/2.0 200\r\n
+lib.h(339):     Status: 200\r\n
+lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(339):     date: Fri, 15 Mar 2024 13:16:56 GMT\r\n
+lib.h(339):     content-type: image/png\r\n
+lib.h(339):     content-length: 1542\r\n
+lib.h(339):     accept-ranges: bytes\r\n
+lib.h(339):     etag: W/"1542-1707902752000"\r\n
+lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(339):     cache-control: max-age=864000\r\n
+lib.h(339):     expires: Mon, 25 Mar 2024 13:16:56 GMT\r\n
+lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(339):     \r\n
+lib.h(339): t=30491ms: 1542-byte response body for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=25)
+lib.h(339): t=30491ms: Request done "https://www.advantageonlineshopping.com/css/images/reviewUser.png"  	[MsgId: MMSG-26000]
+lib.h(339): t=30492ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=26)
+lib.h(339):     HTTP/2.0 200\r\n
+lib.h(339):     Status: 200\r\n
+lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(339):     date: Fri, 15 Mar 2024 13:16:56 GMT\r\n
+lib.h(339):     content-type: image/png\r\n
+lib.h(339):     content-length: 1087\r\n
+lib.h(339):     accept-ranges: bytes\r\n
+lib.h(339):     etag: W/"1087-1707902752000"\r\n
+lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(339):     cache-control: max-age=864000\r\n
+lib.h(339):     expires: Mon, 25 Mar 2024 13:16:56 GMT\r\n
+lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(339):     \r\n
+lib.h(339): t=30492ms: 1087-byte response body for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=26)
+lib.h(339): t=30492ms: Request done "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png"  	[MsgId: MMSG-26000]
+lib.h(339): web_url("product-page.html") was successful, 6064 body bytes, 1564 header bytes  	[MsgId: MMSG-26386]
+lib.h(348): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+lib.h(348): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
+lib.h(348): "Origin: https://www.advantageonlineshopping.com" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(348): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+lib.h(351): Notify: Transaction "ChooseProduct" ended with a "Pass" status (Duration: 2,6262 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+Action.c(19): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+lib.h(358): Notify: Transaction "AddToCart" started.	[MsgId: MMSG-16999]
+lib.h(360): web_reg_find started  	[MsgId: MMSG-26355]
+lib.h(360): Notify: Parameter Substitution: parameter "UserID" =  "690980838"	[MsgId: MMSG-13992]
+lib.h(360): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+lib.h(362): web_submit_data("{UserId}") started  	[MsgId: MMSG-26355]
+lib.h(362): Notify: Parameter Substitution: parameter "UserID" =  "690980838"	[MsgId: MMSG-13992]
+lib.h(362): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "17"	[MsgId: MMSG-13992]
+lib.h(362): Notify: Parameter Substitution: parameter "ColorId" =  "414141"	[MsgId: MMSG-13992]
+lib.h(362): Warning: The string 'sessionId' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+lib.h(362): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" is done with headers:
+lib.h(362):     :method = POST
+lib.h(362):     :scheme = https
+lib.h(362):     :path = /order/api/v1/carts/690980838/product/17/color/414141?quantity=1
+lib.h(362):     :authority = www.advantageonlineshopping.com
+lib.h(362):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(362):     Content-Type = application/x-www-form-urlencoded
+lib.h(362):     Referer = https://www.advantageonlineshopping.com/
+lib.h(362):     Origin = https://www.advantageonlineshopping.com
+lib.h(362):     Sec-Fetch-Dest = empty
+lib.h(362):     Sec-Fetch-Mode = cors
+lib.h(362):     Sec-Fetch-Site = same-origin
+lib.h(362):     DNT = 1
+lib.h(362):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(362):     0
+lib.h(362):     Accept-Encoding = gzip, deflate
+lib.h(362):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(362):     Accept = */*
+lib.h(362):     content-length = 25
+lib.h(362):     cookie = JSESSIONID=6EEC88168C15839B94B4060F327334C8; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(362):     roductsInCart%22%3A%5B%5D%7D
+lib.h(362): The request to server "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" is done with body:
+lib.h(362):     sessionId=%7BsessionId%7D
+lib.h(362): t=35861ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362):     HTTP/2.0 401\r\n
+lib.h(362):     Status: 401\r\n
+lib.h(362):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(362):     date: Fri, 15 Mar 2024 13:17:01 GMT\r\n
+lib.h(362):     content-type: application/json\r\n
+lib.h(362):     access-control-allow-credentials: true\r\n
+lib.h(362):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
+lib.h(362):     vary: origin,accept-encoding\r\n
+lib.h(362):     expires: 0\r\n
+lib.h(362):     cache-control: no-store\r\n
+lib.h(362):     x-content-type-options: nosniff\r\n
+lib.h(362):     x-xss-protection: 1; mode=block\r\n
+lib.h(362):     x-frame-options: DENY\r\n
+lib.h(362):     content-encoding: gzip\r\n
+lib.h(362):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(362):     \r\n
+lib.h(362): t=35861ms: 58-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362): t=35861ms: 32-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(362):     {"userId":0,"productsInCart":[]}
+lib.h(362): Error -26630: HTTP Status-Code=401 (Unauthorized) for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1"  	[MsgId: MERR-26630] [Time:2024-03-15 16:17:00]
+lib.h(362): t=35861ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1"  	[MsgId: MMSG-26000]
+lib.h(362): Error -26366: "Text="userId":690980838," not found for web_reg_find  	[MsgId: MERR-26366] [Time:2024-03-15 16:17:00]
+lib.h(362): web_submit_data("{UserId}") highest severity level was "ERROR", 58 body bytes, 492 header bytes  	[MsgId: MMSG-26388]
+lib.h(362): Notify: Transaction "AddToCart" ended with a "Fail" status (Duration: 0,3696 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+lib.h(362): Notify: Transaction "AddToCart" has 2 error message(s).	[MsgId: MMSG-16818]
+lib.h(362): Notify: The 1st error message associated with transaction "AddToCart" is "Error -26630: HTTP Status-Code=401 (Unauthorized) for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1""	[MsgId: MMSG-16819]
+lib.h(362): Notify: The 2nd error message associated with transaction "AddToCart" is "Error -26366: "Text="userId":690980838," not found for web_reg_find"	[MsgId: MMSG-16819]
+lib.h(362): Notify: Transaction "UC5_Delete_From_Cart" ended with a "Fail" status (Duration: 35,7160 Think Time: 26,0031 Wasted Time: 0,0008).	[MsgId: MMSG-16870]
+lib.h(362): Notify: Transaction "UC5_Delete_From_Cart" has 2 error message(s).	[MsgId: MMSG-16818]
+lib.h(362): Notify: The 1st error message associated with transaction "UC5_Delete_From_Cart" is "Error -26630: HTTP Status-Code=401 (Unauthorized) for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/17/color/414141?quantity=1""	[MsgId: MMSG-16819]
+lib.h(362): Notify: The 2nd error message associated with transaction "UC5_Delete_From_Cart" is "Error -26366: "Text="userId":690980838," not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 1.	[MsgId: MMSG-15965]
+Waiting 46,2840 seconds for iteration pacing.	[MsgId: MMSG-15996]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+lib.h(362): t=42894ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+lib.h(362): t=42894ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 25700), ended OK."	[MsgId: MMSG-10695]

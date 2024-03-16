@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="3">
-  <HTTPTask id="7" hostname="www.advantageonlineshopping.com" path="/accountservice/ws/GetAccountConfigurationRequest" url="https://www.advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest" ip="54.227.55.203" port="443" client_ip="192.168.1.36" client_port="38749" connectionId="2472" origin="Primary" encodingType="ANSI" startDateTime="2024-03-12T15:22:27.892+03:00" startTime="1523" endTime="1826" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="0" waitTime="301" receiveTime="1825" sslNegotiateTime="-1" responseBodySize="1323">
+  <HTTPTask id="7" hostname="www.advantageonlineshopping.com" path="/accountservice/ws/GetAccountConfigurationRequest" url="https://www.advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest" ip="54.227.55.203" port="443" client_ip="192.168.1.36" client_port="34186" connectionId="2440" origin="Primary" encodingType="ANSI" startDateTime="2024-03-15T18:58:00.942+03:00" startTime="1532" endTime="1836" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="0" waitTime="302" receiveTime="1835" sslNegotiateTime="-1" responseBodySize="1323">
     <HTTPRequest method="POST">
       <HTTPHeaders>
         <HTTPHeaderEntity name=":method" index="0">
@@ -209,7 +209,7 @@
         <HTTPHeaderEntity name="date" index="2">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>VHVlLCAxMiBNYXIgMjAyNCAxMjoyMjoyOCBHTVQ=</ActualData>
+              <ActualData>RnJpLCAxNSBNYXIgMjAyNCAxNTo1ODowMiBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -345,7 +345,7 @@
         <HTTPAllHeaders>
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>SFRUUC8yLjAgMjAwDQpTdGF0dXM6IDIwMA0Kc2VydmVyOiBuZ2lueC8xLjE4LjAgKFVidW50dSkNCmRhdGU6IFR1ZSwgMTIgTWFyIDIwMjQgMTI6MjI6MjggR01UDQpjb250ZW50LXR5cGU6IHRleHQveG1sO2NoYXJzZXQ9dXRmLTgNCmNvbnRlbnQtbGVuZ3RoOiA4MjMNCngtY29udGVudC10eXBlLW9wdGlvbnM6IG5vc25pZmYNCngteHNzLXByb3RlY3Rpb246IDE7IG1vZGU9YmxvY2sNCmNhY2hlLWNvbnRyb2w6IG5vLXN0b3JlDQpwcmFnbWE6IG5vLWNhY2hlDQpleHBpcmVzOiAwDQp4LWZyYW1lLW9wdGlvbnM6IERFTlkNCmFjY2Vzcy1jb250cm9sLXJlcXVlc3QtbWV0aG9kOiBQT1NULCBHRVQsIE9QVElPTlMsIERFTEVURQ0KYWNjZXNzLWNvbnRyb2wtYWxsb3ctbWV0aG9kczogUE9TVCwgR0VULCBPUFRJT05TLCBERUxFVEUNCmFjY2Vzcy1jb250cm9sLW1heC1hZ2U6IDM2MDANCmFjY2Vzcy1jb250cm9sLWFsbG93LWhlYWRlcnM6IE9yaWdpbiwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2NlcHQsIEtleSwgc29hcGFjdGlvbg0KYWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luOiAqDQphY2NlcHQ6IHRleHQveG1sLCB0ZXh0L2h0bWwsIGltYWdlL2dpZiwgaW1hZ2UvanBlZywgKjsgcT0uMiwgKi8qOyBxPS4yDQpzb2FwYWN0aW9uOiAiIg0Kc3RyaWN0LXRyYW5zcG9ydC1zZWN1cml0eTogbWF4LWFnZT0zMTUzNjAwMDsgaW5jbHVkZVN1YkRvbWFpbnM7IHByZWxvYWQNCg0K</ActualData>
+              <ActualData>SFRUUC8yLjAgMjAwDQpTdGF0dXM6IDIwMA0Kc2VydmVyOiBuZ2lueC8xLjE4LjAgKFVidW50dSkNCmRhdGU6IEZyaSwgMTUgTWFyIDIwMjQgMTU6NTg6MDIgR01UDQpjb250ZW50LXR5cGU6IHRleHQveG1sO2NoYXJzZXQ9dXRmLTgNCmNvbnRlbnQtbGVuZ3RoOiA4MjMNCngtY29udGVudC10eXBlLW9wdGlvbnM6IG5vc25pZmYNCngteHNzLXByb3RlY3Rpb246IDE7IG1vZGU9YmxvY2sNCmNhY2hlLWNvbnRyb2w6IG5vLXN0b3JlDQpwcmFnbWE6IG5vLWNhY2hlDQpleHBpcmVzOiAwDQp4LWZyYW1lLW9wdGlvbnM6IERFTlkNCmFjY2Vzcy1jb250cm9sLXJlcXVlc3QtbWV0aG9kOiBQT1NULCBHRVQsIE9QVElPTlMsIERFTEVURQ0KYWNjZXNzLWNvbnRyb2wtYWxsb3ctbWV0aG9kczogUE9TVCwgR0VULCBPUFRJT05TLCBERUxFVEUNCmFjY2Vzcy1jb250cm9sLW1heC1hZ2U6IDM2MDANCmFjY2Vzcy1jb250cm9sLWFsbG93LWhlYWRlcnM6IE9yaWdpbiwgWC1SZXF1ZXN0ZWQtV2l0aCwgQ29udGVudC1UeXBlLCBBY2NlcHQsIEtleSwgc29hcGFjdGlvbg0KYWNjZXNzLWNvbnRyb2wtYWxsb3ctb3JpZ2luOiAqDQphY2NlcHQ6IHRleHQveG1sLCB0ZXh0L2h0bWwsIGltYWdlL2dpZiwgaW1hZ2UvanBlZywgKjsgcT0uMiwgKi8qOyBxPS4yDQpzb2FwYWN0aW9uOiAiIg0Kc3RyaWN0LXRyYW5zcG9ydC1zZWN1cml0eTogbWF4LWFnZT0zMTUzNjAwMDsgaW5jbHVkZVN1YkRvbWFpbnM7IHByZWxvYWQNCg0K</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
