@@ -1,114 +1,270 @@
-lib.h(330):     {"categoryId":5,"categoryName":"MICE","categoryImageId":"mice","promotedProduct":{"id":28,
-lib.h(330):     "staringPrice":"29.99","promotionHeader":"DISCOVER OUR WIRELESS MICE","promotionSubHeader"
-lib.h(330):     :"designed to work and ready to play","productName":"HP Z3200 Wireless Mouse","price":29.9
-lib.h(330):     9,"description":"The HP Wireless Mouse Z3200 provides powerful Blue LED optical tracking. 
-lib.h(330):     Its ambidextrous shape and familiar button controls are easy to use. Compact contoured con
-lib.h(330):     trol.","imageUrl":"5300","attributes":[{"attributeName":"SENSOR RESOLUTION","attributeValu
-lib.h(330):     e":"1600 dpi optical sensor"},{"attributeName":"CONNECTOR","attributeValue":"Wireless"},{"
-lib.h(330):     attributeName":"SCROLLER TYPE","attributeValue":"Scroll Wheel"},{"attributeName":"MANUFACT
-lib.h(330):     URER","attributeValue":"HP"},{"attributeName":"TYPE","attributeValue":"Mouse"}]},"attribut
-lib.h(330):     es":[{"attributeName":"CONNECTOR","attributeValues":["Wireless","USB Cord","Bluetooth\xC2\xAE
-lib.h(330):     "]},{"attributeName":"SENSOR RESOLUTION","attributeValues":["1000 dpi optical sensor","N/A
-lib.h(330):     ","1600 dpi","1600 dpi optical sensor","1000 dpi"]},{"attributeName":"TYPE","attributeValu
-lib.h(330):     es":["Trackball","Mouse"]},{"attributeName":"MANUFACTURER","attributeValues":["Logitech","
-lib.h(330):     HP","Microsoft","Kensington"]},{"attributeName":"SCROLLER TYPE","attributeValues":["Scroll
-lib.h(330):      Whell","Scroll Ball","Scroll Wheel","Touch Scroll","Scroll Ring"]}],"products":[{"product
-lib.h(330):     Id":29,"categoryId":5,"productName":"HP USB 3 Button Optical Mouse","price":9.99,"descript
-lib.h(330):     ion":"Smooth and Accurate - The HP USB 3-Button Optical Mouse is the affordable desktop op
-lib.h(330):     tical mouse solution that combines functionality with style","imageUrl":"5400","attributes
-lib.h(330):     ":[{"attributeName":"MANUFACTURER","attributeValue":"HP"},{"attributeName":"SENSOR RESOLUT
-lib.h(330):     ION","attributeValue":"1000 dpi optical sensor"},{"attributeName":"CONNECTOR","attributeVa
-lib.h(330):     lue":"USB Cord"},{"attributeName":"TYPE","attributeValue":"Mouse"},{"attributeName":"SCROL
-lib.h(330):     LER TYPE","attributeValue":"Scroll Whell"}],"colors":[{"code":"414141","name":"BLACK","inS
-lib.h(330):     tock":10}],"images":["414141##5400"],"productStatus":"Active"},{"productId":28,"categoryId
-lib.h(330):     ":5,"productName":"HP Z3200 Wireless Mouse","price":29.99,"description":"The HP Wireless M
-lib.h(330):     ouse Z3200 provides powerful Blue LED optical tracking. Its ambidextrous shape and familia
-lib.h(330):     r button controls are easy to use. Compact contoured control.","imageUrl":"5300","attribut
-lib.h(330):     es":[{"attributeName":"SENSOR RESOLUTION","attributeValue":"1600 dpi optical sensor"},{"at
-lib.h(330):     tributeName":"CONNECTOR","attributeValue":"Wireless"},{"attributeName":"SCROLLER TYPE","at
-lib.h(330):     tributeValue":"Scroll Wheel"},{"attributeName":"MANUFACTURER","attributeValue":"HP"},{"att
-lib.h(330):     ributeName":"TYPE","attributeValue":"Mouse"}],"colors":[{"code":"C3C3C3","name":"GRAY","in
-lib.h(330):     Stock":10},{"code":"DD3A5B","name":"RED","inStock":10},{"code":"FFFFFF","name":"WHITE","in
-lib.h(330):     Stock":10}],"images":["C3C3C3##5300","C3C3C3##5304","DD3A5B##5301","FFFFFF##5300","FFFFFF#
-lib.h(330):     #5304","FFFFFF##5306"],"productStatus":"Active"},{"productId":27,"categoryId":5,"productNa
-lib.h(330):     me":"HP Z3600 Wireless Mouse","price":15.99,"description":"The tiny HP Wireless Mouse Z360
-lib.h(330):     0 provides stylish comfort and control for your mobile computing needs. With optical track
-lib.h(330):     ing, 3 button controls, and the freedom to connect up to 30ft (10m) away, this compact mou
-lib.h(330):     se provides oversized performance.","imageUrl":"5200","attributes":[{"attributeName":"MANU
-lib.h(330):     FACTURER","attributeValue":"HP"},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll
-lib.h(330):      Whell"},{"attributeName":"CONNECTOR","attributeValue":"Wireless"},{"attributeName":"SENSO
-lib.h(330):     R RESOLUTION","attributeValue":"N/A"},{"attributeName":"TYPE","attributeValue":"Mouse"}],"
-lib.h(330):     colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"3683D1","name":"BLUE","inS
-lib.h(330):     tock":10},{"code":"545195","name":"PURPLE","inStock":10},{"code":"FFFFFF","name":"WHITE","
-lib.h(330):     inStock":10}],"images":["3683D1##5203","545195##5206","ABCDEF##5200","ABCDEF##5201","FFFFF
-lib.h(330):     F##5206"],"productStatus":"Active"},{"productId":30,"categoryId":5,"productName":"HP Z4000
-lib.h(330):      Wireless Mouse","price":9.99,"description":"The sleek and low-profiled design make the Z4
-lib.h(330):     000 the must-have companion to every thin notebook or tablet. Style and comfort within a d
-lib.h(330):     ynamic ultra-mobile wireless mouse.","imageUrl":"5505","attributes":[{"attributeName":"SCR
-lib.h(330):     OLLER TYPE","attributeValue":"Scroll Whell"},{"attributeName":"SENSOR RESOLUTION","attribu
-lib.h(330):     teValue":"N/A"},{"attributeName":"TYPE","attributeValue":"Mouse"},{"attributeName":"CONNEC
-lib.h(330):     TOR","attributeValue":"Wireless"},{"attributeName":"MANUFACTURER","attributeValue":"HP"}],
-lib.h(330):     "colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195","name":"PURPLE","i
-lib.h(330):     nStock":10},{"code":"DD3A5B","name":"RED","inStock":10}],"images":["3683D1##5506","545195#
-lib.h(330):     #5501","DD3A5B##5504","DD3A5B##5505"],"productStatus":"Active"},{"productId":33,"categoryI
-lib.h(330):     d":5,"productName":"HP Z8000 Bluetooth Mouse","price":50.99,"description":"The exquisite H
-lib.h(330):     P Z8000 Bluetooth Mouse is only 18mm (.7in) height, saves power with Bluetooth\xC2\xAE Low
-lib.h(330):      Energy connectivity, and provides effortless capacitive touch control. The future is here
-lib.h(330):     .","imageUrl":"5800","attributes":[{"attributeName":"CONNECTOR","attributeValue":"Bluetoot
-lib.h(330):     h\xC2\xAE"},{"attributeName":"TYPE","attributeValue":"Mouse"},{"attributeName":"SCROLLER T
-lib.h(330):     YPE","attributeValue":"Touch Scroll"},{"attributeName":"SENSOR RESOLUTION","attributeValue
-lib.h(330):     ":"1600 dpi"},{"attributeName":"MANUFACTURER","attributeValue":"HP"}],"colors":[{"code":"4
-lib.h(330):     14141","name":"BLACK","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images"
-lib.h(330):     :["ABCDEF##5800","ABCDEF##5801","ABCDEF##5802"],"productStatus":"Active"},{"productId":32,
-lib.h(330):     "categoryId":5,"productName":"Kensington Orbit 72337 Trackball with Scroll Ring","price":3
-lib.h(330):     9.99,"description":"All-day comfort and scrolling come together in the Kensington Orbit Tr
-lib.h(330):     ackball with Scroll Ring. The scroll ring allows you to fly through web pages and document
-lib.h(330):     s. And all while delivering comfort and space savings no mouse can match.","imageUrl":"570
-lib.h(330):     0","attributes":[{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Ring"},{"attrib
-lib.h(330):     uteName":"TYPE","attributeValue":"Trackball"},{"attributeName":"MANUFACTURER","attributeVa
-lib.h(330):     lue":"Kensington"},{"attributeName":"SENSOR RESOLUTION","attributeValue":"N/A"},{"attribut
-lib.h(330):     eName":"CONNECTOR","attributeValue":"USB Cord"}],"colors":[{"code":"414141","name":"BLACK"
-lib.h(330):     ,"inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["414141##5700"],"pr
-lib.h(330):     oductStatus":"Active"},{"productId":26,"categoryId":5,"productName":"Kensington Orbit 7235
-lib.h(330):     2 Trackball","price":59.99,"description":"The Kensington Orbit Wireless Mobile Trackball o
-lib.h(330):     ffers a precise, compact and versatile experience with a centered-ball design. With no wir
-lib.h(330):     es to tie you down, the 2.4 GHz wireless with storable nano receiver works wherever you do
-lib.h(330):      -- at your home or office. And the unique touch scrolling lets you glide effortlessly thr
-lib.h(330):     ough web pages and documents.","imageUrl":"5100","attributes":[{"attributeName":"SENSOR RE
-lib.h(330):     SOLUTION","attributeValue":"N/A"},{"attributeName":"SCROLLER TYPE","attributeValue":"Scrol
-lib.h(330):     l Ball"},{"attributeName":"TYPE","attributeValue":"Trackball"},{"attributeName":"CONNECTOR
-lib.h(330):     ","attributeValue":"Wireless"},{"attributeName":"MANUFACTURER","attributeValue":"Kensingto
-lib.h(330):     n"}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"DD3A5B","name":"RED",
-lib.h(330):     "inStock":10}],"images":["ABCDEF##5100"],"productStatus":"Active"},{"productId":31,"catego
-lib.h(330):     ryId":5,"productName":"Logitech G502 Proteus Core","price":79.99,"description":"MAKE IT YO
-lib.h(330):     URS!\\nProteus Core perfectly tuned by you.\\nProteus Core allows you to change the weight
-lib.h(330):     , balance, and enables you to adapt to wherever you choose to play. Customize it to the wa
-lib.h(330):     y you game and make it yours!\\n\\nPERSONALLY-TUNED PERFORMANCE\\nAdapts to your environme
-lib.h(330):     nt\\nFine tune the optical sensor in Proteus Core to your playing surface for better accur
-lib.h(330):     acy, precision and responsiveness. A quick tuning process, and you are battle ready.","ima
-lib.h(330):     geUrl":"5600","attributes":[{"attributeName":"MANUFACTURER","attributeValue":"Logitech"},{
-lib.h(330):     "attributeName":"SENSOR RESOLUTION","attributeValue":"N/A"},{"attributeName":"CONNECTOR","
-lib.h(330):     attributeValue":"USB Cord"},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Whel
-lib.h(330):     l"},{"attributeName":"TYPE","attributeValue":"Mouse"}],"colors":[{"code":"414141","name":"
-lib.h(330):     BLACK","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"images":["ABCDEF##5600
-lib.h(330):     "],"productStatus":"Active"},{"productId":34,"categoryId":5,"productName":"Microsoft Sculp
-lib.h(330):     t Touch Mouse","price":49.99,"description":"Looking for a portable mouse that helps you ge
-lib.h(330):     t things done? Sculpt Touch Mouse saves time in long documents and works virtually anywher
-lib.h(330):     e, with no cables or transceivers to connect. And it's designed to fit comfortably in eith
-lib.h(330):     er hand.\\nThe four-way touch scrolling pad on the Sculpt Touch Mouse lets you breeze up a
-lib.h(330):     nd down, left and right, and through windows and documents with just the swipe of your fin
-lib.h(330):     ger. While you scroll, you'll feel the nice surprise of tactile feedback. Sculpt Touch Mou
-lib.h(330):     se is also a powerful complement to Windows 8, navigating fluidly and intuitively around t
-lib.h(330):     he Start Screen.\\n","imageUrl":"5900","attributes":[{"attributeName":"SCROLLER TYPE","att
-lib.h(330):     ributeValue":"Touch Scroll"},{"attributeName":"TYPE","attributeValue":"Mouse"},{"attribute
-lib.h(330):     Name":"CONNECTOR","attributeValue":"Bluetooth\xC2\xAE"},{"attributeName":"SENSOR RESOLUTIO
-lib.h(330):     N","attributeValue":"1000 dpi"},{"attributeName":"MANUFACTURER","attributeValue":"Microsof
-lib.h(330):     t"}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"C3C3C3","name":"GRAY
-lib.h(330):     ","inStock":10}],"images":["ABCDEF##5900"],"productStatus":"Active"}],"colors":["414141","
-lib.h(330):     3683D1","545195","C3C3C3","DD3A5B","FFFFFF"]}
-lib.h(330): t=35019ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/5/products" (RelFrameId=1, Internal ID=22)
-lib.h(330): t=35020ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories/5/products"  	[MsgId: MMSG-26000]
-lib.h(330): web_url("products_2") was successful, 2395 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(321):     ct for life on-the-go. Take it on the road or relax and listen at home because this mobile
+lib.h(321):      speaker goes everywhere. Simple, intuitive design lets you wirelessly connect and stream 
+lib.h(321):     music from your Bluetooth-enabled device from up to 30' away. Easily manage phone calls an
+lib.h(321):     d volume control from your mobile phone. Enjoy five hours of continuous play before you ne
+lib.h(321):     ed to recharge. Recharge the built-in, lithium-ion battery with the convenience of the inc
+lib.h(321):     luded micro-USB cable.","imageUrl":"4500","attributes":[{"attributeName":"COMPATIBILITY","
+lib.h(321):     attributeValue":"Any device that has bluetooth enabled","showInFilter":true},{"attributeNa
+lib.h(321):     me":"MANUFACTURER","attributeValue":"Logitech","showInFilter":true},{"attributeName":"WEIG
+lib.h(321):     HT","attributeValue":"1.0 lb","showInFilter":true},{"attributeName":"WIRELESS TECHNOLOGY",
+lib.h(321):     "attributeValue":"Bluetooh\xC2\xAE","showInFilter":true},{"attributeName":"CONNECTOR","att
+lib.h(321):     ributeValue":"Wireless","showInFilter":true}],"colors":[{"code":"414141","name":"BLACK","i
+lib.h(321):     nStock":10}],"images":["414141##4500"],"productStatus":"Active"}],"colors":["414141","3683
+lib.h(321):     D1","545195","C3C3C3","DD3A5B","55CDD5","FFFFFF","FCC23D"]},{"categoryId":5,"categoryName"
+lib.h(321):     :"MICE","categoryImageId":"mice","promotedProduct":{"id":28,"staringPrice":"29.99","promot
+lib.h(321):     ionHeader":"DISCOVER OUR WIRELESS MICE","promotionSubHeader":"designed to work and ready t
+lib.h(321):     o play","productName":"HP Z3200 Wireless Mouse","price":29.99,"description":"The HP Wirele
+lib.h(321):     ss Mouse Z3200 provides powerful Blue LED optical tracking. Its ambidextrous shape and fam
+lib.h(321):     iliar button controls are easy to use. Compact contoured control.","imageUrl":"5300","attr
+lib.h(321):     ibutes":[{"attributeName":"CONNECTOR","attributeValue":"Wireless"},{"attributeName":"SENSO
+lib.h(321):     R RESOLUTION","attributeValue":"1600 dpi optical sensor"},{"attributeName":"TYPE","attribu
+lib.h(321):     teValue":"Mouse"},{"attributeName":"MANUFACTURER","attributeValue":"HP"},{"attributeName":
+lib.h(321):     "SCROLLER TYPE","attributeValue":"Scroll Wheel"}]},"attributes":[{"attributeName":"CONNECT
+lib.h(321):     OR","attributeValues":["Wireless","USB Cord","Bluetooth\xC2\xAE"]},{"attributeName":"SENSO
+lib.h(321):     R RESOLUTION","attributeValues":["1000 dpi optical sensor","N/A","1600 dpi","1600 dpi opti
+lib.h(321):     cal sensor","1000 dpi"]},{"attributeName":"TYPE","attributeValues":["Trackball","Mouse"]},
+lib.h(321):     {"attributeName":"MANUFACTURER","attributeValues":["Logitech","HP","Microsoft","Kensington
+lib.h(321):     "]},{"attributeName":"SCROLLER TYPE","attributeValues":["Scroll Whell","Scroll Ball","Scro
+lib.h(321):     ll Wheel","Touch Scroll","Scroll Ring"]}],"products":[{"productId":29,"categoryId":5,"prod
+lib.h(321):     uctName":"HP USB 3 Button Optical Mouse","price":9.99,"description":"Smooth and Accurate -
+lib.h(321):      The HP USB 3-Button Optical Mouse is the affordable desktop optical mouse solution that c
+lib.h(321):     ombines functionality with style","imageUrl":"5400","attributes":[{"attributeName":"SENSOR
+lib.h(321):      RESOLUTION","attributeValue":"1000 dpi optical sensor","showInFilter":false},{"attributeN
+lib.h(321):     ame":"TYPE","attributeValue":"Mouse","showInFilter":false},{"attributeName":"MANUFACTURER"
+lib.h(321):     ,"attributeValue":"HP","showInFilter":false},{"attributeName":"SCROLLER TYPE","attributeVa
+lib.h(321):     lue":"Scroll Whell","showInFilter":true},{"attributeName":"CONNECTOR","attributeValue":"US
+lib.h(321):     B Cord","showInFilter":false}],"colors":[{"code":"414141","name":"BLACK","inStock":10}],"i
+lib.h(321):     mages":["414141##5400"],"productStatus":"Active"},{"productId":28,"categoryId":5,"productN
+lib.h(321):     ame":"HP Z3200 Wireless Mouse","price":29.99,"description":"The HP Wireless Mouse Z3200 pr
+lib.h(321):     ovides powerful Blue LED optical tracking. Its ambidextrous shape and familiar button cont
+lib.h(321):     rols are easy to use. Compact contoured control.","imageUrl":"5300","attributes":[{"attrib
+lib.h(321):     uteName":"CONNECTOR","attributeValue":"Wireless","showInFilter":false},{"attributeName":"S
+lib.h(321):     ENSOR RESOLUTION","attributeValue":"1600 dpi optical sensor","showInFilter":false},{"attri
+lib.h(321):     buteName":"TYPE","attributeValue":"Mouse","showInFilter":false},{"attributeName":"MANUFACT
+lib.h(321):     URER","attributeValue":"HP","showInFilter":false},{"attributeName":"SCROLLER TYPE","attrib
+lib.h(321):     uteValue":"Scroll Wheel","showInFilter":true}],"colors":[{"code":"FFFFFF","name":"WHITE","
+lib.h(321):     inStock":10},{"code":"DD3A5B","name":"RED","inStock":10},{"code":"C3C3C3","name":"GRAY","i
+lib.h(321):     nStock":10}],"images":["FFFFFF##5304","C3C3C3##5300","FFFFFF##5300","C3C3C3##5304","DD3A5B
+lib.h(321):     ##5301","FFFFFF##5306"],"productStatus":"Active"},{"productId":27,"categoryId":5,"productN
+lib.h(321):     ame":"HP Z3600 Wireless Mouse","price":15.99,"description":"The tiny HP Wireless Mouse Z36
+lib.h(321):     00 provides stylish comfort and control for your mobile computing needs. With optical trac
+lib.h(321):     king, 3 button controls, and the freedom to connect up to 30ft (10m) away, this compact mo
+lib.h(321):     use provides oversized performance.","imageUrl":"5200","attributes":[{"attributeName":"SEN
+lib.h(321):     SOR RESOLUTION","attributeValue":"N/A","showInFilter":false},{"attributeName":"SCROLLER TY
+lib.h(321):     PE","attributeValue":"Scroll Whell","showInFilter":true},{"attributeName":"MANUFACTURER","
+lib.h(321):     attributeValue":"HP","showInFilter":false},{"attributeName":"CONNECTOR","attributeValue":"
+lib.h(321):     Wireless","showInFilter":false},{"attributeName":"TYPE","attributeValue":"Mouse","showInFi
+lib.h(321):     lter":false}],"colors":[{"code":"545195","name":"PURPLE","inStock":10},{"code":"414141","n
+lib.h(321):     ame":"BLACK","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10},{"code":"FFFFFF","
+lib.h(321):     name":"WHITE","inStock":10}],"images":["545195##5206","ABCDEF##5201","ABCDEF##5200","FFFFF
+lib.h(321):     F##5206","3683D1##5203"],"productStatus":"Active"},{"productId":30,"categoryId":5,"product
+lib.h(321):     Name":"HP Z4000 Wireless Mouse","price":9.99,"description":"The sleek and low-profiled des
+lib.h(321):     ign make the Z4000 the must-have companion to every thin notebook or tablet. Style and com
+lib.h(321):     fort within a dynamic ultra-mobile wireless mouse.","imageUrl":"5505","attributes":[{"attr
+lib.h(321):     ibuteName":"SCROLLER TYPE","attributeValue":"Scroll Whell","showInFilter":true},{"attribut
+lib.h(321):     eName":"SENSOR RESOLUTION","attributeValue":"N/A","showInFilter":false},{"attributeName":"
+lib.h(321):     MANUFACTURER","attributeValue":"HP","showInFilter":false},{"attributeName":"TYPE","attribu
+lib.h(321):     teValue":"Mouse","showInFilter":false},{"attributeName":"CONNECTOR","attributeValue":"Wire
+lib.h(321):     less","showInFilter":false}],"colors":[{"code":"DD3A5B","name":"RED","inStock":10},{"code"
+lib.h(321):     :"545195","name":"PURPLE","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}],"ima
+lib.h(321):     ges":["545195##5501","3683D1##5506",
+lib.h(321): t=29318ms: 5483-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=21)
+lib.h(321):     "DD3A5B##5504","DD3A5B##5505"],"productStatus":"Active"},{"productId":33,"categoryId":5,"p
+lib.h(321):     roductName":"HP Z8000 Bluetooth Mouse","price":50.99,"description":"The exquisite HP Z8000
+lib.h(321):      Bluetooth Mouse is only 18mm (.7in) height, saves power with Bluetooth\xC2\xAE Low Energy
+lib.h(321):      connectivity, and provides effortless capacitive touch control. The future is here.","ima
+lib.h(321):     geUrl":"5800","attributes":[{"attributeName":"TYPE","attributeValue":"Mouse","showInFilter
+lib.h(321):     ":false},{"attributeName":"CONNECTOR","attributeValue":"Bluetooth\xC2\xAE","showInFilter":
+lib.h(321):     false},{"attributeName":"SCROLLER TYPE","attributeValue":"Touch Scroll","showInFilter":tru
+lib.h(321):     e},{"attributeName":"SENSOR RESOLUTION","attributeValue":"1600 dpi","showInFilter":false},
+lib.h(321):     {"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":false}],"colors":[{"c
+lib.h(321):     ode":"C3C3C3","name":"GRAY","inStock":10},{"code":"414141","name":"BLACK","inStock":10}],"
+lib.h(321):     images":["ABCDEF##5802","ABCDEF##5801","ABCDEF##5800"],"productStatus":"Active"},{"product
+lib.h(321):     Id":32,"categoryId":5,"productName":"Kensington Orbit 72337 Trackball with Scroll Ring","p
+lib.h(321):     rice":39.99,"description":"All-day comfort and scrolling come together in the Kensington O
+lib.h(321):     rbit Trackball with Scroll Ring. The scroll ring allows you to fly through web pages and d
+lib.h(321):     ocuments. And all while delivering comfort and space savings no mouse can match.","imageUr
+lib.h(321):     l":"5700","attributes":[{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Ring","s
+lib.h(321):     howInFilter":true},{"attributeName":"TYPE","attributeValue":"Trackball","showInFilter":fal
+lib.h(321):     se},{"attributeName":"MANUFACTURER","attributeValue":"Kensington","showInFilter":false},{"
+lib.h(321):     attributeName":"CONNECTOR","attributeValue":"USB Cord","showInFilter":false},{"attributeNa
+lib.h(321):     me":"SENSOR RESOLUTION","attributeValue":"N/A","showInFilter":false}],"colors":[{"code":"3
+lib.h(321):     683D1","name":"BLUE","inStock":10},{"code":"414141","name":"BLACK","inStock":10}],"images"
+lib.h(321):     :["414141##5700"],"productStatus":"Active"},{"productId":26,"categoryId":5,"productName":"
+lib.h(321):     Kensington Orbit 72352 Trackball","price":59.99,"description":"The Kensington Orbit Wirele
+lib.h(321):     ss Mobile Trackball offers a precise, compact and versatile experience with a centered-bal
+lib.h(321):     l design. With no wires to tie you down, the 2.4 GHz wireless with storable nano receiver 
+lib.h(321):     works wherever you do -- at your home or office. And the unique touch scrolling lets you g
+lib.h(321):     lide effortlessly through web pages and documents.","imageUrl":"5100","attributes":[{"attr
+lib.h(321):     ibuteName":"CONNECTOR","attributeValue":"Wireless","showInFilter":false},{"attributeName":
+lib.h(321):     "MANUFACTURER","attributeValue":"Kensington","showInFilter":false},{"attributeName":"SCROL
+lib.h(321):     LER TYPE","attributeValue":"Scroll Ball","showInFilter":true},{"attributeName":"TYPE","att
+lib.h(321):     ributeValue":"Trackball","showInFilter":false},{"attributeName":"SENSOR RESOLUTION","attri
+lib.h(321):     buteValue":"N/A","showInFilter":false}],"colors":[{"code":"DD3A5B","name":"RED","inStock":
+lib.h(321):     10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF##5100"],"productStatus
+lib.h(321):     ":"Active"},{"productId":31,"categoryId":5,"productName":"Logitech G502 Proteus Core","pri
+lib.h(321):     ce":79.99,"description":"MAKE IT YOURS!\\nProteus Core perfectly tuned by you.\\nProteus C
+lib.h(321):     ore allows you to change the weight, balance, and enables you to adapt to wherever you cho
+lib.h(321):     ose to play. Customize it to the way you game and make it yours!\\n\\nPERSONALLY-TUNED PER
+lib.h(321):     FORMANCE\\nAdapts to your environment\\nFine tune the optical sensor in Proteus Core to yo
+lib.h(321):     ur playing surface for better accuracy, precision and responsiveness. A quick tuning proce
+lib.h(321):     ss, and you are battle ready.","imageUrl":"5600","attributes":[{"attributeName":"SCROLLER 
+lib.h(321):     TYPE","attributeValue":"Scroll Whell","showInFilter":true},{"attributeName":"MANUFACTURER"
+lib.h(321):     ,"attributeValue":"Logitech","showInFilter":false},{"attributeName":"SENSOR RESOLUTION","a
+lib.h(321):     ttributeValue":"N/A","showInFilter":false},{"attributeName":"CONNECTOR","attributeValue":"
+lib.h(321):     USB Cord","showInFilter":false},{"attributeName":"TYPE","attributeValue":"Mouse","showInFi
+lib.h(321):     lter":false}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"414141","nam
+lib.h(321):     e":"BLACK","inStock":10}],"images":["ABCDEF##5600"],"productStatus":"Active"},{"productId"
+lib.h(321):     :34,"categoryId":5,"productName":"Microsoft Sculpt Touch Mouse","price":49.99,"description
+lib.h(321):     ":"Looking for a portable mouse that helps you get things done? Sculpt Touch Mouse saves t
+lib.h(321):     ime in long documents and works virtually anywhere, with no cables or transceivers to conn
+lib.h(321):     ect. And it's designed to fit comfortably in either hand.\\nThe four-way touch scrolling p
+lib.h(321):     ad on the Sculpt Touch Mouse lets you breeze up and down, left and right, and through wind
+lib.h(321):     ows and documents with just the swipe of your finger. While you scroll, you'll feel the ni
+lib.h(321):     ce surprise of tactile feedback. Sculpt Touch Mouse is also a powerful complement to Windo
+lib.h(321):     ws 8, navigating fluidly and intuitively around the Start Screen.\\n","imageUrl":"5900","a
+lib.h(321):     ttributes":[{"attributeName":"SENSOR RESOLUTION","attributeValue":"1000 dpi","showInFilter
+lib.h(321):     ":false},{"attributeName":"CONNECTOR","attributeValue":"Bluetooth\xC2\xAE","showInFilter":
+lib.h(321):     false},{"attributeName":"TYPE","attributeValue":"Mouse","showInFilter":false},{"attributeN
+lib.h(321):     ame":"MANUFACTURER","attributeValue":"Microsoft","showInFilter":false},{"attributeName":"S
+lib.h(321):     CROLLER TYPE","attributeValue":"Touch Scroll","showInFilter":true}],"colors":[{"code":"414
+lib.h(321):     141","name":"BLACK","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":[
+lib.h(321):     "ABCDEF##5900"],"productStatus":"Active"}],"colors":["414141","545195","3683D1","C3C3C3","
+lib.h(321):     DD3A5B","FFFFFF"]}]
+lib.h(321): t=29321ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=21)
+lib.h(321): t=29321ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data"  	[MsgId: MMSG-26000]
+lib.h(321): web_url("all_data") was successful, 10787 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(330): web_url("products_2") started  	[MsgId: MMSG-26355]
+lib.h(330): Notify: Parameter Substitution: parameter "Categoriesrnd" =  "4"
+lib.h(330): The request to server https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" is done with headers:
+lib.h(330):     :method = GET
+lib.h(330):     :scheme = https
+lib.h(330):     :path = /catalog/api/v1/categories/4/products
+lib.h(330):     :authority = www.advantageonlineshopping.com
+lib.h(330):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(330):     Referer = https://www.advantageonlineshopping.com/
+lib.h(330):     Sec-Fetch-Dest = empty
+lib.h(330):     Sec-Fetch-Mode = cors
+lib.h(330):     Sec-Fetch-Site = same-origin
+lib.h(330):     DNT = 1
+lib.h(330):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(330):     0
+lib.h(330):     Accept-Encoding = gzip, deflate
+lib.h(330):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(330):     Accept = */*
+lib.h(330):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(330): t=30060ms: 375-byte response headers for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" (RelFrameId=1, Internal ID=22)
+lib.h(330):     HTTP/2.0 200\r\n
+lib.h(330):     Status: 200\r\n
+lib.h(330):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(330):     date: Sun, 17 Mar 2024 21:42:10 GMT\r\n
+lib.h(330):     content-type: application/json\r\n
+lib.h(330):     expires: 0\r\n
+lib.h(330):     cache-control: no-store\r\n
+lib.h(330):     x-content-type-options: nosniff\r\n
+lib.h(330):     x-xss-protection: 1; mode=block\r\n
+lib.h(330):     x-frame-options: DENY\r\n
+lib.h(330):     vary: accept-encoding\r\n
+lib.h(330):     content-encoding: gzip\r\n
+lib.h(330):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(330):     \r\n
+lib.h(330): t=30063ms: 1961-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" (RelFrameId=1, Internal ID=22)
+lib.h(330): t=30063ms: 8160-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" (RelFrameId=1, Internal ID=22)
+lib.h(330):     {"categoryId":4,"categoryName":"SPEAKERS","categoryImageId":"speakers","promotedProduct":{
+lib.h(330):     "id":19,"staringPrice":"200","promotionHeader":"ENJOY PREMIUM SOUND","promotionSubHeader":
+lib.h(330):     "Colorful style meets serious sound","productName":"HP S9500 Bluetooth Wireless Speaker","
+lib.h(330):     price":200.0,"description":"Impress \xE2\x80\xA6 everyone! Futuristic design with perforat
+lib.h(330):     ed steel formed into subtle angles. Requiring only minimal space, this speaker is the idea
+lib.h(330):     l complement to any setting.","imageUrl":"4100","attributes":[{"attributeName":"COMPATIBIL
+lib.h(330):     ITY","attributeValue":"Any device that has bluetooth enabled"},{"attributeName":"MANUFACTU
+lib.h(330):     RER","attributeValue":"HP"},{"attributeName":"WEIGHT","attributeValue":"1.95 lb"},{"attrib
+lib.h(330):     uteName":"CONNECTOR","attributeValue":"Wireless"},{"attributeName":"WIRELESS TECHNOLOGY","
+lib.h(330):     attributeValue":"Bluetooh\xC2\xAE"}]},"attributes":[{"attributeName":"CONNECTOR","attribut
+lib.h(330):     eValues":["Wireless"]},{"attributeName":"COMPATIBILITY","attributeValues":["Any device tha
+lib.h(330):     t has bluetooth enabled or a 3.5 mm audio connector.","Any device that has bluetooth enabl
+lib.h(330):     ed"]},{"attributeName":"WEIGHT","attributeValues":["3.03 lb","1.95 lb","0.55 lb","1.26 lb"
+lib.h(330):     ,"1.1 lb","1.25 lb","1.0 lb"]},{"attributeName":"WIRELESS TECHNOLOGY","attributeValues":["
+lib.h(330):     Bluetooh\xC2\xAE","Bluetooth\xC2\xAE"]},{"attributeName":"MANUFACTURER","attributeValues":
+lib.h(330):     ["Bose","Logitech","HP"]}],"products":[{"productId":20,"categoryId":4,"productName":"Bose 
+lib.h(330):     Soundlink Bluetooth Speaker III","price":269.99,"description":"Meet the speaker that bring
+lib.h(330):     s your music and friends together-with a style that's all your own. The SoundLink\xC2\xAE 
+lib.h(330):     Bluetooth speaker III is our best-performing mobile Bluetooth speaker. It plays louder and
+lib.h(330):      longer than its popular predecessor, with advanced Bose\xC2\xAE technologies that reprodu
+lib.h(330):     ce the fullness, clarity and depth of your music. And a colorful assortment of optional co
+lib.h(330):     vers let you personalize your speaker.","imageUrl":"4200","attributes":[{"attributeName":"
+lib.h(330):     MANUFACTURER","attributeValue":"Bose"},{"attributeName":"WEIGHT","attributeValue":"3.03 lb
+lib.h(330):     "},{"attributeName":"CONNECTOR","attributeValue":"Wireless"},{"attributeName":"COMPATIBILI
+lib.h(330):     TY","attributeValue":"Any device that has bluetooth enabled"},{"attributeName":"WIRELESS T
+lib.h(330):     ECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"}],"colors":[{"code":"414141","name":"BLACK"
+lib.h(330):     ,"inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["ABCDEF##4200"],"pr
+lib.h(330):     oductStatus":"Active"},{"productId":25,"categoryId":4,"productName":"Bose SoundLink Wirele
+lib.h(330):     ss Speaker","price":129.0,"description":"If music is your motivation, wait until you hear 
+lib.h(330):     the SoundLink\xC2\xAE Color Bluetooth speaker. It plays your favorite tunes from your favo
+lib.h(330):     rite Bluetooth device-out loud in clear, full audio-just about anywhere you want to go. It
+lib.h(330):     's small, durable and simple to use. And it comes in a spectrum of colors to match almost 
+lib.h(330):     any style.","imageUrl":"4700","attributes":[{"attributeName":"COMPATIBILITY","attributeVal
+lib.h(330):     ue":"Any device that has bluetooth enabled or a 3.5 mm audio connector."},{"attributeName"
+lib.h(330):     :"WEIGHT","attributeValue":"1.25 lb"},{"attributeName":"MANUFACTURER","attributeValue":"Bo
+lib.h(330):     se"},{"attributeName":"CONNECTOR","attributeValue":"Wireless"},{"attributeName":"WIRELESS 
+lib.h(330):     TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"}],"colors":[{"code":"414141","name":"BLACK
+lib.h(330):     ","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10},{"code":"DD3A5B","name":"RED"
+lib.h(330):     ,"inStock":10},{"code":"55CDD5","name":"TURQUOISE","inStock":10}],"images":["3683D1##4704"
+lib.h(330):     ,"414141##4701","55CDD5##4700","DD3A5B##4702"],"productStatus":"Active"},{"productId":24,"
+lib.h(330):     categoryId":4,"productName":"HP Roar Mini Wireless Speaker","price":44.99,"description":"A
+lib.h(330):     ttention-getting design, color, and sound - the HP Roar Mini Wireless Speaker. Exceptional
+lib.h(330):      size-defying audio while streaming music and calls from a distinctively compact speaker."
+lib.h(330):     ,"imageUrl":"4600","attributes":[{"attributeName":"COMPATIBILITY","attributeValue":"Any de
+lib.h(330):     vice that has bluetooth enabled or a 3.5 mm audio connector."},{"attributeName":"CONNECTOR
+lib.h(330):     ","attributeValue":"Wireless"},{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bl
+lib.h(330):     uetooh\xC2\xAE"},{"attributeName":"WEIGHT","attributeValue":"0.55 lb"},{"attributeName":"M
+lib.h(330):     ANUFACTURER","attributeValue":"HP"}],"colors":[{"code":"414141","name":"BLACK","inStock":1
+lib.h(330):     0},{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"DD3A5B","name":"RED","inStock":10
+lib.h(330):     },{"code":"FCC23D","name":"YELLOW","inStock":10}],"images":["414141##4602","C3C3C3##4603",
+lib.h(330):     "DD3A5B##4600","FCC23D##4601"],"productStatus":"Active"},{"productId":21,"categoryId":4,"p
+lib.h(330):     roductName":"HP Roar Plus Wireless Speaker","price":169.99,"description":"Showcase your mu
+lib.h(330):     sic anywhere with the ease of wireless Bluetooth\xC2\xAE connectivity.","imageUrl":"4300",
+lib.h(330):     "attributes":[{"attributeName":"COMPATIBILITY","attributeValue":"Any device that has bluet
+lib.h(330):     ooth enabled"},{"attributeName":"WEIGHT","attributeValue":"1.26 lb"},{"attributeName":"MAN
+lib.h(330):     UFACTURER","attributeValue":"HP"},{"attributeName":"CONNECTOR","attributeValue":"Wireless"
+lib.h(330):     },{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooth\xC2\xAE"}],"colors":[
+lib.h(330):     {"code":"414141","name":"BLACK","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10}
+lib.h(330):     ,{"code":"545195","name":"PURPLE","inStock":10}],"images":["3683D1##4300","3683D1##4301","
+lib.h(330):     414141##4304","545195##4308"],"productStatus":"Active"},{"productId":22,"categoryId":4,"pr
+lib.h(330):     oductName":"HP Roar Wireless Speaker","price":84.99,"description":"Showcase your music any
+lib.h(330):     where with the ease of wireless Bluetooth\xC2\xAE connectivity.","imageUrl":"4400","attrib
+lib.h(330):     utes":[{"attributeName":"CONNECTOR","attributeValue":"Wireless"},{"attributeName":"COMPATI
+lib.h(330):     BILITY","attributeValue":"Any device that has bluetooth enabled"},{"attributeName":"MANUFA
+lib.h(330):     CTURER","attributeValue":"HP"},{"attributeName":"WEIGHT","attributeValue":"1.1 lb"},{"attr
+lib.h(330):     ibuteName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"}],"colors":[{"code":"
+lib.h(330):     3683D1","name":"BLUE","inStock":10},{"code":"FFFFFF","name":"WHITE","inStock":10},{"code":
+lib.h(330):     "FCC23D","name":"YELLOW","inStock":10}],"images":["3683D1##4404","FCC23D##4408","FFFFFF##4
+lib.h(330):     400","FFFFFF##4401"],"productStatus":"Active"},{"productId":19,"categoryId":4,"productName
+lib.h(330):     ":"HP S9500 Bluetooth Wireless Speaker","price":200.0,"description":"Impress \xE2\x80\xA6 
+lib.h(330):     everyone! Futuristic design with perforated steel formed into subtle angles. Requiring onl
+lib.h(330):     y minimal space, this speaker is the ideal complement to any setting.","imageUrl":"4100","
+lib.h(330):     attributes":[{"attributeName":"COMPATIBILITY","attributeValue":"Any device that has blueto
+lib.h(330):     oth enabled"},{"attributeName":"MANUFACTURER","attributeValue":"HP"},{"attributeName":"WEI
+lib.h(330):     GHT","attributeValue":"1.95 lb"},{"attributeName":"CONNECTOR","attributeValue":"Wireless"}
+lib.h(330):     ,{"attributeName":"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE"}],"colors":[{"
+lib.h(330):     code":"C3C3C3","name":"GRAY","inStock":10},{"code":"FFFFFF","name":"WHITE","inStock":10}],
+lib.h(330):     "images":["ABCDEF##4100","ABCDEF##4101"],"productStatus":"Active"},{"productId":23,"catego
+lib.h(330):     ryId":4,"productName":"Logitech X100 Speaker System - Wireless Speaker(s)","price":49.99,"
+lib.h(330):     description":"Pump up the volume and enjoy crystal-clear sound from this mobile speaker. T
+lib.h(330):     his portable speaker is perfect for life on-the-go. Take it on the road or relax and liste
+lib.h(330):     n at home because this mobile speaker goes everywhere. Simple, intuitive design lets you w
+lib.h(330):     irelessly connect and stream music from your Bluetooth-enabled device from up to 30' away.
+lib.h(330):      Easily manage phone calls and volume control from your mobile phone. Enjoy five hours of 
+lib.h(330):     continuous play before you need to recharge. Recharge the built-in, lithium-ion battery wi
+lib.h(330):     th the convenience of the included micro-USB cable.","imageUrl":"4500","attributes":[{"att
+lib.h(330):     ributeName":"WEIGHT","attributeValue":"1.0 lb"},{"attributeName":"WIRELESS TECHNOLOGY","at
+lib.h(330):     tributeValue":"Bluetooh\xC2\xAE"},{"attributeName":"CONNECTOR","attributeValue":"Wireless"
+lib.h(330):     },{"attributeName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth enabled
+lib.h(330):     "},{"attributeName":"MANUFACTURER","attributeValue":"Logitech"}],"colors":[{"code":"414141
+lib.h(330):     ","name":"BLACK","inStock":10}],"images":["414141##4500"],"productStatus":"Active"}],"colo
+lib.h(330):     rs":["414141","3683D1","545195","C3C3C3","DD3A5B","55CDD5","FFFFFF","FCC23D"]}
+lib.h(330): t=30072ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products" (RelFrameId=1, Internal ID=22)
+lib.h(330): t=30072ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories/4/products"  	[MsgId: MMSG-26000]
+lib.h(330): web_url("products_2") was successful, 1971 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
 lib.h(339): web_url("product-page.html") started  	[MsgId: MMSG-26355]
 lib.h(339): The request to server https://www.advantageonlineshopping.com/app/views/product-page.html" is done with headers:
 lib.h(339):     :method = GET
@@ -127,23 +283,23 @@ lib.h(339):     Accept-Encoding = gzip, deflate
 lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(339):     Accept = */*
 lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(339): t=35186ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
+lib.h(339): t=30241ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
 lib.h(339):     HTTP/2.0 200\r\n
 lib.h(339):     Status: 200\r\n
 lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(339):     date: Fri, 15 Mar 2024 16:13:46 GMT\r\n
+lib.h(339):     date: Sun, 17 Mar 2024 21:42:10 GMT\r\n
 lib.h(339):     content-type: text/html\r\n
 lib.h(339):     accept-ranges: bytes\r\n
 lib.h(339):     etag: W/"8805-1707902752000"\r\n
 lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(339):     cache-control: max-age=0\r\n
-lib.h(339):     expires: Fri, 15 Mar 2024 16:13:46 GMT\r\n
+lib.h(339):     expires: Sun, 17 Mar 2024 21:42:10 GMT\r\n
 lib.h(339):     vary: accept-encoding\r\n
 lib.h(339):     content-encoding: gzip\r\n
 lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(339):     \r\n
-lib.h(339): t=35188ms: 2360-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
-lib.h(339): t=35189ms: 8805-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
+lib.h(339): t=30243ms: 2360-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
+lib.h(339): t=30243ms: 8805-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
 lib.h(339):     <nav class="pages fixedImportant productImage">\n
 lib.h(339):         <a translate="HOME" href="/#"></a>\n
 lib.h(339):         <a href\n
@@ -404,62 +560,62 @@ lib.h(339):     Accept-Encoding = gzip, deflate
 lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(339):     Accept = */*
 lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(339): t=35198ms: Request done "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26000]
-lib.h(339): t=35351ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=24)
+lib.h(339): t=30252ms: Request done "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26000]
+lib.h(339): t=30390ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=24)
 lib.h(339):     HTTP/2.0 200\r\n
 lib.h(339):     Status: 200\r\n
 lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(339):     date: Fri, 15 Mar 2024 16:13:46 GMT\r\n
+lib.h(339):     date: Sun, 17 Mar 2024 21:42:10 GMT\r\n
 lib.h(339):     content-type: image/png\r\n
 lib.h(339):     content-length: 1075\r\n
 lib.h(339):     accept-ranges: bytes\r\n
 lib.h(339):     etag: W/"1075-1707902752000"\r\n
 lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(339):     cache-control: max-age=864000\r\n
-lib.h(339):     expires: Mon, 25 Mar 2024 16:13:46 GMT\r\n
+lib.h(339):     expires: Wed, 27 Mar 2024 21:42:10 GMT\r\n
 lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(339):     \r\n
-lib.h(339): t=35353ms: 1075-byte response body for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=24)
-lib.h(339): t=35353ms: Request done "https://www.advantageonlineshopping.com/css/images/review_right.png"  	[MsgId: MMSG-26000]
-lib.h(339): t=35491ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=26)
+lib.h(339): t=30392ms: 1075-byte response body for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=24)
+lib.h(339): t=30392ms: Request done "https://www.advantageonlineshopping.com/css/images/review_right.png"  	[MsgId: MMSG-26000]
+lib.h(339): t=30524ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=25)
 lib.h(339):     HTTP/2.0 200\r\n
 lib.h(339):     Status: 200\r\n
 lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(339):     date: Fri, 15 Mar 2024 16:13:46 GMT\r\n
-lib.h(339):     content-type: image/png\r\n
-lib.h(339):     content-length: 1087\r\n
-lib.h(339):     accept-ranges: bytes\r\n
-lib.h(339):     etag: W/"1087-1707902752000"\r\n
-lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
-lib.h(339):     cache-control: max-age=864000\r\n
-lib.h(339):     expires: Mon, 25 Mar 2024 16:13:46 GMT\r\n
-lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
-lib.h(339):     \r\n
-lib.h(339): t=35493ms: 1087-byte response body for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=26)
-lib.h(339): t=35493ms: Request done "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png"  	[MsgId: MMSG-26000]
-lib.h(339): t=35494ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=25)
-lib.h(339):     HTTP/2.0 200\r\n
-lib.h(339):     Status: 200\r\n
-lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(339):     date: Fri, 15 Mar 2024 16:13:46 GMT\r\n
+lib.h(339):     date: Sun, 17 Mar 2024 21:42:10 GMT\r\n
 lib.h(339):     content-type: image/png\r\n
 lib.h(339):     content-length: 1542\r\n
 lib.h(339):     accept-ranges: bytes\r\n
 lib.h(339):     etag: W/"1542-1707902752000"\r\n
 lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(339):     cache-control: max-age=864000\r\n
-lib.h(339):     expires: Mon, 25 Mar 2024 16:13:46 GMT\r\n
+lib.h(339):     expires: Wed, 27 Mar 2024 21:42:10 GMT\r\n
 lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(339):     \r\n
-lib.h(339): t=35495ms: 1542-byte response body for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=25)
-lib.h(339): t=35496ms: Request done "https://www.advantageonlineshopping.com/css/images/reviewUser.png"  	[MsgId: MMSG-26000]
+lib.h(339): t=30526ms: 1542-byte response body for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=25)
+lib.h(339): t=30526ms: Request done "https://www.advantageonlineshopping.com/css/images/reviewUser.png"  	[MsgId: MMSG-26000]
+lib.h(339): t=30538ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=26)
+lib.h(339):     HTTP/2.0 200\r\n
+lib.h(339):     Status: 200\r\n
+lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(339):     date: Sun, 17 Mar 2024 21:42:10 GMT\r\n
+lib.h(339):     content-type: image/png\r\n
+lib.h(339):     content-length: 1087\r\n
+lib.h(339):     accept-ranges: bytes\r\n
+lib.h(339):     etag: W/"1087-1707902752000"\r\n
+lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(339):     cache-control: max-age=864000\r\n
+lib.h(339):     expires: Wed, 27 Mar 2024 21:42:10 GMT\r\n
+lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(339):     \r\n
+lib.h(339): t=30540ms: 1087-byte response body for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=26)
+lib.h(339): t=30540ms: Request done "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png"  	[MsgId: MMSG-26000]
 lib.h(339): web_url("product-page.html") was successful, 6064 body bytes, 1564 header bytes  	[MsgId: MMSG-26386]
 lib.h(348): web_add_header("Origin") started  	[MsgId: MMSG-26355]
 lib.h(348): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
 lib.h(348): "Origin: https://www.advantageonlineshopping.com" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
 lib.h(348): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
-lib.h(351): Notify: Transaction "ChooseProduct" ended with a "Pass" status (Duration: 2,8300 Wasted Time: 0,0138).
-Action.c(19): lr_think_time: 5,00 seconds.
+lib.h(351): Notify: Transaction "ChooseProduct" ended with a "Pass" status (Duration: 3.2408 Wasted Time: 0.0176).
+Action.c(19): lr_think_time: 5.00 seconds.
 lib.h(358): Notify: Transaction "AddToCart" started.
 lib.h(360): web_reg_find started  	[MsgId: MMSG-26355]
 lib.h(360): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
@@ -471,13 +627,13 @@ lib.h(362): "Origin: https://www.advantageonlineshopping.com" header registered 
 lib.h(362): web_add_header("Origin") highest severity level was "warning"  	[MsgId: MMSG-26391]
 lib.h(365): web_submit_data("{UserId}") started  	[MsgId: MMSG-26355]
 lib.h(365): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
-lib.h(365): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "31"
+lib.h(365): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "25"
 lib.h(365): Notify: Parameter Substitution: parameter "ColorId" =  "414141"
-lib.h(365): Warning: The string 'sessionId' with parameter delimiters is not a parameter.
-lib.h(365): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" is done with headers:
+lib.h(365): Notify: Parameter Substitution: parameter "sessionId" =  "2A2A9631F347672AD0536889C9FED06C"
+lib.h(365): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141?quantity=1" is done with headers:
 lib.h(365):     :method = POST
 lib.h(365):     :scheme = https
-lib.h(365):     :path = /order/api/v1/carts/690980838/product/31/color/414141?quantity=1
+lib.h(365):     :path = /order/api/v1/carts/690980838/product/25/color/414141?quantity=1
 lib.h(365):     :authority = www.advantageonlineshopping.com
 lib.h(365):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 lib.h(365):     Content-Type = application/x-www-form-urlencoded
@@ -493,71 +649,38 @@ lib.h(365):     0
 lib.h(365):     Accept-Encoding = gzip, deflate
 lib.h(365):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(365):     Accept = */*
-lib.h(365):     content-length = 25
-lib.h(365):     cookie = JSESSIONID=064EF6048AAF693F1B6975065FB0029C; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(365):     content-length = 42
+lib.h(365):     cookie = JSESSIONID=2A2A9631F347672AD0536889C9FED06C; userCart=%7B%22userId%22%3A-1%2C%22p
 lib.h(365):     roductsInCart%22%3A%5B%5D%7D
-lib.h(365): The request to server "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" is done with body:
-lib.h(365):     sessionId=%7BsessionId%7D
-lib.h(365): t=46976ms: 572-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(365): The request to server "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141?quantity=1" is done with body:
+lib.h(365):     sessionId=2A2A9631F347672AD0536889C9FED06C
+lib.h(365): t=37008ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
 lib.h(365):     HTTP/2.0 201\r\n
 lib.h(365):     Status: 201\r\n
 lib.h(365):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(365):     date: Fri, 15 Mar 2024 16:13:58 GMT\r\n
+lib.h(365):     date: Sun, 17 Mar 2024 21:42:17 GMT\r\n
 lib.h(365):     content-type: application/json\r\n
 lib.h(365):     access-control-allow-credentials: true\r\n
 lib.h(365):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
 lib.h(365):     vary: origin,accept-encoding\r\n
 lib.h(365):     expires: 0\r\n
 lib.h(365):     cache-control: no-store\r\n
-lib.h(365):     set-cookie: JSESSIONID=5CD0E594D3BCB62AFE60190667341FBF; Path=/order; HttpOnly\r\n
 lib.h(365):     x-content-type-options: nosniff\r\n
 lib.h(365):     x-xss-protection: 1; mode=block\r\n
 lib.h(365):     x-frame-options: DENY\r\n
 lib.h(365):     content-encoding: gzip\r\n
 lib.h(365):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(365):     \r\n
-lib.h(365): t=46978ms: 617-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
-lib.h(365): t=46978ms: 3136-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
-lib.h(365):     {"userId":690980838,"productsInCart":[{"productId":31,"productName":"Logitech G502 Proteus
-lib.h(365):      Core","price":79.99,"quantity":2,"imageUrl":"5600","color":{"code":"414141","name":"BLACK
-lib.h(365):     ","inStock":10},"exists":true,"hasWarranty":false},{"productId":19,"productName":"HP S9500
-lib.h(365):      Bluetooth Wireless Speaker","price":200.0,"quantity":1,"imageUrl":"4100","color":{"code":
-lib.h(365):     "C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":26,"p
-lib.h(365):     roductName":"Kensington Orbit 72352 Trackball","price":59.99,"quantity":1,"imageUrl":"5100
-lib.h(365):     ","color":{"code":"C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},
-lib.h(365):     {"productId":22,"productName":"HP Roar Wireless Speaker","price":84.99,"quantity":2,"image
-lib.h(365):     Url":"4400","color":{"code":"3683D1","name":"BLUE","inStock":10},"exists":true,"hasWarrant
-lib.h(365):     y":false},{"productId":27,"productName":"HP Z3600 Wireless Mouse","price":15.99,"quantity"
-lib.h(365):     :3,"imageUrl":"5200","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"
-lib.h(365):     hasWarranty":false},{"productId":3,"productName":"HP Pavilion 15z Touch Laptop","price":44
-lib.h(365):     9.99,"quantity":2,"imageUrl":"1300","color":{"code":"414141","name":"BLACK","inStock":10},
-lib.h(365):     "exists":true,"hasWarranty":false},{"productId":143,"productName":"game of thrones","price
-lib.h(365):     ":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","inStock":
-lib.h(365):     10},"exists":true,"hasWarranty":false},{"productId":11,"productName":"HP Pavilion x360 - 1
-lib.h(365):     1t Touch Laptop","price":319.99,"quantity":1,"imageUrl":"11100","color":{"code":"C3C3C3","
-lib.h(365):     name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":18,"productName
-lib.h(365):     ":"HP Pro Tablet 608 G1","price":479.0,"quantity":1,"imageUrl":"3300","color":{"code":"414
-lib.h(365):     141","name":"BLACK","inStock":10},"exists":true,"hasWarranty":false},{"productId":23,"prod
-lib.h(365):     uctName":"Logitech X100 Speaker System - Wireless Speaker(s)","price":49.99,"quantity":1,"
-lib.h(365):     imageUrl":"4500","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"hasW
-lib.h(365):     arranty":false},{"productId":34,"productName":"Microsoft Sculpt Touch Mouse","price":49.99
-lib.h(365):     ,"quantity":1,"imageUrl":"5900","color":{"code":"414141","name":"BLACK","inStock":10},"exi
-lib.h(365):     sts":true,"hasWarranty":false},{"productId":16,"productName":"HP ElitePad 1000 G2 Tablet",
-lib.h(365):     "price":1009.0,"quantity":1,"imageUrl":"3100","color":{"code":"414141","name":"BLUE","inSt
-lib.h(365):     ock":10},"exists":true,"hasWarranty":false},{"productId":81,"productName":"game of thrones
-lib.h(365):     ","price":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","i
-lib.h(365):     nStock":10},"exists":true,"hasWarranty":false},{"productId":6,"productName":"HP ENVY x360 
-lib.h(365):     - 15t Laptop","price":699.99,"quantity":1,"imageUrl":"1600","color":{"code":"C3C3C3","name
-lib.h(365):     ":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":39,"productName":"g
-lib.h(365):     ame of thrones","price":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","n
-lib.h(365):     ame":"BLUE","inStock":10},"exists":true,"hasWarranty":false},{"productId":17,"productName"
-lib.h(365):     :"HP Elite x2 1011 G1 Tablet","price":1279.0,"quantity":1,"imageUrl":"3200","color":{"code
-lib.h(365):     ":"414141","name":"BLACK","inStock":10},"exists":true,"hasWarranty":false}]}
-lib.h(365): t=46979ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
-lib.h(365): t=46981ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/31/color/414141?quantity=1"  	[MsgId: MMSG-26000]
+lib.h(365): t=37011ms: 199-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(365): t=37012ms: 237-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(365):     {"userId":690980838,"productsInCart":[{"productId":25,"productName":"Bose SoundLink Wirele
+lib.h(365):     ss Speaker","price":129.0,"quantity":1,"imageUrl":"4700","color":{"code":"414141","name":"
+lib.h(365):     BLACK","inStock":10},"exists":true,"hasWarranty":false}]}
+lib.h(365): t=37012ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(365): t=37017ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141?quantity=1"  	[MsgId: MMSG-26000]
 lib.h(365): Registered web_reg_find successful for "Text="userId":690980838," (count=1)  	[MsgId: MMSG-26364]
-lib.h(365): web_submit_data("{UserId}") was successful, 627 body bytes, 572 header bytes  	[MsgId: MMSG-26386]
-lib.h(376): Notify: Transaction "AddToCart" ended with a "Pass" status (Duration: 6.4749 Wasted Time: 0.0033).
+lib.h(365): web_submit_data("{UserId}") was successful, 209 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
+lib.h(376): Notify: Transaction "AddToCart" ended with a "Pass" status (Duration: 1.4563 Wasted Time: 0.0046).
 Action.c(23): lr_think_time: 5.00 seconds.
 lib.h(383): Notify: Transaction "CheckCart" started.
 lib.h(385): web_reg_find started  	[MsgId: MMSG-26355]
@@ -581,17 +704,17 @@ lib.h(387):     0
 lib.h(387):     Accept-Encoding = gzip, deflate
 lib.h(387):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(387):     Accept = */*
-lib.h(387):     cookie = JSESSIONID=5CD0E594D3BCB62AFE60190667341FBF; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(387):     cookie = JSESSIONID=2A2A9631F347672AD0536889C9FED06C; userCart=%7B%22userId%22%3A-1%2C%22p
 lib.h(387):     roductsInCart%22%3A%5B%5D%7D
-lib.h(387): t=57984ms: 455-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(387): t=42826ms: 455-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
 lib.h(387):     HTTP/2.0 200\r\n
 lib.h(387):     Status: 200\r\n
 lib.h(387):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(387):     date: Fri, 15 Mar 2024 16:14:09 GMT\r\n
+lib.h(387):     date: Sun, 17 Mar 2024 21:42:23 GMT\r\n
 lib.h(387):     content-type: application/json\r\n
 lib.h(387):     expires: 0\r\n
 lib.h(387):     cache-control: no-store\r\n
-lib.h(387):     set-cookie: JSESSIONID=34069D322889BF892A7256E5D821F3FF; Path=/order; HttpOnly\r\n
+lib.h(387):     set-cookie: JSESSIONID=67239C2345B83AA84D603348ECCFEA0C; Path=/order; HttpOnly\r\n
 lib.h(387):     x-content-type-options: nosniff\r\n
 lib.h(387):     x-xss-protection: 1; mode=block\r\n
 lib.h(387):     x-frame-options: DENY\r\n
@@ -599,48 +722,16 @@ lib.h(387):     vary: accept-encoding\r\n
 lib.h(387):     content-encoding: gzip\r\n
 lib.h(387):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(387):     \r\n
-lib.h(387): t=57985ms: 652-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
-lib.h(387): t=57985ms: 3183-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
-lib.h(387):     {"userId":690980838,"productsInCart":[{"productId":31,"productName":"Logitech G502 Proteus
-lib.h(387):      Core","price":79.99,"quantity":2,"imageUrl":"5600","color":{"code":"414141","name":"BLACK
-lib.h(387):     ","inStock":10},"exists":true,"hasWarranty":false},{"productId":19,"productName":"HP S9500
-lib.h(387):      Bluetooth Wireless Speaker","price":200.0,"quantity":1,"imageUrl":"4100","color":{"code":
-lib.h(387):     "C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":26,"p
-lib.h(387):     roductName":"Kensington Orbit 72352 Trackball","price":59.99,"quantity":1,"imageUrl":"5100
-lib.h(387):     ","color":{"code":"C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},
-lib.h(387):     {"productId":22,"productName":"HP Roar Wireless Speaker","price":84.99,"quantity":2,"image
-lib.h(387):     Url":"4400","color":{"code":"3683D1","name":"BLUE","inStock":10},"exists":true,"hasWarrant
-lib.h(387):     y":false},{"productId":27,"productName":"HP Z3600 Wireless Mouse","price":15.99,"quantity"
-lib.h(387):     :3,"imageUrl":"5200","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"
-lib.h(387):     hasWarranty":false},{"productId":3,"productName":"HP Pavilion 15z Touch Laptop","price":44
-lib.h(387):     9.99,"quantity":2,"imageUrl":"1300","color":{"code":"414141","name":"BLACK","inStock":10},
-lib.h(387):     "exists":true,"hasWarranty":false},{"productId":143,"productName":"game of thrones","price
-lib.h(387):     ":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","inStock":
-lib.h(387):     10},"exists":true,"hasWarranty":false},{"productId":11,"productName":"HP Pavilion x360 - 1
-lib.h(387):     1t Touch Laptop","price":319.99,"quantity":1,"imageUrl":"11100","color":{"code":"C3C3C3","
-lib.h(387):     name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":18,"productName
-lib.h(387):     ":"HP Pro Tablet 608 G1","price":479.0,"quantity":1,"imageUrl":"3300","color":{"code":"414
-lib.h(387):     141","name":"BLACK","inStock":10},"exists":true,"hasWarranty":false},{"productId":23,"prod
-lib.h(387):     uctName":"Logitech X100 Speaker System - Wireless Speaker(s)","price":49.99,"quantity":1,"
-lib.h(387):     imageUrl":"4500","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"hasW
-lib.h(387):     arranty":false},{"productId":34,"productName":"Microsoft Sculpt Touch Mouse","price":49.99
-lib.h(387):     ,"quantity":1,"imageUrl":"5900","color":{"code":"414141","name":"BLACK","inStock":10},"exi
-lib.h(387):     sts":true,"hasWarranty":false},{"productId":16,"productName":"HP ElitePad 1000 G2 Tablet",
-lib.h(387):     "price":1009.0,"quantity":1,"imageUrl":"3100","color":{"code":"414141","name":"BLUE","inSt
-lib.h(387):     ock":10},"exists":true,"hasWarranty":false},{"productId":81,"productName":"game of thrones
-lib.h(387):     ","price":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","i
-lib.h(387):     nStock":10},"exists":true,"hasWarranty":false},{"productId":6,"productName":"HP ENVY x360 
-lib.h(387):     - 15t Laptop","price":699.99,"quantity":1,"imageUrl":"1600","color":{"code":"C3C3C3","name
-lib.h(387):     ":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":39,"productName":"g
-lib.h(387):     ame of thrones","price":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","n
-lib.h(387):     ame":"BLUE","inStock":10},"exists":true,"hasWarranty":false},{"productId":17,"productName"
-lib.h(387):     :"HP Elite x2 1011 G1 Tablet","price":1279.0,"quantity":1,"imageUrl":"3200","color":{"code
-lib.h(387):     ":"414141","name":"BLACK","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"3
-lib.h(387):     4069D322889BF892A7256E5D821F3FF"}
-lib.h(387): t=57986ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
-lib.h(387): t=57986ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
+lib.h(387): t=42828ms: 235-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(387): t=42828ms: 284-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(387):     {"userId":690980838,"productsInCart":[{"productId":25,"productName":"Bose SoundLink Wirele
+lib.h(387):     ss Speaker","price":129.0,"quantity":1,"imageUrl":"4700","color":{"code":"414141","name":"
+lib.h(387):     BLACK","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"67239C2345B83AA84D60
+lib.h(387):     3348ECCFEA0C"}
+lib.h(387): t=42829ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(387): t=42829ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
 lib.h(387): Registered web_reg_find successful for "Text="userId":690980838," (count=1)  	[MsgId: MMSG-26364]
-lib.h(387): web_url("{UserID}_2") was successful, 662 body bytes, 455 header bytes  	[MsgId: MMSG-26386]
+lib.h(387): web_url("{UserID}_2") was successful, 245 body bytes, 455 header bytes  	[MsgId: MMSG-26386]
 lib.h(396): web_url("shoppingCart.html") started  	[MsgId: MMSG-26355]
 lib.h(396): The request to server https://www.advantageonlineshopping.com/app/views/shoppingCart.html" is done with headers:
 lib.h(396):     :method = GET
@@ -659,23 +750,23 @@ lib.h(396):     Accept-Encoding = gzip, deflate
 lib.h(396):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(396):     Accept = */*
 lib.h(396):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(396): t=58153ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
+lib.h(396): t=42999ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
 lib.h(396):     HTTP/2.0 200\r\n
 lib.h(396):     Status: 200\r\n
 lib.h(396):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(396):     date: Fri, 15 Mar 2024 16:14:09 GMT\r\n
+lib.h(396):     date: Sun, 17 Mar 2024 21:42:23 GMT\r\n
 lib.h(396):     content-type: text/html\r\n
 lib.h(396):     accept-ranges: bytes\r\n
 lib.h(396):     etag: W/"5840-1707902752000"\r\n
 lib.h(396):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(396):     cache-control: max-age=0\r\n
-lib.h(396):     expires: Fri, 15 Mar 2024 16:14:09 GMT\r\n
+lib.h(396):     expires: Sun, 17 Mar 2024 21:42:23 GMT\r\n
 lib.h(396):     vary: accept-encoding\r\n
 lib.h(396):     content-encoding: gzip\r\n
 lib.h(396):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(396):     \r\n
-lib.h(396): t=58154ms: 1465-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
-lib.h(396): t=58154ms: 5840-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
+lib.h(396): t=43000ms: 1465-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
+lib.h(396): t=43000ms: 5840-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
 lib.h(396):     \n
 lib.h(396):     <section>\n
 lib.h(396):         <article class="sp">\n
@@ -849,42 +940,42 @@ lib.h(396):     Accept-Encoding = gzip, deflate
 lib.h(396):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 lib.h(396):     Accept = */*
 lib.h(396):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-lib.h(396): t=58160ms: Request done "https://www.advantageonlineshopping.com/app/views/shoppingCart.html"  	[MsgId: MMSG-26000]
-lib.h(396): t=58313ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=30)
+lib.h(396): t=43007ms: Request done "https://www.advantageonlineshopping.com/app/views/shoppingCart.html"  	[MsgId: MMSG-26000]
+lib.h(396): t=43160ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=30)
 lib.h(396):     HTTP/2.0 200\r\n
 lib.h(396):     Status: 200\r\n
 lib.h(396):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(396):     date: Fri, 15 Mar 2024 16:14:09 GMT\r\n
+lib.h(396):     date: Sun, 17 Mar 2024 21:42:23 GMT\r\n
 lib.h(396):     content-type: image/png\r\n
 lib.h(396):     content-length: 1651\r\n
 lib.h(396):     accept-ranges: bytes\r\n
 lib.h(396):     etag: W/"1651-1707902752000"\r\n
 lib.h(396):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(396):     cache-control: max-age=864000\r\n
-lib.h(396):     expires: Mon, 25 Mar 2024 16:14:09 GMT\r\n
+lib.h(396):     expires: Wed, 27 Mar 2024 21:42:23 GMT\r\n
 lib.h(396):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(396):     \r\n
-lib.h(396): t=58313ms: 1651-byte response body for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=30)
-lib.h(396): t=58314ms: Request done "https://www.advantageonlineshopping.com/css/images/Master_credit.png"  	[MsgId: MMSG-26000]
-lib.h(396): t=58433ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=31)
+lib.h(396): t=43161ms: 1651-byte response body for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=30)
+lib.h(396): t=43161ms: Request done "https://www.advantageonlineshopping.com/css/images/Master_credit.png"  	[MsgId: MMSG-26000]
+lib.h(396): t=43282ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=31)
 lib.h(396):     HTTP/2.0 200\r\n
 lib.h(396):     Status: 200\r\n
 lib.h(396):     server: nginx/1.18.0 (Ubuntu)\r\n
-lib.h(396):     date: Fri, 15 Mar 2024 16:14:09 GMT\r\n
+lib.h(396):     date: Sun, 17 Mar 2024 21:42:23 GMT\r\n
 lib.h(396):     content-type: image/png\r\n
 lib.h(396):     content-length: 4650\r\n
 lib.h(396):     accept-ranges: bytes\r\n
 lib.h(396):     etag: W/"4650-1707902752000"\r\n
 lib.h(396):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 lib.h(396):     cache-control: max-age=864000\r\n
-lib.h(396):     expires: Mon, 25 Mar 2024 16:14:09 GMT\r\n
+lib.h(396):     expires: Wed, 27 Mar 2024 21:42:23 GMT\r\n
 lib.h(396):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 lib.h(396):     \r\n
-lib.h(396): t=58434ms: 4650-byte response body for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=31)
-lib.h(396): t=58434ms: Request done "https://www.advantageonlineshopping.com/css/images/SafePay.png"  	[MsgId: MMSG-26000]
+lib.h(396): t=43283ms: 4650-byte response body for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=31)
+lib.h(396): t=43283ms: Request done "https://www.advantageonlineshopping.com/css/images/SafePay.png"  	[MsgId: MMSG-26000]
 lib.h(396): web_url("shoppingCart.html") was successful, 7766 body bytes, 1178 header bytes  	[MsgId: MMSG-26386]
-lib.h(405): Notify: Transaction "CheckCart" ended with a "Pass" status (Duration: 6.4510 Wasted Time: 0.0056).
-Action.c(27): lr_think_time: 5,00 seconds.
+lib.h(405): Notify: Transaction "CheckCart" ended with a "Pass" status (Duration: 1.2640 Wasted Time: 0.0071).
+Action.c(27): lr_think_time: 5.00 seconds.
 Action.c(29): Notify: Transaction "CheckCart" started.
 Action.c(31): web_reg_find started  	[MsgId: MMSG-26355]
 Action.c(31): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
@@ -893,14 +984,6 @@ Action.c(34): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
 Action.c(34): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
 Action.c(43): web_url("{UserID}_2") started  	[MsgId: MMSG-26355]
 Action.c(43): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
-Action.c(43): Connection to www.advantageonlineshopping.com:443 closed after being inactive for 62 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
-Action.c(43): t=63464ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
-Action.c(43): Connection to www.googletagmanager.com:443 closed after being inactive for 62 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
-Action.c(43): t=63464ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
-Action.c(43): t=63464ms: Connecting [0] to host 54.227.55.203:443  	[MsgId: MMSG-26000]
-Action.c(43): t=63598ms: Connected socket [0] from 192.168.1.36:48482 to 54.227.55.203:443 in 133 ms  	[MsgId: MMSG-26000]
-Action.c(43): t=63598ms: Trying to set SNI with servername www.advantageonlineshopping.com  	[MsgId: MMSG-26000]
-Action.c(43): t=63598ms: Setting SNI was succesful  	[MsgId: MMSG-26000]
 Action.c(43): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" is done with headers:
 Action.c(43):     :method = GET
 Action.c(43):     :scheme = https
@@ -917,13 +1000,13 @@ Action.c(43):     0
 Action.c(43):     Accept-Encoding = gzip, deflate
 Action.c(43):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Action.c(43):     Accept = */*
-Action.c(43):     cookie = JSESSIONID=34069D322889BF892A7256E5D821F3FF; userCart=%7B%22userId%22%3A-1%2C%22p
+Action.c(43):     cookie = JSESSIONID=67239C2345B83AA84D603348ECCFEA0C; userCart=%7B%22userId%22%3A-1%2C%22p
 Action.c(43):     roductsInCart%22%3A%5B%5D%7D
-Action.c(43): t=69651ms: 375-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=32)
+Action.c(43): t=49036ms: 375-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=32)
 Action.c(43):     HTTP/2.0 200\r\n
 Action.c(43):     Status: 200\r\n
 Action.c(43):     server: nginx/1.18.0 (Ubuntu)\r\n
-Action.c(43):     date: Fri, 15 Mar 2024 16:14:21 GMT\r\n
+Action.c(43):     date: Sun, 17 Mar 2024 21:42:29 GMT\r\n
 Action.c(43):     content-type: application/json\r\n
 Action.c(43):     expires: 0\r\n
 Action.c(43):     cache-control: no-store\r\n
@@ -934,70 +1017,23 @@ Action.c(43):     vary: accept-encoding\r\n
 Action.c(43):     content-encoding: gzip\r\n
 Action.c(43):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 Action.c(43):     \r\n
-Action.c(43): t=69652ms: 652-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=32)
-Action.c(43): t=69652ms: 3183-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=32)
-Action.c(43):     {"userId":690980838,"productsInCart":[{"productId":31,"productName":"Logitech G502 Proteus
-Action.c(43):      Core","price":79.99,"quantity":2,"imageUrl":"5600","color":{"code":"414141","name":"BLACK
-Action.c(43):     ","inStock":10},"exists":true,"hasWarranty":false},{"productId":19,"productName":"HP S9500
-Action.c(43):      Bluetooth Wireless Speaker","price":200.0,"quantity":1,"imageUrl":"4100","color":{"code":
-Action.c(43):     "C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":26,"p
-Action.c(43):     roductName":"Kensington Orbit 72352 Trackball","price":59.99,"quantity":1,"imageUrl":"5100
-Action.c(43):     ","color":{"code":"C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},
-Action.c(43):     {"productId":22,"productName":"HP Roar Wireless Speaker","price":84.99,"quantity":2,"image
-Action.c(43):     Url":"4400","color":{"code":"3683D1","name":"BLUE","inStock":10},"exists":true,"hasWarrant
-Action.c(43):     y":false},{"productId":27,"productName":"HP Z3600 Wireless Mouse","price":15.99,"quantity"
-Action.c(43):     :3,"imageUrl":"5200","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"
-Action.c(43):     hasWarranty":false},{"productId":3,"productName":"HP Pavilion 15z Touch Laptop","price":44
-Action.c(43):     9.99,"quantity":2,"imageUrl":"1300","color":{"code":"414141","name":"BLACK","inStock":10},
-Action.c(43):     "exists":true,"hasWarranty":false},{"productId":143,"productName":"game of thrones","price
-Action.c(43):     ":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","inStock":
-Action.c(43):     10},"exists":true,"hasWarranty":false},{"productId":11,"productName":"HP Pavilion x360 - 1
-Action.c(43):     1t Touch Laptop","price":319.99,"quantity":1,"imageUrl":"11100","color":{"code":"C3C3C3","
-Action.c(43):     name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":18,"productName
-Action.c(43):     ":"HP Pro Tablet 608 G1","price":479.0,"quantity":1,"imageUrl":"3300","color":{"code":"414
-Action.c(43):     141","name":"BLACK","inStock":10},"exists":true,"hasWarranty":false},{"productId":23,"prod
-Action.c(43):     uctName":"Logitech X100 Speaker System - Wireless Speaker(s)","price":49.99,"quantity":1,"
-Action.c(43):     imageUrl":"4500","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"hasW
-Action.c(43):     arranty":false},{"productId":34,"productName":"Microsoft Sculpt Touch Mouse","price":49.99
-Action.c(43):     ,"quantity":1,"imageUrl":"5900","color":{"code":"414141","name":"BLACK","inStock":10},"exi
-Action.c(43):     sts":true,"hasWarranty":false},{"productId":16,"productName":"HP ElitePad 1000 G2 Tablet",
-Action.c(43):     "price":1009.0,"quantity":1,"imageUrl":"3100","color":{"code":"414141","name":"BLUE","inSt
-Action.c(43):     ock":10},"exists":true,"hasWarranty":false},{"productId":81,"productName":"game of thrones
-Action.c(43):     ","price":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","i
-Action.c(43):     nStock":10},"exists":true,"hasWarranty":false},{"productId":6,"productName":"HP ENVY x360 
-Action.c(43):     - 15t Laptop","price":699.99,"quantity":1,"imageUrl":"1600","color":{"code":"C3C3C3","name
-Action.c(43):     ":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":39,"productName":"g
-Action.c(43):     ame of thrones","price":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","n
-Action.c(43):     ame":"BLUE","inStock":10},"exists":true,"hasWarranty":false},{"productId":17,"productName"
-Action.c(43):     :"HP Elite x2 1011 G1 Tablet","price":1279.0,"quantity":1,"imageUrl":"3200","color":{"code
-Action.c(43):     ":"414141","name":"BLACK","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"3
-Action.c(43):     4069D322889BF892A7256E5D821F3FF"}
-Action.c(43): Notify: Saving Parameter "ProductId_1 = 31".
-Action.c(43): Notify: Saving Parameter "ProductId_2 = 19".
-Action.c(43): Notify: Saving Parameter "ProductId_3 = 26".
-Action.c(43): Notify: Saving Parameter "ProductId_4 = 22".
-Action.c(43): Notify: Saving Parameter "ProductId_5 = 27".
-Action.c(43): Notify: Saving Parameter "ProductId_6 = 3".
-Action.c(43): Notify: Saving Parameter "ProductId_7 = 143".
-Action.c(43): Notify: Saving Parameter "ProductId_8 = 11".
-Action.c(43): Notify: Saving Parameter "ProductId_9 = 18".
-Action.c(43): Notify: Saving Parameter "ProductId_10 = 23".
-Action.c(43): Notify: Saving Parameter "ProductId_11 = 34".
-Action.c(43): Notify: Saving Parameter "ProductId_12 = 16".
-Action.c(43): Notify: Saving Parameter "ProductId_13 = 81".
-Action.c(43): Notify: Saving Parameter "ProductId_14 = 6".
-Action.c(43): Notify: Saving Parameter "ProductId_15 = 39".
-Action.c(43): Notify: Saving Parameter "ProductId_16 = 17".
-Action.c(43): t=69654ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=32)
-Action.c(43): t=69654ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
+Action.c(43): t=49038ms: 235-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=32)
+Action.c(43): t=49039ms: 284-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=32)
+Action.c(43):     {"userId":690980838,"productsInCart":[{"productId":25,"productName":"Bose SoundLink Wirele
+Action.c(43):     ss Speaker","price":129.0,"quantity":1,"imageUrl":"4700","color":{"code":"414141","name":"
+Action.c(43):     BLACK","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"67239C2345B83AA84D60
+Action.c(43):     3348ECCFEA0C"}
+Action.c(43): Notify: Saving Parameter "ProductId_1 = 25".
+Action.c(43): t=49039ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=32)
+Action.c(43): t=49040ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
 Action.c(43): Registered web_reg_find successful for "Text="userId":690980838," (count=1)  	[MsgId: MMSG-26364]
-Action.c(43): Notify: Saving Parameter "ProductId_count = 16".
-Action.c(43): web_url("{UserID}_2") was successful, 662 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
-Action.c(52): Notify: Parameter Substitution: parameter "ProductId_count" =  "16"
-Action.c(52): Notify: Parameter Substitution: parameter "ProductId_12" =  "16"
-Action.c(52): Notify: Saving Parameter "ProductIdrnd = 16".
+Action.c(43): Notify: Saving Parameter "ProductId_count = 1".
+Action.c(43): web_url("{UserID}_2") was successful, 245 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Parameter Substitution: parameter "ProductId_count" =  "1"
+Action.c(52): Notify: Parameter Substitution: parameter "ProductId_1" =  "25"
+Action.c(52): Notify: Saving Parameter "ProductIdrnd = 25".
 Action.c(55): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
-Action.c(55): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "16"
+Action.c(55): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "25"
 Action.c(55): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
 Action.c(62): web_url("{UserID}_2") started  	[MsgId: MMSG-26355]
 Action.c(62): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
@@ -1017,17 +1053,17 @@ Action.c(62):     0
 Action.c(62):     Accept-Encoding = gzip, deflate
 Action.c(62):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Action.c(62):     Accept = */*
-Action.c(62):     cookie = JSESSIONID=34069D322889BF892A7256E5D821F3FF; userCart=%7B%22userId%22%3A-1%2C%22p
+Action.c(62):     cookie = JSESSIONID=67239C2345B83AA84D603348ECCFEA0C; userCart=%7B%22userId%22%3A-1%2C%22p
 Action.c(62):     roductsInCart%22%3A%5B%5D%7D
-Action.c(62): t=75501ms: 455-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=33)
+Action.c(62): t=49815ms: 455-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=33)
 Action.c(62):     HTTP/2.0 200\r\n
 Action.c(62):     Status: 200\r\n
 Action.c(62):     server: nginx/1.18.0 (Ubuntu)\r\n
-Action.c(62):     date: Fri, 15 Mar 2024 16:14:26 GMT\r\n
+Action.c(62):     date: Sun, 17 Mar 2024 21:42:30 GMT\r\n
 Action.c(62):     content-type: application/json\r\n
 Action.c(62):     expires: 0\r\n
 Action.c(62):     cache-control: no-store\r\n
-Action.c(62):     set-cookie: JSESSIONID=8674550135CB7F05BA8460778C14FE29; Path=/order; HttpOnly\r\n
+Action.c(62):     set-cookie: JSESSIONID=F05BBDAD855DB27DDBC9CC26BC688900; Path=/order; HttpOnly\r\n
 Action.c(62):     x-content-type-options: nosniff\r\n
 Action.c(62):     x-xss-protection: 1; mode=block\r\n
 Action.c(62):     x-frame-options: DENY\r\n
@@ -1035,48 +1071,16 @@ Action.c(62):     vary: accept-encoding\r\n
 Action.c(62):     content-encoding: gzip\r\n
 Action.c(62):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 Action.c(62):     \r\n
-Action.c(62): t=75503ms: 651-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=33)
-Action.c(62): t=75504ms: 3183-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=33)
-Action.c(62):     {"userId":690980838,"productsInCart":[{"productId":31,"productName":"Logitech G502 Proteus
-Action.c(62):      Core","price":79.99,"quantity":2,"imageUrl":"5600","color":{"code":"414141","name":"BLACK
-Action.c(62):     ","inStock":10},"exists":true,"hasWarranty":false},{"productId":19,"productName":"HP S9500
-Action.c(62):      Bluetooth Wireless Speaker","price":200.0,"quantity":1,"imageUrl":"4100","color":{"code":
-Action.c(62):     "C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":26,"p
-Action.c(62):     roductName":"Kensington Orbit 72352 Trackball","price":59.99,"quantity":1,"imageUrl":"5100
-Action.c(62):     ","color":{"code":"C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},
-Action.c(62):     {"productId":22,"productName":"HP Roar Wireless Speaker","price":84.99,"quantity":2,"image
-Action.c(62):     Url":"4400","color":{"code":"3683D1","name":"BLUE","inStock":10},"exists":true,"hasWarrant
-Action.c(62):     y":false},{"productId":27,"productName":"HP Z3600 Wireless Mouse","price":15.99,"quantity"
-Action.c(62):     :3,"imageUrl":"5200","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"
-Action.c(62):     hasWarranty":false},{"productId":3,"productName":"HP Pavilion 15z Touch Laptop","price":44
-Action.c(62):     9.99,"quantity":2,"imageUrl":"1300","color":{"code":"414141","name":"BLACK","inStock":10},
-Action.c(62):     "exists":true,"hasWarranty":false},{"productId":143,"productName":"game of thrones","price
-Action.c(62):     ":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","inStock":
-Action.c(62):     10},"exists":true,"hasWarranty":false},{"productId":11,"productName":"HP Pavilion x360 - 1
-Action.c(62):     1t Touch Laptop","price":319.99,"quantity":1,"imageUrl":"11100","color":{"code":"C3C3C3","
-Action.c(62):     name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":18,"productName
-Action.c(62):     ":"HP Pro Tablet 608 G1","price":479.0,"quantity":1,"imageUrl":"3300","color":{"code":"414
-Action.c(62):     141","name":"BLACK","inStock":10},"exists":true,"hasWarranty":false},{"productId":23,"prod
-Action.c(62):     uctName":"Logitech X100 Speaker System - Wireless Speaker(s)","price":49.99,"quantity":1,"
-Action.c(62):     imageUrl":"4500","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"hasW
-Action.c(62):     arranty":false},{"productId":34,"productName":"Microsoft Sculpt Touch Mouse","price":49.99
-Action.c(62):     ,"quantity":1,"imageUrl":"5900","color":{"code":"414141","name":"BLACK","inStock":10},"exi
-Action.c(62):     sts":true,"hasWarranty":false},{"productId":16,"productName":"HP ElitePad 1000 G2 Tablet",
-Action.c(62):     "price":1009.0,"quantity":1,"imageUrl":"3100","color":{"code":"414141","name":"BLUE","inSt
-Action.c(62):     ock":10},"exists":true,"hasWarranty":false},{"productId":81,"productName":"game of thrones
-Action.c(62):     ","price":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","i
-Action.c(62):     nStock":10},"exists":true,"hasWarranty":false},{"productId":6,"productName":"HP ENVY x360 
-Action.c(62):     - 15t Laptop","price":699.99,"quantity":1,"imageUrl":"1600","color":{"code":"C3C3C3","name
-Action.c(62):     ":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":39,"productName":"g
-Action.c(62):     ame of thrones","price":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","n
-Action.c(62):     ame":"BLUE","inStock":10},"exists":true,"hasWarranty":false},{"productId":17,"productName"
-Action.c(62):     :"HP Elite x2 1011 G1 Tablet","price":1279.0,"quantity":1,"imageUrl":"3200","color":{"code
-Action.c(62):     ":"414141","name":"BLACK","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"8
-Action.c(62):     674550135CB7F05BA8460778C14FE29"}
-Action.c(62): t=75505ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=33)
-Action.c(62): t=75505ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
+Action.c(62): t=49818ms: 234-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=33)
+Action.c(62): t=49818ms: 284-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=33)
+Action.c(62):     {"userId":690980838,"productsInCart":[{"productId":25,"productName":"Bose SoundLink Wirele
+Action.c(62):     ss Speaker","price":129.0,"quantity":1,"imageUrl":"4700","color":{"code":"414141","name":"
+Action.c(62):     BLACK","inStock":10},"exists":true,"hasWarranty":false}],"sessionId":"F05BBDAD855DB27DDBC9
+Action.c(62):     CC26BC688900"}
+Action.c(62): t=49819ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=33)
+Action.c(62): t=49819ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
 Action.c(62): Notify: Saving Parameter "ColorId = 414141".
-Action.c(62): web_url("{UserID}_2") was successful, 661 body bytes, 455 header bytes  	[MsgId: MMSG-26386]
+Action.c(62): web_url("{UserID}_2") was successful, 244 body bytes, 455 header bytes  	[MsgId: MMSG-26386]
 Action.c(71): web_url("shoppingCart.html") started  	[MsgId: MMSG-26355]
 Action.c(71): The request to server https://www.advantageonlineshopping.com/app/views/shoppingCart.html" is done with headers:
 Action.c(71):     :method = GET
@@ -1095,23 +1099,23 @@ Action.c(71):     Accept-Encoding = gzip, deflate
 Action.c(71):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Action.c(71):     Accept = */*
 Action.c(71):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
-Action.c(71): t=75676ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=34)
+Action.c(71): t=49977ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=34)
 Action.c(71):     HTTP/2.0 200\r\n
 Action.c(71):     Status: 200\r\n
 Action.c(71):     server: nginx/1.18.0 (Ubuntu)\r\n
-Action.c(71):     date: Fri, 15 Mar 2024 16:14:27 GMT\r\n
+Action.c(71):     date: Sun, 17 Mar 2024 21:42:30 GMT\r\n
 Action.c(71):     content-type: text/html\r\n
 Action.c(71):     accept-ranges: bytes\r\n
 Action.c(71):     etag: W/"5840-1707902752000"\r\n
 Action.c(71):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
 Action.c(71):     cache-control: max-age=0\r\n
-Action.c(71):     expires: Fri, 15 Mar 2024 16:14:27 GMT\r\n
+Action.c(71):     expires: Sun, 17 Mar 2024 21:42:30 GMT\r\n
 Action.c(71):     vary: accept-encoding\r\n
 Action.c(71):     content-encoding: gzip\r\n
 Action.c(71):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 Action.c(71):     \r\n
-Action.c(71): t=75677ms: 1465-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=34)
-Action.c(71): t=75678ms: 5840-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=34)
+Action.c(71): t=49980ms: 1465-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=34)
+Action.c(71): t=49980ms: 5840-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=34)
 Action.c(71):     \n
 Action.c(71):     <section>\n
 Action.c(71):         <article class="sp">\n
@@ -1251,9 +1255,9 @@ Action.c(71):     \n
 Action.c(71):     \n
 Action.c(71): Resource "https://www.advantageonlineshopping.com/css/images/Master_credit.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(71): Resource "https://www.advantageonlineshopping.com/css/images/SafePay.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(71): t=75682ms: Request done "https://www.advantageonlineshopping.com/app/views/shoppingCart.html"  	[MsgId: MMSG-26000]
+Action.c(71): t=49991ms: Request done "https://www.advantageonlineshopping.com/app/views/shoppingCart.html"  	[MsgId: MMSG-26000]
 Action.c(71): web_url("shoppingCart.html") was successful, 1465 body bytes, 406 header bytes  	[MsgId: MMSG-26386]
-Action.c(80): Notify: Transaction "CheckCart" ended with a "Pass" status (Duration: 12.2429 Wasted Time: 0.0787).
+Action.c(80): Notify: Transaction "CheckCart" ended with a "Pass" status (Duration: 1,7088 Wasted Time: 0,0141).
 Action.c(83): lr_think_time: 5,00 seconds.
 Action.c(86): Notify: Transaction "DeleteFromCart" started.
 Action.c(89): web_add_header("Origin") started  	[MsgId: MMSG-26355]
@@ -1262,12 +1266,12 @@ Action.c(89): "Origin: https://www.advantageonlineshopping.com" header registere
 Action.c(89): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
 Action.c(92): web_custom_request("{UserID}_2") started  	[MsgId: MMSG-26355]
 Action.c(92): Notify: Parameter Substitution: parameter "UserID" =  "690980838"
-Action.c(92): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "16"
+Action.c(92): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "25"
 Action.c(92): Notify: Parameter Substitution: parameter "ColorId" =  "414141"
-Action.c(92): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/16/color/414141" is done with headers:
+Action.c(92): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141" is done with headers:
 Action.c(92):     :method = DELETE
 Action.c(92):     :scheme = https
-Action.c(92):     :path = /order/api/v1/carts/690980838/product/16/color/414141
+Action.c(92):     :path = /order/api/v1/carts/690980838/product/25/color/414141
 Action.c(92):     :authority = www.advantageonlineshopping.com
 Action.c(92):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
 Action.c(92):     Referer = https://www.advantageonlineshopping.com/
@@ -1282,13 +1286,13 @@ Action.c(92):     Accept-Encoding = gzip, deflate
 Action.c(92):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Action.c(92):     Accept = */*
 Action.c(92):     content-length = 0
-Action.c(92):     cookie = JSESSIONID=8674550135CB7F05BA8460778C14FE29; userCart=%7B%22userId%22%3A-1%2C%22p
+Action.c(92):     cookie = JSESSIONID=F05BBDAD855DB27DDBC9CC26BC688900; userCart=%7B%22userId%22%3A-1%2C%22p
 Action.c(92):     roductsInCart%22%3A%5B%5D%7D
-Action.c(92): t=86174ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/16/color/414141" (RelFrameId=1, Internal ID=35)
+Action.c(92): t=55439ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141" (RelFrameId=1, Internal ID=35)
 Action.c(92):     HTTP/2.0 200\r\n
 Action.c(92):     Status: 200\r\n
 Action.c(92):     server: nginx/1.18.0 (Ubuntu)\r\n
-Action.c(92):     date: Fri, 15 Mar 2024 16:14:37 GMT\r\n
+Action.c(92):     date: Sun, 17 Mar 2024 21:42:35 GMT\r\n
 Action.c(92):     content-type: application/json\r\n
 Action.c(92):     access-control-allow-credentials: true\r\n
 Action.c(92):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
@@ -1301,52 +1305,21 @@ Action.c(92):     x-frame-options: DENY\r\n
 Action.c(92):     content-encoding: gzip\r\n
 Action.c(92):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
 Action.c(92):     \r\n
-Action.c(92): t=86175ms: 592-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/16/color/414141" (RelFrameId=1, Internal ID=35)
-Action.c(92): t=86175ms: 2943-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/16/color/414141" (RelFrameId=1, Internal ID=35)
-Action.c(92):     {"userId":690980838,"productsInCart":[{"productId":31,"productName":"Logitech G502 Proteus
-Action.c(92):      Core","price":79.99,"quantity":2,"imageUrl":"5600","color":{"code":"414141","name":"BLACK
-Action.c(92):     ","inStock":10},"exists":true,"hasWarranty":false},{"productId":19,"productName":"HP S9500
-Action.c(92):      Bluetooth Wireless Speaker","price":200.0,"quantity":1,"imageUrl":"4100","color":{"code":
-Action.c(92):     "C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":26,"p
-Action.c(92):     roductName":"Kensington Orbit 72352 Trackball","price":59.99,"quantity":1,"imageUrl":"5100
-Action.c(92):     ","color":{"code":"C3C3C3","name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},
-Action.c(92):     {"productId":22,"productName":"HP Roar Wireless Speaker","price":84.99,"quantity":2,"image
-Action.c(92):     Url":"4400","color":{"code":"3683D1","name":"BLUE","inStock":10},"exists":true,"hasWarrant
-Action.c(92):     y":false},{"productId":27,"productName":"HP Z3600 Wireless Mouse","price":15.99,"quantity"
-Action.c(92):     :3,"imageUrl":"5200","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"
-Action.c(92):     hasWarranty":false},{"productId":3,"productName":"HP Pavilion 15z Touch Laptop","price":44
-Action.c(92):     9.99,"quantity":2,"imageUrl":"1300","color":{"code":"414141","name":"BLACK","inStock":10},
-Action.c(92):     "exists":true,"hasWarranty":false},{"productId":143,"productName":"game of thrones","price
-Action.c(92):     ":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","inStock":
-Action.c(92):     10},"exists":true,"hasWarranty":false},{"productId":11,"productName":"HP Pavilion x360 - 1
-Action.c(92):     1t Touch Laptop","price":319.99,"quantity":1,"imageUrl":"11100","color":{"code":"C3C3C3","
-Action.c(92):     name":"GRAY","inStock":10},"exists":true,"hasWarranty":false},{"productId":18,"productName
-Action.c(92):     ":"HP Pro Tablet 608 G1","price":479.0,"quantity":1,"imageUrl":"3300","color":{"code":"414
-Action.c(92):     141","name":"BLACK","inStock":10},"exists":true,"hasWarranty":false},{"productId":23,"prod
-Action.c(92):     uctName":"Logitech X100 Speaker System - Wireless Speaker(s)","price":49.99,"quantity":1,"
-Action.c(92):     imageUrl":"4500","color":{"code":"414141","name":"BLACK","inStock":10},"exists":true,"hasW
-Action.c(92):     arranty":false},{"productId":34,"productName":"Microsoft Sculpt Touch Mouse","price":49.99
-Action.c(92):     ,"quantity":1,"imageUrl":"5900","color":{"code":"414141","name":"BLACK","inStock":10},"exi
-Action.c(92):     sts":true,"hasWarranty":false},{"productId":81,"productName":"game of thrones","price":100
-Action.c(92):     00.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","inStock":10},"
-Action.c(92):     exists":true,"hasWarranty":false},{"productId":6,"productName":"HP ENVY x360 - 15t Laptop"
-Action.c(92):     ,"price":699.99,"quantity":1,"imageUrl":"1600","color":{"code":"C3C3C3","name":"GRAY","inS
-Action.c(92):     tock":10},"exists":true,"hasWarranty":false},{"productId":39,"productName":"game of throne
-Action.c(92):     s","price":10000.0,"quantity":1,"imageUrl":"1245","color":{"code":"3683D1","name":"BLUE","
-Action.c(92):     inStock":10},"exists":true,"hasWarranty":false},{"productId":17,"productName":"HP Elite x2
-Action.c(92):      1011 G1 Tablet","price":1279.0,"quantity":1,"imageUrl":"3200","color":{"code":"414141","n
-Action.c(92):     ame":"BLACK","inStock":10},"exists":true,"hasWarranty":false}]}
-Action.c(92): t=86176ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/16/color/414141" (RelFrameId=1, Internal ID=35)
-Action.c(92): t=86176ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/16/color/414141"  	[MsgId: MMSG-26000]
-Action.c(92): web_custom_request("{UserID}_2") was successful, 602 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
-Action.c(102): Notify: Transaction "DeleteFromCart" ended with a "Pass" status (Duration: 5.4915 Wasted Time: 0.0031).
-Action.c(105): Notify: Transaction "UC5_Delete_From_Cart" ended with a "Pass" status (Duration: 85.7140 Think Time: 41.0066 Wasted Time: 0.2164).
+Action.c(92): t=55441ms: 56-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141" (RelFrameId=1, Internal ID=35)
+Action.c(92): t=55442ms: 40-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141" (RelFrameId=1, Internal ID=35)
+Action.c(92):     {"userId":690980838,"productsInCart":[]}
+Action.c(92): t=55442ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141" (RelFrameId=1, Internal ID=35)
+Action.c(92): t=55442ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/25/color/414141"  	[MsgId: MMSG-26000]
+Action.c(92): web_custom_request("{UserID}_2") was successful, 66 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
+Action.c(102): Notify: Transaction "DeleteFromCart" ended with a "Pass" status (Duration: 0,4497 Wasted Time: 0,0042).
+Action.c(105): Notify: Transaction "UC5_Delete_From_Cart" ended with a "Pass" status (Duration: 55,3332 Think Time: 41,0057 Wasted Time: 0,1501).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...
 Starting action vuser_end.
 Ending action vuser_end.
 Vuser Terminated.
-t=86203ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=55474ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=55474ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
 HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
-Vuser 0 (thread 1656), ended OK."
+Vuser 0 (thread 12096), ended OK."

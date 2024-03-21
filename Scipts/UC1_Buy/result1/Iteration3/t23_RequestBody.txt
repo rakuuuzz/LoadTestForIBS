@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"5678 Elm St","addressLine2":"","city":"Houstn","country":"us","p"
+"ostalCode":77001,"state":"Texas"},"secustomerName":"Alice Johnson","secustomerPhone":444444444"
+"4,"senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"0EF511829DEDDF98E519"
+"E002415F63B0"}"

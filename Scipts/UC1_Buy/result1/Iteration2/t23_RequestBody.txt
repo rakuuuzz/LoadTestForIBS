@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"789 Maple Ave","addressLine2":"","city":"NewYork","country":"us""
+","postalCode":10001,"state":"New York"},"secustomerName":"Emma Brown","secustomerPhone":333333"
+"3333,"senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"B986A769A24DAF69E"
+"3887559EF232740"}"

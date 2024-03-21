@@ -1,7 +1,7 @@
-HTTP/2.0 401
-Status: 401
+HTTP/2.0 201
+Status: 201
 server: nginx/1.18.0 (Ubuntu)
-date: Sat, 16 Mar 2024 09:42:17 GMT
+date: Wed, 20 Mar 2024 21:58:26 GMT
 content-type: application/json
 access-control-allow-credentials: true
 access-control-allow-origin: https://www.advantageonlineshopping.com

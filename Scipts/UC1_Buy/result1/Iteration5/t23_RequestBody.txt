@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"222 Oak Ave","addressLine2":"","city":"Dallas","country":"us","p"
+"ostalCode":77002,"state":"Texas"},"secustomerName":"Kevin Lee","secustomerPhone":6666666666,"s"
+"enumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"D33182BAF3DD38DD56F4D8B6"
+"C005DCE3"}"

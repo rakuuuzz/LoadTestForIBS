@@ -1,4 +1,0 @@
-"{\"seaddress\":{\"addressLine1\":\"adress\",\"addressLine2\":\"\",\"city\":\"city\",\"country\""
-":\"us\",\"postalCode\":789,\"state\":\"state\"},\"secustomerName\":\"name lastname\",\"secusto"
-"merPhone\":89999,\"senumberOfProducts\":1,\"setransactionType\":\"SHIPPING_COST\",\"sessionId\""
-":\"33943C1C7A1EDC510E1E845C118B3CF0\"}"

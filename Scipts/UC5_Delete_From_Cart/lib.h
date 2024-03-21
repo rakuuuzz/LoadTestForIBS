@@ -624,6 +624,13 @@ LogIn()
 	web_set_sockets_option("INITIAL_AUTH", "BASIC");
 	
 	web_add_auto_header("Authorization", " Basic {t_authorization}");
+	
+	web_reg_save_param_ex(
+		"ParamName=sessionId",
+		"LB=\"sessionId\":\"",
+		"RB=\"",
+		SEARCH_FILTERS,
+		LAST);
 
 	web_url("{UserID}", 
 		"URL=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}", 

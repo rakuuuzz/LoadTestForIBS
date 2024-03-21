@@ -1,6 +1,7 @@
 Name,LastName,Login,Pass,Number,State,Zip,adress,City,Country,email
-John,Smith,j.smith,John123,123456789,California,90001,123 Main St,Los Angeles,USA,j.smith@example.com
-Sarah,Johnson,s.johnson,Sarah456,987654321,New York,10001,456 Oak St,New York,USA,s.johnson@example.com
-Michael,Brown,m.brown,Michael789,555555555,Texas,77001,789 Elm St,Houston,USA,m.brown@example.com
-Emily,White,e.white,Emily321,777777777,Florida,33001,321 Pine St,Miami,USA,e.white@example.com
-David,Lee,d.lee,David555,888888888,Illinois,60001,555 Maple St,Chicago,USA,d.lee@example.com
+John,Smith,johnsmith1234,Password1234,5555555555,California,90001,1234 Main St,Los Angeles,USA,johnsmith123@email.com
+Emma,Brown,emmabrown123,Brownie3210,3333333333,New York,10001,789 Maple Ave,NewYork,USA,emmabrown12@email.com
+Alice,Johnson,ajohnson123,Slicepass123,4444444444,Texas,77001,5678 Elm St,Houstn,USA,ajohnson789@email.com
+Sarah,Thompson,sarah123,Password123,7777777777,California,90002,111 PineSt,San Francisco,USA,sarah1234@email.com
+Kevin,Lee,kevinlee123,Kevinpass123,6666666666,Texas,77002,222 Oak Ave,Dallas,USA,kevinlee456@email.com
+Laura,Martinez,lauramart123,Password3210,8888888888,California,90003,333 Cedar St,San Diego,USA,lauramart@email.com

@@ -1,5 +1,5 @@
 "<?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/so"
 "ap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.o"
 "rg/2001/XMLSchema"><soap:Body><AccountLogoutRequest xmlns="com.advantage.online.store.accounts"
-"ervice"><loginUser>642361226</loginUser><base64Token>Basic d2tta3JveGhtOkpvaG4xMjM=</base64Tok"
-"en></AccountLogoutRequest></soap:Body></soap:Envelope>"
+"ervice"><loginUser>562781147</loginUser><base64Token>Basic ZHltbGZpbWtvOlBhc3N3b3JkMTIzNA==</b"
+"ase64Token></AccountLogoutRequest></soap:Body></soap:Envelope>"

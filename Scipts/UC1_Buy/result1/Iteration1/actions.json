@@ -4,149 +4,236 @@
         "steps": [
             {
                 "stepId": "STEP1",
-                "stepName": "Url: www.advantageonlineshopping.com",
+                "stepName": "Custom Request: www.advantageonlineshopping.com",
                 "infFile": "t1.inf",
-                "time": 1710582104190
+                "time": 1710971870423
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: ALL",
                 "infFile": "t2.inf",
-                "time": 1710582104374
+                "time": 1710971870650
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Custom Request: GetAccountConfigurationRequest",
                 "infFile": "t3.inf",
-                "time": 1710582104689
+                "time": 1710971870981
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Url: categories",
                 "infFile": "t4.inf",
-                "time": 1710582105256
+                "time": 1710971871325
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Url: search",
                 "infFile": "t5.inf",
-                "time": 1710582105819
+                "time": 1710971871716
             },
             {
                 "stepId": "STEP6",
                 "stepName": "Url: popularProducts.json",
                 "infFile": "t6.inf",
-                "time": 1710582105974
+                "time": 1710971871875
             },
             {
                 "stepId": "STEP7",
                 "stepName": "Url: home-page.html",
                 "infFile": "t7.inf",
-                "time": 1710582106411
+                "time": 1710971872348
             },
             {
                 "stepId": "STEP8",
                 "stepName": "Custom Request: AccountLoginRequest",
                 "infFile": "t8.inf",
-                "time": 1710582117848
+                "time": 1710971884289
             },
             {
                 "stepId": "STEP9",
                 "stepName": "Url: {UserID}",
                 "infFile": "t9.inf",
-                "time": 1710582118119
+                "time": 1710971885063
             },
             {
                 "stepId": "STEP10",
                 "stepName": "Url: products",
                 "infFile": "t10.inf",
-                "time": 1710582123858
+                "time": 1710971890846
             },
             {
                 "stepId": "STEP11",
                 "stepName": "Url: attributes",
                 "infFile": "t11.inf",
-                "time": 1710582124498
+                "time": 1710971891466
             },
             {
                 "stepId": "STEP12",
                 "stepName": "Url: category-page.html",
                 "infFile": "t12.inf",
-                "time": 1710582124664
+                "time": 1710971891644
             },
             {
                 "stepId": "STEP13",
                 "stepName": "Url: {ProductIdrnd}",
                 "infFile": "t13.inf",
-                "time": 1710582130044
+                "time": 1710971897210
             },
             {
                 "stepId": "STEP14",
                 "stepName": "Url: all_data",
                 "infFile": "t14.inf",
-                "time": 1710582131201
+                "time": 1710971898217
             },
             {
                 "stepId": "STEP15",
-                "stepName": "Url: products_2",
+                "stepName": "Url: products_{Categoriesrnd}",
                 "infFile": "t15.inf",
-                "time": 1710582131925
+                "time": 1710971898889
             },
             {
                 "stepId": "STEP16",
                 "stepName": "Url: product-page.html",
                 "infFile": "t16.inf",
-                "time": 1710582132368
+                "time": 1710971899377
             },
             {
                 "stepId": "STEP17",
                 "stepName": "Submit Data: {UserId}",
                 "infFile": "t17.inf",
-                "time": 1710582137794
+                "time": 1710971905541
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: {UserID}_2",
+                "infFile": "t18.inf",
+                "time": 1710971911365
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: shoppingCart.html",
+                "infFile": "t19.inf",
+                "time": 1710971911835
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Custom Request: GetAccountByIdRequest",
+                "infFile": "t20.inf",
+                "time": 1710971917434
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Custom Request: GetAccountByIdNewRequest",
+                "infFile": "t21.inf",
+                "time": 1710971918015
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Url: {UserID}_3",
+                "infFile": "t22.inf",
+                "time": 1710971918833
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Custom Request: shippingcost",
+                "infFile": "t23.inf",
+                "time": 1710971919508
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Custom Request: GetAccountPaymentPreferencesRequest",
+                "infFile": "t24.inf",
+                "time": 1710971920161
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Url: orderPayment-page.html",
+                "infFile": "t25.inf",
+                "time": 1710971920463
+            },
+            {
+                "stepId": "STEP26",
+                "stepName": "Custom Request: AddSafePayMethodRequest",
+                "infFile": "t26.inf",
+                "time": 1710971925813
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Custom Request: {UserID}_4",
+                "infFile": "t27.inf",
+                "time": 1710971927128
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Custom Request: {UserID}_5",
+                "infFile": "t28.inf",
+                "time": 1710971927952
             }
         ],
         "transactions": [
             {
                 "transactionName": "HomePage",
-                "rawStartTime": 1710582102997,
-                "rawEndTime": 1710582106411,
+                "rawStartTime": 1710971869042,
+                "rawEndTime": 1710971872349,
                 "thinkTime": 0.0,
-                "wastedTime": 0.08614253997802735
+                "wastedTime": 0.07624125480651856
             },
             {
                 "transactionName": "LogIn",
-                "rawStartTime": 1710582106414,
-                "rawEndTime": 1710582118120,
-                "thinkTime": 11.002472,
-                "wastedTime": 0.006807088851928711
+                "rawStartTime": 1710971872351,
+                "rawEndTime": 1710971885063,
+                "thinkTime": 11.000096,
+                "wastedTime": 0.0073969364166259769
             },
             {
                 "transactionName": "ChooseCategory",
-                "rawStartTime": 1710582123126,
-                "rawEndTime": 1710582124664,
+                "rawStartTime": 1710971890068,
+                "rawEndTime": 1710971891645,
                 "thinkTime": 0.0,
-                "wastedTime": 0.013952493667602539
+                "wastedTime": 0.00929403305053711
             },
             {
                 "transactionName": "ChooseProduct",
-                "rawStartTime": 1710582129671,
-                "rawEndTime": 1710582132370,
+                "rawStartTime": 1710971896651,
+                "rawEndTime": 1710971899378,
                 "thinkTime": 0.0,
-                "wastedTime": 0.015830278396606447
+                "wastedTime": 0.013922452926635743
             },
             {
                 "transactionName": "AddToCart",
-                "rawStartTime": 1710582137375,
-                "rawEndTime": 1710582137795,
+                "rawStartTime": 1710971904384,
+                "rawEndTime": 1710971905541,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0044498443603515629
+                "wastedTime": 0.003271818161010742
+            },
+            {
+                "transactionName": "CheckCart",
+                "rawStartTime": 1710971910546,
+                "rawEndTime": 1710971911835,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006637096405029297
+            },
+            {
+                "transactionName": "ChechOut",
+                "rawStartTime": 1710971916842,
+                "rawEndTime": 1710971920466,
+                "thinkTime": 0.0,
+                "wastedTime": 0.016864538192749025
+            },
+            {
+                "transactionName": "SafePayment",
+                "rawStartTime": 1710971925471,
+                "rawEndTime": 1710971927952,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008466482162475586
             },
             {
                 "transactionName": "UC1_Buy",
-                "rawStartTime": 1710582102995,
-                "rawEndTime": 1710582137795,
-                "thinkTime": 26.00466,
-                "wastedTime": 0.1271822452545166
+                "rawStartTime": 1710971869040,
+                "rawEndTime": 1710971927954,
+                "thinkTime": 41.00331,
+                "wastedTime": 0.14209461212158204
             }
         ]
     }

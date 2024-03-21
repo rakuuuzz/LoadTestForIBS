@@ -1,0 +1,8 @@
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+lib.h(598): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+lib.h(601): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+lib.h(601): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+lib.h(604): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+lib.h(604): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+lib.h(607): lr_think_time: 11,00 seconds.	[MsgId: MMSG-15948]
+lib.h(609): web_custom_request("AccountLoginRequest") started  	[MsgId: MMSG-26355]

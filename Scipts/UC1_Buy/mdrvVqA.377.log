@@ -1,0 +1,264 @@
+lib.h(537):     SOAPAction = com.advantage.online.store.accountserviceAddSafePayMethodRequest
+lib.h(537):     X-Requested-With = XMLHttpRequest
+lib.h(537):     Sec-Fetch-Dest = empty
+lib.h(537):     Sec-Fetch-Mode = cors
+lib.h(537):     Sec-Fetch-Site = same-origin
+lib.h(537):     DNT = 1
+lib.h(537):     Origin = https://www.advantageonlineshopping.com
+lib.h(537):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(537):     0
+lib.h(537):     Accept-Encoding = gzip, deflate
+lib.h(537):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(537):     Accept = */*
+lib.h(537):     content-length = 520
+lib.h(537):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(537): The request to server "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest" is done with body:
+lib.h(537):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
+lib.h(537):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
+lib.h(537):     www.w3.org/2001/XMLSchema"><soap:Body><AddSafePayMethodRequest xmlns="com.advantage.online
+lib.h(537):     .store.accountservice"><safePayUsername>ajcmlisfp</safePayUsername><accountId>426820329</a
+lib.h(537):     ccountId><safePayPassword>SPpass123</safePayPassword><base64Token>Basic ai5zbWl0aDpKb2huMT
+lib.h(537):     Iz</base64Token></AddSafePayMethodRequest></soap:Body></soap:Envelope>
+lib.h(537): t=75794ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest" (RelFrameId=1, Internal ID=38)
+lib.h(537):     HTTP/2.0 200\r\n
+lib.h(537):     Status: 200\r\n
+lib.h(537):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(537):     date: Mon, 18 Mar 2024 11:00:07 GMT\r\n
+lib.h(537):     content-type: text/xml;charset=utf-8\r\n
+lib.h(537):     content-length: 408\r\n
+lib.h(537):     x-content-type-options: nosniff\r\n
+lib.h(537):     x-xss-protection: 1; mode=block\r\n
+lib.h(537):     cache-control: no-store\r\n
+lib.h(537):     pragma: no-cache\r\n
+lib.h(537):     expires: 0\r\n
+lib.h(537):     x-frame-options: DENY\r\n
+lib.h(537):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+lib.h(537):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+lib.h(537):     access-control-max-age: 3600\r\n
+lib.h(537):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+lib.h(537):     ion\r\n
+lib.h(537):     access-control-allow-origin: *\r\n
+lib.h(537):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+lib.h(537):     soapaction: ""\r\n
+lib.h(537):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(537):     \r\n
+lib.h(537): t=75794ms: 408-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest" (RelFrameId=1, Internal ID=38)
+lib.h(537):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+lib.h(537):     ader/><SOAP-ENV:Body><ns2:AddSafePayMethodResponse xmlns:ns2="com.advantage.online.store.a
+lib.h(537):     ccountservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:id>0</ns2:id><ns2:re
+lib.h(537):     ason>SafePay data updated successfully</ns2:reason></ns2:StatusMessage></ns2:AddSafePayMet
+lib.h(537):     hodResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+lib.h(537): t=75794ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest"  	[MsgId: MMSG-26000]
+lib.h(537): Registered web_reg_find successful for "Text=<ns2:reason>SafePay data updated successfully</ns2:reason>" (count=1)  	[MsgId: MMSG-26364]
+lib.h(537): web_custom_request("AddSafePayMethodRequest") was successful, 408 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+lib.h(550): web_reg_find started  	[MsgId: MMSG-26355]
+lib.h(550): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+lib.h(553): web_custom_request("{UserID}_4") started  	[MsgId: MMSG-26355]
+lib.h(553): Notify: Parameter Substitution: parameter "UserID" =  "426820329"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "UserID" =  "426820329"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "Num" =  "123456789"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "Loginrnd" =  "ajcmlisfp"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "Date" =  "18032024"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "Addres" =  "123 Main St"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "City" =  "Los Angeles"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "Name" =  "John"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "LastName" =  "Smith"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "Num" =  "123456789"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "Zip" =  "90001"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "State" =  "California"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "Cost" =  "479.0"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "ColorId" =  "414141"	[MsgId: MMSG-13992]
+lib.h(553): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "18"	[MsgId: MMSG-13992]
+lib.h(553): The request to server https://www.advantageonlineshopping.com/order/api/v1/orders/users/426820329" is done with headers:
+lib.h(553):     :method = POST
+lib.h(553):     :scheme = https
+lib.h(553):     :path = /order/api/v1/orders/users/426820329
+lib.h(553):     :authority = www.advantageonlineshopping.com
+lib.h(553):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(553):     Content-Type = application/json
+lib.h(553):     Referer = https://www.advantageonlineshopping.com/
+lib.h(553):     Sec-Fetch-Dest = empty
+lib.h(553):     Sec-Fetch-Mode = cors
+lib.h(553):     Sec-Fetch-Site = same-origin
+lib.h(553):     DNT = 1
+lib.h(553):     Origin = https://www.advantageonlineshopping.com
+lib.h(553):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(553):     0
+lib.h(553):     Accept-Encoding = gzip, deflate
+lib.h(553):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(553):     Accept = */*
+lib.h(553):     content-length = 1017
+lib.h(553):     cookie = JSESSIONID=4D35B264ED900D29A4D35B8CEB073084; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(553):     roductsInCart%22%3A%5B%5D%7D
+lib.h(553): The request to server "https://www.advantageonlineshopping.com/order/api/v1/orders/users/426820329" is done with body:
+lib.h(553):     {"orderPaymentInformation":{"Transaction_AccountNumber":"426820329","Transaction_Currency"
+lib.h(553):     :"USD","Transaction_CustomerPhone":123456789,"Transaction_MasterCredit_CVVNumber":"","Tran
+lib.h(553):     saction_MasterCredit_CardNumber":"4886","Transaction_MasterCredit_CustomerName":"","Transa
+lib.h(553):     ction_MasterCredit_ExpirationDate":"122027","Transaction_PaymentMethod":"SafePay","Transac
+lib.h(553):     tion_ReferenceNumber":0,"Transaction_SafePay_Password":"SPpass123","Transaction_SafePay_Us
+lib.h(553):     erName":"ajcmlisfp","Transaction_TransactionDate":"18032024","Transaction_Type":"PAYMENT"}
+lib.h(553):     ,"orderShippingInformation":{"Shipping_Address_Address":"123 Main St","Shipping_Address_Ci
+lib.h(553):     ty":"Los Angeles","Shipping_Address_CountryCode":40,"Shipping_Address_CustomerName":"John 
+lib.h(553):     Smith","Shipping_Address_CustomerPhone":123456789,"Shipping_Address_PostalCode":90001,"Shi
+lib.h(553):     pping_Address_State":"California","Shipping_Cost":479.0,"Shipping_NumberOfProducts":1,"Shi
+lib.h(553):     pping_TrackingNumber":0},"purchasedProducts":[{"hexColor":"414141","productId":18,"quantit
+lib.h(553):     y":1,"hasWarranty":false}]}
+lib.h(553): t=76378ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/426820329" (RelFrameId=1, Internal ID=39)
+lib.h(553):     HTTP/2.0 200\r\n
+lib.h(553):     Status: 200\r\n
+lib.h(553):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(553):     date: Mon, 18 Mar 2024 11:00:07 GMT\r\n
+lib.h(553):     content-type: application/json\r\n
+lib.h(553):     access-control-allow-credentials: true\r\n
+lib.h(553):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
+lib.h(553):     vary: origin,accept-encoding\r\n
+lib.h(553):     expires: 0\r\n
+lib.h(553):     cache-control: no-store\r\n
+lib.h(553):     x-content-type-options: nosniff\r\n
+lib.h(553):     x-xss-protection: 1; mode=block\r\n
+lib.h(553):     x-frame-options: DENY\r\n
+lib.h(553):     content-encoding: gzip\r\n
+lib.h(553):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(553):     \r\n
+lib.h(553): t=76378ms: 151-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/426820329" (RelFrameId=1, Internal ID=39)
+lib.h(553): t=76379ms: 180-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/426820329" (RelFrameId=1, Internal ID=39)
+lib.h(553):     {"success":true,"code":"Ok","reason":"order completed successfully","orderNumber":74925472
+lib.h(553):     54,"paymentConfirmationNumber":7492186043,"trackingNumber":1710749243,"hasWarranty":false}
+lib.h(553): t=76379ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/426820329" (RelFrameId=1, Internal ID=39)
+lib.h(553): t=76379ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/orders/users/426820329"  	[MsgId: MMSG-26000]
+lib.h(553): Registered web_reg_find successful for "Text="order completed successfully"" (count=1)  	[MsgId: MMSG-26364]
+lib.h(553): web_custom_request("{UserID}_4") was successful, 161 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
+lib.h(565): web_custom_request("{UserID}_5") started  	[MsgId: MMSG-26355]
+lib.h(565): Notify: Parameter Substitution: parameter "UserID" =  "426820329"	[MsgId: MMSG-13992]
+lib.h(565): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/426820329" is done with headers:
+lib.h(565):     :method = DELETE
+lib.h(565):     :scheme = https
+lib.h(565):     :path = /order/api/v1/carts/426820329
+lib.h(565):     :authority = www.advantageonlineshopping.com
+lib.h(565):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(565):     Referer = https://www.advantageonlineshopping.com/
+lib.h(565):     Sec-Fetch-Dest = empty
+lib.h(565):     Sec-Fetch-Mode = cors
+lib.h(565):     Sec-Fetch-Site = same-origin
+lib.h(565):     DNT = 1
+lib.h(565):     Origin = https://www.advantageonlineshopping.com
+lib.h(565):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(565):     0
+lib.h(565):     Accept-Encoding = gzip, deflate
+lib.h(565):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(565):     Accept = */*
+lib.h(565):     content-length = 0
+lib.h(565):     cookie = JSESSIONID=4D35B264ED900D29A4D35B8CEB073084; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(565):     roductsInCart%22%3A%5B%5D%7D
+lib.h(565): t=76751ms: 492-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329" (RelFrameId=1, Internal ID=40)
+lib.h(565):     HTTP/2.0 200\r\n
+lib.h(565):     Status: 200\r\n
+lib.h(565):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(565):     date: Mon, 18 Mar 2024 11:00:08 GMT\r\n
+lib.h(565):     content-type: application/json\r\n
+lib.h(565):     access-control-allow-credentials: true\r\n
+lib.h(565):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
+lib.h(565):     vary: origin,accept-encoding\r\n
+lib.h(565):     expires: 0\r\n
+lib.h(565):     cache-control: no-store\r\n
+lib.h(565):     x-content-type-options: nosniff\r\n
+lib.h(565):     x-xss-protection: 1; mode=block\r\n
+lib.h(565):     x-frame-options: DENY\r\n
+lib.h(565):     content-encoding: gzip\r\n
+lib.h(565):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(565):     \r\n
+lib.h(565): t=76751ms: 56-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329" (RelFrameId=1, Internal ID=40)
+lib.h(565): t=76751ms: 40-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329" (RelFrameId=1, Internal ID=40)
+lib.h(565):     {"userId":426820329,"productsInCart":[]}
+lib.h(565): t=76752ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329" (RelFrameId=1, Internal ID=40)
+lib.h(565): t=76752ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329"  	[MsgId: MMSG-26000]
+lib.h(565): web_custom_request("{UserID}_5") was successful, 66 body bytes, 492 header bytes  	[MsgId: MMSG-26386]
+lib.h(575): Notify: Transaction "SafePayment" ended with a "Pass" status (Duration: 1.2533 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(48): Notify: Transaction "UC1_Buy" ended with a "Pass" status (Duration: 51.6832 Think Time: 41.0071 Wasted Time: 0.0009).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=76752ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=76752ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 1 (thread 8632), ended OK."	[MsgId: MMSG-10695]
+lib.h(359): Notify: Transaction "AddToCart" started.	[MsgId: MMSG-16999]
+lib.h(361): web_reg_find started  	[MsgId: MMSG-26355]
+lib.h(361): Notify: Parameter Substitution: parameter "UserID" =  "426820329"	[MsgId: MMSG-13992]
+lib.h(361): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+lib.h(363): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+lib.h(363): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
+lib.h(363): Warning -26592: A header of the same name has been added already. This header is added anyway.  	[MsgId: MWAR-26592]
+lib.h(363): "Origin: https://www.advantageonlineshopping.com" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(363): web_add_header("Origin") highest severity level was "warning"  	[MsgId: MMSG-26391]
+lib.h(366): web_submit_data("{UserId}") started  	[MsgId: MMSG-26355]
+lib.h(366): Notify: Parameter Substitution: parameter "UserID" =  "426820329"	[MsgId: MMSG-13992]
+lib.h(366): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "28"	[MsgId: MMSG-13992]
+lib.h(366): Notify: Parameter Substitution: parameter "ColorId" =  "C3C3C3"	[MsgId: MMSG-13992]
+lib.h(366): Notify: Parameter Substitution: parameter "sessionId" =  "94281F4BF627A24F66FEF590BB61DCC5"	[MsgId: MMSG-13992]
+lib.h(366): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/426820329/product/28/color/C3C3C3?quantity=1" is done with headers:
+lib.h(366):     :method = POST
+lib.h(366):     :scheme = https
+lib.h(366):     :path = /order/api/v1/carts/426820329/product/28/color/C3C3C3?quantity=1
+lib.h(366):     :authority = www.advantageonlineshopping.com
+lib.h(366):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(366):     Content-Type = application/x-www-form-urlencoded
+lib.h(366):     Referer = https://www.advantageonlineshopping.com/
+lib.h(366):     Origin = https://www.advantageonlineshopping.com
+lib.h(366):     Origin = https://www.advantageonlineshopping.com
+lib.h(366):     Sec-Fetch-Dest = empty
+lib.h(366):     Sec-Fetch-Mode = cors
+lib.h(366):     Sec-Fetch-Site = same-origin
+lib.h(366):     DNT = 1
+lib.h(366):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(366):     0
+lib.h(366):     Accept-Encoding = gzip, deflate
+lib.h(366):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(366):     Accept = */*
+lib.h(366):     content-length = 42
+lib.h(366):     cookie = JSESSIONID=94281F4BF627A24F66FEF590BB61DCC5; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(366):     roductsInCart%22%3A%5B%5D%7D
+lib.h(366): The request to server "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329/product/28/color/C3C3C3?quantity=1" is done with body:
+lib.h(366):     sessionId=94281F4BF627A24F66FEF590BB61DCC5
+lib.h(366): t=77831ms: 572-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329/product/28/color/C3C3C3?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(366):     HTTP/2.0 201\r\n
+lib.h(366):     Status: 201\r\n
+lib.h(366):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(366):     date: Mon, 18 Mar 2024 11:00:09 GMT\r\n
+lib.h(366):     content-type: application/json\r\n
+lib.h(366):     access-control-allow-credentials: true\r\n
+lib.h(366):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
+lib.h(366):     vary: origin,accept-encoding\r\n
+lib.h(366):     expires: 0\r\n
+lib.h(366):     cache-control: no-store\r\n
+lib.h(366):     set-cookie: JSESSIONID=DE73EDF7075FDE6A1DD743A19646146C; Path=/order; HttpOnly\r\n
+lib.h(366):     x-content-type-options: nosniff\r\n
+lib.h(366):     x-xss-protection: 1; mode=block\r\n
+lib.h(366):     x-frame-options: DENY\r\n
+lib.h(366):     content-encoding: gzip\r\n
+lib.h(366):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(366):     \r\n
+lib.h(366): t=77832ms: 193-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329/product/28/color/C3C3C3?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(366): t=77832ms: 228-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329/product/28/color/C3C3C3?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(366):     {"userId":426820329,"productsInCart":[{"productId":28,"productName":"HP Z3200 Wireless Mou
+lib.h(366):     se","price":29.99,"quantity":1,"imageUrl":"5300","color":{"code":"C3C3C3","name":"GRAY","i
+lib.h(366):     nStock":10},"exists":true,"hasWarranty":false}]}
+lib.h(366): t=77832ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329/product/28/color/C3C3C3?quantity=1" (RelFrameId=1, Internal ID=27)
+lib.h(366): t=77832ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/426820329/product/28/color/C3C3C3?quantity=1"  	[MsgId: MMSG-26000]
+lib.h(366): Registered web_reg_find successful for "Text="userId":426820329," (count=1)  	[MsgId: MMSG-26364]
+lib.h(366): web_submit_data("{UserId}") was successful, 203 body bytes, 572 header bytes  	[MsgId: MMSG-26386]
+lib.h(377): Notify: Transaction "AddToCart" ended with a "Pass" status (Duration: 0.6635 Wasted Time: 0.0000).	[MsgId: MMSG-16871]
+Action.c(36): lr_think_time: 5.00 seconds.	[MsgId: MMSG-15948]
+Action.c(36): Notify: Transaction "UC1_Buy" ended with a "Stop" status (Duration: 35.7789 Think Time: 26.0048 Wasted Time: 0.0012).	[MsgId: MMSG-16870]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Action.c(36): t=80928ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(36): t=80928ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 2 (thread 23036), ended OK."	[MsgId: MMSG-10695]

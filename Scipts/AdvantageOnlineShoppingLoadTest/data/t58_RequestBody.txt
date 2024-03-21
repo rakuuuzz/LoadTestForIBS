@@ -1,4 +1,0 @@
-"{\"seaddress\":{\"addressLine1\":\"adr\",\"addressLine2\":\"\",\"city\":\"city\",\"country\":\""
-"us\",\"postalCode\":690000,\"state\":\"state\"},\"secustomerName\":\"Name Lname\",\"secustomer"
-"Phone\":899999,\"senumberOfProducts\":1,\"setransactionType\":\"SHIPPING_COST\",\"sessionId\":"
-"\"877C5453743E37CC6F7D2A5D5BF5817C\"}"

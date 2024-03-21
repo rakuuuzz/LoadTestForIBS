@@ -1,0 +1,8 @@
+Start auto log messages stack - Iteration 46.	[MsgId: MMSG-10545]
+Action.c(24): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+lib.h(303): Notify: Transaction "ChooseProduct" started.	[MsgId: MMSG-16999]
+lib.h(305): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+lib.h(305): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+lib.h(312): web_url("{ProductIdrnd}") started  	[MsgId: MMSG-26355]
+lib.h(312): web_url("{ProductIdrnd}") was successful, 627 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(321): web_url("all_data") started  	[MsgId: MMSG-26355]

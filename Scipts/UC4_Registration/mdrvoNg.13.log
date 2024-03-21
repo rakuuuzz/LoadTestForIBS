@@ -1,0 +1,306 @@
+lib.h(88):     2:StatusMessage></ns2:AccountLoginResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+lib.h(88): Notify: Saving Parameter "UserID = 316240571".	[MsgId: MMSG-13798]
+lib.h(88): Notify: Saving Parameter "t_authorization = cnl6bm1wbnRtOkJyb3duaWUzMjEw".	[MsgId: MMSG-13798]
+lib.h(88): t=6833556ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest"  	[MsgId: MMSG-26000]
+lib.h(88): Registered web_reg_find successful for "Text=<ns2:reason>Login Successful</ns2:reason>" (count=1)  	[MsgId: MMSG-26364]
+lib.h(88): web_custom_request("AccountLoginRequest") was successful, 799 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+lib.h(100): web_set_sockets_option started  	[MsgId: MMSG-26355]
+lib.h(100): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+lib.h(102): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+lib.h(102): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
+lib.h(102): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+lib.h(104): web_remove_auto_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+lib.h(104): Previous automatically added web header for "X-Requested-With" removed  	[MsgId: MMSG-26587]
+lib.h(104): web_remove/revert_auto_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+lib.h(106): web_add_auto_header("Authorization") started  	[MsgId: MMSG-26355]
+lib.h(106): Notify: Parameter Substitution: parameter "t_authorization" =  "cnl6bm1wbnRtOkJyb3duaWUzMjEw"	[MsgId: MMSG-13992]
+lib.h(106): Warning -26593: The header being added may cause unpredictable results when applied to all ensuing URLs. It is added anyway  	[MsgId: MWAR-26593]
+lib.h(106): "Authorization: Basic cnl6bm1wbnRtOkJyb3duaWUzMjEw" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+lib.h(106): web_add_auto_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+lib.h(108): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+lib.h(108): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+lib.h(116): web_url("UserID") started  	[MsgId: MMSG-26355]
+lib.h(116): Notify: Parameter Substitution: parameter "UserID" =  "316240571"	[MsgId: MMSG-13992]
+lib.h(116): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/316240571" is done with headers:
+lib.h(116):     :method = GET
+lib.h(116):     :scheme = https
+lib.h(116):     :path = /order/api/v1/carts/316240571
+lib.h(116):     :authority = www.advantageonlineshopping.com
+lib.h(116):     Authorization = Basic cnl6bm1wbnRtOkJyb3duaWUzMjEw
+lib.h(116):     Referer = https://www.advantageonlineshopping.com/
+lib.h(116):     Sec-Fetch-Dest = empty
+lib.h(116):     Sec-Fetch-Mode = cors
+lib.h(116):     Sec-Fetch-Site = same-origin
+lib.h(116):     DNT = 1
+lib.h(116):     User-Agent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+lib.h(116):     Accept-Encoding = gzip, deflate
+lib.h(116):     Accept = */*
+lib.h(116):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(646): Notify: Transaction "LogOut" started.	[MsgId: MMSG-16999]
+lib.h(649): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+lib.h(649): "SOAPAction: com.advantage.online.store.accountserviceAccountLogoutRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(649): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+lib.h(652): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+lib.h(652): An unrecognized header ("X-Requested-With") is being added  	[MsgId: MMSG-26595]
+lib.h(652): "X-Requested-With: XMLHttpRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(652): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+lib.h(655): lr_think_time: 5.00 seconds.	[MsgId: MMSG-15948]
+lib.h(646): Notify: Transaction "LogOut" started.	[MsgId: MMSG-16999]
+lib.h(649): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+lib.h(649): "SOAPAction: com.advantage.online.store.accountserviceAccountLogoutRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(649): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+lib.h(652): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+lib.h(652): An unrecognized header ("X-Requested-With") is being added  	[MsgId: MMSG-26595]
+lib.h(652): "X-Requested-With: XMLHttpRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(652): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+lib.h(655): lr_think_time: 5.00 seconds.	[MsgId: MMSG-15948]
+lib.h(657): web_custom_request("AccountLogoutRequest") started  	[MsgId: MMSG-26355]
+lib.h(657): Notify: Parameter Substitution: parameter "UserID" =  "157654221"	[MsgId: MMSG-13992]
+lib.h(657): Notify: Parameter Substitution: parameter "t_authorization" =  "ZmF0c3R6bGpjOktldmlucGFzczEyMw=="	[MsgId: MMSG-13992]
+lib.h(657): The request to server https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" is done with headers:
+lib.h(657):     :method = POST
+lib.h(657):     :scheme = https
+lib.h(657):     :path = /accountservice/ws/AccountLogoutRequest
+lib.h(657):     :authority = www.advantageonlineshopping.com
+lib.h(657):     Authorization = Basic ZmF0c3R6bGpjOktldmlucGFzczEyMw==
+lib.h(657):     Content-Type = text/xml; charset=UTF-8
+lib.h(657):     Cache-Control = no-cache
+lib.h(657):     Referer = https://www.advantageonlineshopping.com/
+lib.h(657):     SOAPAction = com.advantage.online.store.accountserviceAccountLogoutRequest
+lib.h(657):     X-Requested-With = XMLHttpRequest
+lib.h(657):     Sec-Fetch-Dest = empty
+lib.h(657):     Sec-Fetch-Mode = cors
+lib.h(657):     Sec-Fetch-Site = same-origin
+lib.h(657):     DNT = 1
+lib.h(657):     User-Agent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+lib.h(657):     Accept-Encoding = gzip, deflate
+lib.h(657):     Accept = */*
+lib.h(657):     content-length = 438
+lib.h(657):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(657): The request to server "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" is done with body:
+lib.h(657):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
+lib.h(657):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
+lib.h(657):     www.w3.org/2001/XMLSchema"><soap:Body><AccountLogoutRequest xmlns="com.advantage.online.st
+lib.h(657):     ore.accountservice"><loginUser>157654221</loginUser><base64Token>Basic ZmF0c3R6bGpjOktldml
+lib.h(657):     ucGFzczEyMw==</base64Token></AccountLogoutRequest></soap:Body></soap:Envelope>
+lib.h(657): web_custom_request("AccountLogoutRequest") started  	[MsgId: MMSG-26355]
+lib.h(657): Notify: Parameter Substitution: parameter "UserID" =  "284844351"	[MsgId: MMSG-13992]
+lib.h(657): Notify: Parameter Substitution: parameter "t_authorization" =  "bXRkeWpwb3R3OlBhc3N3b3JkMTIz"	[MsgId: MMSG-13992]
+lib.h(657): The request to server https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" is done with headers:
+lib.h(657):     :method = POST
+lib.h(657):     :scheme = https
+lib.h(657):     :path = /accountservice/ws/AccountLogoutRequest
+lib.h(657):     :authority = www.advantageonlineshopping.com
+lib.h(657):     Authorization = Basic bXRkeWpwb3R3OlBhc3N3b3JkMTIz
+lib.h(657):     Content-Type = text/xml; charset=UTF-8
+lib.h(657):     Cache-Control = no-cache
+lib.h(657):     Referer = https://www.advantageonlineshopping.com/
+lib.h(657):     SOAPAction = com.advantage.online.store.accountserviceAccountLogoutRequest
+lib.h(657):     X-Requested-With = XMLHttpRequest
+lib.h(657):     Sec-Fetch-Dest = empty
+lib.h(657):     Sec-Fetch-Mode = cors
+lib.h(657):     Sec-Fetch-Site = same-origin
+lib.h(657):     DNT = 1
+lib.h(657):     User-Agent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+lib.h(657):     Accept-Encoding = gzip, deflate
+lib.h(657):     Accept = */*
+lib.h(657):     content-length = 434
+lib.h(657):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(657): The request to server "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" is done with body:
+lib.h(657):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
+lib.h(657):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
+lib.h(657):     www.w3.org/2001/XMLSchema"><soap:Body><AccountLogoutRequest xmlns="com.advantage.online.st
+lib.h(657):     ore.accountservice"><loginUser>284844351</loginUser><base64Token>Basic bXRkeWpwb3R3OlBhc3N
+lib.h(657):     3b3JkMTIz</base64Token></AccountLogoutRequest></soap:Body></soap:Envelope>
+lib.h(657): t=6845633ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=940)
+lib.h(657):     HTTP/2.0 200\r\n
+lib.h(657):     Status: 200\r\n
+lib.h(657):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(657):     date: Thu, 21 Mar 2024 00:02:01 GMT\r\n
+lib.h(657):     content-type: text/xml;charset=utf-8\r\n
+lib.h(657):     content-length: 402\r\n
+lib.h(657):     x-content-type-options: nosniff\r\n
+lib.h(657):     x-xss-protection: 1; mode=block\r\n
+lib.h(657):     cache-control: no-store\r\n
+lib.h(657):     pragma: no-cache\r\n
+lib.h(657):     expires: 0\r\n
+lib.h(657):     x-frame-options: DENY\r\n
+lib.h(657):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+lib.h(657):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+lib.h(657):     access-control-max-age: 3600\r\n
+lib.h(657):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+lib.h(657):     ion\r\n
+lib.h(657):     access-control-allow-origin: *\r\n
+lib.h(657):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+lib.h(657):     soapaction: ""\r\n
+lib.h(657):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(657):     \r\n
+lib.h(657): t=6845633ms: 402-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=940)
+lib.h(657):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+lib.h(657):     ader/><SOAP-ENV:Body><ns2:AccountLogoutResponse xmlns:ns2="com.advantage.online.store.acco
+lib.h(657):     untservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:userId>157654221</ns2:u
+lib.h(657):     serId><ns2:reason>Logout Successful</ns2:reason></ns2:StatusMessage></ns2:AccountLogoutRes
+lib.h(657):     ponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+lib.h(657): t=6845633ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest"  	[MsgId: MMSG-26000]
+lib.h(657): web_custom_request("AccountLogoutRequest") was successful, 402 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+lib.h(669): Notify: Transaction "LogOut" ended with a "Pass" status (Duration: 9.0590 Think Time: 5.0000).	[MsgId: MMSG-16872]
+Action.c(30): Notify: Transaction "UC4_Registration" ended with a "Pass" status (Duration: 59.7440 Think Time: 24.0030 Wasted Time: 0.0010).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=6845633ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=6845633ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 3 (thread 31016), ended OK."	[MsgId: MMSG-10695]
+lib.h(657): t=6848069ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=440)
+lib.h(657):     HTTP/2.0 200\r\n
+lib.h(657):     Status: 200\r\n
+lib.h(657):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(657):     date: Thu, 21 Mar 2024 00:02:03 GMT\r\n
+lib.h(657):     content-type: text/xml;charset=utf-8\r\n
+lib.h(657):     content-length: 402\r\n
+lib.h(657):     x-content-type-options: nosniff\r\n
+lib.h(657):     x-xss-protection: 1; mode=block\r\n
+lib.h(657):     cache-control: no-store\r\n
+lib.h(657):     pragma: no-cache\r\n
+lib.h(657):     expires: 0\r\n
+lib.h(657):     x-frame-options: DENY\r\n
+lib.h(657):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+lib.h(657):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+lib.h(657):     access-control-max-age: 3600\r\n
+lib.h(657):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+lib.h(657):     ion\r\n
+lib.h(657):     access-control-allow-origin: *\r\n
+lib.h(657):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+lib.h(657):     soapaction: ""\r\n
+lib.h(657):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(657):     \r\n
+lib.h(657): t=6848070ms: 402-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=440)
+lib.h(657):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+lib.h(657):     ader/><SOAP-ENV:Body><ns2:AccountLogoutResponse xmlns:ns2="com.advantage.online.store.acco
+lib.h(657):     untservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:userId>284844351</ns2:u
+lib.h(657):     serId><ns2:reason>Logout Successful</ns2:reason></ns2:StatusMessage></ns2:AccountLogoutRes
+lib.h(657):     ponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+lib.h(657): t=6848070ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest"  	[MsgId: MMSG-26000]
+lib.h(657): web_custom_request("AccountLogoutRequest") was successful, 402 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+lib.h(669): Notify: Transaction "LogOut" ended with a "Pass" status (Duration: 9.7280 Think Time: 5.0000).	[MsgId: MMSG-16872]
+Action.c(30): Notify: Transaction "UC4_Registration" ended with a "Pass" status (Duration: 38.9160 Think Time: 24.0020).	[MsgId: MMSG-16872]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=6848070ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=6848070ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 4 (thread 25300), ended OK."	[MsgId: MMSG-10695]
+lib.h(116): t=6849894ms: 455-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/316240571" (RelFrameId=1, Internal ID=1959)
+lib.h(116):     HTTP/2.0 200\r\n
+lib.h(116):     Status: 200\r\n
+lib.h(116):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(116):     date: Thu, 21 Mar 2024 00:02:05 GMT\r\n
+lib.h(116):     content-type: application/json\r\n
+lib.h(116):     expires: 0\r\n
+lib.h(116):     cache-control: no-store\r\n
+lib.h(116):     set-cookie: JSESSIONID=AE6AC6A9BE909BFB8299B098870955BA; Path=/order; HttpOnly\r\n
+lib.h(116):     x-content-type-options: nosniff\r\n
+lib.h(116):     x-xss-protection: 1; mode=block\r\n
+lib.h(116):     x-frame-options: DENY\r\n
+lib.h(116):     vary: accept-encoding\r\n
+lib.h(116):     content-encoding: gzip\r\n
+lib.h(116):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(116):     \r\n
+lib.h(116): t=6849895ms: 101-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/316240571" (RelFrameId=1, Internal ID=1959)
+lib.h(116): t=6849895ms: 87-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/316240571" (RelFrameId=1, Internal ID=1959)
+lib.h(116):     {"userId":316240571,"productsInCart":[],"sessionId":"AE6AC6A9BE909BFB8299B098870955BA"}
+lib.h(116): Notify: Saving Parameter "sessionId = AE6AC6A9BE909BFB8299B098870955BA".	[MsgId: MMSG-13798]
+lib.h(116): t=6849895ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/316240571" (RelFrameId=1, Internal ID=1959)
+lib.h(116): t=6849895ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/316240571"  	[MsgId: MMSG-26000]
+lib.h(116): web_url("UserID") was successful, 111 body bytes, 455 header bytes  	[MsgId: MMSG-26386]
+lib.h(125): Notify: Transaction "Registration" ended with a "Pass" status (Duration: 31.6140 Think Time: 9.0010).	[MsgId: MMSG-16872]
+Action.c(26): lr_think_time: 5.00 seconds.	[MsgId: MMSG-15948]
+lib.h(646): Notify: Transaction "LogOut" started.	[MsgId: MMSG-16999]
+lib.h(649): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+lib.h(649): "SOAPAction: com.advantage.online.store.accountserviceAccountLogoutRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(649): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+lib.h(652): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+lib.h(652): An unrecognized header ("X-Requested-With") is being added  	[MsgId: MMSG-26595]
+lib.h(652): "X-Requested-With: XMLHttpRequest" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(652): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+lib.h(655): lr_think_time: 5.00 seconds.	[MsgId: MMSG-15948]
+lib.h(657): web_custom_request("AccountLogoutRequest") started  	[MsgId: MMSG-26355]
+lib.h(657): Notify: Parameter Substitution: parameter "UserID" =  "316240571"	[MsgId: MMSG-13992]
+lib.h(657): Notify: Parameter Substitution: parameter "t_authorization" =  "cnl6bm1wbnRtOkJyb3duaWUzMjEw"	[MsgId: MMSG-13992]
+lib.h(657): The request to server https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" is done with headers:
+lib.h(657):     :method = POST
+lib.h(657):     :scheme = https
+lib.h(657):     :path = /accountservice/ws/AccountLogoutRequest
+lib.h(657):     :authority = www.advantageonlineshopping.com
+lib.h(657):     Authorization = Basic cnl6bm1wbnRtOkJyb3duaWUzMjEw
+lib.h(657):     Content-Type = text/xml; charset=UTF-8
+lib.h(657):     Cache-Control = no-cache
+lib.h(657):     Referer = https://www.advantageonlineshopping.com/
+lib.h(657):     SOAPAction = com.advantage.online.store.accountserviceAccountLogoutRequest
+lib.h(657):     X-Requested-With = XMLHttpRequest
+lib.h(657):     Sec-Fetch-Dest = empty
+lib.h(657):     Sec-Fetch-Mode = cors
+lib.h(657):     Sec-Fetch-Site = same-origin
+lib.h(657):     DNT = 1
+lib.h(657):     User-Agent = Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+lib.h(657):     Accept-Encoding = gzip, deflate
+lib.h(657):     Accept = */*
+lib.h(657):     content-length = 434
+lib.h(657):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(657): The request to server "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" is done with body:
+lib.h(657):     <?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.or
+lib.h(657):     g/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://
+lib.h(657):     www.w3.org/2001/XMLSchema"><soap:Body><AccountLogoutRequest xmlns="com.advantage.online.st
+lib.h(657):     ore.accountservice"><loginUser>316240571</loginUser><base64Token>Basic cnl6bm1wbnRtOkJyb3d
+lib.h(657):     uaWUzMjEw</base64Token></AccountLogoutRequest></soap:Body></soap:Envelope>
+lib.h(657): t=6861099ms: 735-byte response headers for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=1960)
+lib.h(657):     HTTP/2.0 200\r\n
+lib.h(657):     Status: 200\r\n
+lib.h(657):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(657):     date: Thu, 21 Mar 2024 00:02:16 GMT\r\n
+lib.h(657):     content-type: text/xml;charset=utf-8\r\n
+lib.h(657):     content-length: 402\r\n
+lib.h(657):     x-content-type-options: nosniff\r\n
+lib.h(657):     x-xss-protection: 1; mode=block\r\n
+lib.h(657):     cache-control: no-store\r\n
+lib.h(657):     pragma: no-cache\r\n
+lib.h(657):     expires: 0\r\n
+lib.h(657):     x-frame-options: DENY\r\n
+lib.h(657):     access-control-request-method: POST, GET, OPTIONS, DELETE\r\n
+lib.h(657):     access-control-allow-methods: POST, GET, OPTIONS, DELETE\r\n
+lib.h(657):     access-control-max-age: 3600\r\n
+lib.h(657):     access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept, Key, soapact
+lib.h(657):     ion\r\n
+lib.h(657):     access-control-allow-origin: *\r\n
+lib.h(657):     accept: text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2\r\n
+lib.h(657):     soapaction: ""\r\n
+lib.h(657):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(657):     \r\n
+lib.h(657): t=6861100ms: 402-byte response body for "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest" (RelFrameId=1, Internal ID=1960)
+lib.h(657):     <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:He
+lib.h(657):     ader/><SOAP-ENV:Body><ns2:AccountLogoutResponse xmlns:ns2="com.advantage.online.store.acco
+lib.h(657):     untservice"><ns2:StatusMessage><ns2:success>true</ns2:success><ns2:userId>316240571</ns2:u
+lib.h(657):     serId><ns2:reason>Logout Successful</ns2:reason></ns2:StatusMessage></ns2:AccountLogoutRes
+lib.h(657):     ponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+lib.h(657): t=6861100ms: Request done "https://www.advantageonlineshopping.com/accountservice/ws/AccountLogoutRequest"  	[MsgId: MMSG-26000]
+lib.h(657): web_custom_request("AccountLogoutRequest") was successful, 402 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+lib.h(669): Notify: Transaction "LogOut" ended with a "Pass" status (Duration: 6.2050 Think Time: 5.0010).	[MsgId: MMSG-16872]
+Action.c(30): Notify: Transaction "UC4_Registration" ended with a "Pass" status (Duration: 50.7230 Think Time: 24.0030).	[MsgId: MMSG-16872]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=6861101ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+t=6861101ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 1 (thread 14960), ended OK."	[MsgId: MMSG-10695]

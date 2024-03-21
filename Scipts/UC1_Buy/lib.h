@@ -1,14 +1,14 @@
 Registration()
 {
-	char name[10] = {0};
-	int i;
-	
-	for(i = 0; i < 9; i++)
-	{
-		name[i] = rand()%26+'a';
-	}
-	
-	lr_save_string(name,"Loginrnd");
+//	char name[10] = {0};
+//	int i;
+//	
+//	for(i = 0; i < 9; i++)
+//	{
+//		name[i] = rand()%26+'a';
+//	}
+//	
+//	lr_save_string(name,"Loginrnd");
 	
 	lr_start_transaction("Registration");
 
@@ -152,7 +152,7 @@ HomePage()
 	web_add_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	web_url("www.advantageonlineshopping.com", 
+	web_custom_request("www.advantageonlineshopping.com", 
 		"URL=https://www.advantageonlineshopping.com/", 
 		"Resource=0", 
 		"RecContentType=text/html", 
@@ -298,9 +298,10 @@ ChooseCategory()
 
 ChooseProduct()
 {
-	lr_save_string(lr_paramarr_random("ProductId"),"ProductIdrnd");
 	
 	lr_start_transaction("ChooseProduct");
+	
+	lr_save_string(lr_paramarr_random("ProductId"),"ProductIdrnd");
 
 	web_reg_save_param_ex(
 					"ParamName=ColorId",
@@ -327,7 +328,7 @@ ChooseProduct()
 		"Mode=HTML", 
 		LAST);
 
-	web_url("products_2", 
+	web_url("products_{Categoriesrnd}", 
 		"URL=https://www.advantageonlineshopping.com/catalog/api/v1/categories/{Categoriesrnd}/products", 
 		"Resource=0", 
 		"RecContentType=application/json", 
@@ -358,6 +359,9 @@ AddToCart()
 	lr_start_transaction("AddToCart");
 	
 	web_reg_find("Text=\"userId\":{UserID},",LAST);
+	
+	web_add_header("Origin", 
+		"https://www.advantageonlineshopping.com");
 
 	web_submit_data("{UserId}",
 		"Action=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}/product/{ProductIdrnd}/color/{ColorId}?quantity=1",
@@ -365,7 +369,7 @@ AddToCart()
 		"RecContentType=application/json",
 		"Referer=https://www.advantageonlineshopping.com/",
 		"Snapshot=t52.inf",
-		"Mode=HTML",
+		"Mode=HTTP",
 		ITEMDATA,
 		"Name=sessionId", "Value={sessionId}", ENDITEM,
 		LAST); 
@@ -455,6 +459,7 @@ CheckOut()
 					"RB=,",
 					SEARCH_FILTERS,
 					LAST);
+	
 
 	web_url("{UserID}_3", 
 		"URL=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}", 
@@ -621,6 +626,13 @@ LogIn()
 	web_set_sockets_option("INITIAL_AUTH", "BASIC");
 	
 	web_add_auto_header("Authorization", " Basic {t_authorization}");
+	
+	web_reg_save_param_ex(
+		"ParamName=sessionId",
+		"LB=\"sessionId\":\"",
+		"RB=\"",
+		SEARCH_FILTERS,
+		LAST);
 
 	web_url("{UserID}", 
 		"URL=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}", 

@@ -1,0 +1,4 @@
+"{"seaddress":{"addressLine1":"111 PineSt","addressLine2":"","city":"San Francisco","country":""
+"us","postalCode":90002,"state":"California"},"secustomerName":"Sarah Thompson","secustomerPhon"
+"e":7777777777,"senumberOfProducts":1,"setransactionType":"SHIPPING_COST","sessionId":"C3F2F3A9"
+"E5F5AD5C8E895036B9EEA19A"}"

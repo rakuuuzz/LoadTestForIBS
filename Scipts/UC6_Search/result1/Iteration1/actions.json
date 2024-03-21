@@ -6,78 +6,78 @@
                 "stepId": "STEP1",
                 "stepName": "Url: www.advantageonlineshopping.com",
                 "infFile": "t1.inf",
-                "time": 1710519302646
+                "time": 1710696773114
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: ALL",
                 "infFile": "t2.inf",
-                "time": 1710519302957
+                "time": 1710696773345
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Custom Request: GetAccountConfigurationRequest",
                 "infFile": "t3.inf",
-                "time": 1710519303285
+                "time": 1710696773647
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Url: categories",
                 "infFile": "t4.inf",
-                "time": 1710519303977
+                "time": 1710696774241
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Url: search",
                 "infFile": "t5.inf",
-                "time": 1710519304556
+                "time": 1710696774840
             },
             {
                 "stepId": "STEP6",
                 "stepName": "Url: popularProducts.json",
                 "infFile": "t6.inf",
-                "time": 1710519304711
+                "time": 1710696775002
             },
             {
                 "stepId": "STEP7",
                 "stepName": "Url: home-page.html",
                 "infFile": "t7.inf",
-                "time": 1710519305150
+                "time": 1710696775443
             },
             {
                 "stepId": "STEP8",
                 "stepName": "Url: search",
                 "infFile": "t8.inf",
-                "time": 1710519310736
+                "time": 1710696781093
             },
             {
                 "stepId": "STEP9",
                 "stepName": "Url: all_data",
                 "infFile": "t9.inf",
-                "time": 1710519311850
+                "time": 1710696782245
             }
         ],
         "transactions": [
             {
                 "transactionName": "HomePage",
-                "rawStartTime": 1710519292710,
-                "rawEndTime": 1710519305152,
+                "rawStartTime": 1710696763045,
+                "rawEndTime": 1710696775446,
                 "thinkTime": 0.0,
-                "wastedTime": 0.24375200271606446
+                "wastedTime": 0.15497779846191407
             },
             {
                 "transactionName": "Search",
-                "rawStartTime": 1710519310157,
-                "rawEndTime": 1710519311853,
+                "rawStartTime": 1710696780452,
+                "rawEndTime": 1710696782247,
                 "thinkTime": 0.0,
-                "wastedTime": 0.005888462066650391
+                "wastedTime": 0.008130073547363282
             },
             {
                 "transactionName": "UC6_Search",
-                "rawStartTime": 1710519292709,
-                "rawEndTime": 1710519311855,
-                "thinkTime": 5.001161,
-                "wastedTime": 0.24964046478271485
+                "rawStartTime": 1710696763043,
+                "rawEndTime": 1710696782249,
+                "thinkTime": 5.001833,
+                "wastedTime": 0.16310787200927735
             }
         ]
     }

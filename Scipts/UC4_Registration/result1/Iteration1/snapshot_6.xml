@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="6">
-  <HTTPTask id="10" hostname="www.advantageonlineshopping.com" path="/app/tempFiles/popularProducts.json" url="https://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json" ip="54.227.55.203" port="443" client_ip="192.168.1.36" client_port="34186" connectionId="2440" origin="Primary" encodingType="ANSI" startDateTime="2024-03-15T18:58:02.317+03:00" startTime="2907" endTime="3048" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="4294967295" waitTime="4294967295" receiveTime="0" sslNegotiateTime="-1" responseBodySize="766">
+  <HTTPTask id="10" hostname="www.advantageonlineshopping.com" path="/app/tempFiles/popularProducts.json" url="https://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json" ip="54.227.55.203" port="443" client_ip="192.168.1.36" client_port="53876" connectionId="2436" origin="Primary" encodingType="ANSI" startDateTime="2024-03-19T18:24:08.759+03:00" startTime="2680" endTime="2823" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="4294967295" waitTime="4294967295" receiveTime="2" sslNegotiateTime="-1" responseBodySize="767">
     <HTTPRequest method="GET">
       <HTTPHeaders>
         <HTTPHeaderEntity name=":method" index="0">
@@ -153,7 +153,7 @@
         <HTTPHeaderEntity name="date" index="2">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>RnJpLCAxNSBNYXIgMjAyNCAxNTo1ODowNCBHTVQ=</ActualData>
+              <ActualData>VHVlLCAxOSBNYXIgMjAyNCAxNToyNDoxMCBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -177,7 +177,7 @@
         <HTTPHeaderEntity name="etag" index="5">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>Vy8iMjMyMy0xNzA3OTAyNzUyMDAwIg==</ActualData>
+              <ActualData>Vy8iMjMyMy0xNjg4MDI0MTQ4MDAwIg==</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -185,7 +185,7 @@
         <HTTPHeaderEntity name="last-modified" index="6">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>V2VkLCAxNCBGZWIgMjAyNCAwOToyNTo1MiBHTVQ=</ActualData>
+              <ActualData>VGh1LCAyOSBKdW4gMjAyMyAwNzozNTo0OCBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -201,7 +201,7 @@
         <HTTPHeaderEntity name="expires" index="8">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>RnJpLCAxNSBNYXIgMjAyNCAxNTo1ODowNCBHTVQ=</ActualData>
+              <ActualData>VHVlLCAxOSBNYXIgMjAyNCAxNToyNDoxMCBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -233,7 +233,7 @@
         <HTTPAllHeaders>
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>SFRUUC8yLjAgMjAwDQpTdGF0dXM6IDIwMA0Kc2VydmVyOiBuZ2lueC8xLjE4LjAgKFVidW50dSkNCmRhdGU6IEZyaSwgMTUgTWFyIDIwMjQgMTU6NTg6MDQgR01UDQpjb250ZW50LXR5cGU6IGFwcGxpY2F0aW9uL2pzb24NCmFjY2VwdC1yYW5nZXM6IGJ5dGVzDQpldGFnOiBXLyIyMzIzLTE3MDc5MDI3NTIwMDAiDQpsYXN0LW1vZGlmaWVkOiBXZWQsIDE0IEZlYiAyMDI0IDA5OjI1OjUyIEdNVA0KY2FjaGUtY29udHJvbDogbWF4LWFnZT0wDQpleHBpcmVzOiBGcmksIDE1IE1hciAyMDI0IDE1OjU4OjA0IEdNVA0KdmFyeTogYWNjZXB0LWVuY29kaW5nDQpjb250ZW50LWVuY29kaW5nOiBnemlwDQpzdHJpY3QtdHJhbnNwb3J0LXNlY3VyaXR5OiBtYXgtYWdlPTMxNTM2MDAwOyBpbmNsdWRlU3ViRG9tYWluczsgcHJlbG9hZA0KDQo=</ActualData>
+              <ActualData>SFRUUC8yLjAgMjAwDQpTdGF0dXM6IDIwMA0Kc2VydmVyOiBuZ2lueC8xLjE4LjAgKFVidW50dSkNCmRhdGU6IFR1ZSwgMTkgTWFyIDIwMjQgMTU6MjQ6MTAgR01UDQpjb250ZW50LXR5cGU6IGFwcGxpY2F0aW9uL2pzb24NCmFjY2VwdC1yYW5nZXM6IGJ5dGVzDQpldGFnOiBXLyIyMzIzLTE2ODgwMjQxNDgwMDAiDQpsYXN0LW1vZGlmaWVkOiBUaHUsIDI5IEp1biAyMDIzIDA3OjM1OjQ4IEdNVA0KY2FjaGUtY29udHJvbDogbWF4LWFnZT0wDQpleHBpcmVzOiBUdWUsIDE5IE1hciAyMDI0IDE1OjI0OjEwIEdNVA0KdmFyeTogYWNjZXB0LWVuY29kaW5nDQpjb250ZW50LWVuY29kaW5nOiBnemlwDQpzdHJpY3QtdHJhbnNwb3J0LXNlY3VyaXR5OiBtYXgtYWdlPTMxNTM2MDAwOyBpbmNsdWRlU3ViRG9tYWluczsgcHJlbG9hZA0KDQo=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -249,7 +249,7 @@
       </HTTPBody>
       <HTTPPropertySet>
         <HTTPProperty name="StreamID">17</HTTPProperty>
-        <HTTPProperty name="TotalHeadersSize">266</HTTPProperty>
+        <HTTPProperty name="TotalHeadersSize">267</HTTPProperty>
       </HTTPPropertySet>
     </HTTPResponse>
   </HTTPTask>

@@ -1,14 +1,14 @@
 Registration()
 {
-	char name[10] = {0};
-	int i;
-	
-	for(i = 0; i < 9; i++)
-	{
-		name[i] = rand()%26+'a';
-	}
-	
-	lr_save_string(name,"Loginrnd");
+//	char name[10] = {0};
+//	int i;
+//	
+//	for(i = 0; i < 9; i++)
+//	{
+//		name[i] = rand()%26+'a';
+//	}
+//	
+//	lr_save_string(name,"Loginrnd");
 	
 	lr_start_transaction("Registration");
 
@@ -46,7 +46,11 @@ Registration()
 		"com.advantage.online.store.accountserviceAccountCreateRequest");
 
 	lr_think_time(9);
+	
+	web_reg_find("Text=<ns2:reason>New user created successfully.</ns2:reason>",
+		LAST);
 
+	//*
 	web_custom_request("AccountCreateRequest", 
 		"URL=https://www.advantageonlineshopping.com/accountservice/ws/AccountCreateRequest", 
 		"Method=POST", 
@@ -59,6 +63,7 @@ Registration()
 		"Body=<?xml version=\"1.0\" encoding=\"UTF-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><AccountCreateRequest xmlns=\"com.advantage.online.store.accountservice\"><accountType>USER</accountType><address>{Addres}</address><allowOffersPromotion>true</allowOffersPromotion><cityName>{City}</cityName><countryId>{Country}</countryId><email>{Email}</email><firstName"
 		">{Name}</firstName><lastName>{LastName}</lastName><loginName>{Loginrnd}</loginName><password>{Pass}</password><phoneNumber>{Num}</phoneNumber><stateProvince>{State}</stateProvince><zipcode>{Zip}</zipcode></AccountCreateRequest></soap:Body></soap:Envelope>", 
 		LAST);
+	
 
 	web_add_header("SOAPAction", 
 		"com.advantage.online.store.accountserviceAccountLoginRequest");
@@ -79,7 +84,7 @@ Registration()
 						SEARCH_FILTERS,
 						LAST);
 	
-
+	//*
 	web_custom_request("AccountLoginRequest", 
 		"URL=https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest", 
 		"Method=POST", 
@@ -245,7 +250,7 @@ HomePage()
 
 ChooseCategory()
 {
-	int Categoriesrnd;
+	int Categoriesrnd = 0;
 	Categoriesrnd = rand()%5+1;
 	lr_save_int(Categoriesrnd,"Categoriesrnd");
 		

@@ -1,0 +1,1131 @@
+lib.h(321):     tributeName":"CONNECTOR","attributeValue":"Wireless","showInFilter":true},{"attributeName"
+lib.h(321):     :"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE","showInFilter":true},{"attribut
+lib.h(321):     eName":"WEIGHT","attributeValue":"0.55 lb","showInFilter":true},{"attributeName":"COMPATIB
+lib.h(321):     ILITY","attributeValue":"Any device that has bluetooth enabled or a 3.5 mm audio connector
+lib.h(321):     .","showInFilter":true},{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilte
+lib.h(321):     r":true}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"FCC23D","name":
+lib.h(321):     "YELLOW","inStock":10},{"code":"DD3A5B","name":"RED","inStock":10},{"code":"C3C3C3","name"
+lib.h(321):     :"GRAY","inStock":10}],"images":["C3C3C3##4603","DD3A5B##4600","414141##4602","FCC23D##460
+lib.h(321):     1"],"productStatus":"Active"},{"productId":21,"categoryId":4,"productName":"HP Roar Plus W
+lib.h(321):     ireless Speaker","price":169.99,"description":"Showcase your music anywhere with the ease 
+lib.h(321):     of wireless Bluetooth\xC2\xAE connectivity.","imageUrl":"4300","attributes":[{"attributeNa
+lib.h(321):     me":"CONNECTOR","attributeValue":"Wireless","showInFilter":true},{"attributeName":"COMPATI
+lib.h(321):     BILITY","attributeValue":"Any device that has bluetooth enabled","showInFilter":true},{"at
+lib.h(321):     tributeName":"WEIGHT","attributeValue":"1.26 lb","showInFilter":true},{"attributeName":"WI
+lib.h(321):     RELESS TECHNOLOGY","attributeValue":"Bluetooth\xC2\xAE","showInFilter":true},{"attributeNa
+lib.h(321):     me":"MANUFACTURER","attributeValue":"HP","showInFilter":true}],"colors":[{"code":"3683D1",
+lib.h(321):     "name":"BLUE","inStock":10},{"code":"414141","name":"BLACK","inStock":10},{"code":"545195"
+lib.h(321):     ,"name":"PURPLE","inStock":10}],"images":["3683D1##4301","3683D1##4300","545195##4308","41
+lib.h(321):     4141##4304"],"productStatus":"Active"},{"productId":22,"categoryId":4,"productName":"HP Ro
+lib.h(321):     ar Wireless Speaker","price":84.99,"description":"Showcase your music anywhere with the ea
+lib.h(321):     se of wireless Bluetooth\xC2\xAE connectivity.","imageUrl":"4400","attributes":[{"attribut
+lib.h(321):     eName":"CONNECTOR","attributeValue":"Wireless","showInFilter":true},{"attributeName":"MANU
+lib.h(321):     FACTURER","attributeValue":"HP","showInFilter":true},{"attributeName":"COMPATIBILITY","att
+lib.h(321):     ributeValue":"Any device that has bluetooth enabled","showInFilter":true},{"attributeName"
+lib.h(321):     :"WEIGHT","attributeValue":"1.1 lb","showInFilter":true},{"attributeName":"WIRELESS TECHNO
+lib.h(321):     LOGY","attributeValue":"Bluetooh\xC2\xAE","showInFilter":true}],"colors":[{"code":"3683D1"
+lib.h(321):     ,"name":"BLUE","inStock":10},{"code":"FFFFFF","name":"WHITE","inStock":10},{"code":"FCC23D
+lib.h(321):     ","name":"YELLOW","inStock":10}],"images":["FFFFFF##4401","3683D1##4404","FCC23D##4408","F
+lib.h(321):     FFFFF##4400"],"productStatus":"Active"},{"productId":19,"categoryId":4,"productName":"HP S
+lib.h(321):     9500 Bluetooth Wireless Speaker","price":200.0,"description":"Impress \xE2\x80\xA6 everyon
+lib.h(321):     e! Futuristic design with perforated steel formed into subtle angles. Requiring only minim
+lib.h(321):     al space, this speaker is the ideal complement to any setting.","imageUrl":"4100","attribu
+lib.h(321):     tes":[{"attributeName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth ena
+lib.h(321):     bled","showInFilter":true},{"attributeName":"WEIGHT","attributeValue":"1.95 lb","showInFil
+lib.h(321):     ter":true},{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":true},{"at
+lib.h(321):     tributeName":"CONNECTOR","attributeValue":"Wireless","showInFilter":true},{"attributeName"
+lib.h(321):     :"WIRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE","showInFilter":true}],"colors":
+lib.h(321):     [{"code":"FFFFFF","name":"WHITE","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10
+lib.h(321):     }],"images":["ABCDEF##4101","ABCDEF##4100"],"productStatus":"Active"},{"productId":23,"cat
+lib.h(321):     egoryId":4,"productName":"Logitech X100 Speaker System - Wireless Speaker(s)","price":49.9
+lib.h(321):     9,"description":"Pump up the volume and enjoy crystal-clear sound from this mobile speaker
+lib.h(321):     . This portable speaker is perfect for life on-the-go. Take it on the road or relax and li
+lib.h(321):     sten at home because this mobile speaker goes everywhere. Simple, intuitive design lets yo
+lib.h(321):     u wirelessly connect and stream music from your Bluetooth-enabled device from up to 30' aw
+lib.h(321):     ay. Easily manage phone calls and volume control from your mobile phone. Enjoy five hours 
+lib.h(321):     of continuous play before you need to recharge. Recharge the built-in, lithium-ion battery
+lib.h(321):      with the convenience of the included micro-USB cable.","imageUrl":"4500","attributes":[{"
+lib.h(321):     attributeName":"COMPATIBILITY","attributeValue":"Any device that has bluetooth enabled","s
+lib.h(321):     howInFilter":true},{"attributeName":"WEIGHT","attributeValue":"1.0 lb","showInFilter":true
+lib.h(321):     },{"attributeName":"MANUFACTURER","attributeValue":"Logitech","showInFilter":true},{"attri
+lib.h(321):     buteName":"CONNECTOR","attributeValue":"Wireless","showInFilter":true},{"attributeName":"W
+lib.h(321):     IRELESS TECHNOLOGY","attributeValue":"Bluetooh\xC2\xAE","showInFilter":true}],"colors":[{"
+lib.h(321):     code":"414141","name":"BLACK","inStock":10}],"images":["414141##4500"],"productStatus":"Ac
+lib.h(321):     tive"}],"colors":["414141","3683D1","545195","C3C3C3","DD3A5B","55CDD5","FFFFFF","FCC23D"]
+lib.h(321):     },{"categoryId":5,"categoryName":"MICE","categoryImageId":"mice","promotedProduct":{"id":2
+lib.h(321):     8,"staringPrice":"29.99","promotionHeader":"DISCOVER OUR WIRELESS MICE","promotionSubHeade
+lib.h(321):     r":"designed to work and ready to play","productName":"HP Z3200 Wireless Mouse","price":29
+lib.h(321):     .99,"description":"The HP Wireless Mouse Z3200 provides powerful Blue LED optical tracking
+lib.h(321):     . Its ambidextrous shape and familiar button controls are easy to use. Compact contoured c
+lib.h(321):     ontrol.","imageUrl":"5300","attributes":[{"attributeName":"MANUFACTURER","attributeValue":
+lib.h(321):     "HP"},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Wheel"},{"attributeName":"
+lib.h(321):     SENSOR RESOLUTION","attributeValue":"1600 dpi optical sensor"},{"attributeName":"TYPE","at
+lib.h(321):     tributeValue":"Mouse"},{"attributeName":"CONNECTOR","attributeValue":"Wireless"}]},"attrib
+lib.h(321):     utes":[{"attributeName":"CONNECTOR","attributeValues":["Wireless","USB Cord","Bluetooth\xC2
+lib.h(321):     \xAE"]},{"attributeName":"SENSOR RESOLUTION","attributeValues":["1000 dpi optical sensor",
+lib.h(321):     "N/A","1600 dpi","1600 dpi optical sensor","1000 dpi"]},{"attributeName":"TYPE","attribute
+lib.h(321):     Values":["Trackball","Mouse"]},{"attributeName":"MANUFACTURER","attributeValues":["Logitec
+lib.h(321):     h","HP","Microsoft","Kensington"]},{"attributeName":"SCROLLER TYPE","attributeValues":["Sc
+lib.h(321):     roll Whell","Scroll Ball","Scroll Wheel","Touch Scroll","Scroll Ring"]}],"products":[{"pro
+lib.h(321):     ductId":29,"categoryId":5,"productName":"HP USB 3 Button Optical Mouse","price":9.99,"desc
+lib.h(321):     ription":"Smooth and Accurate - The HP USB 3-Button Optical Mouse is the affordable deskto
+lib.h(321):     p optical mouse solution that combines functionality with style","imageUrl":"5400","attrib
+lib.h(321):     utes":[{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":false},{"attri
+lib.h(321):     buteName":"SCROLLER TYPE","attributeValue":"Scroll Whell","showInFilter":true},{"attribute
+lib.h(321):     Name":"CONNECTOR","attributeValue":"USB Cord","showInFilter":false},{"attributeName":"SENS
+lib.h(321):     OR RESOLUTION","attributeValue":"1000 dpi optical sensor","showInFilter":false},{"attribut
+lib.h(321):     eName":"TYPE","attributeValue":"Mouse","showInFilter":false}],"colors":[{"code":"414141","
+lib.h(321):     name":"BLACK","inStock":10}],"images":["414141##5400"],"productStatus":"Active"},{"product
+lib.h(321):     Id":28,"categoryId":5,"productName":"HP Z3200 Wireless Mouse","price":29.99,"description":
+lib.h(321):     "The HP Wireless Mouse Z3200 provides powerful Blue LED optical tracking. Its ambidextrous
+lib.h(321):      shape and familiar button controls are easy to use. Compact contoured control.","imageUrl
+lib.h(321):     ":"5300","attributes":[{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter
+lib.h(321):     ":false},{"attributeName":"SCROLLER TYPE","attributeValue":"Scroll Wheel","showInFilter":t
+lib.h(321):     rue},{"attributeName":"SENSOR RESOLUTION","attributeValue":"1600 dpi optical sensor","show
+lib.h(321):     InFilter":false},{"attributeName":"TYPE","attributeValue":"Mouse","showInFilter":false},{"
+lib.h(321):     attributeName":"CONNECTOR","attributeValue":"Wireless","showInFilter":false}],"colors":[{"
+lib.h(321):     code":"C3C3C3","name":"GRAY","inStock":10},{"code":"FFFFFF","name":"WHITE","inStock":10},{
+lib.h(321):     "code":"DD3A5B","name":"RED","inStock":10}],"images":["FFFFFF##5300","DD3A5B##5301","C3C3C
+lib.h(321):     3##5300","FFFFFF##5304","C3C3C3##5304","FFFFFF##5306"],"productStatus":"Active"},{"product
+lib.h(321):     Id":27,"categoryId":5,"productName":"HP Z3600 Wireless Mouse","price":15.99,"description":
+lib.h(321):     "The tiny HP Wireless Mouse Z3600 provides stylish comfort and control for your mobile com
+lib.h(321):     puting needs. With optical tracking, 3 button controls, and the freedom to connect up to 3
+lib.h(321):     0ft (10m) away, this compact mouse provides oversized performance.","imageUrl":"5200","att
+lib.h(321):     ributes":[{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilter":false},{"at
+lib.h(321):     tributeName":"CONNECTOR","attributeValue":"Wireless","showInFilter":false},{"attributeName
+lib.h(321):     ":"TYPE","attributeValue":"Mouse","showInFilter":false},{"attributeName":"SENSOR RESOLUTIO
+lib.h(321):     N","attributeValue":"N/A","showInFilter":false},{"attributeName":"SCROLLER TYPE","attribut
+lib.h(321):     eValue":"Scroll Whell","showInFilter":true}],"colors":[{"code":"545195","name":"PURPLE","i
+lib.h(321):     nStock":10},{"code":"FFFFFF","name":"WHITE","inStock":10},{"code":"3683D1","name":"BLUE","
+lib.h(321):     inStock":10},{"code":"414141","name":"BLACK","inStock":10}],"images":["545195##5206","ABCD
+lib.h(321):     EF##5201","ABCDEF##5200","FFFFFF##5206","3683D1##5203"],"productStatus":"Active"},{"produc
+lib.h(321):     tId":30,"categoryId":5,"productName":"HP Z4000 Wireless Mouse","price":9.99,"description":
+lib.h(321):     "The sleek and low-profiled design make the Z4000 the must-have companion to every thin no
+lib.h(321):     tebook or tablet. Style and comfort within a dynamic ultra-mobile wireless mouse.","imageU
+lib.h(321):     rl":"5505","attributes":[{"attributeName":"MANUFACTURER","attributeValue":"HP","showInFilt
+lib.h(321):     er":false},{"attributeName":"SENSOR RESOLUTION","attributeValue":"N/A","showInFilter":fals
+lib.h(321):     e},{"attributeName":"TYPE","attributeValue":"Mouse","showInFilter":false},{"attributeName"
+lib.h(321):     :"SCROLLER TYPE","attributeValue":"Scroll Whell","showInFilter":true},{"attributeName":"CO
+lib.h(321):     NNECTOR","attributeValue":"Wireless","showInFilter":false}],"colors":[{"code":"DD3A5B","na
+lib.h(321):     me":"RED","inStock":10},{"code":"545195","name":"PURPLE","inStock":10},{"code":"3683D1","n
+lib.h(321):     ame":"BLUE","inStock":10}],"images":["545195##5501","3683D1##5506","DD3A5B##5504","DD3A5B#
+lib.h(321):     #5505"],"productStatus":"Active"},{"productId":33,"categoryId":5,"productName":"HP Z8000 B
+lib.h(321):     luetooth Mouse","price":50.99,"d
+lib.h(321): t=28512ms: 5338-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=21)
+lib.h(321):     escription":"The exquisite HP Z8000 Bluetooth Mouse is only 18mm (.7in) height, saves powe
+lib.h(321):     r with Bluetooth\xC2\xAE Low Energy connectivity, and provides effortless capacitive touch
+lib.h(321):      control. The future is here.","imageUrl":"5800","attributes":[{"attributeName":"TYPE","at
+lib.h(321):     tributeValue":"Mouse","showInFilter":false},{"attributeName":"SCROLLER TYPE","attributeVal
+lib.h(321):     ue":"Touch Scroll","showInFilter":true},{"attributeName":"CONNECTOR","attributeValue":"Blu
+lib.h(321):     etooth\xC2\xAE","showInFilter":false},{"attributeName":"MANUFACTURER","attributeValue":"HP
+lib.h(321):     ","showInFilter":false},{"attributeName":"SENSOR RESOLUTION","attributeValue":"1600 dpi","
+lib.h(321):     showInFilter":false}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"4141
+lib.h(321):     41","name":"BLACK","inStock":10}],"images":["ABCDEF##5801","ABCDEF##5800","ABCDEF##5802"],
+lib.h(321):     "productStatus":"Active"},{"productId":32,"categoryId":5,"productName":"Kensington Orbit 7
+lib.h(321):     2337 Trackball with Scroll Ring","price":39.99,"description":"All-day comfort and scrollin
+lib.h(321):     g come together in the Kensington Orbit Trackball with Scroll Ring. The scroll ring allows
+lib.h(321):      you to fly through web pages and documents. And all while delivering comfort and space sa
+lib.h(321):     vings no mouse can match.","imageUrl":"5700","attributes":[{"attributeName":"CONNECTOR","a
+lib.h(321):     ttributeValue":"USB Cord","showInFilter":false},{"attributeName":"SCROLLER TYPE","attribut
+lib.h(321):     eValue":"Scroll Ring","showInFilter":true},{"attributeName":"SENSOR RESOLUTION","attribute
+lib.h(321):     Value":"N/A","showInFilter":false},{"attributeName":"MANUFACTURER","attributeValue":"Kensi
+lib.h(321):     ngton","showInFilter":false},{"attributeName":"TYPE","attributeValue":"Trackball","showInF
+lib.h(321):     ilter":false}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"3683D1","n
+lib.h(321):     ame":"BLUE","inStock":10}],"images":["414141##5700"],"productStatus":"Active"},{"productId
+lib.h(321):     ":26,"categoryId":5,"productName":"Kensington Orbit 72352 Trackball","price":59.99,"descri
+lib.h(321):     ption":"The Kensington Orbit Wireless Mobile Trackball offers a precise, compact and versa
+lib.h(321):     tile experience with a centered-ball design. With no wires to tie you down, the 2.4 GHz wi
+lib.h(321):     reless with storable nano receiver works wherever you do -- at your home or office. And th
+lib.h(321):     e unique touch scrolling lets you glide effortlessly through web pages and documents.","im
+lib.h(321):     ageUrl":"5100","attributes":[{"attributeName":"SENSOR RESOLUTION","attributeValue":"N/A","
+lib.h(321):     showInFilter":false},{"attributeName":"CONNECTOR","attributeValue":"Wireless","showInFilte
+lib.h(321):     r":false},{"attributeName":"TYPE","attributeValue":"Trackball","showInFilter":false},{"att
+lib.h(321):     ributeName":"MANUFACTURER","attributeValue":"Kensington","showInFilter":false},{"attribute
+lib.h(321):     Name":"SCROLLER TYPE","attributeValue":"Scroll Ball","showInFilter":true}],"colors":[{"cod
+lib.h(321):     e":"C3C3C3","name":"GRAY","inStock":10},{"code":"DD3A5B","name":"RED","inStock":10}],"imag
+lib.h(321):     es":["ABCDEF##5100"],"productStatus":"Active"},{"productId":31,"categoryId":5,"productName
+lib.h(321):     ":"Logitech G502 Proteus Core","price":79.99,"description":"MAKE IT YOURS!\\nProteus Core 
+lib.h(321):     perfectly tuned by you.\\nProteus Core allows you to change the weight, balance, and enabl
+lib.h(321):     es you to adapt to wherever you choose to play. Customize it to the way you game and make 
+lib.h(321):     it yours!\\n\\nPERSONALLY-TUNED PERFORMANCE\\nAdapts to your environment\\nFine tune the o
+lib.h(321):     ptical sensor in Proteus Core to your playing surface for better accuracy, precision and r
+lib.h(321):     esponsiveness. A quick tuning process, and you are battle ready.","imageUrl":"5600","attri
+lib.h(321):     butes":[{"attributeName":"CONNECTOR","attributeValue":"USB Cord","showInFilter":false},{"a
+lib.h(321):     ttributeName":"SENSOR RESOLUTION","attributeValue":"N/A","showInFilter":false},{"attribute
+lib.h(321):     Name":"MANUFACTURER","attributeValue":"Logitech","showInFilter":false},{"attributeName":"T
+lib.h(321):     YPE","attributeValue":"Mouse","showInFilter":false},{"attributeName":"SCROLLER TYPE","attr
+lib.h(321):     ibuteValue":"Scroll Whell","showInFilter":true}],"colors":[{"code":"3683D1","name":"BLUE",
+lib.h(321):     "inStock":10},{"code":"414141","name":"BLACK","inStock":10}],"images":["ABCDEF##5600"],"pr
+lib.h(321):     oductStatus":"Active"},{"productId":34,"categoryId":5,"productName":"Microsoft Sculpt Touc
+lib.h(321):     h Mouse","price":49.99,"description":"Looking for a portable mouse that helps you get thin
+lib.h(321):     gs done? Sculpt Touch Mouse saves time in long documents and works virtually anywhere, wit
+lib.h(321):     h no cables or transceivers to connect. And it's designed to fit comfortably in either han
+lib.h(321):     d.\\nThe four-way touch scrolling pad on the Sculpt Touch Mouse lets you breeze up and dow
+lib.h(321):     n, left and right, and through windows and documents with just the swipe of your finger. W
+lib.h(321):     hile you scroll, you'll feel the nice surprise of tactile feedback. Sculpt Touch Mouse is 
+lib.h(321):     also a powerful complement to Windows 8, navigating fluidly and intuitively around the Sta
+lib.h(321):     rt Screen.\\n","imageUrl":"5900","attributes":[{"attributeName":"SENSOR RESOLUTION","attri
+lib.h(321):     buteValue":"1000 dpi","showInFilter":false},{"attributeName":"TYPE","attributeValue":"Mous
+lib.h(321):     e","showInFilter":false},{"attributeName":"CONNECTOR","attributeValue":"Bluetooth\xC2\xAE"
+lib.h(321):     ,"showInFilter":false},{"attributeName":"MANUFACTURER","attributeValue":"Microsoft","showI
+lib.h(321):     nFilter":false},{"attributeName":"SCROLLER TYPE","attributeValue":"Touch Scroll","showInFi
+lib.h(321):     lter":true}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"414141","name
+lib.h(321):     ":"BLACK","inStock":10}],"images":["ABCDEF##5900"],"productStatus":"Active"}],"colors":["4
+lib.h(321):     14141","545195","3683D1","C3C3C3","DD3A5B","FFFFFF"]}]
+lib.h(321): t=28512ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data" (RelFrameId=1, Internal ID=21)
+lib.h(321): t=28513ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data"  	[MsgId: MMSG-26000]
+lib.h(321): web_url("all_data") was successful, 10715 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(330): web_url("products_2") started  	[MsgId: MMSG-26355]
+lib.h(330): Notify: Parameter Substitution: parameter "Categoriesrnd" =  "1"	[MsgId: MMSG-13992]
+lib.h(330): The request to server https://www.advantageonlineshopping.com/catalog/api/v1/categories/1/products" is done with headers:
+lib.h(330):     :method = GET
+lib.h(330):     :scheme = https
+lib.h(330):     :path = /catalog/api/v1/categories/1/products
+lib.h(330):     :authority = www.advantageonlineshopping.com
+lib.h(330):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(330):     Referer = https://www.advantageonlineshopping.com/
+lib.h(330):     Sec-Fetch-Dest = empty
+lib.h(330):     Sec-Fetch-Mode = cors
+lib.h(330):     Sec-Fetch-Site = same-origin
+lib.h(330):     DNT = 1
+lib.h(330):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(330):     0
+lib.h(330):     Accept-Encoding = gzip, deflate
+lib.h(330):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(330):     Accept = */*
+lib.h(330):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(330): t=29216ms: 375-byte response headers for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/1/products" (RelFrameId=1, Internal ID=22)
+lib.h(330):     HTTP/2.0 200\r\n
+lib.h(330):     Status: 200\r\n
+lib.h(330):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(330):     date: Sun, 17 Mar 2024 17:11:40 GMT\r\n
+lib.h(330):     content-type: application/json\r\n
+lib.h(330):     expires: 0\r\n
+lib.h(330):     cache-control: no-store\r\n
+lib.h(330):     x-content-type-options: nosniff\r\n
+lib.h(330):     x-xss-protection: 1; mode=block\r\n
+lib.h(330):     x-frame-options: DENY\r\n
+lib.h(330):     vary: accept-encoding\r\n
+lib.h(330):     content-encoding: gzip\r\n
+lib.h(330):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(330):     \r\n
+lib.h(330): t=29217ms: 3291-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/1/products" (RelFrameId=1, Internal ID=22)
+lib.h(330): t=29217ms: 12288-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/1/products" (RelFrameId=1, Internal ID=22)
+lib.h(330):     {"categoryId":1,"categoryName":"LAPTOPS","categoryImageId":"laptops","promotedProduct":{"i
+lib.h(330):     d":3,"staringPrice":"650","promotionHeader":"EXPLORE THE NEW DESIGN","promotionSubHeader":
+lib.h(330):     "Supremely thin, yet incredibly durable","productName":"HP Pavilion 15z Touch Laptop","pri
+lib.h(330):     ce":449.99,"description":"Redesigned with you in mind, the HP Pavilion keeps getting bette
+lib.h(330):     r. Our best-selling notebook is now more powerful so you can watch more, play more, and st
+lib.h(330):     ore more, all in style.","imageUrl":"1300","attributes":[{"attributeName":"CUSTOMIZATION",
+lib.h(330):     "attributeValue":"Simplicity"},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes"},{"at
+lib.h(330):     tributeName":"DISPLAY","attributeValue":"15.6-inch diagonal Full HD WLED-backlit Display (
+lib.h(330):     1920x1080) Touchscreen"},{"attributeName":"DISPLAY SIZE","attributeValue":"15.6"},{"attrib
+lib.h(330):     uteName":"DISPLAY RESOLUTION","attributeValue":"1920x1080"},{"attributeName":"WEIGHT","att
+lib.h(330):     ributeValue":"5.51 lb"},{"attributeName":"OPERATING SYSTEM","attributeValue":"Windows 10"}
+lib.h(330):     ,{"attributeName":"PROCESSOR","attributeValue":"AMD Quad-Core A10-8700P Processor + AMD Ra
+lib.h(330):     deon(TM) R6 Graphics"},{"attributeName":"MEMORY","attributeValue":"16GB DDR3 - 2 DIMM"}]},
+lib.h(330):     "attributes":[{"attributeName":"CUSTOMIZATION","attributeValues":["2-in-1","Simplicity","G
+lib.h(330):     aming","Business"]},{"attributeName":"OPERATING SYSTEM","attributeValues":["Windows 8.1","
+lib.h(330):     Windows 7 Professional 64","Chrome OS","Windows 10"]},{"attributeName":"PROCESSOR","attrib
+lib.h(330):     uteValues":["Intel(R) Core(TM) i5-6200U Dual CoreProcessor","AMD Quad-Core A10-8700P Proce
+lib.h(330):     ssor + AMD Radeon(TM) R6 Graphics","Intel\xC2\xAE Core\xE2\x84\xA2 i7-4710MQ with Intel HD
+lib.h(330):      Graphics 4600 (2.5 GHz, up to 3.5 GHz with Intel Turbo Boost Technology, 6 MB cache, 4 co
+lib.h(330):     res)","Intel(R) Core(TM) i5-6200U Dual Core Processor","Intel\xC2\xAE Celeron\xC2\xAE proc
+lib.h(330):     essor","Intel\xC2\xAE Core\xE2\x84\xA2 i7-5500U with Intel HD Graphics 5500 (2.4 GHz, 4 MB
+lib.h(330):      cache, 2 cores)","Intel(R) Celeron(R) N3050 Processor","Intel(R) Core(TM) i7-5500U Dual C
+lib.h(330):     ore Processor","Intel Turbo Boost Technology","intel(R) Core(TM) i5-6300HQ"]},{"attributeN
+lib.h(330):     ame":"MEMORY","attributeValues":["16GB DDR3 - 2 DIMM","8 GB DDR3L SDRAM (1 x 8 GB)","8 GB 
+lib.h(330):     1600 MHz DDR3L SDRAM (2 x 4 GB)","8GB DDR3L - 1 DIMM","2 GB 1333 MHz DDR3 SDRAM"]},{"attri
+lib.h(330):     buteName":"DISPLAY","attributeValues":["14-diagonal HD WLED Brightview flat SVA (1366 x 76
+lib.h(330):     8)","13.3 inch diagonal QHD IPS Radiance Infinity LED-backlit touch screen (2560 x 1440)",
+lib.h(330):     "15.6-inch diagonal HD WLED-backlit Display (1366x768) Touchscreen","15.6-inch diagonal HD
+lib.h(330):      BrightView WLED-backlit Display (1366x768)","15.6-inch diagonal Full HD WLED-backlit Disp
+lib.h(330):     lay (1920x1080) Touchscreen","14-inch diagonal LED-backlit HD+ SVA Anti-Glare (1600x900)",
+lib.h(330):     "17.3-inch diagonal Full HD WLED-backlit IPS Display (1920x1080) Touchscreen","11.6-inch d
+lib.h(330):     iagonal HD WLED-backlit IPS Display (1366x768) Touchscreen","11.6-diagonal HD anti-glare W
+lib.h(330):     LED-backlit (1366 x 768)","17.3 inch diagonal LED-backlit FHD WVA anti-glare (1920 x 1080)
+lib.h(330):     ","15.6-inch diagonal Full HD WLED-backlit IPS Display (1920x1080) Touchscreen"]},{"attrib
+lib.h(330):     uteName":"WEIGHT","attributeValues":["4.96 lb","7.25 lb","3.21 lb","7.42 lb","3.2 lb","4 l
+lib.h(330):     b","3.4 lb","5.51 lb","2.3 lb","3.17 lb","2.6 lb"]},{"attributeName":"DISPLAY SIZE","attri
+lib.h(330):     buteValues":["13.3","14","15.6","17.3","11.6"]},{"attributeName":"DISPLAY RESOLUTION","att
+lib.h(330):     ributeValues":["1920x1080","1600x900","2560x1440","1366x768"]},{"attributeName":"TOUCHSCRE
+lib.h(330):     EN","attributeValues":["No","Yes"]}],"products":[{"productId":9,"categoryId":1,"productNam
+lib.h(330):     e":"HP Chromebook 14 G1(ENERGY STAR)","price":299.99,"description":"This HP notebook is al
+lib.h(330):     l about getting the perfect combination of design, reliability, and features. Style and pr
+lib.h(330):     oductivity while keeping your wallet in mind - now that's something to get excited about."
+lib.h(330):     ,"imageUrl":"1249","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"14"},{"
+lib.h(330):     attributeName":"MEMORY","attributeValue":"16GB DDR3 - 2 DIMM"},{"attributeName":"DISPLAY",
+lib.h(330):     "attributeValue":"14-diagonal HD WLED Brightview flat SVA (1366 x 768)"},{"attributeName":
+lib.h(330):     "DISPLAY RESOLUTION","attributeValue":"1366x768"},{"attributeName":"PROCESSOR","attributeV
+lib.h(330):     alue":"Intel\xC2\xAE Celeron\xC2\xAE processor"},{"attributeName":"OPERATING SYSTEM","attr
+lib.h(330):     ibuteValue":"Chrome OS"},{"attributeName":"WEIGHT","attributeValue":"2.3 lb"},{"attributeN
+lib.h(330):     ame":"TOUCHSCREEN","attributeValue":"No"},{"attributeName":"CUSTOMIZATION","attributeValue
+lib.h(330):     ":"Simplicity"}],"colors":[{"code":"414141","name":"BLACK","inStock":10},{"code":"C3C3C3",
+lib.h(330):     "name":"GRAY","inStock":10},{"code":"FFFFFF","name":"WHITE","inStock":10}],"images":["ABCD
+lib.h(330):     EF##1249","ABCDEF##custom_image_user_0d7396f8-11fa-4858-b0a3-b87cd0dc3eca"],"productStatus
+lib.h(330):     ":"Active"},{"productId":10,"categoryId":1,"productName":"HP Chromebook 14 G1(ES)","price"
+lib.h(330):     :1261.99,"description":"Introducing the next generation HP EliteBook Folio 9480m Ultrabook
+lib.h(330):     \xE2\x84\xA2[2]. Timeless, ultra slim profile in an all metal design with optional 4G Broa
+lib.h(330):     dband wWAN, and 4th Generation Intel\xC2\xAE Core\xE2\x84\xA2 Processing Technology.","ima
+lib.h(330):     geUrl":"1250","attributes":[{"attributeName":"DISPLAY RESOLUTION","attributeValue":"1600x9
+lib.h(330):     00"},{"attributeName":"MEMORY","attributeValue":"16GB DDR3 - 2 DIMM"},{"attributeName":"DI
+lib.h(330):     SPLAY","attributeValue":"14-inch diagonal LED-backlit HD+ SVA Anti-Glare (1600x900)"},{"at
+lib.h(330):     tributeName":"CUSTOMIZATION","attributeValue":"Business"},{"attributeName":"OPERATING SYST
+lib.h(330):     EM","attributeValue":"Windows 10"},{"attributeName":"TOUCHSCREEN","attributeValue":"No"},{
+lib.h(330):     "attributeName":"DISPLAY SIZE","attributeValue":"14"},{"attributeName":"PROCESSOR","attrib
+lib.h(330):     uteValue":"Intel(R) Core(TM) i5-6200U Dual CoreProcessor"},{"attributeName":"WEIGHT","attr
+lib.h(330):     ibuteValue":"3.2 lb"}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10}],"images":["
+lib.h(330):     ABCDEF##custom_image_user_141e2c2e-68bc-4638-9c09-95a6cbc2a2de","C3C3C3##1250"],"productSt
+lib.h(330):     atus":"Active"},{"productId":7,"categoryId":1,"productName":"HP ENVY - 17t Touch Laptop","
+lib.h(330):     price":849.99,"description":"We took our remarkable 360\xC2\xB0 convertible PC and enhance
+lib.h(330):     d it with premium features to give you ultimate flexibility and enviable looks.","imageUrl
+lib.h(330):     ":"1700","attributes":[{"attributeName":"DISPLAY RESOLUTION","attributeValue":"1920x1080"}
+lib.h(330):     ,{"attributeName":"DISPLAY","attributeValue":"17.3-inch diagonal Full HD WLED-backlit IPS 
+lib.h(330):     Display (1920x1080) Touchscreen"},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes"},{
+lib.h(330):     "attributeName":"CUSTOMIZATION","attributeValue":"Business"},{"attributeName":"DISPLAY SIZ
+lib.h(330):     E","attributeValue":"17.3"},{"attributeName":"PROCESSOR","attributeValue":"Intel(R) Core(T
+lib.h(330):     M) i7-5500U Dual Core Processor"},{"attributeName":"MEMORY","attributeValue":"16GB DDR3 - 
+lib.h(330):     2 DIMM"},{"attributeName":"WEIGHT","attributeValue":"7.25 lb"},{"attributeName":"OPERATING
+lib.h(330):      SYSTEM","attributeValue":"Windows 10"}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock
+lib.h(330):     ":10}],"images":["ABCDEF##1700","ABCDEF##1702","ABCDEF##1703","ABCDEF##custom_image_user_3
+lib.h(330):     c75ff1f-84a4-444c-ab03-9ac5aefd0f29","ABCDEF##custom_image_user_5dfaef49-771c-4a94-aaf6-8d
+lib.h(330):     f651e4d23f","ABCDEF##custom_image_user_ccf3ae20-4a40-461f-9d6c-138fd95b927c","C3C3C3##1701
+lib.h(330):     "],"productStatus":"Active"},{"productId":6,"categoryId":1,"productName":"HP ENVY x360 - 1
+lib.h(330):     5t Laptop","price":699.99,"description":"We took our remarkable 360\xC2\xB0 convertible PC
+lib.h(330):      and enhanced it with premium features to give you ultimate flexibility and enviable looks
+lib.h(330):     .","imageUrl":"1600","attributes":[{"attributeName":"WEIGHT","attributeValue":"4.96 lb"},{
+lib.h(330):     "attributeName":"DISPLAY RESOLUTION","attributeValue":"1920x1080"},{"attributeName":"DISPL
+lib.h(330):     AY SIZE","attributeValue":"15.6"},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes"},{
+lib.h(330):     "attributeName":"OPERATING SYSTEM","attributeValue":"Windows 10"},{"attributeName":"CUSTOM
+lib.h(330):     IZATION","attributeValue":"2-in-1"},{"attributeName":"PROCESSOR","attributeValue":"intel(R
+lib.h(330):     ) Core(TM) i5-6300HQ"},{"attributeName":"DISPLAY","attributeValue":"15.6-inch diagonal Ful
+lib.h(330):     l HD WLED-backlit IPS Display (1920x1080) Touchscreen"},{"attributeName":"MEMORY","attribu
+lib.h(330):     teValue":"8GB DDR3L - 1 DIMM"}],"colors":[{"code":"C3C3C3","name":"GRAY","inStock":10}],"i
+lib.h(330):     mages":["ABCDEF##1600","ABCDEF##custom_image_user_17993f69-5d8f-472d-bb0b-f1623fc8c7bf","A
+lib.h(330):     BCDEF##custom_image_user_61183d20-cb1a-42ba-9b13-48c2d8194658","ABCDEF##custom_image_user_
+lib.h(330):     c2a10e87-48b6-4f7f-9618-6cfdc45f4e50","ABCDEF##custom_image_user_d7e8ee3f-f78c-4d6c-9889-a
+lib.h(330):     5a8f4c7615c","C3C3C3##1601","C3C3C3##1602","C3C3C3##1603"],"productStatus":"Active"},{"pro
+lib.h(330):     ductId":1,"categoryId":1,"productName":"HP Pavilion 15t Touch Laptop","price":519.99,"desc
+lib.h(330):     ription":"Redesigned with you in mind, the HP Pavilion keeps getting better. Our best-sell
+lib.h(330):     ing notebook is now more powerful so you can watch more, play more, and store more, all in
+lib.h(330):      style.","imageUrl":"1100","attributes":[{"attributeName":"MEMORY","attributeValue":"16GB 
+lib.h(330):     DDR3 - 2 DIMM"},{"attributeName":"DISPLAY SIZE","attributeValue":"15.6"},{"attributeName":
+lib.h(330):     "PROCESSOR","attributeValue":"Intel(R) Core(TM) i5-6200U Dual CoreProcessor"},{"attributeN
+lib.h(330):     ame":"TOUCHSCREEN","attributeValue":"Yes"},{"attributeName":"DISPLAY","attributeValue":"15
+lib.h(330):     .6-inch diagonal HD WLED-backlit Display (1366x768) Touchscreen"},{"attributeName":"OPERAT
+lib.h(330):     ING SYSTEM","attributeValue":"Windows 10"},{"attributeName":"CUSTOMIZATION","attributeValu
+lib.h(330):     e":"Gaming"},{"attributeName":"WEIGHT","attributeValue":"4 lb"},{"attributeName":"DISPLAY 
+lib.h(330):     RESOLUTION","attributeValue":"1366x768"}],"colors":[{"code":"3683D1","name":"BLUE","inStoc
+lib.h(330):     k":10},{"code":"C3C3C3","name":"GRAY","inStock":10},{"code":"DD3A5B","name":"RED","inStock
+lib.h(330):     ":10}],"images":["3683D1##1102","C3C3C3##1100","DD3A5B##1101","DD3A5B##1103"],"productStat
+lib.h(330):     us":"Active"},{"productId":2,"categoryId":1,"productName":"HP Pavilion 15z Laptop","price"
+lib.h(330):     :549.99,"description":"Redesigned with you in mind, the HP Pavilion keeps getting better. 
+lib.h(330):     Our best-selling notebook is now more powerful so you can watch more, play more, and store
+lib.h(330):      more, all in style.","imageUrl":"1200","attributes":[{"attributeName":"TOUCHSCREEN","attr
+lib.h(330):     ibuteValue":"No"},{"attributeName":"CUSTOMIZATION","attributeValue":"Simplicity"},{"attrib
+lib.h(330):     uteName":"DISPLAY","attributeValue":"15.6-inch diagonal HD BrightView WLED-backlit Display
+lib.h(330):      (1366x768)"},{"attributeName":"OPERATING SYSTEM","attributeValue":"Windows 10"},{"attribu
+lib.h(330):     teName":"DISPLAY RESOLUTION","attributeValue":"1366x768"},{"attributeName":"DISPLAY SIZE",
+lib.h(330):     "attributeValue":"15.6"},{"attributeName":"WEIGHT","attributeValue":"3.4 lb"},{"attributeN
+lib.h(330):     ame":"PROCESSOR","attributeValue":"Intel(R) Core(TM) i5-6200U Dual Core Processor"},{"attr
+lib.h(330):     ibuteName":"MEMORY","attributeValue":"16GB DDR3 - 2 DIMM"}],"colors":[{"code":"414141","na
+lib.h(330):     me":"BLACK","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10},{"code":"C3C3C3","n
+lib.h(330):     ame":"GRAY","inStock":10},{"code":"DD3A5B","name":"RED","inStock":10}],"images":["3683D1##
+lib.h(330):     1200","3683D1##1201","414141##1202","DD3A5B##1203"],"productStatus":"Active"},{"productId"
+lib.h(330):     :3,"categoryId":1,"productName":"HP Pavilion 15z Touch Laptop","price":449.99,"description
+lib.h(330):     ":"Redesigned with you in mind, the HP Pavilion keeps getting better. Our best-selling not
+lib.h(330):     ebook is now more powerful so you can watch more, play more, and store more, all in style.
+lib.h(330):     ","imageUrl":"1300","attributes":[{"attributeName":"CUSTOMIZATION","attributeValue":"Simpl
+lib.h(330):     icity"},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes"},{"attributeName":"DISPLAY",
+lib.h(330):     "attributeValue":"15.6-inch diagonal Full HD WLED-backlit Display (1920x1080) Touchscreen"
+lib.h(330):     },{"attributeName":"DISPLAY SIZE","attributeValue":"15.6"},{"attributeName":"DISPLAY RESOL
+lib.h(330):     UTION","attributeValue":"1920x1080"},{"attributeName":"WEIGHT","attributeValue":"5.51 lb"}
+lib.h(330):     ,{"attributeName":"OPERATING SYSTEM","attributeValue":"Windows 10"},{"attributeName":"PROC
+lib.h(330):     ESSOR","attributeValue":"AMD Quad-Core A10-8700P Processor + AMD Radeon(TM) R6 Graphics"},
+lib.h(330):     {"attributeName":"MEMORY","attributeValue":"16GB DDR3 - 2 DIMM"}],"colors":[{"code":"41414
+lib.h(330):     1","name":"BLACK","inStock":10},{"code":"3683D1","name":"BLUE","inStock":10},{"code":"C3C3
+lib.h(330):     C3","name":"GRAY","inStock":10},{"code":"545195","name":"PURPLE","inStock":10},{"code":"DD
+lib.h(330):     3A5B","name":"RED","inStock":10},{"code":"FCC23D","name":"YELLOW","inStock":10}],"images":
+lib.h(330):     ["3683D1##1300","414141##1301","414141##1302","C3C3C3##1301","C3C3C3##1302"],"productStatu
+lib.h(330):     s":"Active"},{"productId":11,"categoryId":1,"productName":"HP Pavilion x360 - 11t Touch La
+lib.h(330):     ptop","price":319.99,"description":"There\xE2\x80\x99s no
+lib.h(330): t=29218ms: 4714-byte DECODED response body for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/1/products" (RelFrameId=1, Internal ID=22)
+lib.h(330):      limit to what this value-packed convertible PC can do. Easily convert from notebook to st
+lib.h(330):     and to tent to tablet mode. It\xE2\x80\x99s an app-loving, friend-connecting, 360\xC2\xB0-
+lib.h(330):     bending machine.","imageUrl":"11100","attributes":[{"attributeName":"CUSTOMIZATION","attri
+lib.h(330):     buteValue":"Simplicity"},{"attributeName":"DISPLAY SIZE","attributeValue":"11.6"},{"attrib
+lib.h(330):     uteName":"DISPLAY RESOLUTION","attributeValue":"1366x768"},{"attributeName":"MEMORY","attr
+lib.h(330):     ibuteValue":"8GB DDR3L - 1 DIMM"},{"attributeName":"PROCESSOR","attributeValue":"Intel(R) 
+lib.h(330):     Celeron(R) N3050 Processor"},{"attributeName":"DISPLAY","attributeValue":"11.6-inch diagon
+lib.h(330):     al HD WLED-backlit IPS Display (1366x768) Touchscreen"},{"attributeName":"WEIGHT","attribu
+lib.h(330):     teValue":"3.21 lb"},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes"},{"attributeName
+lib.h(330):     ":"OPERATING SYSTEM","attributeValue":"Windows 10"}],"colors":[{"code":"C3C3C3","name":"GR
+lib.h(330):     AY","inStock":10},{"code":"DD3A5B","name":"RED","inStock":10},{"code":"55CDD5","name":"TUR
+lib.h(330):     QUOISE","inStock":10}],"images":["55CDD5##11100","C3C3C3##11101","C3C3C3##11102","DD3A5B##
+lib.h(330):     11103"],"productStatus":"Active"},{"productId":4,"categoryId":1,"productName":"HP Spectre 
+lib.h(330):     x360 - 13-4102dx","price":1399.99,"description":"Stunning, ultra-slim convertible PC with 
+lib.h(330):     a 360\xC2\xB0 hinge","imageUrl":"1400","attributes":[{"attributeName":"OPERATING SYSTEM","
+lib.h(330):     attributeValue":"Windows 10"},{"attributeName":"TOUCHSCREEN","attributeValue":"Yes"},{"att
+lib.h(330):     ributeName":"WEIGHT","attributeValue":"3.17 lb"},{"attributeName":"CUSTOMIZATION","attribu
+lib.h(330):     teValue":"2-in-1"},{"attributeName":"DISPLAY RESOLUTION","attributeValue":"2560x1440"},{"a
+lib.h(330):     ttributeName":"DISPLAY","attributeValue":"13.3 inch diagonal QHD IPS Radiance Infinity LED
+lib.h(330):     -backlit touch screen (2560 x 1440)"},{"attributeName":"MEMORY","attributeValue":"8 GB DDR
+lib.h(330):     3L SDRAM (1 x 8 GB)"},{"attributeName":"PROCESSOR","attributeValue":"Intel\xC2\xAE Core\xE2
+lib.h(330):     \x84\xA2 i7-5500U with Intel HD Graphics 5500 (2.4 GHz, 4 MB cache, 2 cores)"},{"attribute
+lib.h(330):     Name":"DISPLAY SIZE","attributeValue":"13.3"}],"colors":[{"code":"C3C3C3","name":"GRAY","i
+lib.h(330):     nStock":10}],"images":["C3C3C3##1400","C3C3C3##1401","C3C3C3##1402","C3C3C3##1403"],"produ
+lib.h(330):     ctStatus":"Active"},{"productId":5,"categoryId":1,"productName":"HP Stream - 11-d020nr Lap
+lib.h(330):     top","price":179.99,"description":"Work from a happy place with a stylish, affordable, Win
+lib.h(330):     dows-based PC. Store your content in the cloud for easy access from anywhere you have inte
+lib.h(330):     rnet.","imageUrl":"1245","attributes":[{"attributeName":"DISPLAY SIZE","attributeValue":"1
+lib.h(330):     1.6"},{"attributeName":"DISPLAY RESOLUTION","attributeValue":"1366x768"},{"attributeName":
+lib.h(330):     "CUSTOMIZATION","attributeValue":"Gaming"},{"attributeName":"OPERATING SYSTEM","attributeV
+lib.h(330):     alue":"Windows 8.1"},{"attributeName":"MEMORY","attributeValue":"2 GB 1333 MHz DDR3 SDRAM"
+lib.h(330):     },{"attributeName":"WEIGHT","attributeValue":"2.6 lb"},{"attributeName":"TOUCHSCREEN","att
+lib.h(330):     ributeValue":"No"},{"attributeName":"DISPLAY","attributeValue":"11.6-diagonal HD anti-glar
+lib.h(330):     e WLED-backlit (1366 x 768)"},{"attributeName":"PROCESSOR","attributeValue":"Intel Turbo B
+lib.h(330):     oost Technology"}],"colors":[{"code":"3683D1","name":"BLUE","inStock":10},{"code":"545195"
+lib.h(330):     ,"name":"PURPLE","inStock":10}],"images":["3683D1##1501","3683D1##1502","545195##1245"],"p
+lib.h(330):     roductStatus":"Active"},{"productId":8,"categoryId":1,"productName":"HP ZBook 17 G2 Mobile
+lib.h(330):      Workstation","price":1799.0,"description":"On the go creativity knows no limits on a vivi
+lib.h(330):     d 17.3 inch diagonal HP ZBook 17 G2. Showcase your best work in the office or on the go an
+lib.h(330):     d take advantage of HP\xE2\x80\x99s most powerful processing, graphics, simple scalability
+lib.h(330):     , and blazing-fast connectivity to perform and collaborate at the speed of creativity.","i
+lib.h(330):     mageUrl":"1800","attributes":[{"attributeName":"PROCESSOR","attributeValue":"Intel\xC2\xAE
+lib.h(330):      Core\xE2\x84\xA2 i7-4710MQ with Intel HD Graphics 4600 (2.5 GHz, up to 3.5 GHz with Intel
+lib.h(330):      Turbo Boost Technology, 6 MB cache, 4 cores)"},{"attributeName":"DISPLAY","attributeValue
+lib.h(330):     ":"17.3 inch diagonal LED-backlit FHD WVA anti-glare (1920 x 1080)"},{"attributeName":"OPE
+lib.h(330):     RATING SYSTEM","attributeValue":"Windows 7 Professional 64"},{"attributeName":"TOUCHSCREEN
+lib.h(330):     ","attributeValue":"No"},{"attributeName":"MEMORY","attributeValue":"8 GB 1600 MHz DDR3L S
+lib.h(330):     DRAM (2 x 4 GB)"},{"attributeName":"DISPLAY RESOLUTION","attributeValue":"1920x1080"},{"at
+lib.h(330):     tributeName":"CUSTOMIZATION","attributeValue":"Business"},{"attributeName":"WEIGHT","attri
+lib.h(330):     buteValue":"7.42 lb"},{"attributeName":"DISPLAY SIZE","attributeValue":"17.3"}],"colors":[
+lib.h(330):     {"code":"414141","name":"BLACK","inStock":10},{"code":"C3C3C3","name":"GRAY","inStock":10}
+lib.h(330):     ],"images":["ABCDEF##1800","ABCDEF##1801","ABCDEF##1802","ABCDEF##1803"],"productStatus":"
+lib.h(330):     Active"}],"colors":["414141","3683D1","545195","C3C3C3","DD3A5B","55CDD5","FFFFFF","FCC23D
+lib.h(330):     "]}
+lib.h(330): t=29218ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/catalog/api/v1/categories/1/products" (RelFrameId=1, Internal ID=22)
+lib.h(330): t=29218ms: Request done "https://www.advantageonlineshopping.com/catalog/api/v1/categories/1/products"  	[MsgId: MMSG-26000]
+lib.h(330): web_url("products_2") was successful, 3301 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+lib.h(339): web_url("product-page.html") started  	[MsgId: MMSG-26355]
+lib.h(339): The request to server https://www.advantageonlineshopping.com/app/views/product-page.html" is done with headers:
+lib.h(339):     :method = GET
+lib.h(339):     :scheme = https
+lib.h(339):     :path = /app/views/product-page.html
+lib.h(339):     :authority = www.advantageonlineshopping.com
+lib.h(339):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(339):     Referer = https://www.advantageonlineshopping.com/
+lib.h(339):     Sec-Fetch-Dest = empty
+lib.h(339):     Sec-Fetch-Mode = cors
+lib.h(339):     Sec-Fetch-Site = same-origin
+lib.h(339):     DNT = 1
+lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(339):     0
+lib.h(339):     Accept-Encoding = gzip, deflate
+lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(339):     Accept = */*
+lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(339): t=29370ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
+lib.h(339):     HTTP/2.0 200\r\n
+lib.h(339):     Status: 200\r\n
+lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(339):     date: Sun, 17 Mar 2024 17:11:41 GMT\r\n
+lib.h(339):     content-type: text/html\r\n
+lib.h(339):     accept-ranges: bytes\r\n
+lib.h(339):     etag: W/"8805-1707902752000"\r\n
+lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(339):     cache-control: max-age=0\r\n
+lib.h(339):     expires: Sun, 17 Mar 2024 17:11:41 GMT\r\n
+lib.h(339):     vary: accept-encoding\r\n
+lib.h(339):     content-encoding: gzip\r\n
+lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(339):     \r\n
+lib.h(339): t=29370ms: 2360-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
+lib.h(339): t=29370ms: 8805-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/product-page.html" (RelFrameId=1, Internal ID=23)
+lib.h(339):     <nav class="pages fixedImportant productImage">\n
+lib.h(339):         <a translate="HOME" href="/#"></a>\n
+lib.h(339):         <a href\n
+lib.h(339):            ng-click="redirect('/category/' + breadCrumbCategoryName + '/' + product.categoryId
+lib.h(339):     )"> {{categoryName}} </a>\n
+lib.h(339):         <a class="select">{{::product.productName | uppercase}}</a>\n
+lib.h(339):     </nav>\n
+lib.h(339):     \n
+lib.h(339):     <section>\n
+lib.h(339):         <article class="max-width ">\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):             <!-- mobile description section  -->\n
+lib.h(339):     \n
+lib.h(339):             <div id="mobileDescription" class="screen480">\n
+lib.h(339):                 <h1 class="roboto-regular"> {{::product.productName | uppercase}} </h1>\n
+lib.h(339):     \n
+lib.h(339):                 <h2 class="roboto-thin"> {{::product.price | currency:'$'}}\n
+lib.h(339):                     <span class="roboto-medium" data-ng-show="product.productStatus == 'OutOfS
+lib.h(339):     tock'" translate="SOUL_OUT"></span>\n
+lib.h(339):                 </h2>\n
+lib.h(339):             </div>\n
+lib.h(339):     \n
+lib.h(339):             <!-- end mobile description section -->\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):             <!-- image section -->\n
+lib.h(339):     \n
+lib.h(339):             <div id="product_2">\n
+lib.h(339):                 <div id="product-section" class="half">\n
+lib.h(339):     \n
+lib.h(339):                     <div class="reviews" ng-if="mostPopularComments.length > 0">\n
+lib.h(339):                         <div class="rightArrow">\n
+lib.h(339):                             <img src="../../css/images/review_right.png" data-ng-click="nextRe
+lib.h(339):     view()" />\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <div class="reviewsCover">\n
+lib.h(339):                             <div data-ng-repeat="comment in mostPopularComments track by $inde
+lib.h(339):     x">\n
+lib.h(339):                                 <p class="score roboto-regular">{{comment.score}}</p>\n
+lib.h(339):                                 <label class="reviewsTitle roboto-medium">{{comment.title}}</l
+lib.h(339):     abel>\n
+lib.h(339):                                 <p class="reviewsCount roboto-regular">{{comment.reviewsCount}
+lib.h(339):     } {{ 'reviews'| translate}}</p>\n
+lib.h(339):                                 <p class="reviewsComment roboto-light">{{comment.comment}}</p>
+lib.h(339):     \n
+lib.h(339):                                 <div class="reviewBottom roboto-regular">\n
+lib.h(339):                                     <img src="../../css/images/reviewUser.png"/>\n
+lib.h(339):                                     {{comment.name}}\n
+lib.h(339):                                 </div>\n
+lib.h(339):                             </div>\n
+lib.h(339):                         </div>\n
+lib.h(339):     \n
+lib.h(339):                         <div class="leftArrow">\n
+lib.h(339):                             <img src="../../css/images/review_Left_disabled.png" data-ng-click
+lib.h(339):     ="previousReview()" />\n
+lib.h(339):                         </div>\n
+lib.h(339):                     </div>\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):                     <figure>\n
+lib.h(339):                         <img alt="" id="mainImg" ng-src="/catalog/fetchImage?image_id={{imageU
+lib.h(339):     rl | getImageId}}">\n
+lib.h(339):                     </figure>\n
+lib.h(339):                     <div id="coverImages" ng-show="imagesArray.length > 1">\n
+lib.h(339):                         <div id="lengthAllImages"> <!--regular font-->\n
+lib.h(339):                             <div class="imageAlias" data-ng-click="changeImage(img)"\n
+lib.h(339):                                  data-ng-repeat="img in imagesArray">\n
+lib.h(339):                                 <img alt="" data-ng-src="/catalog/fetchImage?image_id={{img | 
+lib.h(339):     getImageId}}">\n
+lib.h(339):                             </div>\n
+lib.h(339):                         </div>\n
+lib.h(339):                     </div>\n
+lib.h(339):                 </div>\n
+lib.h(339):                 <div id="Description" class="half">\n
+lib.h(339):                     <h1 class="roboto-regular screen768"> {{::product.productName | uppercase}
+lib.h(339):     } </h1>\n
+lib.h(339):     \n
+lib.h(339):                     <h2 class="roboto-thin screen768"> {{product.price | currency:'$'}}\n
+lib.h(339):                     <span class="roboto-medium" data-ng-show="product.productStatus == 'OutOfS
+lib.h(339):     tock'" translate="SOUL_OUT"></span>\n
+lib.h(339):                     </h2>\n
+lib.h(339):     \n
+lib.h(339):                     <p class="roboto-light"> {{::product.description }} </p>\n
+lib.h(339):     \n
+lib.h(339):                     <div id="productProperties">\n
+lib.h(339):                         <div class="colors" ng-if="product.colors.length > 0">\n
+lib.h(339):                             <h2 translate="Color" class="Colors roboto-light" class="roboto-li
+lib.h(339):     ght"></h2>\n
+lib.h(339):                             <!--If you are confused by the classes 'bunny rabbit' read this->-
+lib.h(339):     ->\n
+lib.h(339):                             <!--Testing issue over here. Since there are two identical element
+lib.h(339):     s here  'leanFT ' gets confused, this is the reason for this classes.-->\n
+lib.h(339):                             <div ng-show="!firstImageToShow">\n
+lib.h(339):                                 <span title="{{color.name}}"\n
+lib.h(339):                                       id="rabbit"\n
+lib.h(339):                                       data-ng-repeat="color in [] | sortArrayByColorName:produ
+lib.h(339):     ct.colors"\n
+lib.h(339):                                       class="rabbit productColor"\n
+lib.h(339):                                       data-ng-hide="color.code == 'ABCDEF'" data-ng-style="col
+lib.h(339):     or.code == 'FFFFFF' ?\n
+lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
+lib.h(339):     'solid 1px #9d9d9d' } :\n
+lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
+lib.h(339):     'solid 1px transparent'}"\n
+lib.h(339):                                       data-ng-class='{ colorSelected : colorSelected.name == c
+lib.h(339):     olor.name , {{color.name}} : colorSelected.name} '\n
+lib.h(339):                                       data-ng-click="setColor(color)">\n
+lib.h(339):                                 </span>\n
+lib.h(339):                             </div>\n
+lib.h(339):                             <div ng-show="firstImageToShow">\n
+lib.h(339):                                 <span title="{{color.name}}"\n
+lib.h(339):                                       id="bunny"\n
+lib.h(339):                                       data-ng-repeat="color in colors"\n
+lib.h(339):                                       class="bunny productColor"\n
+lib.h(339):                                       data-ng-hide="color.code == 'ABCDEF'" data-ng-style="col
+lib.h(339):     or.code == 'FFFFFF' ?\n
+lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
+lib.h(339):     'solid 1px #9d9d9d' } :\n
+lib.h(339):                                               {'backgroundColor': '#' + color.code, 'border': 
+lib.h(339):     'solid 1px transparent'}"\n
+lib.h(339):                                       data-ng-class='{ colorSelected : colorSelected.name == c
+lib.h(339):     olor.name , {{color.name}} : colorSelected.name} '\n
+lib.h(339):                                       data-ng-click="setColor(color, $event)">\n
+lib.h(339):                                 </span>\n
+lib.h(339):                             </div>\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <div class="smoolMargin">\n
+lib.h(339):                             <label class="Quantity roboto-light" translate="Quantity:"></label
+lib.h(339):     >\n
+lib.h(339):                             <e-sec-plus-minus num-attr="quantity" a-disable="product.productSt
+lib.h(339):     atus == 'OutOfStock'"></e-sec-plus-minus>\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <div class="option notPromotionCheckbox" data-ng-show="warrantyPropert
+lib.h(339):     ies.enableWarranty && product.categoryId == 1">\n
+lib.h(339):                             <input style="z-index: 999;top:8px" name="purchase_warranty" data-
+lib.h(339):     ng-model="warrantyCheckbox" type="checkbox"\n
+lib.h(339):                                    data-ng-click="addWarrenty()">\n
+lib.h(339):                             <label style="top:-5px" class="Quantity roboto-light ng-scope" tra
+lib.h(339):     nslate="add_warranty"></label>\n
+lib.h(339):                             <svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+lib.h(339):      xmlns:xlink="http://www.w3.org/1999/xlink"  width="24px" height="24px" x="0px" y="0px"\n
+lib.h(339):                                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:spa
+lib.h(339):     ce="preserve">\n
+lib.h(339):     <path fill="#666666" d="M8,14.4c-3.5,0-6.4-2.9-6.4-6.4S4.5,1.6,8,1.6s6.4,2.9,6.4,6.4S11.5,
+lib.h(339):     14.4,8,14.4z M8,0C3.6,0,0,3.6,0,8\n
+lib.h(339):     \ts3.6,8,8,8s8-3.6,8-8S12.4,0,8,0z M7,7h2v5H7V7z M7,6V4h2v2H7z"/>\n
+lib.h(339):     </svg>                        <h2 style="    float: right;top: -3px;padding: 0; font-size:
+lib.h(339):      20px;" class="roboto-thin screen768 ng-binding">{{::warrantyPrice | currency:'$'}}</h2>\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <div class="fixedBtn">\n
+lib.h(339):                             <button name="save_to_cart" class="roboto-medium" role="button"\n
+lib.h(339):                                     data-ng-class='{ disable : product.productStatus == "OutOf
+lib.h(339):     Stock" } '\n
+lib.h(339):                                     translate="ADD_TO_CART"\n
+lib.h(339):                                     data-ng-click="addToCart(product.productStatus == 'OutOfSt
+lib.h(339):     ock')">\n
+lib.h(339):                                 <div class="fixedBtn" data-ng-if="pageState != 'edit'">\n
+lib.h(339):                                     <span translate="ADD_TO_CART"></span>\n
+lib.h(339):                                 </div>\n
+lib.h(339):                                 <div class="fixedBtn" data-ng-if="pageState == 'edit'">\n
+lib.h(339):                                     <span translate="UPDATE_CART"></span>\n
+lib.h(339):                                 </div>\n
+lib.h(339):                             </button>\n
+lib.h(339):                         </div>\n
+lib.h(339):                         <label data-ng-class="message._class"> {{message.text}}</label>\n
+lib.h(339):                     </div>\n
+lib.h(339):                 </div>\n
+lib.h(339):             </div>\n
+lib.h(339):     \n
+lib.h(339):         </article>\n
+lib.h(339):         <!--data-ng-class="{ topSpace : product.images.length > 1 }"-->\n
+lib.h(339):         <div id="separator"></div>\n
+lib.h(339):     \n
+lib.h(339):         <article ng-if="showVideo" class="max-width" data-ng-switch="haveInternet" >\n
+lib.h(339):             <div ng-bind-html="srcV1">\n
+lib.h(339):             </div>\n
+lib.h(339):         </article>\n
+lib.h(339):     \n
+lib.h(339):         <article class="max-width " >\n
+lib.h(339):             <h2 class="roboto-regular product_specifications" translate="PRODUCT_SPECIFICATION
+lib.h(339):     S"></h2>\n
+lib.h(339):     \n
+lib.h(339):             <div class="roboto-light list" ng-repeat="attr in product_attributes">\n
+lib.h(339):                 <label class="attr">{{ attr.attributeName | uppercase}}</label>\n
+lib.h(339):                 <label class="value">{{ attr.attributeValue }}</label>\n
+lib.h(339):             </div>\n
+lib.h(339):         </article>\n
+lib.h(339):     \n
+lib.h(339):     </section>\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     <social-media-drtv></social-media-drtv>\n
+lib.h(339):     \n
+lib.h(339):     <div class="trickProductBtn"></div>\n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339):     \n
+lib.h(339): Found resource "https://www.advantageonlineshopping.com/css/images/review_right.png" in HTML "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26659]
+lib.h(339): The request to server https://www.advantageonlineshopping.com/css/images/review_right.png" is done with headers:
+lib.h(339):     :method = GET
+lib.h(339):     :scheme = https
+lib.h(339):     :path = /css/images/review_right.png
+lib.h(339):     :authority = www.advantageonlineshopping.com
+lib.h(339):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(339):     Referer = https://www.advantageonlineshopping.com/app/views/product-page.html
+lib.h(339):     Sec-Fetch-Dest = empty
+lib.h(339):     Sec-Fetch-Mode = cors
+lib.h(339):     Sec-Fetch-Site = same-origin
+lib.h(339):     DNT = 1
+lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(339):     0
+lib.h(339):     Accept-Encoding = gzip, deflate
+lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(339):     Accept = */*
+lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(339): Found resource "https://www.advantageonlineshopping.com/css/images/reviewUser.png" in HTML "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26659]
+lib.h(339): The request to server https://www.advantageonlineshopping.com/css/images/reviewUser.png" is done with headers:
+lib.h(339):     :method = GET
+lib.h(339):     :scheme = https
+lib.h(339):     :path = /css/images/reviewUser.png
+lib.h(339):     :authority = www.advantageonlineshopping.com
+lib.h(339):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(339):     Referer = https://www.advantageonlineshopping.com/app/views/product-page.html
+lib.h(339):     Sec-Fetch-Dest = empty
+lib.h(339):     Sec-Fetch-Mode = cors
+lib.h(339):     Sec-Fetch-Site = same-origin
+lib.h(339):     DNT = 1
+lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(339):     0
+lib.h(339):     Accept-Encoding = gzip, deflate
+lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(339):     Accept = */*
+lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(339): Found resource "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" in HTML "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26659]
+lib.h(339): The request to server https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" is done with headers:
+lib.h(339):     :method = GET
+lib.h(339):     :scheme = https
+lib.h(339):     :path = /css/images/review_Left_disabled.png
+lib.h(339):     :authority = www.advantageonlineshopping.com
+lib.h(339):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(339):     Referer = https://www.advantageonlineshopping.com/app/views/product-page.html
+lib.h(339):     Sec-Fetch-Dest = empty
+lib.h(339):     Sec-Fetch-Mode = cors
+lib.h(339):     Sec-Fetch-Site = same-origin
+lib.h(339):     DNT = 1
+lib.h(339):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(339):     0
+lib.h(339):     Accept-Encoding = gzip, deflate
+lib.h(339):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(339):     Accept = */*
+lib.h(339):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(339): t=29374ms: Request done "https://www.advantageonlineshopping.com/app/views/product-page.html"  	[MsgId: MMSG-26000]
+lib.h(339): t=29529ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=24)
+lib.h(339):     HTTP/2.0 200\r\n
+lib.h(339):     Status: 200\r\n
+lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(339):     date: Sun, 17 Mar 2024 17:11:41 GMT\r\n
+lib.h(339):     content-type: image/png\r\n
+lib.h(339):     content-length: 1075\r\n
+lib.h(339):     accept-ranges: bytes\r\n
+lib.h(339):     etag: W/"1075-1707902752000"\r\n
+lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(339):     cache-control: max-age=864000\r\n
+lib.h(339):     expires: Wed, 27 Mar 2024 17:11:41 GMT\r\n
+lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(339):     \r\n
+lib.h(339): t=29529ms: 1075-byte response body for "https://www.advantageonlineshopping.com/css/images/review_right.png" (RelFrameId=, Internal ID=24)
+lib.h(339): t=29529ms: Request done "https://www.advantageonlineshopping.com/css/images/review_right.png"  	[MsgId: MMSG-26000]
+lib.h(339): t=29664ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=25)
+lib.h(339):     HTTP/2.0 200\r\n
+lib.h(339):     Status: 200\r\n
+lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(339):     date: Sun, 17 Mar 2024 17:11:41 GMT\r\n
+lib.h(339):     content-type: image/png\r\n
+lib.h(339):     content-length: 1542\r\n
+lib.h(339):     accept-ranges: bytes\r\n
+lib.h(339):     etag: W/"1542-1707902752000"\r\n
+lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(339):     cache-control: max-age=864000\r\n
+lib.h(339):     expires: Wed, 27 Mar 2024 17:11:41 GMT\r\n
+lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(339):     \r\n
+lib.h(339): t=29664ms: 1542-byte response body for "https://www.advantageonlineshopping.com/css/images/reviewUser.png" (RelFrameId=, Internal ID=25)
+lib.h(339): t=29665ms: Request done "https://www.advantageonlineshopping.com/css/images/reviewUser.png"  	[MsgId: MMSG-26000]
+lib.h(339): t=29665ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=26)
+lib.h(339):     HTTP/2.0 200\r\n
+lib.h(339):     Status: 200\r\n
+lib.h(339):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(339):     date: Sun, 17 Mar 2024 17:11:41 GMT\r\n
+lib.h(339):     content-type: image/png\r\n
+lib.h(339):     content-length: 1087\r\n
+lib.h(339):     accept-ranges: bytes\r\n
+lib.h(339):     etag: W/"1087-1707902752000"\r\n
+lib.h(339):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(339):     cache-control: max-age=864000\r\n
+lib.h(339):     expires: Wed, 27 Mar 2024 17:11:41 GMT\r\n
+lib.h(339):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(339):     \r\n
+lib.h(339): t=29665ms: 1087-byte response body for "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png" (RelFrameId=, Internal ID=26)
+lib.h(339): t=29665ms: Request done "https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png"  	[MsgId: MMSG-26000]
+lib.h(339): web_url("product-page.html") was successful, 6064 body bytes, 1564 header bytes  	[MsgId: MMSG-26386]
+lib.h(348): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+lib.h(348): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
+lib.h(348): "Origin: https://www.advantageonlineshopping.com" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+lib.h(348): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+lib.h(351): Notify: Transaction "ChooseProduct" ended with a "Pass" status (Duration: 2,8982 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+Action.c(32): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(34): Notify: Transaction "AddToCart" started.	[MsgId: MMSG-16999]
+Action.c(36): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(36): Notify: Parameter Substitution: parameter "UserID" =  "690980838"	[MsgId: MMSG-13992]
+Action.c(36): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(38): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(38): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
+Action.c(38): Warning -26592: A header of the same name has been added already. This header is added anyway.  	[MsgId: MWAR-26592]
+Action.c(38): "Origin: https://www.advantageonlineshopping.com" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+Action.c(38): web_add_header("Origin") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(41): web_submit_data("{UserId}") started  	[MsgId: MMSG-26355]
+Action.c(41): Notify: Parameter Substitution: parameter "UserID" =  "690980838"	[MsgId: MMSG-13992]
+Action.c(41): Notify: Parameter Substitution: parameter "ProductIdrnd" =  "2"	[MsgId: MMSG-13992]
+Action.c(41): Notify: Parameter Substitution: parameter "ColorId" =  "414141"	[MsgId: MMSG-13992]
+Action.c(41): Warning: The string 'sessionId' with parameter delimiters is not a parameter.	[MsgId: MWAR-13987]
+Action.c(41): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/2/color/414141?quantity=1" is done with headers:
+Action.c(41):     :method = POST
+Action.c(41):     :scheme = https
+Action.c(41):     :path = /order/api/v1/carts/690980838/product/2/color/414141?quantity=1
+Action.c(41):     :authority = www.advantageonlineshopping.com
+Action.c(41):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+Action.c(41):     Content-Type = application/x-www-form-urlencoded
+Action.c(41):     Referer = https://www.advantageonlineshopping.com/
+Action.c(41):     Origin = https://www.advantageonlineshopping.com
+Action.c(41):     Origin = https://www.advantageonlineshopping.com
+Action.c(41):     Sec-Fetch-Dest = empty
+Action.c(41):     Sec-Fetch-Mode = cors
+Action.c(41):     Sec-Fetch-Site = same-origin
+Action.c(41):     DNT = 1
+Action.c(41):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+Action.c(41):     0
+Action.c(41):     Accept-Encoding = gzip, deflate
+Action.c(41):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Action.c(41):     Accept = */*
+Action.c(41):     content-length = 25
+Action.c(41):     cookie = JSESSIONID=56E58E05BC4B24CD3F2952EC940F5737; userCart=%7B%22userId%22%3A-1%2C%22p
+Action.c(41):     roductsInCart%22%3A%5B%5D%7D
+Action.c(41): The request to server "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/2/color/414141?quantity=1" is done with body:
+Action.c(41):     sessionId=%7BsessionId%7D
+Action.c(41): t=35923ms: 572-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/2/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+Action.c(41):     HTTP/2.0 201\r\n
+Action.c(41):     Status: 201\r\n
+Action.c(41):     server: nginx/1.18.0 (Ubuntu)\r\n
+Action.c(41):     date: Sun, 17 Mar 2024 17:11:47 GMT\r\n
+Action.c(41):     content-type: application/json\r\n
+Action.c(41):     access-control-allow-credentials: true\r\n
+Action.c(41):     access-control-allow-origin: https://www.advantageonlineshopping.com\r\n
+Action.c(41):     vary: origin,accept-encoding\r\n
+Action.c(41):     expires: 0\r\n
+Action.c(41):     cache-control: no-store\r\n
+Action.c(41):     set-cookie: JSESSIONID=FE506499F586A5C08BD6C3C57FFD09E1; Path=/order; HttpOnly\r\n
+Action.c(41):     x-content-type-options: nosniff\r\n
+Action.c(41):     x-xss-protection: 1; mode=block\r\n
+Action.c(41):     x-frame-options: DENY\r\n
+Action.c(41):     content-encoding: gzip\r\n
+Action.c(41):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+Action.c(41):     \r\n
+Action.c(41): t=35924ms: 194-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/2/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+Action.c(41): t=35924ms: 228-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/2/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+Action.c(41):     {"userId":690980838,"productsInCart":[{"productId":2,"productName":"HP Pavilion 15z Laptop
+Action.c(41):     ","price":549.99,"quantity":1,"imageUrl":"1200","color":{"code":"414141","name":"BLACK","i
+Action.c(41):     nStock":10},"exists":true,"hasWarranty":false}]}
+Action.c(41): t=35924ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/2/color/414141?quantity=1" (RelFrameId=1, Internal ID=27)
+Action.c(41): t=35924ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838/product/2/color/414141?quantity=1"  	[MsgId: MMSG-26000]
+Action.c(41): Registered web_reg_find successful for "Text="userId":690980838," (count=1)  	[MsgId: MMSG-26364]
+Action.c(41): web_submit_data("{UserId}") was successful, 204 body bytes, 572 header bytes  	[MsgId: MMSG-26386]
+Action.c(52): Notify: Transaction "AddToCart" ended with a "Pass" status (Duration: 1,2574 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(54): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+lib.h(383): Notify: Transaction "CheckCart" started.	[MsgId: MMSG-16999]
+lib.h(385): web_reg_find started  	[MsgId: MMSG-26355]
+lib.h(385): Notify: Parameter Substitution: parameter "UserID" =  "690980838"	[MsgId: MMSG-13992]
+lib.h(385): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+lib.h(387): web_url("{UserID}_2") started  	[MsgId: MMSG-26355]
+lib.h(387): Notify: Parameter Substitution: parameter "UserID" =  "690980838"	[MsgId: MMSG-13992]
+lib.h(387): The request to server https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" is done with headers:
+lib.h(387):     :method = GET
+lib.h(387):     :scheme = https
+lib.h(387):     :path = /order/api/v1/carts/690980838
+lib.h(387):     :authority = www.advantageonlineshopping.com
+lib.h(387):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(387):     Referer = https://www.advantageonlineshopping.com/
+lib.h(387):     Sec-Fetch-Dest = empty
+lib.h(387):     Sec-Fetch-Mode = cors
+lib.h(387):     Sec-Fetch-Site = same-origin
+lib.h(387):     DNT = 1
+lib.h(387):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(387):     0
+lib.h(387):     Accept-Encoding = gzip, deflate
+lib.h(387):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(387):     Accept = */*
+lib.h(387):     cookie = JSESSIONID=FE506499F586A5C08BD6C3C57FFD09E1; userCart=%7B%22userId%22%3A-1%2C%22p
+lib.h(387):     roductsInCart%22%3A%5B%5D%7D
+lib.h(387): t=41628ms: 455-byte response headers for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(387):     HTTP/2.0 200\r\n
+lib.h(387):     Status: 200\r\n
+lib.h(387):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(387):     date: Sun, 17 Mar 2024 17:11:53 GMT\r\n
+lib.h(387):     content-type: application/json\r\n
+lib.h(387):     expires: 0\r\n
+lib.h(387):     cache-control: no-store\r\n
+lib.h(387):     set-cookie: JSESSIONID=60753603E01110FCC09A83B0F8321AEF; Path=/order; HttpOnly\r\n
+lib.h(387):     x-content-type-options: nosniff\r\n
+lib.h(387):     x-xss-protection: 1; mode=block\r\n
+lib.h(387):     x-frame-options: DENY\r\n
+lib.h(387):     vary: accept-encoding\r\n
+lib.h(387):     content-encoding: gzip\r\n
+lib.h(387):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(387):     \r\n
+lib.h(387): t=41628ms: 231-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(387): t=41628ms: 275-byte DECODED response body for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(387):     {"userId":690980838,"productsInCart":[{"productId":2,"productName":"HP Pavilion 15z Laptop
+lib.h(387):     ","price":549.99,"quantity":1,"imageUrl":"1200","color":{"code":"414141","name":"BLACK","i
+lib.h(387):     nStock":10},"exists":true,"hasWarranty":false}],"sessionId":"60753603E01110FCC09A83B0F8321
+lib.h(387):     AEF"}
+lib.h(387): t=41629ms: 10-byte ENCODED response body received for "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838" (RelFrameId=1, Internal ID=28)
+lib.h(387): t=41629ms: Request done "https://www.advantageonlineshopping.com/order/api/v1/carts/690980838"  	[MsgId: MMSG-26000]
+lib.h(387): Registered web_reg_find successful for "Text="userId":690980838," (count=1)  	[MsgId: MMSG-26364]
+lib.h(387): web_url("{UserID}_2") was successful, 241 body bytes, 455 header bytes  	[MsgId: MMSG-26386]
+lib.h(396): web_url("shoppingCart.html") started  	[MsgId: MMSG-26355]
+lib.h(396): The request to server https://www.advantageonlineshopping.com/app/views/shoppingCart.html" is done with headers:
+lib.h(396):     :method = GET
+lib.h(396):     :scheme = https
+lib.h(396):     :path = /app/views/shoppingCart.html
+lib.h(396):     :authority = www.advantageonlineshopping.com
+lib.h(396):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(396):     Referer = https://www.advantageonlineshopping.com/
+lib.h(396):     Sec-Fetch-Dest = empty
+lib.h(396):     Sec-Fetch-Mode = cors
+lib.h(396):     Sec-Fetch-Site = same-origin
+lib.h(396):     DNT = 1
+lib.h(396):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(396):     0
+lib.h(396):     Accept-Encoding = gzip, deflate
+lib.h(396):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(396):     Accept = */*
+lib.h(396):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(396): t=41765ms: 406-byte response headers for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
+lib.h(396):     HTTP/2.0 200\r\n
+lib.h(396):     Status: 200\r\n
+lib.h(396):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(396):     date: Sun, 17 Mar 2024 17:11:53 GMT\r\n
+lib.h(396):     content-type: text/html\r\n
+lib.h(396):     accept-ranges: bytes\r\n
+lib.h(396):     etag: W/"5840-1707902752000"\r\n
+lib.h(396):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(396):     cache-control: max-age=0\r\n
+lib.h(396):     expires: Sun, 17 Mar 2024 17:11:53 GMT\r\n
+lib.h(396):     vary: accept-encoding\r\n
+lib.h(396):     content-encoding: gzip\r\n
+lib.h(396):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(396):     \r\n
+lib.h(396): t=41765ms: 1465-byte ENCODED response body received for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
+lib.h(396): t=41765ms: 5840-byte DECODED response body for "https://www.advantageonlineshopping.com/app/views/shoppingCart.html" (RelFrameId=1, Internal ID=29)
+lib.h(396):     \n
+lib.h(396):     <section>\n
+lib.h(396):         <article class="sp">\n
+lib.h(396):     \n
+lib.h(396):             <nav class="pages fixedImportant " style="top:65px">\n
+lib.h(396):                 <a translate="HOME" href="#/"></a>\n
+lib.h(396):                 <a class="select "> {{ 'SHOPPING_CART' | translate }}</a>\n
+lib.h(396):             </nav>\n
+lib.h(396):     \n
+lib.h(396):             <h3 class="roboto-regular center sticky fixedImportant">\n
+lib.h(396):                 {{'SHOPPING_CART' | translate}} <span ng-show="cart.productsInCart.length > 0"
+lib.h(396):     >({{ cart | productsCartCount }})</span>\n
+lib.h(396):             </h3>\n
+lib.h(396):     \n
+lib.h(396):             <div id="shoppingCart">\n
+lib.h(396):                 <table class="fixedTableEdgeCompatibility" ng-show="cart.productsInCart.length
+lib.h(396):      > 0">\n
+lib.h(396):                     <thead>\n
+lib.h(396):                     <tr>\n
+lib.h(396):                         <th class="imgHeader">\n
+lib.h(396):                         </th>\n
+lib.h(396):                         <th>\n
+lib.h(396):                             <label class="roboto-light" translate="PRODUCT_NAME"></label>\n
+lib.h(396):                         </th>\n
+lib.h(396):                         <th class="smollCell" data-ng-show="enableWarranty">\n
+lib.h(396):                             <label class="roboto-light" translate="WARRANTY"></label>\n
+lib.h(396):                         </th>\n
+lib.h(396):                         <th class="smollCell">\n
+lib.h(396):                             <label class="roboto-light" translate="COLOR"></label>\n
+lib.h(396):                         </th>\n
+lib.h(396):                         <th class="smollCell quantity">\n
+lib.h(396):                             <label class="roboto-light" translate="QUANTITY"></label>\n
+lib.h(396):                         </th>\n
+lib.h(396):                         <th class="smollCell">\n
+lib.h(396):                             <label class="roboto-light" translate="PRICE"></label>\n
+lib.h(396):                         </th>\n
+lib.h(396):                     </tr>\n
+lib.h(396):                     </thead>\n
+lib.h(396):                     <tbody>\n
+lib.h(396):                     <tr ng-repeat="product in cart.productsInCart track by $index">\n
+lib.h(396):                         <td>\n
+lib.h(396):                             <img class="imageUrl" ng-src="/catalog/fetchImage?image_id={{produ
+lib.h(396):     ct.imageUrl}}"\n
+lib.h(396):                                  alt="imgProduct"/>\n
+lib.h(396):                         </td>\n
+lib.h(396):                         <td>\n
+lib.h(396):                             <label class="roboto-regular productName">{{product.productName | 
+lib.h(396):     uppercase}}</label>\n
+lib.h(396):                         </td>\n
+lib.h(396):                         <td class="smollCell quantityMobile" data-ng-show="enableWarranty">\n
+lib.h(396):                             <label class="roboto-light mobileViewer" translate="WARRANTY"></la
+lib.h(396):     bel>\n
+lib.h(396):                             <input style="z-index: 999;position: static;" name="purchase_warra
+lib.h(396):     nty"  disabled ng-checked="product.hasWarranty" type="checkbox">\n
+lib.h(396):     \n
+lib.h(396):                         </td>\n
+lib.h(396):                         <td class="smollCell">\n
+lib.h(396):                             <label class="roboto-light mobileViewer">\n
+lib.h(396):                                 {{'COLOR' | translate}}:\n
+lib.h(396):                             </label>\n
+lib.h(396):                             <span title="{{ product.color.name }}" ng-style="product.color.cod
+lib.h(396):     e != 'FFFFFF' ? {'backgroundColor': '#' + product.color.code, 'border': 'none 0px white'} 
+lib.h(396):     : { 'backgroundColor': '#' + product.color.code }"\n
+lib.h(396):                                   class="productColor"></span>\n
+lib.h(396):                         </td>\n
+lib.h(396):                         <td class="smollCell quantityMobile">\n
+lib.h(396):                             <label class="roboto-light mobileViewer" translate="QUANTITY"></la
+lib.h(396):     bel>\n
+lib.h(396):                             <label>{{product.quantity}}</label>\n
+lib.h(396):                         </td>\n
+lib.h(396):                         <td class="smollCell">\n
+lib.h(396):                             <label class="roboto-light mobileViewer">\n
+lib.h(396):                                 {{'PRICE' | translate}}:\n
+lib.h(396):                             </label>\n
+lib.h(396):                             <p class="price roboto-regular">\n
+lib.h(396):                                 {{ (product.price * product.quantity) | currency:'$' }}\n
+lib.h(396):                             </p>\n
+lib.h(396):                             <span class="actions">\n
+lib.h(396):                                 <a class="edit"\n
+lib.h(396):                                    href="#/product/{{product.productId}}?color={{product.color
+lib.h(396):     .code}}&quantity={{product.quantity}}&pageState=edit&warranty={{product.warrantyProperties
+lib.h(396):     }}"\n
+lib.h(396):                                    translate="EDIT"></a>\n
+lib.h(396):                                 <a class="separator">|</a>\n
+lib.h(396):                                 <a class="remove red" data-ng-click="removeProduct($index)" tr
+lib.h(396):     anslate="REMOVE"></a>\n
+lib.h(396):                             </span>\n
+lib.h(396):                         </td>\n
+lib.h(396):                     </tr>\n
+lib.h(396):                     </tbody>\n
+lib.h(396):                     <tfoot>\n
+lib.h(396):                     <tr>\n
+lib.h(396):                         <td colspan="3" class="icons">\n
+lib.h(396):                             <label>{{'PAYMENT_OPTIONS' | translate}}: </label>\n
+lib.h(396):                             <ul>\n
+lib.h(396):                                 <li>\n
+lib.h(396):                                     <img src="../../css/images/Master_credit.png">\n
+lib.h(396):                                 </li>\n
+lib.h(396):                                 <li style="width: 80px">\n
+lib.h(396):                                     <img src="../../css/images/SafePay.png">\n
+lib.h(396):                                 </li>\n
+lib.h(396):                             </ul>\n
+lib.h(396):                         </td>\n
+lib.h(396):                         <td colspan="{{enableWarranty ? 3 : 2}}">\n
+lib.h(396):                             <span class="roboto-light">{{'TOTAL' + ': ' | translate}}</span>\n
+lib.h(396):                             <span class="roboto-medium">{{cart | productsCartSum:shippingCost 
+lib.h(396):     | currency:'$'}}</span>\n
+lib.h(396):                         </td>\n
+lib.h(396):                     </tr>\n
+lib.h(396):                     <tr>\n
+lib.h(396):                         <td colspan="{{enableWarranty ? 6 : 5}}">\n
+lib.h(396):                             <button role="button" class="roboto-medium tami uft-class" data-ng
+lib.h(396):     -click="checkout()">{{'CHECK_OUT' | translate}} ({{ cart | productsCartSum:shippingCost | 
+lib.h(396):     currency:'$' }})</button>\n
+lib.h(396):                         </td>\n
+lib.h(396):                     </tr>\n
+lib.h(396):                     </tfoot>\n
+lib.h(396):                 </table>\n
+lib.h(396):                 <div ng-hide="cart.productsInCart.length > 0" class="bigEmptyCart center">\n
+lib.h(396):                     <label class="roboto-bold" translate="Your_shopping_cart_is_empty"> </labe
+lib.h(396):     l>\n
+lib.h(396):                     <a href="#/" role="link" class="a-button" translate="CONTINUE_SHOPPING"></
+lib.h(396):     a>\n
+lib.h(396):                 </div>\n
+lib.h(396):             </div>\n
+lib.h(396):     \n
+lib.h(396):             <div id="mobileShoppingCart">\n
+lib.h(396):                 <tool-tip-cart id="toolTipCart" style="display: block !important;"></tool-tip-
+lib.h(396):     cart>\n
+lib.h(396):             </div>\n
+lib.h(396):     \n
+lib.h(396):         </article>\n
+lib.h(396):     </section>\n
+lib.h(396):     \n
+lib.h(396):     <social-media-drtv></social-media-drtv>\n
+lib.h(396):     \n
+lib.h(396):     \n
+lib.h(396): Found resource "https://www.advantageonlineshopping.com/css/images/Master_credit.png" in HTML "https://www.advantageonlineshopping.com/app/views/shoppingCart.html"  	[MsgId: MMSG-26659]
+lib.h(396): The request to server https://www.advantageonlineshopping.com/css/images/Master_credit.png" is done with headers:
+lib.h(396):     :method = GET
+lib.h(396):     :scheme = https
+lib.h(396):     :path = /css/images/Master_credit.png
+lib.h(396):     :authority = www.advantageonlineshopping.com
+lib.h(396):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(396):     Referer = https://www.advantageonlineshopping.com/app/views/shoppingCart.html
+lib.h(396):     Sec-Fetch-Dest = empty
+lib.h(396):     Sec-Fetch-Mode = cors
+lib.h(396):     Sec-Fetch-Site = same-origin
+lib.h(396):     DNT = 1
+lib.h(396):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(396):     0
+lib.h(396):     Accept-Encoding = gzip, deflate
+lib.h(396):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(396):     Accept = */*
+lib.h(396):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(396): Found resource "https://www.advantageonlineshopping.com/css/images/SafePay.png" in HTML "https://www.advantageonlineshopping.com/app/views/shoppingCart.html"  	[MsgId: MMSG-26659]
+lib.h(396): The request to server https://www.advantageonlineshopping.com/css/images/SafePay.png" is done with headers:
+lib.h(396):     :method = GET
+lib.h(396):     :scheme = https
+lib.h(396):     :path = /css/images/SafePay.png
+lib.h(396):     :authority = www.advantageonlineshopping.com
+lib.h(396):     Authorization = Basic ai5zbWl0aDpKb2huMTIz
+lib.h(396):     Referer = https://www.advantageonlineshopping.com/app/views/shoppingCart.html
+lib.h(396):     Sec-Fetch-Dest = empty
+lib.h(396):     Sec-Fetch-Mode = cors
+lib.h(396):     Sec-Fetch-Site = same-origin
+lib.h(396):     DNT = 1
+lib.h(396):     User-Agent = Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.
+lib.h(396):     0
+lib.h(396):     Accept-Encoding = gzip, deflate
+lib.h(396):     Accept-Language = ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+lib.h(396):     Accept = */*
+lib.h(396):     cookie = userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D
+lib.h(396): t=41767ms: Request done "https://www.advantageonlineshopping.com/app/views/shoppingCart.html"  	[MsgId: MMSG-26000]
+lib.h(396): t=41904ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=30)
+lib.h(396):     HTTP/2.0 200\r\n
+lib.h(396):     Status: 200\r\n
+lib.h(396):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(396):     date: Sun, 17 Mar 2024 17:11:53 GMT\r\n
+lib.h(396):     content-type: image/png\r\n
+lib.h(396):     content-length: 1651\r\n
+lib.h(396):     accept-ranges: bytes\r\n
+lib.h(396):     etag: W/"1651-1707902752000"\r\n
+lib.h(396):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(396):     cache-control: max-age=864000\r\n
+lib.h(396):     expires: Wed, 27 Mar 2024 17:11:53 GMT\r\n
+lib.h(396):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(396):     \r\n
+lib.h(396): t=41904ms: 1651-byte response body for "https://www.advantageonlineshopping.com/css/images/Master_credit.png" (RelFrameId=, Internal ID=30)
+lib.h(396): t=41904ms: Request done "https://www.advantageonlineshopping.com/css/images/Master_credit.png"  	[MsgId: MMSG-26000]
+lib.h(396): t=42036ms: 386-byte response headers for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=31)
+lib.h(396):     HTTP/2.0 200\r\n
+lib.h(396):     Status: 200\r\n
+lib.h(396):     server: nginx/1.18.0 (Ubuntu)\r\n
+lib.h(396):     date: Sun, 17 Mar 2024 17:11:53 GMT\r\n
+lib.h(396):     content-type: image/png\r\n
+lib.h(396):     content-length: 4650\r\n
+lib.h(396):     accept-ranges: bytes\r\n
+lib.h(396):     etag: W/"4650-1707902752000"\r\n
+lib.h(396):     last-modified: Wed, 14 Feb 2024 09:25:52 GMT\r\n
+lib.h(396):     cache-control: max-age=864000\r\n
+lib.h(396):     expires: Wed, 27 Mar 2024 17:11:53 GMT\r\n
+lib.h(396):     strict-transport-security: max-age=31536000; includeSubDomains; preload\r\n
+lib.h(396):     \r\n
+lib.h(396): t=42036ms: 4650-byte response body for "https://www.advantageonlineshopping.com/css/images/SafePay.png" (RelFrameId=, Internal ID=31)
+lib.h(396): t=42036ms: Request done "https://www.advantageonlineshopping.com/css/images/SafePay.png"  	[MsgId: MMSG-26000]
+lib.h(396): web_url("shoppingCart.html") was successful, 7766 body bytes, 1178 header bytes  	[MsgId: MMSG-26386]
+lib.h(405): Notify: Transaction "CheckCart" ended with a "Pass" status (Duration: 1,1117 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(58): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(58): Notify: Transaction "UC1_Buy" ended with a "Stop" status (Duration: 43,0114 Think Time: 31,0009 Wasted Time: 0,0011).	[MsgId: MMSG-16870]
+Abort was called from an action.	[MsgId: MMSG-10447]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Action.c(58): t=43395ms: Closed connection [0] to www.advantageonlineshopping.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(58): t=43395ms: Closed connection [1] to www.googletagmanager.com:443 after completing 0 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=1, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 18180), ended OK."	[MsgId: MMSG-10695]

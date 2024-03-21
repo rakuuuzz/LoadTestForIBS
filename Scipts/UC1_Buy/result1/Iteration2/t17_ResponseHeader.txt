@@ -1,0 +1,17 @@
+HTTP/2.0 201
+Status: 201
+server: nginx/1.18.0 (Ubuntu)
+date: Wed, 20 Mar 2024 21:59:25 GMT
+content-type: application/json
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.advantageonlineshopping.com
+vary: origin,accept-encoding
+expires: 0
+cache-control: no-store
+set-cookie: JSESSIONID=1496F45260DA8921F6BBAD6CB9DB2500; Path=/order; HttpOnly
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: DENY
+content-encoding: gzip
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+

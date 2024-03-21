@@ -2587,15 +2587,15 @@ void
 # 1 "lib.h" 1
 Registration()
 {
-	char name[10] = {0};
-	int i;
-	
-	for(i = 0; i < 9; i++)
-	{
-		name[i] = rand()%26+'a';
-	}
-	
-	lr_save_string(name,"Loginrnd");
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 	
 	lr_start_transaction("Registration");
 
@@ -2739,7 +2739,7 @@ HomePage()
 	web_add_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	web_url("www.advantageonlineshopping.com", 
+	web_custom_request("www.advantageonlineshopping.com", 
 		"URL=https://www.advantageonlineshopping.com/", 
 		"Resource=0", 
 		"RecContentType=text/html", 
@@ -2885,9 +2885,10 @@ ChooseCategory()
 
 ChooseProduct()
 {
-	lr_save_string(lr_paramarr_random("ProductId"),"ProductIdrnd");
 	
 	lr_start_transaction("ChooseProduct");
+	
+	lr_save_string(lr_paramarr_random("ProductId"),"ProductIdrnd");
 
 	web_reg_save_param_ex(
 					"ParamName=ColorId",
@@ -2914,7 +2915,7 @@ ChooseProduct()
 		"Mode=HTML", 
 		"LAST");
 
-	web_url("products_2", 
+	web_url("products_{Categoriesrnd}", 
 		"URL=https://www.advantageonlineshopping.com/catalog/api/v1/categories/{Categoriesrnd}/products", 
 		"Resource=0", 
 		"RecContentType=application/json", 
@@ -2945,6 +2946,9 @@ AddToCart()
 	lr_start_transaction("AddToCart");
 	
 	web_reg_find("Text=\"userId\":{UserID},","LAST");
+	
+	web_add_header("Origin", 
+		"https://www.advantageonlineshopping.com");
 
 	web_submit_data("{UserId}",
 		"Action=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}/product/{ProductIdrnd}/color/{ColorId}?quantity=1",
@@ -2952,7 +2956,7 @@ AddToCart()
 		"RecContentType=application/json",
 		"Referer=https://www.advantageonlineshopping.com/",
 		"Snapshot=t52.inf",
-		"Mode=HTML",
+		"Mode=HTTP",
 		"ITEMDATA",
 		"Name=sessionId", "Value={sessionId}", "ENDITEM",
 		"LAST"); 
@@ -3042,6 +3046,7 @@ CheckOut()
 					"RB=,",
 					"SEARCH_FILTERS",
 					"LAST");
+	
 
 	web_url("{UserID}_3", 
 		"URL=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}", 
@@ -3208,6 +3213,13 @@ LogIn()
 	web_set_sockets_option("INITIAL_AUTH", "BASIC");
 	
 	web_add_auto_header("Authorization", " Basic {t_authorization}");
+	
+	web_reg_save_param_ex(
+		"ParamName=sessionId",
+		"LB=\"sessionId\":\"",
+		"RB=\"",
+		"SEARCH_FILTERS",
+		"LAST");
 
 	web_url("{UserID}", 
 		"URL=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}", 
@@ -3304,25 +3316,7 @@ Action()
 	
 	lr_think_time(5);
 	
-	lr_start_transaction("AddToCart");
-	
-	web_reg_find("Text=\"userId\":{UserID},","LAST");
-	
-	web_add_header("Origin", 
-		"https://www.advantageonlineshopping.com");
-
-	web_submit_data("{UserId}",
-		"Action=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}/product/{ProductIdrnd}/color/{ColorId}?quantity=1",
-		"Method=POST",
-		"RecContentType=application/json",
-		"Referer=https://www.advantageonlineshopping.com/",
-		"Snapshot=t52.inf",
-		"Mode=HTML",
-		"ITEMDATA",
-		"Name=sessionId", "Value={sessionId}", "ENDITEM",
-		"LAST"); 
-	
-	lr_end_transaction("AddToCart", 2);
+	AddToCart();
 	
 	lr_think_time(5);
 	
@@ -3330,64 +3324,118 @@ Action()
 	
 	lr_think_time(5);
 	
-	CheckOut();
+	 
 	
-	lr_think_time(5);
-	
-	lr_start_transaction("SafePayment");
-	
+	lr_start_transaction("ChechOut");
+
+
+	web_add_header("SOAPAction", 
+		"com.advantage.online.store.accountserviceGetAccountByIdRequest");
+
 	web_add_auto_header("Origin", 
 		"https://www.advantageonlineshopping.com");
 
-	web_add_header("SOAPAction", 
-		"com.advantage.online.store.accountserviceAddSafePayMethodRequest");
-
-	web_add_header("X-Requested-With", 
+	web_add_auto_header("X-Requested-With", 
 		"XMLHttpRequest");
-	
-	web_reg_find("text=<ns2:reason>SafePay data updated successfully</ns2:reason>","LAST");
-	
-	web_custom_request("AddSafePayMethodRequest", 
-		"URL=https://www.advantageonlineshopping.com/accountservice/ws/AddSafePayMethodRequest", 
+
+	web_custom_request("GetAccountByIdRequest", 
+		"URL=https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdRequest", 
 		"Method=POST", 
 		"Resource=0", 
 		"RecContentType=text/xml", 
 		"Referer=https://www.advantageonlineshopping.com/", 
-		"Snapshot=t61.inf", 
+		"Snapshot=t55.inf", 
 		"Mode=HTML", 
 		"EncType=text/xml; charset=UTF-8", 
-		"Body=<?xml version=\"1.0\" encoding=\"UTF-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><AddSafePayMethodRequest xmlns=\"com.advantage.online.store.accountservice\"><safePayUsername>{Loginrnd}</safePayUsername><accountId>{UserID}</accountId><safePayPassword>SPpass123</safePayPassword><base64Token>Basic {t_authorization}</base64Token></AddSafePayMethodRequest"
-		"></soap:Body></soap:Envelope>", 
+		"Body=<?xml version=\"1.0\" encoding=\"UTF-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><GetAccountByIdRequest xmlns=\"com.advantage.online.store.accountservice\"><accountId>{UserID}</accountId><base64Token>Basic {t_authoriizatiion}</base64Token></GetAccountByIdRequest></soap:Body></soap:Envelope>", 
 		"LAST");
+
+	web_add_header("SOAPAction", 
+		"com.advantage.online.store.accountserviceGetAccountByIdNewRequest");
+
+	web_custom_request("GetAccountByIdNewRequest", 
+		"URL=https://www.advantageonlineshopping.com/accountservice/ws/GetAccountByIdNewRequest", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=text/xml", 
+		"Referer=https://www.advantageonlineshopping.com/", 
+		"Snapshot=t56.inf", 
+		"Mode=HTML", 
+		"EncType=text/xml; charset=UTF-8", 
+		"Body=<?xml version=\"1.0\" encoding=\"UTF-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><GetAccountByIdNewRequest xmlns=\"com.advantage.online.store.accountservice\"><accountId>{UserID}</accountId><base64Token>Basic {t_authoriizatiion}</base64Token></GetAccountByIdNewRequest></soap:Body></soap:Envelope>", 
+		"LAST");
+
+	(web_remove_auto_header("Origin", "ImplicitGen=Yes", "LAST"));
+
+	(web_remove_auto_header("X-Requested-With", "ImplicitGen=Yes", "LAST"));
 	
-	web_reg_find("Text=\"order completed successfully\"",
-		"LAST");
+	web_reg_save_param_ex(
+					"ParamName=Cost",
+					"LB=\"price\":",
+					"RB=,",
+					"SEARCH_FILTERS",
+					"LAST");
+	
 
-	web_custom_request("{UserID}_4", 
-		"URL=https://www.advantageonlineshopping.com/order/api/v1/orders/users/{UserID}",
-		"Method=POST",
-		"Resource=0", 
-		"RecContentType=application/json", 
-		"Referer=https://www.advantageonlineshopping.com/", 
-		"Snapshot=t62.inf", 
-		"Mode=HTTP", 
-		"EncType=application/json", 
-		"Body={\"orderPaymentInformation\":{\"Transaction_AccountNumber\":\"{UserID}\",\"Transaction_Currency\":\"USD\",\"Transaction_CustomerPhone\":{Num},\"Transaction_MasterCredit_CVVNumber\":\"\",\"Transaction_MasterCredit_CardNumber\":\"4886\",\"Transaction_MasterCredit_CustomerName\":\"\",\"Transaction_MasterCredit_ExpirationDate\":\"122027\",\"Transaction_PaymentMethod\":\"SafePay\",\"Transaction_ReferenceNumber\":0,\"Transaction_SafePay_Password\":\"SPpass123\",\"Transaction_SafePay_UserName\":\"{Loginrnd}\",\"Transaction_TransactionDate\":\"{Date}\",\"Transaction_Type\":\"PAYMENT\"},\"orderShippingInformation\":{\"Shipping_Address_Address\":\"{Addres}\",\"Shipping_Address_City\":\"{City}\",\"Shipping_Address_CountryCode\":40,\"Shipping_Address_CustomerName\":\"{Name} {LastName}\",\"Shipping_Address_CustomerPhone\":{Num},\"Shipping_Address_PostalCode\":{Zip},\"Shipping_Address_State\":\"{State}\",\"Shipping_Cost\":{Cost},\"Shipping_NumberOfProducts\":1,\"Shipping_TrackingNumber\":0},\"purchasedProducts\":[{\"hexColor\":\"{ColorId}\",\"productId\":{ProductIdrnd},\"quantity\":1,\"hasWarranty\":false}]}", 
-		"LAST");
-
-	web_custom_request("{UserID}_5", 
+	web_url("{UserID}_3", 
 		"URL=https://www.advantageonlineshopping.com/order/api/v1/carts/{UserID}", 
-		"Method=DELETE", 
 		"Resource=0", 
 		"RecContentType=application/json", 
 		"Referer=https://www.advantageonlineshopping.com/", 
-		"Snapshot=t63.inf", 
+		"Snapshot=t57.inf", 
 		"Mode=HTML", 
 		"LAST");
+
+	web_add_auto_header("Origin", 
+		"https://www.advantageonlineshopping.com");
+
+	web_custom_request("shippingcost",
+		"URL=https://www.advantageonlineshopping.com/order/api/v1/shippingcost/",
+		"Method=POST",
+		"Resource=0",
+		"RecContentType=application/json",
+		"Referer=https://www.advantageonlineshopping.com/",
+		"Snapshot=t58.inf",
+		"Mode=HTML",
+		"EncType=application/json;charset=utf-8",
+		"Body={\"seaddress\":{\"addressLine1\":\"{Addres}\",\"addressLine2\":\"\",\"city\":\"{City}\",\"country\":\"us\",\"postalCode\":{Zip},\"state\":\"{State}\"},\"secustomerName\":\"{Name} {LastName}\",\"secustomerPhone\":{Num},\"senumberOfProducts\":1,\"setransactionType\":\"SHIPPING_COST\",\"sessionId\":\"{sessionId}\"}",
+		"LAST");
+
+	web_add_header("SOAPAction", 
+		"com.advantage.online.store.accountserviceGetAccountPaymentPreferencesRequest");
+
+	web_add_header("X-Requested-With", 
+		"XMLHttpRequest");
+
+	web_custom_request("GetAccountPaymentPreferencesRequest", 
+		"URL=https://www.advantageonlineshopping.com/accountservice/ws/GetAccountPaymentPreferencesRequest", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=text/xml", 
+		"Referer=https://www.advantageonlineshopping.com/", 
+		"Snapshot=t59.inf", 
+		"Mode=HTML", 
+		"EncType=text/xml; charset=UTF-8", 
+		"Body=<?xml version=\"1.0\" encoding=\"UTF-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><GetAccountPaymentPreferencesRequest xmlns=\"com.advantage.online.store.accountservice\"><accountId>{UserID}</accountId><base64Token>Basic {t_authoriizatiion}</base64Token></GetAccountPaymentPreferencesRequest></soap:Body></soap:Envelope>", 
+		"LAST");
+
+	(web_remove_auto_header("Origin", "ImplicitGen=Yes", "LAST"));
+
+	web_url("orderPayment-page.html", 
+		"URL=https://www.advantageonlineshopping.com/app/order/views/orderPayment-page.html", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=https://www.advantageonlineshopping.com/", 
+		"Snapshot=t60.inf", 
+		"Mode=HTML", 
+		"LAST");
+
 	
-	lr_end_transaction("SafePayment", 2);
-
-
+	lr_end_transaction("ChechOut", 2);
+	
+	lr_think_time(5);
+	
+	SafePayment();
 	
 	lr_end_transaction("UC1_Buy", 2);
 
